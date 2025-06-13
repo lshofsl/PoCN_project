@@ -1,0 +1,16 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Downtown",-97.7395439750231,30.2649591108851,"commuter_rail",2008
+2,"Plaza Saltillo",-97.7274244285219,30.2622022604278,"commuter_rail",2008
+3,"MLK Jr.",-97.7091152328109,30.2797577063198,"commuter_rail",2008
+4,"Highland",-97.7162291859751,30.3285966868808,"commuter_rail",2008
+5,"Crestview",-97.719691779352,30.3384636931357,"commuter_rail",2008
+6,"Kramer",-97.7163921776846,30.392771659918,"commuter_rail",2008
+7,"Howard",-97.701721899118,30.4398976365967,"commuter_rail",2008
+8,"Lakeline",-97.7865057164149,30.4809972448061,"commuter_rail",2008
+9,"Leander",-97.8557514591014,30.5863701829785,"commuter_rail",2008
+10,"TECH RIDGE BAY I",-97.6682273,30.418273,"bus",NA
+11,"Southpark Meadows",-97.7673669,30.2174484,"bus",-1
+12,"Slaughter",-97.7756535,30.2021718,"bus",-1
+13,"Pleasant Hill",-97.7907333,30.1630013,"bus",-1
+14,"Little Texas Station",-97.7871583595634,30.1700049322709,"bus",NA
+15,"St Elmo",-97.7783378,30.1942452,"bus",-1

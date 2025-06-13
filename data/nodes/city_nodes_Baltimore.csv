@@ -1,0 +1,59 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Owings Mills",-76.779941,39.4073218,"heavy_rail",1987
+2,"Maritime Park (Landing 8)",-76.6354785,39.3041734,"ferry",2009
+3,"Tide Point (Landing 10)",-76.7206532,39.3596123,"ferry",2009
+4,"Canton Waterfront Park (Landing 16)",-76.7441445,39.3712259,"ferry",2009
+5,"Tide Point (Landing 10)",-76.621168,39.2927281,"ferry",2009
+6,"Pier 5 (Landing 5)",-76.623198,39.3014242,"ferry",2019
+7,"Federal Hill (Landing 4)",-76.6425812,39.3100964,"ferry",2014
+8,"Boston Street & Ellwood Avenue EB",-76.6532786,39.3182303,"bus",NA
+9,"Maritime Park",-76.6724268,39.3362278,"bus",2011
+10,"Maritime Park",-76.6919077,39.3447918,"bus",2011
+11,"Boston Street & Ellwood Avenue EB",-76.7047103,39.3518838,"bus",NA
+12,"Tide Point (Alternate Stop)",-76.6060037,39.2899838,"bus",NA
+13,"North Avenue",-76.5942737,39.29936,"light_rail",1992
+14,"Penn–North",-76.6060206,39.2900295,"heavy_rail",1983
+15,"State Center/Cultural Center",-76.6199592,39.2964953,"heavy_rail",1983
+16,"Lexington Market",-76.6198799,39.3070189,"heavy_rail",1983
+17,"Charles Center",-76.6157593,39.307619,"heavy_rail",1983
+18,"Upton–Avenue Market",-76.619633,39.2918517,"heavy_rail",1983
+19,"Mondawmin",-76.620419,39.303321,"heavy_rail",1983
+20,"West Cold Spring",-76.6194521,39.282782,"heavy_rail",1983
+21,"Rogers Avenue",-76.619454,39.2884165,"heavy_rail",1983
+22,"Johns Hopkins Hospital",-76.6200901,39.2786313,"heavy_rail",1995
+23,"Milford Mill",-76.6323464,39.2615074,"heavy_rail",1987
+24,"Reisterstown Plaza",-76.6301588,39.2416505,"heavy_rail",1983
+25,"Shot Tower/Market Place",-76.6350009,39.2556485,"heavy_rail",1995
+26,"Old Court",-76.633093,39.2347624,"heavy_rail",1987
+27,"Camden Yards",-76.6415902,39.221238,"light_rail",1992
+28,"Lexington Market",-76.6463356,39.2140487,"light_rail",1992
+29,"Mount Vernon",-76.6555573,39.2020396,"light_rail",1992
+30,"Cultural Center",-76.6400636,39.1832627,"light_rail",1992
+31,"Mount Royal/MICA",-76.6736979,39.191453,"light_rail",1992
+32,"Baltimore Arena",-76.6052182264222,39.2840354647638,"light_rail",1992
+33,"Convention Center",-76.607130021135,39.2819287990885,"light_rail",1992
+34,"Stadium/Federal Hill",-76.6432977,39.3308414,"light_rail",1992
+35,"Westport",-76.6478223,39.3437393,"light_rail",1992
+36,"Patapsco",-76.669334,39.1822268,"light_rail",1992
+37,"Cherry Hill",-76.6500948,39.376425,"light_rail",1992
+38,"Woodberry",-76.6270861,39.4285983,"light_rail",1992
+39,"Cold Spring Lane",-76.6281313,39.4335004,"light_rail",1992
+40,"Mount Washington",-76.6347728,39.4482084,"light_rail",1992
+41,"Falls Road",-76.6532885,39.47584,"light_rail",1992
+42,"Lutherville",-76.6594979,39.4894681,"light_rail",1992
+43,"Timonium",-76.6566848,39.4920653,"light_rail",1992
+44,"Fairgrounds",-76.6545121,39.4963062,"light_rail",1992
+45,"Gilroy Road",-76.5897895357736,39.2757821985988,"light_rail",1997
+46,"Warren Road",-76.5740830790314,39.2769174712345,"light_rail",1997
+47,"McCormick Road",-76.6035155005339,39.2777709828327,"light_rail",1997
+48,"Pepper Road",-76.6032788419918,39.2829473632499,"light_rail",1997
+49,"Hunt Valley",-76.5720195418363,39.2773960325031,"light_rail",1997
+50,"Baltimore Penn Station",-76.5907882838205,39.2755177148521,"light_rail",1997
+51,"Baltimore Highlands",-76.6226088233244,39.3118753762727,"light_rail",1993
+52,"Nursery Road",-76.6618117,39.4818715,"light_rail",1993
+53,"North Linthicum",-76.5959613487313,39.27910632911,"light_rail",1993
+54,"Linthicum",-76.596407474651,39.2796767110754,"light_rail",1993
+55,"Glen Burnie",-76.6146013,39.2895794,"light_rail",1993
+56,"Ferndale",-76.6193848,39.2854124,"light_rail",1993
+57,"BWI Airport",-76.6519371,39.368156,"light_rail",1997
+58,"BWI Business District",-76.6330937,39.1720479,"light_rail",1997
