@@ -1,0 +1,35 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"MedPark",-97.0899973,33.1821088,"commuter_rail",2011
+2,"Downtown Denton Transit Center",-97.1262265,33.2141548,"commuter_rail",2011
+3,"Highland Village/Lewisville Lake",-97.0258914,33.0829047,"commuter_rail",2011
+4,"Old Town",-96.9865721,33.0477906,"commuter_rail",2011
+5,"Hebron",-96.958127,33.0096999,"commuter_rail",2011
+6,"Trinity Mills",-96.9261764,32.9803917,"commuter_rail",2011
+7,"DFW Airport Terminal B station",-97.0412362,32.9058001,"commuter_rail",2019
+8,"Grapevine-Main Street",-97.0776417,32.9337085,"commuter_rail",2019
+9,"DFW Airport North",-97.0541304,32.9338593,"commuter_rail",2019
+10,"North Richland Hills/Smithfield",-97.2110877,32.8651653,"commuter_rail",2019
+11,"North Richland Hills/Iron Horse",-97.249292,32.8450826,"commuter_rail",2019
+12,"Mercantile Center",-97.2928773,32.8196268161756,"commuter_rail",2019
+13,"North Side",-97.3381296274372,32.795759,"commuter_rail",2019
+14,"Fort Worth Central",-97.3290014,32.7453061,"commuter_rail",2001
+15,"Fort Worth Central",-97.2235558,32.7994628,"commuter_rail",2001
+16,"Fort Worth T&P",-97.1557986,32.8046278,"commuter_rail",2001
+17,"Fort Worth T&P",-97.1542696,32.8045152,"commuter_rail",2001
+18,"Richland Hills",-97.0535845,32.8170317,"commuter_rail",2000
+19,"Bell",-97.0077695,32.8161381,"commuter_rail",2000
+20,"CentrePort/DFW Airport",-96.9483675,32.8149671,"commuter_rail",2000
+21,"West Irving",-96.8410123,32.8096364,"commuter_rail",2000
+22,"Downtown Irving/Heritage Crossing",-96.8129599,32.7906901,"commuter_rail",1996
+23,"Medical/Market Center",-96.8081122,32.7754664,"commuter_rail",1996
+24,"Victory",-96.9339077,32.8689898,"commuter_rail",1996
+25,"Dallas Union Station",-96.9390613,32.8772468,"commuter_rail",1996
+26,"Las Colinas Urban Center",-96.9677709,32.8752017,"light_rail",2012
+27,"Irving Convention Center",-96.9869116,32.8883732,"light_rail",2012
+28,"North Lake College",-97.0395254,32.9066917,"light_rail",2012
+29,"Belt Line",-96.9154698,32.8493576,"light_rail",2012
+30,"DFW Airport",-96.6076945465355,33.6411408590311,"light_rail",2014
+31,"University of Dallas",-96.533403789137,33.7571279884734,"light_rail",2012
+32,"Handley-Lake Erie Station",-97.2191995479126,32.7295993107123,"inter_city_rail",1902
+33,"Dallas Interurban Building Station",-96.797961256481,32.7792830980564,"inter_city_rail",1916
+34,"Fort Worth Central",-97.32556,32.7519989119628,"inter_city_rail",2001
