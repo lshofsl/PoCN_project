@@ -1,0 +1,186 @@
+"nodeID_from","nodeID_to","mode","line","year"
+33,38,"heavy_rail","Green Line",1993
+38,41,"heavy_rail","Green Line",1993
+41,45,"heavy_rail","Green Line",1991
+45,46,"heavy_rail","Green Line",1991
+46,47,"heavy_rail","Green Line",1999
+47,48,"heavy_rail","Green Line",1991
+48,50,"heavy_rail","Green Line",2001
+50,56,"heavy_rail","Green Line",2001
+56,68,"heavy_rail","Green Line",2001
+68,72,"heavy_rail","Green Line",2001
+72,73,"heavy_rail","Green Line",1991
+73,74,"heavy_rail","Green Line",2001
+74,75,"heavy_rail","Green Line",1993
+75,77,"heavy_rail","Green Line",1993
+77,18,"heavy_rail","Green Line",1999
+18,53,"heavy_rail","Green Line",1977
+53,71,"heavy_rail","Green Line",1983
+71,35,"heavy_rail","Green Line",1991
+1,11,"heavy_rail","Blue Line ",1977
+11,13,"heavy_rail","Blue Line ",1977
+13,15,"heavy_rail","Blue Line ",1977
+15,17,"heavy_rail","Blue Line ",1977
+17,18,"heavy_rail","Blue Line ",1977
+18,19,"heavy_rail","Blue Line ",1977
+19,20,"heavy_rail","Blue Line ",1977
+20,21,"heavy_rail","Blue Line ",1977
+21,22,"heavy_rail","Blue Line ",1977
+22,23,"heavy_rail","Blue Line ",1977
+23,24,"heavy_rail","Blue Line ",1977
+24,25,"heavy_rail","Blue Line ",1977
+25,26,"heavy_rail","Blue Line ",1977
+26,27,"heavy_rail","Blue Line ",1977
+27,28,"heavy_rail","Blue Line ",1977
+28,29,"heavy_rail","Blue Line ",1980
+29,30,"heavy_rail","Blue Line ",1980
+30,54,"heavy_rail","Blue Line ",2004
+54,65,"heavy_rail","Blue Line ",1977
+65,76,"heavy_rail","Blue Line ",1980
+76,55,"heavy_rail","Blue Line ",2004
+55,37,"heavy_rail","Blue Line ",1983
+37,86,"heavy_rail","Blue Line ",1983
+86,64,"heavy_rail","Blue Line ",1977
+64,62,"heavy_rail","Blue Line ",1978
+62,60,"heavy_rail","Blue Line ",1978
+60,59,"heavy_rail","Blue Line ",1978
+59,176,"heavy_rail","Blue Line ",1978
+34,36,"heavy_rail","Orange Line",1979
+36,42,"heavy_rail","Orange Line",1979
+42,43,"heavy_rail","Orange Line",1986
+43,57,"heavy_rail","Orange Line",1986
+57,58,"heavy_rail","Orange Line",1979
+58,59,"heavy_rail","Orange Line",1979
+59,60,"heavy_rail","Orange Line",1978
+60,62,"heavy_rail","Orange Line",1978
+62,64,"heavy_rail","Orange Line",1978
+64,67,"heavy_rail","Orange Line",1978
+67,69,"heavy_rail","Orange Line",1986
+69,86,"heavy_rail","Orange Line",1986
+86,11,"heavy_rail","Orange Line",1977
+11,25,"heavy_rail","Orange Line",1977
+25,13,"heavy_rail","Orange Line",1977
+13,18,"heavy_rail","Orange Line",1977
+18,21,"heavy_rail","Orange Line",1977
+21,1,"heavy_rail","Orange Line",1977
+1,27,"heavy_rail","Orange Line",1977
+27,15,"heavy_rail","Orange Line",1977
+15,17,"heavy_rail","Orange Line",1977
+17,19,"heavy_rail","Orange Line",1977
+19,22,"heavy_rail","Orange Line",1977
+22,20,"heavy_rail","Orange Line",1977
+20,23,"heavy_rail","Orange Line",1977
+23,24,"heavy_rail","Orange Line",1977
+24,54,"heavy_rail","Orange Line",1977
+54,26,"heavy_rail","Orange Line",1977
+2,3,"heavy_rail","Silver Line",2022
+3,49,"heavy_rail","Silver Line",2022
+49,51,"heavy_rail","Silver Line",2014
+51,78,"heavy_rail","Silver Line",2014
+78,83,"heavy_rail","Silver Line",2014
+83,84,"heavy_rail","Silver Line",2014
+84,85,"heavy_rail","Silver Line",2014
+85,87,"heavy_rail","Silver Line",2022
+87,88,"heavy_rail","Silver Line",2022
+88,89,"heavy_rail","Silver Line",2022
+89,43,"heavy_rail","Silver Line",2022
+43,34,"heavy_rail","Silver Line",1986
+34,57,"heavy_rail","Silver Line",1979
+57,58,"heavy_rail","Silver Line",1979
+58,76,"heavy_rail","Silver Line",1979
+76,30,"heavy_rail","Silver Line",2004
+30,28,"heavy_rail","Silver Line",2004
+28,65,"heavy_rail","Silver Line",1980
+65,29,"heavy_rail","Silver Line",1980
+29,18,"heavy_rail","Silver Line",1980
+18,86,"heavy_rail","Silver Line",1977
+86,36,"heavy_rail","Silver Line",1977
+36,21,"heavy_rail","Silver Line",1979
+21,1,"heavy_rail","Silver Line",1977
+1,27,"heavy_rail","Silver Line",1977
+27,19,"heavy_rail","Silver Line",1977
+19,22,"heavy_rail","Silver Line",1977
+22,20,"heavy_rail","Silver Line",1977
+20,23,"heavy_rail","Silver Line",1977
+23,24,"heavy_rail","Silver Line",1977
+24,54,"heavy_rail","Silver Line",1977
+54,26,"heavy_rail","Silver Line",1977
+35,37,"heavy_rail","Yellow Line",1991
+37,53,"heavy_rail","Yellow Line",1983
+53,55,"heavy_rail","Yellow Line",1983
+55,71,"heavy_rail","Yellow Line",1983
+71,11,"heavy_rail","Yellow Line",1991
+11,25,"heavy_rail","Yellow Line",1977
+25,13,"heavy_rail","Yellow Line",1977
+13,18,"heavy_rail","Yellow Line",1977
+18,74,"heavy_rail","Yellow Line",1977
+74,33,"heavy_rail","Yellow Line",1993
+33,38,"heavy_rail","Yellow Line",1993
+38,77,"heavy_rail","Yellow Line",1993
+77,46,"heavy_rail","Yellow Line",1999
+46,41,"heavy_rail","Yellow Line",1999
+41,15,"heavy_rail","Yellow Line",1991
+15,176,"heavy_rail","Yellow Line",1977
+176,75,"heavy_rail","Yellow Line",2022
+9,31,"heavy_rail","Red Line",1873
+31,105,"heavy_rail","Red Line",1978
+NA,6,"heavy_rail","Red Line",NA
+6,7,"commuter_rail","MARC Brunswick Line",1978
+7,8,"commuter_rail","MARC Brunswick Line",1891
+8,9,"commuter_rail","MARC Brunswick Line",NA
+9,12,"commuter_rail","MARC Brunswick Line",1873
+12,14,"commuter_rail","MARC Brunswick Line",NA
+14,16,"commuter_rail","MARC Brunswick Line",1987
+16,32,"commuter_rail","MARC Brunswick Line",1873
+32,39,"commuter_rail","MARC Brunswick Line",1873
+39,98,"commuter_rail","MARC Brunswick Line",1873
+98,106,"commuter_rail","MARC Brunswick Line",1878
+106,108,"commuter_rail","MARC Brunswick Line",1891
+108,110,"commuter_rail","MARC Brunswick Line",1873
+110,112,"commuter_rail","MARC Brunswick Line",1873
+112,141,"commuter_rail","MARC Brunswick Line",2001
+141,147,"commuter_rail","MARC Brunswick Line",2001
+147,61,"commuter_rail","MARC Brunswick Line",1891
+4,5,"commuter_rail","MARC Penn Line",1872
+5,100,"commuter_rail","MARC Penn Line",1980
+100,101,"commuter_rail","MARC Penn Line",2013
+101,103,"commuter_rail","MARC Penn Line",NA
+103,104,"commuter_rail","MARC Penn Line",1984
+104,61,"commuter_rail","MARC Penn Line",1911
+90,92,"commuter_rail","MARC Camden Line",1857
+92,93,"commuter_rail","MARC Camden Line",1996
+93,94,"commuter_rail","MARC Camden Line",NA
+94,95,"commuter_rail","MARC Camden Line",NA
+95,96,"commuter_rail","MARC Camden Line",NA
+96,97,"commuter_rail","MARC Camden Line",NA
+97,61,"commuter_rail","MARC Camden Line",NA
+NA,75,"commuter_rail","MARC Camden Line",NA
+75,38,"commuter_rail","MARC Camden Line",1993
+NA,81,"commuter_rail","MARC Camden Line",NA
+NA,82,"commuter_rail","MARC Camden Line",NA
+40,44,"commuter_rail","Baltimore to Washington",1835
+44,61,"commuter_rail","Baltimore to Washington",1851
+61,81,"commuter_rail","Baltimore to Washington",1907
+81,82,"commuter_rail","Baltimore to Washington",1884
+82,90,"commuter_rail","Baltimore to Washington",1911
+90,102,"commuter_rail","Baltimore to Washington",1857
+44,61,"commuter_rail","Martinsburg to Washington",1851
+61,7,"commuter_rail","Martinsburg to Washington",1907
+7,9,"commuter_rail","Martinsburg to Washington",1891
+9,16,"commuter_rail","Martinsburg to Washington",1873
+16,39,"commuter_rail","Martinsburg to Washington",1873
+39,98,"commuter_rail","Martinsburg to Washington",1873
+98,106,"commuter_rail","Martinsburg to Washington",1878
+106,108,"commuter_rail","Martinsburg to Washington",1891
+108,110,"commuter_rail","Martinsburg to Washington",1873
+110,147,"commuter_rail","Martinsburg to Washington",1873
+NA,4,"commuter_rail","Baltimore to Washington",NA
+4,5,"commuter_rail","Baltimore to Washington",1872
+5,101,"commuter_rail","Baltimore to Washington",1980
+101,104,"commuter_rail","Baltimore to Washington",NA
+NA,4,"heavy_rail","AMDOT",NA
+4,5,"heavy_rail","AMDOT",1872
+5,101,"heavy_rail","AMDOT",1980
+101,104,"heavy_rail","AMDOT",NA
+NA,104,"heavy_rail","Baltimore to Washington",NA
+NA,4,"heavy_rail","Baltimore to Washington",NA

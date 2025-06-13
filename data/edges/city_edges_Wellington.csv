@@ -1,0 +1,23 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,2,"heavy_rail","Johnsonville Line",1937
+2,3,"heavy_rail","Johnsonville Line",1963
+3,4,"heavy_rail","Johnsonville Line",1885
+4,5,"heavy_rail","Johnsonville Line",1938
+5,6,"heavy_rail","Johnsonville Line",1938
+6,7,"heavy_rail","Johnsonville Line",1940
+1,9,"heavy_rail","Kapiti Line ",1937
+9,10,"heavy_rail","Kapiti Line ",1937
+10,11,"heavy_rail","Kapiti Line ",1963
+11,12,"heavy_rail","Kapiti Line ",1885
+12,13,"heavy_rail","Kapiti Line ",1940
+13,14,"heavy_rail","Kapiti Line ",1963
+14,15,"heavy_rail","Kapiti Line ",1885
+15,16,"heavy_rail","Kapiti Line ",1885
+16,17,"heavy_rail","Kapiti Line ",1949
+17,18,"heavy_rail","Kapiti Line ",1881
+18,19,"heavy_rail","Kapiti Line ",1885
+19,20,"heavy_rail","Kapiti Line ",1886
+20,21,"heavy_rail","Kapiti Line ",1882
+21,23,"heavy_rail","Melling Line",1874
+23,24,"heavy_rail","Melling Line",1874
+24,1,"heavy_rail","Melling Line",1908

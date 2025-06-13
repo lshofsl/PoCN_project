@@ -1,0 +1,69 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,2,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1955
+2,3,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1955
+3,4,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1956
+4,5,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1958
+5,6,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1958
+6,7,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1975
+7,8,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1975
+8,9,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1975
+9,10,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1975
+10,11,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1975
+11,12,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1978
+12,14,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1978
+14,15,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1955
+15,16,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1955
+16,17,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1955
+17,18,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1977
+18,19,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1977
+19,20,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1955
+20,21,"heavy_rail","Line 1 (Kirovsko-Vyborgskaya Line)",1955
+13,22,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1961
+22,23,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1969
+23,24,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1961
+24,25,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1961
+25,26,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1961
+26,27,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1972
+27,28,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1961
+28,33,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1972
+33,35,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1963
+35,36,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1963
+36,37,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1963
+37,38,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1963
+38,39,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1982
+39,40,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1982
+40,41,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1982
+41,42,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1988
+42,43,"heavy_rail","Line 2 (Moskovsko-Petrogradskaya Line)",1988
+44,45,"heavy_rail","Line 3 (Nevsko-Vasileostrovskaya Line)",1967
+45,46,"heavy_rail","Line 3 (Nevsko-Vasileostrovskaya Line)",1967
+46,47,"heavy_rail","Line 3 (Nevsko-Vasileostrovskaya Line)",2018
+47,48,"heavy_rail","Line 3 (Nevsko-Vasileostrovskaya Line)",2018
+48,49,"heavy_rail","Line 3 (Nevsko-Vasileostrovskaya Line)",1967
+49,50,"heavy_rail","Line 3 (Nevsko-Vasileostrovskaya Line)",1979
+50,51,"heavy_rail","Line 3 (Nevsko-Vasileostrovskaya Line)",1981
+51,52,"heavy_rail","Line 3 (Nevsko-Vasileostrovskaya Line)",1981
+52,53,"heavy_rail","Line 3 (Nevsko-Vasileostrovskaya Line)",1970
+53,54,"heavy_rail","Line 3 (Nevsko-Vasileostrovskaya Line)",1970
+54,55,"heavy_rail","Line 3 (Nevsko-Vasileostrovskaya Line)",1967
+56,57,"heavy_rail","Line 4 ( Lakhtinsko-Pravoberezhnaya Line)",2009
+57,58,"heavy_rail","Line 4 ( Lakhtinsko-Pravoberezhnaya Line)",1985
+58,59,"heavy_rail","Line 4 ( Lakhtinsko-Pravoberezhnaya Line)",1987
+59,60,"heavy_rail","Line 4 ( Lakhtinsko-Pravoberezhnaya Line)",1985
+60,61,"heavy_rail","Line 4 ( Lakhtinsko-Pravoberezhnaya Line)",1985
+61,62,"heavy_rail","Line 4 ( Lakhtinsko-Pravoberezhnaya Line)",1985
+62,63,"heavy_rail","Line 4 ( Lakhtinsko-Pravoberezhnaya Line)",1991
+63,64,"heavy_rail","Line 4 ( Lakhtinsko-Pravoberezhnaya Line)",1991
+64,66,"heavy_rail","Line 4 ( Lakhtinsko-Pravoberezhnaya Line)",1991
+66,68,"heavy_rail","Line 4 ( Lakhtinsko-Pravoberezhnaya Line)",1997
+68,70,"heavy_rail","Line 4 ( Lakhtinsko-Pravoberezhnaya Line)",1997
+70,72,"heavy_rail","Line 4 ( Lakhtinsko-Pravoberezhnaya Line)",1999
+29,30,"heavy_rail","Line 5 (Frunzensko-Primorskaya Line)",2012
+30,31,"heavy_rail","Line 5 (Frunzensko-Primorskaya Line)",2012
+31,32,"heavy_rail","Line 5 (Frunzensko-Primorskaya Line)",2010
+32,34,"heavy_rail","Line 5 (Frunzensko-Primorskaya Line)",2008
+34,64,"heavy_rail","Line 5 (Frunzensko-Primorskaya Line)",2008
+64,66,"heavy_rail","Line 5 (Frunzensko-Primorskaya Line)",1991
+66,68,"heavy_rail","Line 5 (Frunzensko-Primorskaya Line)",1997
+68,70,"heavy_rail","Line 5 (Frunzensko-Primorskaya Line)",1997
+70,72,"heavy_rail","Line 5 (Frunzensko-Primorskaya Line)",1999

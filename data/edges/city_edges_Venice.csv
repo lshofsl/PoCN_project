@@ -1,0 +1,15 @@
+"nodeID_from","nodeID_to","mode","line","year"
+3,4,"default","Linea 1",1907
+4,5,"default","Linea 1",0
+5,7,"default","Linea 1",1861
+7,10,"default","Linea 1",1842
+10,12,"default","Linea 1",0
+12,15,"default","Linea 1",1907
+15,16,"default","Linea 1",0
+1,2,"default","Linea 2",0
+2,6,"default","Linea 2",0
+6,8,"default","Linea 2",1851
+8,9,"default","Linea 2",1861
+9,11,"default","Linea 2",0
+11,13,"default","Linea 2",2008
+13,14,"default","Linea 2",1851
