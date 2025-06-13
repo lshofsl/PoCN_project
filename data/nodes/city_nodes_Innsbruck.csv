@@ -1,0 +1,108 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Ing.-Etzel-Straße",11.402432,47.2687586,"default",0
+2,"Rudolf-Greinz-Straße",11.4164513,47.2617529,"default",0
+3,"Brunecker Straße",11.4017883,47.2666313,"default",0
+4,"Philippine-Welser-Straße",11.4228725,47.2579398,"default",0
+5,"Messe/Zeughaus",11.4046074,47.2712929,"default",0
+6,"Bundesbahndirektion",11.4050574,47.273118,"default",0
+7,"Maria-Theresien-Straße",11.3927379,47.2669044,"default",0
+8,"Pradler Friedhof",11.421378,47.2588973,"default",0
+9,"Terminal Marktplatz",11.3897009,47.266265,"default",0
+10,"Bundesbahndirektion",11.404978,47.272785,"default",0
+11,"Roseggerstraße",11.4110152,47.2629435,"default",0
+12,"Claudiastraße",11.4059325,47.2759584,"default",0
+13,"Südring",11.419489,47.2607734,"default",0
+14,"Leipziger Platz",11.4061379,47.2644763,"default",0
+15,"Dr.-Glatz-Straße",11.4129976,47.2625316,"default",0
+16,"Brunecker Straße",11.401886,47.2668314,"default",0
+17,"Defreggerstraße",11.4099798,47.2645535,"default",0
+18,"Innsbruck Hauptbahnhof",11.4001445,47.2637152,"default",0
+19,"Museumstraße",11.3959991,47.2671854,"default",0
+20,"Terminal Marktplatz",11.3902902,47.2666798,"default",0
+21,"Innsbruck Hauptbahnhof",11.4001051,47.2637199,"default",0
+22,"Amras",11.4260032,47.2586857,"default",0
+23,"Ing.-Etzel-Straße",11.4023796,47.2687649,"default",0
+24,"Rudolf-Greinz-Straße",11.4161533,47.2618595,"default",0
+25,"Claudiastraße",11.404995,47.2760592,"default",0
+26,"Pradler Friedhof",11.4209391,47.2594672,"default",0
+27,"Mühlauer Brücke",11.4039183,47.2782604,"default",0
+28,"Landesmuseum",11.3983805,47.2668887,"default",0
+29,"Haydnplatz",11.406989,47.2772659,"default",0
+30,"Messe/Zeughaus",11.4047239,47.2713475,"default",0
+31,"Museumstraße",11.3950184,47.2673503,"default",0
+32,"Philippine-Welser-Straße",11.4228995,47.2578818,"default",0
+33,"Südring",11.4192115,47.2609094,"default",0
+34,"Roseggerstraße",11.4109339,47.2631169,"default",0
+35,"Sillpark",11.4030383,47.2655145,"default",0
+36,"Defreggerstraße",11.4098439,47.2648499,"default",0
+37,"Leipziger Platz",11.4055541,47.2645589,"default",0
+38,"Landesmuseum",11.3989655,47.2667822,"default",0
+39,"Amras",11.4259894,47.2587106,"default",0
+40,"Dr.-Glatz-Straße",11.4133694,47.2624452,"default",0
+41,"Höttinger Auffahrt",11.3777578,47.2650175,"default",0
+42,"Bürgerstraße",11.3904961,47.2645605,"default",0
+43,"Maria-Theresien-Straße",11.3933268,47.2669563,"default",0
+44,"Westbahnhof",11.3918656,47.2565823,"default",0
+45,"Triumphpforte",11.3958276,47.2627002,"default",0
+46,"Franz-Fischer-Straße",11.3918478,47.2594522,"default",0
+47,"Anichstraße/Rathausgalerien",11.394088,47.2652079,"default",0
+48,"Höttinger Auffahrt",11.3777439,47.2650532,"default",0
+49,"Klinik/Universität",11.3873908,47.2636104,"default",0
+50,"Fürstenweg",11.3825713,47.2659809,"default",0
+51,"Sillpark",11.4025939,47.2660138,"default",0
+52,"Innsbruck Hauptbahnhof",11.4002467,47.2637003,"default",0
+53,"Bürgerstraße",11.3903378,47.2648283,"default",0
+54,"Höttinger Au/West",11.3727487,47.2648747,"default",0
+55,"Maximilianstraße",11.3913109,47.2620629,"default",0
+56,"Höttinger Au/West",11.3727471,47.2649097,"default",0
+57,"Fritz-Konzert-Straße",11.3951168,47.2562763,"default",0
+58,"Maximilianstraße",11.3910747,47.2627304,"default",0
+59,"Triumphpforte",11.3951753,47.2627779,"default",0
+60,"Anichstraße/Rathausgalerien",11.3930298,47.2649975,"default",0
+61,"Klinik/Universität",11.3860903,47.2641853,"default",0
+62,"Fürstenweg",11.383748,47.2658719,"default",0
+63,"Schönruh",11.4306925,47.254076,"default",0
+64,"Aldrans",11.4350345,47.2478104,"default",0
+65,"Franz-Fischer-Straße",11.3918053,47.2592165,"default",0
+66,"Innsbruck Stubaitalbf",11.3977442,47.2534647,"default",0
+67,"Stubaitalbahnhof",11.3969623,47.2537463,"default",0
+68,"Bahnhof Igls",11.4126516,47.2338514,"default",0
+69,"Innsbruck Sonnenburgerhof/Tirol Panorama",11.3935738,47.2464939,"default",0
+70,"Gärberbach",11.3898147,47.2423065,"default",0
+71,"Natters Hölltal",11.3848249,47.2385511,"default",0
+72,"Bergisel",11.3997227,47.2531009,"default",0
+73,"Lanser See",11.4191425,47.2385481,"default",0
+74,"Tantegert",11.4228602,47.2509249,"default",0
+75,"Lans-Sistrans",11.4238513,47.2410898,"default",0
+76,"Tantegert",11.4231568,47.2509986,"default",0
+77,"Westbahnhof",11.391825,47.2565632,"default",0
+78,"Innsbruck Sonnenburgerhof/Tirol Panorama",11.3935913,47.2463797,"default",0
+79,"Tummelplatz",11.4278723,47.2550437,"default",0
+80,"Fritz-Konzert-Straße",11.3956646,47.2562792,"default",0
+81,"Bretterkeller",11.404479,47.2528157,"default",0
+82,"Bergisel",11.3996152,47.2529577,"default",0
+83,"Stubaitalbahnhof",11.398172,47.253719,"default",0
+84,"Natters Hölltal",11.384566,47.2385678,"default",0
+85,"Natters",11.3785279,47.2329276,"default",0
+86,"Mutters",11.3785322,47.2287275,"default",0
+87,"Mutters Nockhofweg Almbahn",11.3717243,47.2242923,"default",0
+88,"Mutters Feldeler",11.3754659,47.2149244,"default",0
+89,"Innsbruck Stubaitalbf",11.3976666,47.253465,"default",0
+90,"Mutters Birchfeld",11.3677564,47.2284984,"default",0
+91,"Mutters Raitis",11.374803,47.2183507,"default",0
+92,"Telfes Luimes",11.3672702,47.1727997,"default",0
+93,"Mutters Nockhofweg Almbahn",11.3716958,47.2242664,"default",0
+94,"Mutters Kreith",11.3808913,47.2025636,"default",0
+95,"Mutters Außerkreith",11.3781713,47.2094092,"default",0
+96,"Mutters Burgstall",11.3820981,47.2302948,"default",0
+97,"Mutters",11.3783036,47.2287346,"default",0
+98,"Mutters Feldeler",11.3752432,47.2150057,"default",0
+99,"Mutters Kreith",11.3807371,47.2026946,"default",0
+100,"Telfes Telfer Wiesen",11.3859781,47.1891948,"default",0
+101,"Telfes StuBay",11.35295,47.1594359,"default",0
+102,"Telfes i. St. Ort",11.359916,47.1652092,"default",0
+103,"Mutters Brandeck",11.3827443,47.1968695,"default",0
+104,"Telfes Telfer Wiesen",11.3859725,47.1893058,"default",0
+105,"Telfes Luimes",11.3673595,47.1729532,"default",0
+106,"Telfes i. St. Ort",11.3598149,47.1650664,"default",0
+107,"Fulpmes",11.3524143,47.155621,"default",0

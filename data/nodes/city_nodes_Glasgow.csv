@@ -1,0 +1,108 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Govan",-4.31060068900416,55.8622372056247,"light_rail",1896
+2,"Govan",-4.29365302426916,55.8751749793542,"light_rail",1896
+3,"Ibrox",-4.29991054986081,55.8709837443197,"light_rail",1896
+4,"Ibrox",-4.30490580505983,55.8547395986134,"light_rail",1896
+5,"Cessnock",-4.29402635865833,55.8520823634404,"light_rail",1896
+6,"Cessnock",-4.28783333940814,55.8504462899079,"light_rail",1896
+7,"Kinning Park",-4.25342278360034,55.862392753124,"light_rail",1896
+8,"Kinning Park",-4.25832760375587,55.852023053421,"light_rail",1896
+9,"Shields Road",-4.2753341889088,55.8499040639087,"light_rail",1896
+10,"Shields Road",-4.26593982111339,55.8495652808198,"light_rail",1896
+11,"West Street",-4.25989550185383,55.8680893180585,"light_rail",1896
+12,"West Street",-4.26922083982572,55.8712138590087,"light_rail",1896
+13,"Bridge Street",-4.27970835239267,55.8743208824376,"light_rail",1896
+14,"Bridge Street",-4.30854897870967,55.8696962188056,"light_rail",1896
+15,"St Enoch",-4.1788943,55.8549105,"light_rail",1896
+16,"St Enoch",-3.9830801,55.8640622,"light_rail",1896
+17,"Buchanan Street",-3.9814377,55.8641942,"light_rail",1896
+18,"Buchanan Street",-3.981454,55.8640293,"light_rail",1896
+19,"Cowcaddens",-4.7309712,56.0124894,"light_rail",1896
+20,"Cowcaddens",-4.7117592,55.9947298,"light_rail",1896
+21,"St Georges Cross",-4.7319946,56.0038908,"light_rail",1896
+22,"St Georges Cross",-4.6526301,55.960131,"light_rail",1896
+23,"Kelvinbridge",-4.6526869,55.9601087,"light_rail",1896
+24,"Kelvinbridge",-4.5681417,55.9465478,"light_rail",1896
+25,"Hillhead",-4.5665868,55.9465707,"light_rail",1896
+26,"Hillhead",-4.5673892,55.9464199,"light_rail",1896
+27,"Kelvinhall",-4.5762792,55.9470465,"light_rail",1896
+28,"Kelvinhall",-4.5778387,55.9474518,"light_rail",1896
+29,"Partick",-4.5541448,55.9426307,"light_rail",1896
+30,"Partick",-4.5543075,55.9426277,"light_rail",1896
+31,"Anniesland",-4.4928232,55.9310827,"commuter_rail",0
+32,"Kelvindale",-4.4929238,55.9310537,"commuter_rail",0
+33,"Maryhill",-4.4522078,55.9237132,"commuter_rail",0
+34,"Gilshochill",-4.4530795,55.9242533,"commuter_rail",0
+35,"Summerston",-4.5863345,55.9703265,"commuter_rail",0
+36,"Possilpark and Parkhouse",-4.5833436,56.0024884,"commuter_rail",0
+37,"Glasgow Queen Street (High Level)",-4.5773986,55.9851799,"commuter_rail",0
+38,"Alexandra Parade",-3.9480296,55.8678192,"commuter_rail",0
+39,"Duke Street",-3.9479857,55.8677949,"commuter_rail",0
+40,"Barnhill",-3.8879261,55.8879774,"commuter_rail",0
+41,"Springburn Station",-3.887946,55.8879415,"commuter_rail",0
+42,"Glasgow Queen Street (High Level)",-3.7502645,55.8843642,"inter_city_rail",0
+43,"Croy",-3.693166,55.8864377,"inter_city_rail",0
+44,"Falkirk High",-3.6931362,55.8864086,"inter_city_rail",0
+45,"Glasgow Queen Street (High Level)",-3.6360347,55.8970243,"commuter_rail",0
+46,"Springburn",-3.6360632,55.8970034,"commuter_rail",0
+47,"Stepps",-4.3214442,55.8901728,"commuter_rail",0
+48,"Cumbernauld",-4.3213489,55.8899879,"commuter_rail",0
+49,"Greenfaulds",-4.3098856,55.8935295,"commuter_rail",0
+50,"Camelon",-4.3011372,55.897497,"commuter_rail",0
+51,"Gartcosh",-4.2824917,55.8972649,"commuter_rail",0
+52,"Glasgow Queen Street (Low Level)",-4.2921917,55.8988254,"commuter_rail",0
+53,"Charing Cross",-4.2479109,55.8888006,"commuter_rail",0
+54,"High Street",-4.2487995,55.8888509,"commuter_rail",0
+55,"Anniesland",-4.2583286,55.8901087,"commuter_rail",0
+56,"Garscadden",-4.212619,55.8586183,"commuter_rail",0
+57,"Scotstounhill",-4.2105721,55.8633144,"commuter_rail",0
+58,"Glasgow Central",-4.2107317,55.8639208,"commuter_rail",0
+59,"Dumbreck",-4.2120293,55.8591515,"commuter_rail",0
+60,"Corkerhill",-4.2235164,55.8778612,"commuter_rail",0
+61,"Mosspark",-4.2234676,55.8778823,"commuter_rail",0
+62,"Crookston",-4.2302894,55.8817943,"commuter_rail",0
+63,"Hawkhead",-4.23030709043869,55.8819495993777,"commuter_rail",0
+64,"Paisley Canal",-4.224046,55.9041647,"commuter_rail",0
+65,"West Street CrossRail - never built",-4.1544967,55.9211835,"commuter_rail",0
+66,"Carntyne",-4.1533718,55.9214907,"commuter_rail",0
+67,"Bellgrove",-4.2921858,55.8988617,"commuter_rail",0
+68,"Bellgrove",-4.3011617,55.897521,"commuter_rail",0
+69,"Shettleston",-4.2824525,55.8972959,"commuter_rail",0
+70,"Garrowhill",-4.2573907,55.8900897,"commuter_rail",0
+71,"Easterhouse",-4.2289585,55.8814217,"commuter_rail",0
+72,"Glasgow Queen Street (High Level)",-4.2248307,55.8567429,"inter_city_rail",0
+73,"Clydebank",-4.2512046,55.8623657,"commuter_rail",0
+74,"Westerton",-4.2231312,55.8566208,"commuter_rail",0
+75,"Drumry",-4.2512704,55.8623758,"commuter_rail",0
+76,"Drumchapel",-4.2248995,55.9037911,"commuter_rail",0
+77,"Singer",-4.0362123,55.9556502,"commuter_rail",0
+78,"Bearsden",-4.0368862,55.9551939,"commuter_rail",0
+79,"Milngavie",-3.7916761,55.9914748,"commuter_rail",0
+80,"Hillfoot",-3.7929859,55.9918354,"commuter_rail",0
+81,"Glasgow Central",-4.1405904,55.8900941,"inter_city_rail",0
+82,"Glasgow Central",-4.1405971,55.8901267,"inter_city_rail",0
+83,"Motherwell",-4.0790806,55.8855566,"commuter_rail",0
+84,"Motherwell",-3.9803954,55.9418881,"inter_city_rail",0
+85,"Motherwell",-3.9932374,55.935151,"inter_city_rail",0
+86,"Carmyle",-3.9803533,55.94186,"commuter_rail",0
+87,"Mount Vernon",-3.9939624,55.9346688,"commuter_rail",0
+88,"Baillieston",-3.8176622,56.0061775,"commuter_rail",0
+89,"Bargeddie",-3.8189919,56.0062742,"commuter_rail",0
+90,"Kirkwood",-4.0790711,55.8855911,"commuter_rail",0
+91,"Whifflet",-4.2401651,55.8594795,"commuter_rail",0
+92,"Bellshill",-4.2696603,55.8646303,"commuter_rail",0
+93,"Uddingston",-4.2502716,55.8623822,"commuter_rail",0
+94,"Bellshill",-4.2514784,55.8624528,"commuter_rail",0
+95,"Glasgow Central",-4.2696482,55.8646656,"commuter_rail",0
+96,"Blairhill",-4.2388155,55.858763,"commuter_rail",0
+97,"Falkirk Grahamston",-4.3092679,55.8698524,"commuter_rail",0
+98,"Polmont",-4.3093025,55.8698178,"commuter_rail",0
+99,"Polmont",-4.3140732,55.8791518,"inter_city_rail",0
+100,"Glasgow Central",-4.3148747,55.8799009,"commuter_rail",0
+101,"Crosshill",-4.3240641,55.8825958,"commuter_rail",0
+102,"Shawlands",-4.3252346,55.8826602,"commuter_rail",0
+103,"Maxwell Park",-4.3217829,55.8895617,"commuter_rail",0
+104,"Pollokshields West",-4.386513,55.8926442,"commuter_rail",0
+105,"Cathcart Circle",-4.3632132,55.8873057,"commuter_rail",0
+106,"St Enoch",-4.351856,55.8847735,"light_rail",1896
+107,"Bridge Street",-4.3647166,55.8875312,"light_rail",1896

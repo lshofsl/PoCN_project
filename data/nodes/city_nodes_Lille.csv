@@ -1,0 +1,36 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Lille Flandres",3.0750494,50.645438,"light_rail",1909
+2,"Lille Flandres",3.1576346,50.7323439,"light_rail",1909
+3,"Gare Lille Europe",3.0708018,50.6375025,"light_rail",1909
+4,"Gare Lille Europe",3.0756211,50.6459447,"light_rail",1909
+5,"Gare Lille Europe",3.0739987,50.6400192,"light_rail",1909
+6,"Gare Lille Europe",3.0739372,50.6399986,"light_rail",1909
+7,"Arrêt de tram Romarin (dir.Lille Flandres)",3.1626462,50.717284,"light_rail",1909
+8,"Arrêt de tram Romarin (dir.Lille Flandres)",3.1600924,50.7209577,"light_rail",1909
+9,"Arrêt de tram Romarin (dir.Tourcoing/Roubaix)",3.0710791,50.6373662,"light_rail",1909
+10,"Arrêt de tram Romarin (dir.Tourcoing/Roubaix)",3.0712173,50.6372948,"light_rail",1909
+11,"Phalempins",3.0515983,50.6234558,"heavy_rail",2000
+12,"Tourcoing Centre",3.0975442,50.6302893,"heavy_rail",1999
+13,"Colbert",3.1307386,50.6191147,"heavy_rail",2000
+14,"",3.0502802,50.6184387,"heavy_rail",2000
+15,"C.H. Dron",3.1308523,50.6191838,"heavy_rail",2000
+16,"Gare Lille - Flandres",3.0706587,50.6328076,"heavy_rail",1983
+17,"Gare Lille - Flandres",3.1565704,50.7258472,"heavy_rail",1989
+18,"",3.0501806,50.6184476,"heavy_rail",1983
+19,"",3.1796544,50.7394825,"heavy_rail",1983
+20,"Villeneuve d'Ascq Hôtel de Ville",3.0608677,50.6316357,"heavy_rail",1983
+21,"Villeneuve d'Ascq Hôtel de Ville",3.180859,50.7434032,"heavy_rail",1983
+22,"Porte des Postes",3.0710152,50.6374689,"heavy_rail",1984
+23,"Wazemmes",3.0455127,50.6220789,"heavy_rail",1984
+24,"",3.0402998,50.6262355,"heavy_rail",1983
+25,"Porte des Postes",3.0403082,50.6262287,"heavy_rail",1989
+26,"",3.0887019,50.6423001,"heavy_rail",1989
+27,"",3.0357796,50.629911,"heavy_rail",1989
+28,"",3.030842,50.6339259,"heavy_rail",1989
+29,"",3.0139024,50.6443751,"heavy_rail",1989
+30,"",2.9851942,50.645574,"heavy_rail",1989
+31,"",3.099278,50.6420731,"heavy_rail",1989
+32,"",2.9952327,50.6463068,"heavy_rail",1989
+33,"Mairie de Lille",3.0074105,50.6467576,"heavy_rail",1989
+34,"",3.1100713,50.6420965,"heavy_rail",1995
+35,"",3.1313678,50.6698786,"heavy_rail",1995

@@ -1,0 +1,156 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"La Fourragère",5.3801556,43.3024646,"heavy_rail",2010
+2,"National",5.4014815,43.309129,"heavy_rail",1987
+3,"Notre-Dame-du-Mont - Cours Julien",5.4165033,43.3209501,"heavy_rail",1984
+4,"Castellane",5.4064408,43.3154374,"heavy_rail",1984
+5,"Jules Guesde",5.4014558,43.3091365,"heavy_rail",1984
+6,"Bougainville",5.4296877,43.3331465,"heavy_rail",1987
+7,"Saint-Charles",5.3743705,43.295575,"heavy_rail",1984
+8,"Frais Vallon",5.3846563,43.2862329,"heavy_rail",1977
+9,"La Timone",5.4231789,43.3254875,"heavy_rail",1992
+10,"Réformés - Canebière",5.3963231,43.3040802,"heavy_rail",1977
+11,"La Blancarde",5.3963067,43.3041592,"heavy_rail",2010
+12,"Rond-Point du Prado",5.3742947,43.3002995,"heavy_rail",1986
+13,"Vieux Port",5.3744314,43.3002742,"heavy_rail",1978
+14,"Castellane",5.3730689,43.3151538,"heavy_rail",1978
+15,"La Fourragère",5.3713918,43.3208381,"heavy_rail",2010
+16,"Castellane",5.3919658,43.2881308,"heavy_rail",1984
+17,"Rond-Point du Prado",5.4061939,43.2955624,"heavy_rail",1986
+18,"Joliette",5.4135707,43.2999653,"heavy_rail",1984
+19,"Noailles",5.4241011,43.3038114,"heavy_rail",1984
+20,"National",5.4231964,43.325469,"heavy_rail",1987
+21,"La Rose",5.3862815,43.3004787,"heavy_rail",1977
+22,"Malpassé",5.400394,43.2911443,"heavy_rail",1977
+23,"Saint-Charles",5.4297167,43.33313,"heavy_rail",1977
+24,"Saint-Just",5.4164002,43.3210103,"heavy_rail",1977
+25,"Désirée Clary",5.3800594,43.3024033,"heavy_rail",1987
+26,"Réformés - Canebière",5.4064335,43.3154654,"heavy_rail",1977
+27,"Estrangin - Préfecture",5.3863422,43.3004056,"heavy_rail",1978
+28,"Notre-Dame-du-Mont - Cours Julien",5.3730413,43.3151574,"heavy_rail",1984
+29,"Jules Guesde",5.3741962,43.2955687,"heavy_rail",1984
+30,"Saint-Barnabé",5.3846402,43.2862621,"heavy_rail",2010
+31,"Saint-Barnabé",5.4062095,43.295546,"heavy_rail",2010
+32,"Périer",5.4241016,43.3038348,"heavy_rail",1986
+33,"Périer",5.3780653,43.2901774,"heavy_rail",1986
+34,"Noailles",5.3919764,43.2881097,"heavy_rail",1984
+35,"Désirée Clary",5.4187884,43.303331,"heavy_rail",1987
+36,"Bougainville",5.3722463,43.3092903,"heavy_rail",1987
+37,"Gèze",5.36756327398143,43.2927608555448,"heavy_rail",2019
+38,"La Criée",5.31037191833053,43.3609185679983,"ferry",1880
+39,"L'Estaque",5.37383407760089,43.2945810649568,"ferry",2013
+40,"Vieux Port",5.36718690970696,43.2430261824966,"ferry",2012
+41,"Pointe Rouge",5.34476764946697,43.2162975706888,"ferry",2012
+42,"Les Goudes",5.37110778074378,43.2934671391165,"ferry",2015
+43,"Place aux Huiles",5.37043213502329,43.2958844180231,"ferry",1880
+44,"Mairie",5.36561040157159,43.2952324323704,"ferry",1880
+45,"Place de Lenche",5.36890482774444,43.2957678956798,"ferry",1880
+46,"Lacydon",5.36331920761344,43.2947557353606,"ferry",1952
+47,"Fort Saint-Jean",5.4021841,43.270602,"ferry",1952
+48,"Saint-Charles",5.4021969,43.2705828,"heavy_rail",1977
+49,"Chartreux",5.3926882,43.271339,"heavy_rail",1977
+50,"Malpassé",5.3926491,43.2713258,"heavy_rail",1977
+51,"Saint-Just",5.3876325,43.2794522,"heavy_rail",1977
+52,"Chartreux",5.3875983,43.2794419,"heavy_rail",1977
+53,"Louis Armand",5.3845462,43.2849648,"heavy_rail",2010
+54,"La Timone",5.384501,43.2849532,"heavy_rail",1992
+55,"Castellane",5.3838357,43.2925227,"heavy_rail",1978
+56,"La Rose",5.383698,43.2924994,"heavy_rail",1977
+57,"Vieux Port",5.3812904,43.2968568,"heavy_rail",1978
+58,"Estrangin - Préfecture",5.3811767,43.2968361,"heavy_rail",1978
+59,"Sainte-Marguerite Dromel",5.3801787,43.3024815,"heavy_rail",1986
+60,"Joliette",5.380036,43.3023898,"heavy_rail",1984
+61,"La Blancarde",5.3739621,43.3020303,"heavy_rail",2010
+62,"Saint-Charles",5.3740003,43.3019393,"heavy_rail",1984
+63,"Frais Vallon",5.3679657,43.3038911,"heavy_rail",1977
+64,"Louis Armand",5.36718490006365,43.328462386105,"heavy_rail",2010
+65,"Cinq Avenues Longchamp",5.3679329,43.3038754,"heavy_rail",1977
+66,"Cinq Avenues Longchamp",5.3722212,43.3093212,"heavy_rail",1977
+67,"Sainte-Marguerite Dromel",5.3714311,43.3208404,"heavy_rail",1986
+68,"Colbert",5.377934,43.2901522,"heavy_rail",1978
+69,"Colbert",5.4004203,43.2911325,"heavy_rail",1978
+70,"Baille",5.4135481,43.2999805,"heavy_rail",1992
+71,"Baille",5.4187943,43.303309,"heavy_rail",1992
+72,"Les Caillols",5.3681397,43.3133279,"tram",2007
+73,"Les Caillols",5.3680981,43.313316,"tram",2007
+74,"William Booth",5.3766657,43.2984986,"tram",2007
+75,"William Booth",5.3766236,43.298491,"tram",2007
+76,"La Grognarde",5.3712111,43.2998941,"tram",2007
+77,"La Grognarde",5.371182,43.2998792,"tram",2007
+78,"Air-Bel",5.3671651,43.3054034,"tram",2007
+79,"Air-Bel",5.3681527,43.3086914,"tram",2007
+80,"La Boiseraie",5.3693102,43.3021684,"tram",2007
+81,"La Boiseraie",5.4032764,43.298135,"tram",2007
+82,"La Parette",5.4000754,43.3003121,"tram",2007
+83,"La Parette",5.3970663,43.302318,"tram",2007
+84,"Saint-Pierre",5.3923612,43.3032649,"tram",2007
+85,"Saint-Pierre",5.3855097,43.300026,"tram",2007
+86,"Sainte-Thérèse",5.3834569,43.2865283,"tram",2007
+87,"Sainte-Thérèse",5.3834203,43.2865182,"tram",2007
+88,"Jean Martin",5.3820259,43.2890569,"tram",2008
+89,"Jean Martin",5.3819845,43.2890471,"tram",2008
+90,"George",5.3807122,43.2913487,"tram",2008
+91,"George",5.3806747,43.2913409,"tram",2008
+92,"Camas",5.3693394,43.3021822,"tram",2008
+93,"Camas",5.4439295,43.29471,"tram",2008
+94,"Eugène Pierre",5.4368228,43.2926684,"tram",2008
+95,"Eugène Pierre",5.4368282,43.2926454,"tram",2008
+96,"Noailles",5.432316,43.2946051,"tram",1984
+97,"Noailles",5.4290385,43.2942859,"tram",1984
+98,"La Blancarde",5.4224997,43.2949323,"tram",2007
+99,"La Blancarde",5.4192368,43.2949911,"tram",2007
+100,"Foch Boisson",5.3923444,43.3032878,"tram",2003
+101,"Foch Boisson",5.3885942,43.3015442,"tram",2007
+102,"Foch Sakakini",5.388612,43.3015219,"tram",2007
+103,"Foch Sakakini",5.3854934,43.3000478,"tram",2007
+104,"Cinq Avenues",5.3815843,43.2978574,"tram",2007
+105,"Longchamp",5.3816519,43.2977469,"tram",2007
+106,"Longchamp",5.378955,43.2969122,"tram",2007
+107,"National",5.379024,43.2968006,"tram",2007
+108,"National",5.4439445,43.2946865,"tram",2007
+109,"Réformés Canebière",5.4323021,43.2946285,"tram",2007
+110,"Réformés Canebière",5.4290416,43.2943117,"tram",2007
+111,"Canebière-Garibaldi",5.4224915,43.2949586,"tram",2007
+112,"Canebière-Garibaldi",5.4192399,43.2950161,"tram",2007
+113,"Belsunce Alcazar",5.4144074,43.2918254,"tram",2007
+114,"Belsunce Alcazar",5.4139656,43.2918376,"tram",2007
+115,"Sadi Carnot",5.4096197,43.2940334,"tram",2007
+116,"Sadi Carnot",5.4095836,43.2940292,"tram",2007
+117,"République Dames",5.4017061,43.2959021,"tram",2007
+118,"République Dames",5.3971378,43.2956296,"tram",2007
+119,"Joliette",5.393118,43.2953879,"tram",2007
+120,"Joliette",5.3896054,43.2951803,"tram",2007
+121,"Euroméditerranée Gantes",5.3896101,43.2951473,"tram",2007
+122,"Euroméditerranée Gantes",5.38951898206165,43.2951403854094,"tram",2007
+123,"Cinq Avenues",5.4062693,43.295768,"tram",2007
+124,"La Blancarde",5.4062318,43.2957553,"tram",1893
+125,"La Blancarde",5.40969850492871,43.2936625896854,"tram",1893
+126,"Gare de l'Est",5.40965495373064,43.2936590361155,"tram",1893
+127,"Gare de l'Est",5.41347997082994,43.2917897860179,"tram",1893
+128,"Noailles",5.41339458820605,43.2917808008366,"tram",1984
+129,"Noailles",5.3794477,43.2935714,"tram",1984
+130,"Chave - Bruys",5.3794162,43.2935614,"tram",1893
+131,"Chave - Bruys",5.3780361,43.2960535,"tram",1893
+132,"Chave - Eugène Pierre",5.3779983,43.2960427,"tram",1893
+133,"Chave - Eugène Pierre",5.3672013,43.3053977,"tram",1893
+134,"Chave - Escoffier",5.3681835,43.3086873,"tram",1893
+135,"Chave - Escoffier",5.4017095,43.2958702,"tram",1893
+136,"Chave - George",5.3971449,43.2956034,"tram",1893
+137,"Chave - George",5.3931216,43.2953554,"tram",1893
+138,"Chave - Jean Martin",5.38043128042995,43.2963649043737,"tram",1893
+139,"Chave - Jean Martin",5.38041986454721,43.2963249050786,"tram",1893
+140,"La Blancarde",5.3812901,43.2967683,"tram",1893
+141,"La Blancarde",5.3812268,43.2967576,"tram",1893
+142,"Sainte-Thérèse",5.38951534251248,43.2951801200699,"tram",1893
+143,"Sainte-Thérèse",5.39222807560444,43.2953354408429,"tram",1893
+144,"Saint-Pierre",5.39223535470271,43.2953063021752,"tram",1893
+145,"Saint-Pierre",5.3952259897884,43.2955144398937,"tram",1893
+146,"La Blancarde",5.3952299587514,43.2954797890578,"tram",2007
+147,"La Blancarde",5.399152608826,43.2957508362516,"tram",2007
+148,"Foch Boisson",5.39915502993696,43.2957191176735,"tram",2003
+149,"Foch Boisson",5.40308983606386,43.2959837978362,"tram",2007
+150,"Foch Sakakini",5.40309383489091,43.2959541840822,"tram",2007
+151,"Foch Sakakini",5.4055393,43.2966529,"tram",2007
+152,"Cinq Avenues",5.4054783,43.2966075,"tram",2007
+153,"Cinq Avenues",5.4033022,43.2981525,"tram",2007
+154,"Longchamp",5.400105,43.3003279,"tram",2007
+155,"Longchamp",5.39709,43.3023369,"tram",2007

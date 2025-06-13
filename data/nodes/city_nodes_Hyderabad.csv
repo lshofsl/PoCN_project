@@ -1,0 +1,59 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Secunderabad West",78.499501,17.4338339,"heavy_rail",2020
+2,"RTC Cross Roads",78.484,17.3844647,"heavy_rail",2020
+3,"Chikkadpally",78.4899387,17.394371,"heavy_rail",2020
+4,"Osmania Medical College",78.4948742,17.4003684,"heavy_rail",2018
+5,"Gandhi Bhavan",78.4967721,17.4070448,"heavy_rail",2018
+6,"Nampally",78.4994715,17.4178876,"heavy_rail",2018
+7,"Mahatma Gandhi Bus Station (Red Line)",78.5019197,17.425518,"heavy_rail",2018
+8,"Sultan Bazar",78.497553,17.4444527,"heavy_rail",2020
+9,"Parade Grounds (Green Line)",78.4861788,17.379783,"heavy_rail",2020
+10,"Gandhi Hospital",78.4817011,17.3820769,"heavy_rail",2020
+11,"Musheerabad",78.4733347,17.3858253,"heavy_rail",2020
+12,"Narayanaguda",78.4701612,17.392222,"heavy_rail",2020
+13,"Mahatma Gandhi Bus Station (Green Line)",78.540572,17.4201948,"heavy_rail",2020
+14,"Malakpet",78.4857664,17.3795676,"heavy_rail",2018
+15,"Dilsukh Nagar",78.3831555,17.4490132,"heavy_rail",2018
+16,"Musarambagh",78.5479412,17.349846,"heavy_rail",2018
+17,"Victoria Memorial",78.5439622,17.3618565,"heavy_rail",2018
+18,"L. B. Nagar",78.5358253418434,17.3683412677952,"heavy_rail",2018
+19,"Chaitanyapuri",78.4939044,17.3772052,"heavy_rail",2018
+20,"New Market",78.4708797,17.3979907,"heavy_rail",2018
+21,"Assembly",78.4649442,17.4040433,"heavy_rail",2018
+22,"Lakdi-ka-pul",78.4608678,17.4116323,"heavy_rail",2018
+23,"Erra Manzil",78.4563489,17.4202292,"heavy_rail",2018
+24,"Khairatabad",78.450955,17.4289362,"heavy_rail",2018
+25,"Panjagutta",78.4447343,17.4355002,"heavy_rail",2018
+26,"Ameerpet",78.4416882122234,17.4415467712183,"heavy_rail",2017
+27,"S. R. Nagar",78.4446353,17.4353528,"heavy_rail",2017
+28,"HITEC City",78.4390865,17.4369785,"heavy_rail",2019
+29,"Madhapur",78.4273014,17.4351156,"heavy_rail",2019
+30,"Road No 5 Jubilee Hills",78.4232137,17.4300702,"heavy_rail",2019
+31,"Ameerpet",78.4083833,17.4306677,"heavy_rail",NA
+32,"Durgam Cheruvu",78.4383788697638,17.4473185312821,"heavy_rail",2019
+33,"Jubilee Hills Checkpost",78.4335811,17.4570487,"heavy_rail",2019
+34,"Madhura Nagar",78.456906,17.4375841,"heavy_rail",2019
+35,"Yusufguda",78.465879,17.4449044,"heavy_rail",2019
+36,"Peddamma Gudi",78.4764095,17.443638,"heavy_rail",2019
+37,"Raidurg",78.4862461,17.4434911,"heavy_rail",2019
+38,"Begumpet",78.497471,17.4432188,"heavy_rail",2017
+39,"Prakash Nagar",78.5054889,17.4357255,"heavy_rail",2017
+40,"Rasoolpura",78.5542726,17.407415,"heavy_rail",2017
+41,"Paradise",78.5463534,17.4148457,"heavy_rail",2017
+42,"Parade Grounds (Blue Line)",78.5602038,17.4000657,"heavy_rail",2017
+43,"Secunderabad East",78.5588274,17.3905436,"heavy_rail",2017
+44,"Mettuguda",78.4137054,17.4282348,"heavy_rail",2017
+45,"Habsiguda",78.4004421,17.4372693,"heavy_rail",2017
+46,"Stadium",78.3875922,17.4429159,"heavy_rail",2017
+47,"NGRI",78.3771726,17.4421794,"heavy_rail",2017
+48,"Tarnaka",78.5253873,17.3685493,"heavy_rail",2017
+49,"Uppal",78.5119545,17.3710873,"heavy_rail",2017
+50,"Nagole",78.5031791,17.3734454,"heavy_rail",2017
+51,"Erragadda",78.4261182,17.4718855,"heavy_rail",2017
+52,"Moosapet",78.4221082,17.4767464,"heavy_rail",2017
+53,"Kukatpally",78.4117896,17.4849033,"heavy_rail",2017
+54,"Balanagar",78.4017960026432,17.4937789395052,"heavy_rail",2017
+55,"JNTU College",78.3888668,17.4987037,"heavy_rail",2017
+56,"Miyapur",78.3730262,17.4965452,"heavy_rail",2017
+57,"",78.5195963,17.4355442,"heavy_rail",2017
+58,"Bharat Nagar",78.5284695190645,17.4283657024957,"heavy_rail",2017
