@@ -1,0 +1,74 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Jolimont",1.4184089,43.5875305,"heavy_rail",0
+2,"Capitole",1.4633846,43.6152782,"heavy_rail",0
+3,"Esquirol",1.445382,43.6044765,"heavy_rail",0
+4,"Arènes",1.4439146,43.6001467,"heavy_rail",0
+5,"Fontaine Lestang",1.4185414,43.593404,"heavy_rail",0
+6,"Mermoz",1.4489455,43.6058533,"heavy_rail",0
+7,"Mirail Université",1.4152039,43.5835153,"heavy_rail",0
+8,"Reynerie",1.3735958,43.6548396,"heavy_rail",0
+9,"Bellefontaine",1.4121307,43.5798869,"heavy_rail",0
+10,"Saint-Cyprien République",1.3922839,43.569943,"heavy_rail",0
+11,"Marengo SNCF",1.402032,43.5745945,"heavy_rail",0
+12,"Patte d'Oie",1.4018908,43.5708457,"heavy_rail",0
+13,"Jean Jaurès",1.3982966,43.5660825,"heavy_rail",0
+14,"Basso Cambo",1.4696735,43.6199318,"heavy_rail",0
+15,"Roseraie",1.4316578,43.5979948,"heavy_rail",0
+16,"Argoulets",1.4550373,43.6107605,"heavy_rail",0
+17,"Balma Gramont",1.4232471,43.5964459,"heavy_rail",0
+18,"Andromède-Lycée",1.4768303,43.6243703,"light_rail",0
+19,"Grand Noble",1.3774771,43.6447688,"light_rail",0
+20,"Odyssud - Ritouret",1.4827089,43.6291183,"light_rail",0
+21,"Place Georges Brassens",1.3853347,43.6362564,"light_rail",0
+22,"Andromède-Lycée",1.3853341,43.6362305,"light_rail",0
+23,"Grand Noble",1.3695259,43.6602643,"light_rail",0
+24,"Odyssud - Ritouret",1.38276,43.6400747,"light_rail",0
+25,"Patinoire Barradels",1.3819876,43.6407513,"light_rail",0
+26,"Patinoire Barradels",1.3756173,43.6485429,"light_rail",0
+27,"Place Georges Brassens",1.3917438,43.6308743,"light_rail",0
+28,"Aéroconstellation",1.3625569,43.6635798,"light_rail",0
+29,"Beauzelle",1.3625788,43.6634646,"light_rail",0
+30,"Aéroconstellation",1.3756491,43.6485505,"light_rail",0
+31,"Beauzelle",1.3735646,43.6548279,"light_rail",0
+32,"Place du Relais",1.3774584,43.6447442,"light_rail",0
+33,"Guyenne - Berry",1.3694901,43.6602556,"light_rail",0
+34,"Pasteur Mairie de Blagnac",1.3900718,43.636771,"light_rail",0
+35,"Guyenne - Berry",1.3913438,43.6340381,"light_rail",0
+36,"Pasteur Mairie de Blagnac",1.3917091,43.6308735,"light_rail",0
+37,"Place du Relais",1.3743893,43.631332,"light_rail",0
+38,"Servanty Airbus",1.3743666,43.6313538,"light_rail",0
+39,"Servanty Airbus",1.3912346,43.6346092,"light_rail",0
+40,"Daurat",1.3900798,43.6367417,"light_rail",0
+41,"Daurat",1.3969311,43.6182283,"light_rail",0
+42,"Aéroport",1.3934923,43.6254903,"light_rail",0
+43,"Aéroport",1.3934578,43.6254815,"light_rail",0
+44,"Nadot",1.3793834,43.6288606,"light_rail",0
+45,"Nadot",1.3983014,43.6141015,"light_rail",0
+46,"Ancely",1.3793754,43.6288325,"light_rail",0
+47,"Ancely",1.3865858,43.6244433,"light_rail",0
+48,"Arènes Romaines",1.4020256,43.6091124,"light_rail",0
+49,"Arènes Romaines",1.3867564,43.6244036,"light_rail",0
+50,"Ancely",1.3968926,43.6182325,"light_rail",0
+51,"Ancely",1.3983027,43.6140753,"light_rail",0
+52,"Arènes Romaines",1.4019875,43.609111,"light_rail",0
+53,"Arènes Romaines",1.4076812,43.6031468,"light_rail",0
+54,"Purpan",1.4179282,43.5928437,"light_rail",0
+55,"Purpan",1.4094423,43.5948728,"light_rail",0
+56,"Purpan",1.4076568,43.6031174,"light_rail",0
+57,"Purpan",1.411406,43.6008658,"light_rail",0
+58,"Casselardit",1.4179244,43.5928144,"light_rail",0
+59,"Casselardit",1.4113643,43.6008706,"light_rail",0
+60,"Casselardit",1.4094088,43.5948825,"light_rail",0
+61,"Casselardit",1.4216813,43.5896483,"light_rail",0
+62,"Cartoucherie",1.4278901,43.5856208,"light_rail",0
+63,"Cartoucherie",1.4216528,43.5896256,"light_rail",0
+64,"Arènes",1.4216057,43.5896336,"light_rail",0
+65,"Arènes",1.431827,43.5893778,"light_rail",0
+66,"Zénith",1.4318767,43.5893643,"light_rail",0
+67,"Zénith",1.4278747,43.5855872,"light_rail",0
+68,"Arènes",1.4440732,43.5927354,"light_rail",0
+69,"Arènes",1.4440516,43.5927702,"light_rail",0
+70,"Cartoucherie",1.4404078,43.5921882,"light_rail",0
+71,"Cartoucherie",1.4404187,43.5922184,"light_rail",0
+72,"Zénith",1.4354601,43.5926438,"light_rail",0
+73,"Zénith",1.4354553,43.5926134,"light_rail",0

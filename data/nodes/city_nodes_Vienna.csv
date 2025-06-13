@@ -1,0 +1,103 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Simmering",16.4145768,48.1746434,"default",2000
+2,"Enkplatz",16.4174396,48.1851532,"default",2000
+3,"Gasometer",16.4066927,48.194373,"default",2000
+4,"Kardinal-Nagl-Platz",16.3998439,48.1975375,"default",1991
+5,"Schlachthausgasse",16.4204633,48.169739,"default",1991
+6,"Zippererstraße",16.4116795,48.1803475,"default",2000
+7,"Erdberg",16.4140784,48.1914073,"default",1991
+8,"Rochusgasse",16.3922161,48.2020584,"default",1991
+9,"Erlaaer Straße",16.3165474,48.141986,"default",1995
+10,"Tscherttegasse",16.3281306,48.1836994,"default",1995
+11,"Meidling Hauptstraße",16.3190433,48.1860338,"default",1980
+12,"Am Schöpfwerk",16.3045717102265,48.1875895178568,"default",1995
+13,"Alterlaa",16.2863578,48.1910836,"default",1995
+14,"Perfektastraße",16.3132697,48.136611,"default",1995
+15,"Hietzing",16.3169125,48.1505008,"default",1981
+16,"Schönbrunn",16.324226,48.1606711,"default",1981
+17,"Unter St. Veit",16.3278139,48.1649731,"default",1981
+18,"Längenfeldgasse",16.2958047,48.1894183,"default",1989
+19,"Niederhofstraße",16.2761632,48.1922486,"default",1989
+20,"Bahnhof Meidling",16.3098619,48.1305012,"default",1989
+21,"Siebenhirten",16.3315171,48.1735244,"default",1995
+22,"Ober St. Veit",16.3312398,48.1807555,"default",1981
+23,"Braunschweiggasse",16.4496983571485,48.2576792183469,"default",1981
+24,"Hütteldorf",16.4479387359365,48.2709219208356,"default",1981
+25,"Margaretengürtel",16.4435129502063,48.2505335593657,"default",1980
+26,"Rennbahnweg",16.451624027569,48.2634591194893,"heavy_rail",2006
+27,"Großfeldsiedlung",16.4524816844054,48.2775782709667,"heavy_rail",2006
+28,"Kagraner Platz",16.3791905,48.2068963,"heavy_rail",2006
+29,"Aderklaaer Straße",16.3651325,48.2092337,"heavy_rail",2006
+30,"Leopoldau",16.3714826381292,48.208061453528,"heavy_rail",2006
+31,"Schottentor",16.3462989,48.1971293,"heavy_rail",1980
+32,"Troststraße",16.3396405634374,48.1958730509541,"heavy_rail",2017
+33,"Altes Landgut",16.3525325,48.1992114,"heavy_rail",2017
+34,"Alaudagasse",16.3205534,48.1975521,"heavy_rail",2017
+35,"Neulaa",16.3287287389089,48.1974916812153,"heavy_rail",2017
+36,"Oberlaa",16.3089972,48.204442,"heavy_rail",2017
+37,"Schottenring",16.3110683,48.1999786,"heavy_rail",1978
+38,"Längenfeldgasse",16.3113222,48.2109941,"default",1989
+39,"Schottenring",16.3760488,48.1793544,"default",1978
+40,"Pilgramgasse",16.3778172,48.1749281,"default",1980
+41,"Kettenbrückengasse",16.3732695,48.1870832,"default",1980
+42,"Stadtpark",16.370356,48.1936787,"default",1978
+43,"Landstraße",16.3855206,48.2153413,"default",1978
+44,"Landstraße",16.4010412,48.2236468,"default",1978
+45,"Stubentor",16.3914656432913,48.2190551894343,"default",1991
+46,"Herrengasse",16.4113511,48.2292444,"default",1991
+47,"Stephansplatz",16.3774103547669,48.2118254131798,"heavy_rail",1978
+48,"Stephansplatz",16.4328326,48.243047,"default",1978
+49,"Zieglergasse",16.4247493,48.2382789,"default",1993
+50,"Westbahnhof",16.4163974,48.232844,"default",1993
+51,"Schweglerstraße",16.3350174012778,48.1848544006073,"default",1994
+52,"Johnstraße",16.2609014,48.1970194,"default",1994
+53,"Hütteldorfer Straße",16.3686265722926,48.2008344546013,"default",1998
+54,"Ottakring",16.3641194,48.2278202,"default",1998
+55,"Kendlerstraße",16.3430097,48.1884995,"default",1998
+56,"Keplerplatz",16.3675478,48.2223361,"heavy_rail",1978
+57,"Reumannplatz",16.3375677,48.1907334,"heavy_rail",1978
+58,"Südtiroler Platz-Hauptbahnhof",16.3372663,48.2029737,"heavy_rail",1978
+59,"Taubstummengasse",16.3380301,48.2077916,"heavy_rail",1978
+60,"Karlsplatz",16.3418396,48.2167561,"heavy_rail",1978
+61,"Schwedenplatz",16.3391961,48.2114604,"heavy_rail",1979
+62,"Schwedenplatz",16.3442207,48.2211405,"default",1979
+63,"Nestroyplatz",16.3524795,48.2313184,"heavy_rail",1979
+64,"Vorgartenstraße",16.3495448,48.2256193,"heavy_rail",1982
+65,"Praterstern",16.3816554,48.2191117,"heavy_rail",1981
+66,"Donauinsel",16.4136826,48.2146488,"heavy_rail",1982
+67,"Kagran",16.4203651,48.210416,"heavy_rail",1982
+68,"Alte Donau",16.4314409,48.2064019,"heavy_rail",1982
+69,"Kaisermühlen - VIC",16.4049289,48.2177181,"heavy_rail",1982
+70,"Karlsplatz",16.3583569293283,48.2048947512822,"default",1978
+71,"Friedensbrücke",16.3614718881141,48.2025478744186,"default",1976
+72,"Spittelau",16.4666304,48.2193666,"default",1995
+73,"Roßauer Lände",16.475,48.222548,"default",1978
+74,"Heiligenstadt",16.4496094,48.2197176,"default",1976
+75,"Gumpendorfer Straße",16.457736,48.2208353,"default",1989
+76,"Burggasse-Stadthalle",16.4401871,48.2117911,"default",1989
+77,"Thaliastraße",16.4857726,48.2333659,"default",1989
+78,"Alser Straße",16.5045046,48.2344386,"default",1989
+79,"Josefstädter Straße",16.5083313,48.2262819,"default",1989
+80,"Westbahnhof",16.4002991,48.2562236,"default",1993
+81,"Michelbeuern-AKH",16.3946811,48.2463043,"default",1989
+82,"Nußdorfer Straße",16.3853856,48.2417279,"default",1989
+83,"Währinger Straße-Volksoper",16.3801747,48.2373503,"default",1989
+84,"Taborstraße",16.3685821,48.2353013,"heavy_rail",2008
+85,"Krieau",16.3657784,48.2483686,"heavy_rail",2008
+86,"Stadion",16.3582874226797,48.2355360468893,"heavy_rail",2008
+87,"Donaumarina",16.3562828472169,48.2149719389462,"heavy_rail",2010
+88,"Messe-Prater",16.3556317518717,48.211029605449,"heavy_rail",2008
+89,"Volkstheater",16.3585394897025,48.1803340512904,"heavy_rail",1980
+90,"Neubaugasse",16.3552356499251,48.1867379839061,"default",1993
+91,"Volkstheater",16.3555321332046,48.2106079441021,"default",1980
+92,"Karlsplatz",16.3805880353305,48.1684886305355,"heavy_rail",1978
+93,"Donauspital",16.3793666124436,48.2027323033439,"heavy_rail",2010
+94,"Aspernstraße",16.3834324974489,48.161538861159,"heavy_rail",2010
+95,"Stadlau",16.3823585010634,48.1535732345067,"heavy_rail",2010
+96,"Hardeggasse",16.3861397803338,48.1456551622831,"heavy_rail",2010
+97,"Donaustadtbrücke",16.3845979793788,48.2060939969533,"heavy_rail",2010
+98,"Hausfeldstraße",16.3582621110888,48.1966762671743,"heavy_rail",2013
+99,"Aspern Nord",16.3997870770401,48.1423540660324,"heavy_rail",2013
+100,"Seestadt",16.3712472799972,48.2170236902431,"heavy_rail",2013
+101,"Floridsdorf",16.3626755294618,48.2149068944332,"default",1996
+102,"Neue Donau",16.3542053619034,48.1920182589132,"default",1996
