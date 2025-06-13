@@ -1,0 +1,360 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,2,"heavy_rail","M2",2009
+2,3,"heavy_rail","M2",2011
+3,4,"heavy_rail","M2",2011
+4,5,"heavy_rail","M2",2014
+5,6,"heavy_rail","M2",2014
+6,7,"heavy_rail","M2",2014
+7,8,"heavy_rail","M2",2009
+8,9,"heavy_rail","M2",2000
+9,10,"heavy_rail","M2",2000
+10,11,"heavy_rail","M2",2000
+11,12,"heavy_rail","M2",2000
+12,13,"heavy_rail","M2",2000
+13,14,"heavy_rail","M2",2000
+14,15,"heavy_rail","M2",2009
+15,16,"heavy_rail","M2",2009
+17,18,"light_rail","M1A",1989
+18,19,"light_rail","M1A",1989
+19,20,"light_rail","M1A",1989
+20,21,"light_rail","M1A",1989
+21,22,"light_rail","M1A",1989
+22,23,"light_rail","M1A",1994
+23,24,"light_rail","M1A",1994
+24,25,"light_rail","M1A",1994
+25,26,"light_rail","M1A",1994
+26,27,"light_rail","M1A",1994
+27,28,"light_rail","M1A",1994
+28,29,"light_rail","M1A",1995
+29,4,"light_rail","M1A",1999
+4,37,"light_rail","M1A",2014
+37,49,"light_rail","M1A",1989
+49,50,"light_rail","M1A",2002
+50,51,"light_rail","M1A",2002
+51,324,"light_rail","M1A",1995
+324,325,"light_rail","M1A",2022
+31,32,"light_rail","M1B",2012
+32,33,"light_rail","M1B",2014
+33,34,"light_rail","M1B",2014
+34,35,"light_rail","M1B",2014
+35,4,"light_rail","M1B",2014
+4,280,"light_rail","M1B",2014
+280,281,"light_rail","M1B",2026
+281,282,"light_rail","M1B",2026
+282,283,"light_rail","M1B",2026
+283,284,"light_rail","M1B",2026
+284,285,"light_rail","M1B",2026
+285,315,"light_rail","M1B",2026
+315,192,"light_rail","M1B",2024
+192,37,"light_rail","M1B",2019
+37,17,"light_rail","M1B",1989
+17,18,"light_rail","M1B",1989
+18,19,"light_rail","M1B",1989
+19,20,"light_rail","M1B",1989
+20,21,"light_rail","M1B",1989
+21,22,"light_rail","M1B",1989
+35,39,"heavy_rail","M3",2014
+39,40,"heavy_rail","M3",2013
+40,41,"heavy_rail","M3",2013
+41,42,"heavy_rail","M3",2013
+42,43,"heavy_rail","M3",2013
+43,44,"heavy_rail","M3",2013
+44,45,"heavy_rail","M3",2013
+45,46,"heavy_rail","M3",2013
+46,48,"heavy_rail","M3",2014
+48,52,"heavy_rail","M3",2013
+52,255,"heavy_rail","M3",2014
+255,256,"heavy_rail","M3",2024
+256,257,"heavy_rail","M3",2025
+257,258,"heavy_rail","M3",2024
+258,259,"heavy_rail","M3",2024
+259,260,"heavy_rail","M3",2024
+260,261,"heavy_rail","M3",2024
+261,262,"heavy_rail","M3",2023
+262,263,"heavy_rail","M3",2023
+263,264,"heavy_rail","M3",2023
+264,200,"heavy_rail","M3",2023
+57,58,"heavy_rail","M4",2012
+58,59,"heavy_rail","M4",2013
+59,60,"heavy_rail","M4",2012
+60,61,"heavy_rail","M4",2012
+61,62,"heavy_rail","M4",2012
+62,63,"heavy_rail","M4",2012
+63,64,"heavy_rail","M4",2012
+64,65,"heavy_rail","M4",2012
+65,66,"heavy_rail","M4",2012
+66,67,"heavy_rail","M4",2012
+67,68,"heavy_rail","M4",2012
+68,69,"heavy_rail","M4",2012
+69,70,"heavy_rail","M4",2012
+70,71,"heavy_rail","M4",2012
+71,72,"heavy_rail","M4",2012
+72,73,"heavy_rail","M4",2012
+73,74,"heavy_rail","M4",2016
+74,75,"heavy_rail","M4",2016
+75,304,"heavy_rail","M4",2016
+304,305,"heavy_rail","M4",2022
+305,306,"heavy_rail","M4",2022
+306,307,"heavy_rail","M4",2022
+307,308,"heavy_rail","M4",2022
+308,309,"heavy_rail","M4",2025
+309,310,"heavy_rail","M4",2025
+310,311,"heavy_rail","M4",2025
+311,228,"heavy_rail","M4",2025
+228,320,"heavy_rail","M4",2019
+126,127,"heavy_rail","M5",2013
+127,128,"heavy_rail","M5",2017
+128,129,"heavy_rail","M5",2017
+129,130,"heavy_rail","M5",2017
+130,131,"heavy_rail","M5",2017
+131,132,"heavy_rail","M5",2017
+132,133,"heavy_rail","M5",2017
+133,134,"heavy_rail","M5",2017
+134,135,"heavy_rail","M5",2017
+135,136,"heavy_rail","M5",2018
+136,137,"heavy_rail","M5",2018
+137,138,"heavy_rail","M5",2018
+138,139,"heavy_rail","M5",2018
+139,140,"heavy_rail","M5",2018
+140,141,"heavy_rail","M5",2018
+141,296,"heavy_rail","M5",2018
+296,297,"heavy_rail","M5",2024
+297,298,"heavy_rail","M5",2024
+298,299,"heavy_rail","M5",2024
+299,300,"heavy_rail","M5",2024
+300,301,"heavy_rail","M5",2024
+301,302,"heavy_rail","M5",2026
+302,303,"heavy_rail","M5",2026
+107,108,"heavy_rail","M6",2015
+108,109,"heavy_rail","M6",2015
+109,12,"heavy_rail","M6",2015
+10,112,"heavy_rail","M7",2000
+112,113,"heavy_rail","M7",2020
+113,114,"heavy_rail","M7",2020
+114,115,"heavy_rail","M7",2020
+115,116,"heavy_rail","M7",2020
+116,117,"heavy_rail","M7",2020
+117,118,"heavy_rail","M7",2020
+118,119,"heavy_rail","M7",2020
+119,120,"heavy_rail","M7",2020
+120,121,"heavy_rail","M7",2020
+121,122,"heavy_rail","M7",2020
+122,123,"heavy_rail","M7",2020
+123,124,"heavy_rail","M7",2020
+124,40,"heavy_rail","M7",2020
+40,189,"heavy_rail","M7",2013
+189,190,"heavy_rail","M7",2023
+190,191,"heavy_rail","M7",2023
+191,293,"heavy_rail","M7",2026
+293,294,"heavy_rail","M7",2026
+294,295,"heavy_rail","M7",2026
+295,291,"heavy_rail","M7",2026
+291,179,"heavy_rail","M7",2024
+46,52,"heavy_rail","M9",2014
+52,48,"heavy_rail","M9",2014
+48,55,"heavy_rail","M9",2013
+55,56,"heavy_rail","M9",2021
+56,199,"heavy_rail","M9",2021
+199,286,"heavy_rail","M9",2019
+286,287,"heavy_rail","M9",2024
+287,288,"heavy_rail","M9",2024
+288,289,"heavy_rail","M9",2024
+289,290,"heavy_rail","M9",2024
+290,291,"heavy_rail","M9",2024
+291,51,"heavy_rail","M9",2024
+51,315,"heavy_rail","M9",1995
+76,77,"light_rail","T1",1992
+77,78,"light_rail","T1",1992
+78,79,"light_rail","T1",1992
+79,80,"light_rail","T1",1992
+80,81,"light_rail","T1",1992
+81,82,"light_rail","T1",1992
+82,83,"light_rail","T1",1992
+83,84,"light_rail","T1",1992
+84,85,"light_rail","T1",1992
+85,86,"light_rail","T1",1992
+86,87,"light_rail","T1",1992
+87,88,"light_rail","T1",1992
+88,89,"light_rail","T1",1994
+89,90,"light_rail","T1",1994
+90,91,"light_rail","T1",1994
+91,92,"light_rail","T1",1994
+92,93,"light_rail","T1",1994
+93,94,"light_rail","T1",1994
+94,95,"light_rail","T1",1992
+95,96,"light_rail","T1",1996
+96,97,"light_rail","T1",2005
+97,98,"light_rail","T1",2005
+98,99,"light_rail","T1",2005
+99,100,"light_rail","T1",2006
+100,101,"light_rail","T1",2006
+101,102,"light_rail","T1",2006
+102,103,"light_rail","T1",2006
+103,104,"light_rail","T1",2006
+104,105,"light_rail","T1",2006
+105,106,"light_rail","T1",2006
+106,179,"light_rail","T1",2006
+142,143,"tram","T4",2007
+143,144,"tram","T4",2007
+144,145,"tram","T4",2007
+145,146,"tram","T4",2007
+146,147,"tram","T4",2007
+147,148,"tram","T4",2007
+148,149,"tram","T4",2007
+149,150,"tram","T4",2007
+150,151,"tram","T4",2007
+151,152,"tram","T4",2007
+152,153,"tram","T4",2007
+153,154,"tram","T4",2007
+154,155,"tram","T4",2007
+155,156,"tram","T4",2007
+156,157,"tram","T4",2007
+157,158,"tram","T4",2007
+158,159,"tram","T4",2007
+159,160,"tram","T4",2007
+160,161,"tram","T4",2009
+161,162,"tram","T4",2009
+162,163,"tram","T4",2009
+163,121,"tram","T4",2009
+164,165,"light_rail","T5",2021
+165,115,"light_rail","T5",2021
+115,168,"light_rail","T5",2020
+168,169,"light_rail","T5",2021
+169,170,"light_rail","T5",2021
+170,171,"light_rail","T5",2021
+171,172,"light_rail","T5",2021
+172,173,"light_rail","T5",2021
+173,174,"light_rail","T5",2021
+174,175,"light_rail","T5",2021
+175,176,"light_rail","T5",2021
+176,177,"light_rail","T5",2021
+177,178,"light_rail","T5",2023
+179,8,"light_rail","F1",2006
+184,185,"tram","T2",1990
+185,186,"tram","T2",1990
+186,187,"tram","T2",1990
+187,188,"tram","T2",1990
+182,183,"tram","F2",1875
+192,193,"commuter_rail","B1 - Marmaray",2019
+193,194,"commuter_rail","B1 - Marmaray",2019
+194,195,"commuter_rail","B1 - Marmaray",2019
+195,196,"commuter_rail","B1 - Marmaray",2019
+196,197,"commuter_rail","B1 - Marmaray",2019
+197,198,"commuter_rail","B1 - Marmaray",2019
+198,199,"commuter_rail","B1 - Marmaray",2019
+199,200,"commuter_rail","B1 - Marmaray",2019
+200,201,"commuter_rail","B1 - Marmaray",2019
+201,202,"commuter_rail","B1 - Marmaray",2019
+202,203,"commuter_rail","B1 - Marmaray",2019
+203,4,"commuter_rail","B1 - Marmaray",2013
+4,87,"commuter_rail","B1 - Marmaray",2014
+87,126,"commuter_rail","B1 - Marmaray",1992
+126,58,"commuter_rail","B1 - Marmaray",2013
+58,208,"commuter_rail","B1 - Marmaray",2013
+208,209,"commuter_rail","B1 - Marmaray",2019
+209,210,"commuter_rail","B1 - Marmaray",2019
+210,211,"commuter_rail","B1 - Marmaray",2019
+211,212,"commuter_rail","B1 - Marmaray",2019
+212,213,"commuter_rail","B1 - Marmaray",2019
+213,214,"commuter_rail","B1 - Marmaray",2019
+214,215,"commuter_rail","B1 - Marmaray",2019
+215,216,"commuter_rail","B1 - Marmaray",2019
+216,217,"commuter_rail","B1 - Marmaray",2019
+217,218,"commuter_rail","B1 - Marmaray",2019
+218,219,"commuter_rail","B1 - Marmaray",2019
+219,220,"commuter_rail","B1 - Marmaray",2019
+220,221,"commuter_rail","B1 - Marmaray",2019
+221,222,"commuter_rail","B1 - Marmaray",2019
+222,223,"commuter_rail","B1 - Marmaray",2019
+223,224,"commuter_rail","B1 - Marmaray",2019
+224,225,"commuter_rail","B1 - Marmaray",2019
+225,226,"commuter_rail","B1 - Marmaray",2019
+226,227,"commuter_rail","B1 - Marmaray",2019
+227,228,"commuter_rail","B1 - Marmaray",2019
+228,229,"commuter_rail","B1 - Marmaray",2019
+229,230,"commuter_rail","B1 - Marmaray",2019
+230,231,"commuter_rail","B1 - Marmaray",2019
+231,232,"commuter_rail","B1 - Marmaray",2019
+232,233,"commuter_rail","B1 - Marmaray",2019
+233,234,"commuter_rail","B1 - Marmaray",2019
+235,236,"heavy_rail","M8",2023
+236,237,"heavy_rail","M8",2023
+237,238,"heavy_rail","M8",2023
+238,239,"heavy_rail","M8",2023
+239,240,"heavy_rail","M8",2023
+240,241,"heavy_rail","M8",2023
+241,242,"heavy_rail","M8",2023
+242,243,"heavy_rail","M8",2023
+243,244,"heavy_rail","M8",2023
+244,245,"heavy_rail","M8",2023
+245,63,"heavy_rail","M8",2023
+63,139,"heavy_rail","M8",2012
+246,247,"heavy_rail","M12",2026
+247,248,"heavy_rail","M12",2026
+248,249,"heavy_rail","M12",2026
+249,250,"heavy_rail","M12",2026
+250,252,"heavy_rail","M12",2026
+252,253,"heavy_rail","M12",2026
+253,254,"heavy_rail","M12",2026
+254,62,"heavy_rail","M12",2026
+62,132,"heavy_rail","M12",2012
+132,210,"heavy_rail","M12",2017
+223,320,"heavy_rail","M10",2019
+320,304,"heavy_rail","M10",2025
+304,305,"heavy_rail","M10",2022
+305,306,"heavy_rail","M10",2022
+306,307,"heavy_rail","M10",2022
+265,266,"heavy_rail","M11",2023
+266,267,"heavy_rail","M11",2023
+267,269,"heavy_rail","M11",2023
+269,270,"heavy_rail","M11",2023
+270,271,"heavy_rail","M11",2023
+271,272,"heavy_rail","M11",2023
+272,273,"heavy_rail","M11",2023
+273,274,"heavy_rail","M11",2024
+274,275,"heavy_rail","M11",2024
+275,276,"heavy_rail","M11",2024
+276,278,"heavy_rail","M11",2025
+278,192,"heavy_rail","M11",2025
+192,11,"heavy_rail","M11",2019
+11,52,"heavy_rail","M11",2000
+52,264,"heavy_rail","M11",2014
+292,107,"light_rail","F4",2022
+326,327,"brt","Metrobüs",2007
+327,328,"brt","Metrobüs",2007
+328,329,"brt","Metrobüs",2007
+329,330,"brt","Metrobüs",2007
+330,331,"brt","Metrobüs",2007
+331,332,"brt","Metrobüs",2007
+332,333,"brt","Metrobüs",2007
+333,334,"brt","Metrobüs",2007
+334,335,"brt","Metrobüs",2007
+335,336,"brt","Metrobüs",2007
+336,337,"brt","Metrobüs",2007
+337,338,"brt","Metrobüs",NA
+338,339,"brt","Metrobüs",2007
+339,340,"brt","Metrobüs",2007
+340,341,"brt","Metrobüs",2007
+341,342,"brt","Metrobüs",2007
+342,343,"brt","Metrobüs",2008
+343,344,"brt","Metrobüs",2008
+344,345,"brt","Metrobüs",2008
+345,346,"brt","Metrobüs",2008
+346,347,"brt","Metrobüs",2008
+347,348,"brt","Metrobüs",2008
+348,349,"brt","Metrobüs",2008
+349,350,"brt","Metrobüs",2008
+350,351,"brt","Metrobüs",2008
+351,352,"brt","Metrobüs",2008
+352,353,"brt","Metrobüs",2009
+353,134,"brt","Metrobüs",2009
+134,355,"brt","Metrobüs",2017
+355,356,"brt","Metrobüs",2009
+356,357,"brt","Metrobüs",2009
+NA,192,"commuter_rail","B2 - Bahçeşehir - Halkalı",NA
+NA,203,"light_rail","Kazlıçeşme - Sirkeci Gar",NA
+NA,297,"heavy_rail","M13",NA
+NA,208,"heavy_rail","M13",NA
+208,61,"heavy_rail","M13",2019
+NA,249,"heavy_rail","M13",NA
+NA,241,"heavy_rail","M13",NA

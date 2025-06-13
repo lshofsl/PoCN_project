@@ -1,0 +1,516 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,2,"heavy_rail","Metro",NA
+2,3,"heavy_rail","Metro",NA
+3,4,"heavy_rail","Metro",NA
+4,5,"heavy_rail","Metro",NA
+5,6,"heavy_rail","Metro",NA
+6,7,"heavy_rail","Metro",NA
+7,8,"heavy_rail","Metro",NA
+8,9,"heavy_rail","Metro",NA
+9,10,"heavy_rail","Metro",NA
+10,11,"heavy_rail","Metro",NA
+11,12,"heavy_rail","Metro",NA
+12,13,"heavy_rail","Metro",NA
+13,14,"heavy_rail","Metro",NA
+14,15,"heavy_rail","Metro",NA
+15,16,"heavy_rail","Metro",NA
+16,17,"heavy_rail","Metro",NA
+17,18,"heavy_rail","Metro",NA
+18,19,"heavy_rail","Metro",NA
+19,20,"heavy_rail","Metro",NA
+20,21,"heavy_rail","Metro",NA
+21,22,"heavy_rail","Metro",NA
+22,23,"heavy_rail","Metro",NA
+23,24,"heavy_rail","Metro",NA
+24,25,"heavy_rail","Metro",NA
+25,26,"heavy_rail","Metro",NA
+26,27,"heavy_rail","Metro",NA
+27,28,"heavy_rail","Metro",NA
+28,29,"heavy_rail","Metro",NA
+29,30,"heavy_rail","Metro",NA
+30,31,"heavy_rail","Metro",NA
+31,32,"heavy_rail","Metro",NA
+32,33,"heavy_rail","Metro",NA
+33,34,"heavy_rail","Metro",NA
+34,35,"heavy_rail","Metro",NA
+35,36,"heavy_rail","Metro",NA
+36,37,"heavy_rail","Metro",NA
+37,38,"heavy_rail","Metro",NA
+38,39,"heavy_rail","Metro",NA
+39,40,"heavy_rail","Metro",NA
+40,41,"heavy_rail","Metro",1989
+41,42,"heavy_rail","Metro",NA
+42,43,"heavy_rail","Metro",NA
+43,44,"heavy_rail","Metro",NA
+44,45,"heavy_rail","Metro",NA
+45,46,"heavy_rail","Metro",NA
+46,47,"heavy_rail","Metro",NA
+47,48,"heavy_rail","Metro",NA
+48,49,"heavy_rail","Metro",NA
+49,200,"heavy_rail","Metro",NA
+200,201,"heavy_rail","Metro",2022
+201,202,"heavy_rail","Metro",2022
+202,203,"heavy_rail","Metro",2022
+203,204,"heavy_rail","Metro",2022
+204,473,"heavy_rail","Metro",2022
+473,474,"heavy_rail","Metro",1995
+50,51,"commuter_rail","Coastal Line",NA
+51,98,"commuter_rail","Coastal Line",NA
+98,99,"commuter_rail","Coastal Line",NA
+99,100,"commuter_rail","Coastal Line",NA
+100,101,"commuter_rail","Coastal Line",NA
+101,107,"commuter_rail","Coastal Line",NA
+107,108,"commuter_rail","Coastal Line",NA
+108,110,"commuter_rail","Coastal Line",NA
+110,111,"commuter_rail","Coastal Line",NA
+111,112,"commuter_rail","Coastal Line",NA
+112,113,"commuter_rail","Coastal Line",NA
+113,114,"commuter_rail","Coastal Line",NA
+114,115,"commuter_rail","Coastal Line",NA
+115,116,"commuter_rail","Coastal Line",NA
+116,117,"commuter_rail","Coastal Line",NA
+117,118,"commuter_rail","Coastal Line",NA
+118,119,"commuter_rail","Coastal Line",NA
+119,120,"commuter_rail","Coastal Line",NA
+120,121,"commuter_rail","Coastal Line",NA
+121,122,"commuter_rail","Coastal Line",NA
+122,123,"commuter_rail","Coastal Line",NA
+123,124,"commuter_rail","Coastal Line",NA
+124,125,"commuter_rail","Coastal Line",NA
+125,126,"commuter_rail","Coastal Line",NA
+126,127,"commuter_rail","Coastal Line",NA
+127,128,"commuter_rail","Coastal Line",NA
+128,129,"commuter_rail","Coastal Line",NA
+129,130,"commuter_rail","Coastal Line",NA
+130,131,"commuter_rail","Coastal Line",NA
+131,132,"commuter_rail","Coastal Line",NA
+132,133,"commuter_rail","Coastal Line",NA
+133,134,"commuter_rail","Coastal Line",NA
+134,135,"commuter_rail","Coastal Line",NA
+135,136,"commuter_rail","Coastal Line",NA
+136,142,"commuter_rail","Coastal Line",NA
+142,143,"commuter_rail","Coastal Line",NA
+143,144,"commuter_rail","Coastal Line",NA
+144,145,"commuter_rail","Coastal Line",NA
+145,146,"commuter_rail","Coastal Line",NA
+146,147,"commuter_rail","Coastal Line",NA
+147,148,"commuter_rail","Coastal Line",NA
+148,149,"commuter_rail","Coastal Line",NA
+149,150,"commuter_rail","Coastal Line",NA
+150,151,"commuter_rail","Coastal Line",NA
+151,152,"commuter_rail","Coastal Line",NA
+152,153,"commuter_rail","Coastal Line",NA
+153,155,"commuter_rail","Coastal Line",NA
+155,156,"commuter_rail","Coastal Line",NA
+156,162,"commuter_rail","Coastal Line",NA
+162,163,"commuter_rail","Coastal Line",NA
+163,164,"commuter_rail","Coastal Line",NA
+164,165,"commuter_rail","Coastal Line",NA
+165,181,"commuter_rail","Coastal Line",NA
+181,182,"commuter_rail","Coastal Line",NA
+182,183,"commuter_rail","Coastal Line",NA
+183,184,"commuter_rail","Coastal Line",NA
+184,239,"commuter_rail","Coastal Line",NA
+239,240,"commuter_rail","Coastal Line",NA
+56,57,"commuter_rail","Main Line",NA
+57,58,"commuter_rail","Main Line",NA
+58,59,"commuter_rail","Main Line",NA
+59,60,"commuter_rail","Main Line",NA
+60,61,"commuter_rail","Main Line",NA
+61,62,"commuter_rail","Main Line",NA
+62,63,"commuter_rail","Main Line",NA
+63,64,"commuter_rail","Main Line",NA
+64,65,"commuter_rail","Main Line",NA
+65,66,"commuter_rail","Main Line",NA
+66,67,"commuter_rail","Main Line",NA
+67,68,"commuter_rail","Main Line",NA
+68,80,"commuter_rail","Main Line",NA
+80,81,"commuter_rail","Main Line",NA
+81,82,"commuter_rail","Main Line",NA
+82,83,"commuter_rail","Main Line",NA
+83,92,"commuter_rail","Main Line",NA
+92,93,"commuter_rail","Main Line",NA
+93,94,"commuter_rail","Main Line",NA
+94,95,"commuter_rail","Main Line",NA
+95,96,"commuter_rail","Main Line",NA
+96,97,"commuter_rail","Main Line",NA
+97,102,"commuter_rail","Main Line",NA
+102,103,"commuter_rail","Main Line",NA
+103,104,"commuter_rail","Main Line",NA
+104,105,"commuter_rail","Main Line",NA
+105,106,"commuter_rail","Main Line",NA
+106,137,"commuter_rail","Main Line",NA
+137,138,"commuter_rail","Main Line",NA
+138,139,"commuter_rail","Main Line",NA
+139,140,"commuter_rail","Main Line",NA
+140,154,"commuter_rail","Main Line",NA
+154,166,"commuter_rail","Main Line",NA
+166,167,"commuter_rail","Main Line",NA
+167,185,"commuter_rail","Main Line",NA
+185,186,"commuter_rail","Main Line",NA
+52,53,"commuter_rail","Vantaankoski Line",NA
+53,54,"commuter_rail","Vantaankoski Line",NA
+54,84,"commuter_rail","Vantaankoski Line",NA
+84,85,"commuter_rail","Vantaankoski Line",NA
+85,86,"commuter_rail","Vantaankoski Line",NA
+86,87,"commuter_rail","Vantaankoski Line",NA
+55,88,"commuter_rail","Ring Rail Line",NA
+88,89,"commuter_rail","Ring Rail Line",NA
+89,90,"commuter_rail","Ring Rail Line",NA
+90,91,"commuter_rail","Ring Rail Line",NA
+69,70,"commuter_rail","Lahti Line",NA
+70,71,"commuter_rail","Lahti Line",NA
+72,73,"commuter_rail","Riihimäki-Lahti Line",NA
+73,74,"commuter_rail","Riihimäki-Lahti Line",NA
+74,75,"commuter_rail","Riihimäki-Lahti Line",NA
+75,76,"commuter_rail","Riihimäki-Lahti Line",NA
+76,77,"commuter_rail","Riihimäki-Lahti Line",NA
+77,78,"commuter_rail","Riihimäki-Lahti Line",NA
+78,79,"commuter_rail","Riihimäki-Lahti Line",NA
+79,109,"commuter_rail","Riihimäki-Lahti Line",NA
+109,141,"commuter_rail","Riihimäki-Lahti Line",NA
+141,157,"commuter_rail","Riihimäki-Lahti Line",NA
+157,158,"commuter_rail","Riihimäki-Lahti Line",NA
+158,159,"commuter_rail","Riihimäki-Lahti Line",NA
+159,160,"commuter_rail","Riihimäki-Lahti Line",NA
+160,161,"commuter_rail","Riihimäki-Lahti Line",NA
+161,168,"commuter_rail","Riihimäki-Lahti Line",NA
+168,169,"commuter_rail","Riihimäki-Lahti Line",NA
+169,170,"commuter_rail","Riihimäki-Lahti Line",NA
+170,171,"commuter_rail","Riihimäki-Lahti Line",NA
+171,172,"commuter_rail","Riihimäki-Lahti Line",NA
+172,173,"commuter_rail","Riihimäki-Lahti Line",NA
+173,174,"commuter_rail","Riihimäki-Lahti Line",NA
+174,175,"commuter_rail","Riihimäki-Lahti Line",NA
+175,176,"commuter_rail","Riihimäki-Lahti Line",NA
+176,177,"commuter_rail","Riihimäki-Lahti Line",NA
+177,178,"commuter_rail","Riihimäki-Lahti Line",NA
+178,179,"commuter_rail","Riihimäki-Lahti Line",NA
+179,180,"commuter_rail","Riihimäki-Lahti Line",NA
+188,189,"commuter_rail","Kerava-Porvoo Line",NA
+189,190,"commuter_rail","Kerava-Porvoo Line",NA
+190,191,"commuter_rail","Kerava-Porvoo Line",NA
+191,192,"commuter_rail","Kerava-Porvoo Line",NA
+192,193,"commuter_rail","Kerava-Porvoo Line",NA
+193,194,"commuter_rail","Kerava-Porvoo Line",NA
+194,195,"commuter_rail","Kerava-Porvoo Line",NA
+195,196,"commuter_rail","Kerava-Porvoo Line",NA
+196,197,"commuter_rail","Kerava-Porvoo Line",NA
+197,198,"commuter_rail","Kerava-Porvoo Line",NA
+198,199,"commuter_rail","Kerava-Porvoo Line",NA
+205,206,"light_rail","Line 15 (Jokeri)",2023
+206,207,"light_rail","Line 15 (Jokeri)",2023
+207,208,"light_rail","Line 15 (Jokeri)",2023
+208,209,"light_rail","Line 15 (Jokeri)",2023
+209,210,"light_rail","Line 15 (Jokeri)",2023
+210,211,"light_rail","Line 15 (Jokeri)",2023
+211,212,"light_rail","Line 15 (Jokeri)",2023
+212,213,"light_rail","Line 15 (Jokeri)",2023
+213,214,"light_rail","Line 15 (Jokeri)",2023
+214,215,"light_rail","Line 15 (Jokeri)",2023
+215,216,"light_rail","Line 15 (Jokeri)",2023
+216,217,"light_rail","Line 15 (Jokeri)",2023
+217,218,"light_rail","Line 15 (Jokeri)",2023
+218,219,"light_rail","Line 15 (Jokeri)",2023
+219,220,"light_rail","Line 15 (Jokeri)",2023
+220,221,"light_rail","Line 15 (Jokeri)",2023
+221,222,"light_rail","Line 15 (Jokeri)",2023
+222,223,"light_rail","Line 15 (Jokeri)",2023
+223,224,"light_rail","Line 15 (Jokeri)",2023
+224,225,"light_rail","Line 15 (Jokeri)",2023
+225,226,"light_rail","Line 15 (Jokeri)",2023
+226,227,"light_rail","Line 15 (Jokeri)",2023
+227,228,"light_rail","Line 15 (Jokeri)",2023
+228,229,"light_rail","Line 15 (Jokeri)",2023
+229,230,"light_rail","Line 15 (Jokeri)",2023
+230,231,"light_rail","Line 15 (Jokeri)",2023
+231,232,"light_rail","Line 15 (Jokeri)",2023
+232,233,"light_rail","Line 15 (Jokeri)",2023
+233,234,"light_rail","Line 15 (Jokeri)",2023
+234,235,"light_rail","Line 15 (Jokeri)",2023
+235,236,"light_rail","Line 15 (Jokeri)",2023
+236,237,"light_rail","Line 15 (Jokeri)",2023
+237,238,"light_rail","Line 15 (Jokeri)",2023
+241,242,"tram","Downtown network",2012
+242,243,"tram","Downtown network",2012
+243,244,"tram","Downtown network",2017
+244,245,"tram","Downtown network",2017
+245,246,"tram","Downtown network",2021
+246,247,"tram","Downtown network",2021
+247,248,"tram","Downtown network",2012
+248,249,"tram","Downtown network",2012
+249,250,"tram","Downtown network",2017
+250,251,"tram","Downtown network",2017
+251,252,"tram","Downtown network",2012
+252,253,"tram","Downtown network",2012
+253,254,"tram","Downtown network",2012
+254,255,"tram","Downtown network",2012
+255,256,"tram","Downtown network",2009
+256,257,"tram","Downtown network",2009
+257,258,"tram","Downtown network",2022
+258,259,"tram","Downtown network",2022
+259,260,"tram","Downtown network",2022
+260,261,"tram","Downtown network",2021
+261,262,"tram","Downtown network",2021
+262,263,"tram","Downtown network",2021
+263,264,"tram","Downtown network",2022
+264,265,"tram","Downtown network",2012
+265,266,"tram","Downtown network",2019
+266,267,"tram","Downtown network",2015
+267,268,"tram","Downtown network",2008
+268,269,"tram","Downtown network",2008
+269,270,"tram","Downtown network",2008
+270,271,"tram","Downtown network",2008
+271,272,"tram","Downtown network",2008
+272,273,"tram","Downtown network",2008
+273,274,"tram","Downtown network",2008
+274,275,"tram","Downtown network",2018
+275,276,"tram","Downtown network",2017
+276,277,"tram","Downtown network",2009
+277,278,"tram","Downtown network",2004
+278,279,"tram","Downtown network",2004
+279,280,"tram","Downtown network",1972
+280,281,"tram","Downtown network",1972
+281,282,"tram","Downtown network",1978
+282,283,"tram","Downtown network",1972
+283,284,"tram","Downtown network",1978
+284,285,"tram","Downtown network",2012
+285,286,"tram","Downtown network",1978
+286,287,"tram","Downtown network",2023
+287,288,"tram","Downtown network",1999
+288,289,"tram","Downtown network",1972
+289,290,"tram","Downtown network",1972
+290,291,"tram","Downtown network",1972
+291,292,"tram","Downtown network",1972
+292,293,"tram","Downtown network",1972
+293,294,"tram","Downtown network",1972
+294,295,"tram","Downtown network",1978
+295,296,"tram","Downtown network",1972
+296,297,"tram","Downtown network",1972
+297,298,"tram","Downtown network",1972
+298,299,"tram","Downtown network",1972
+299,300,"tram","Downtown network",1972
+300,301,"tram","Downtown network",1972
+301,302,"tram","Downtown network",1972
+302,303,"tram","Downtown network",2017
+303,304,"tram","Downtown network",1972
+304,305,"tram","Downtown network",1972
+305,306,"tram","Downtown network",1972
+306,307,"tram","Downtown network",1972
+307,308,"tram","Downtown network",1972
+308,309,"tram","Downtown network",1997
+309,310,"tram","Downtown network",1972
+310,311,"tram","Downtown network",1997
+311,312,"tram","Downtown network",2016
+312,313,"tram","Downtown network",1972
+313,314,"tram","Downtown network",1995
+314,315,"tram","Downtown network",1972
+315,316,"tram","Downtown network",1972
+316,317,"tram","Downtown network",1972
+317,318,"tram","Downtown network",2020
+318,319,"tram","Downtown network",1972
+319,320,"tram","Downtown network",2011
+320,321,"tram","Downtown network",2020
+321,322,"tram","Downtown network",2020
+322,323,"tram","Downtown network",1972
+323,324,"tram","Downtown network",1972
+324,325,"tram","Downtown network",2012
+325,326,"tram","Downtown network",1972
+326,327,"tram","Downtown network",1972
+327,328,"tram","Downtown network",1972
+328,329,"tram","Downtown network",1976
+329,330,"tram","Downtown network",1972
+330,331,"tram","Downtown network",1999
+331,332,"tram","Downtown network",1972
+332,333,"tram","Downtown network",1972
+333,334,"tram","Downtown network",1972
+334,335,"tram","Downtown network",1975
+335,336,"tram","Downtown network",1994
+336,337,"tram","Downtown network",1972
+337,338,"tram","Downtown network",1994
+338,339,"tram","Downtown network",1972
+339,340,"tram","Downtown network",1972
+340,341,"tram","Downtown network",1972
+341,342,"tram","Downtown network",1972
+342,343,"tram","Downtown network",1972
+343,344,"tram","Downtown network",1972
+344,345,"tram","Downtown network",2014
+345,346,"tram","Downtown network",2017
+346,347,"tram","Downtown network",1972
+347,348,"tram","Downtown network",2017
+348,349,"tram","Downtown network",1972
+349,350,"tram","Downtown network",1972
+350,351,"tram","Downtown network",2021
+351,352,"tram","Downtown network",1972
+352,353,"tram","Downtown network",1972
+353,354,"tram","Downtown network",1972
+354,355,"tram","Downtown network",1972
+355,356,"tram","Downtown network",1972
+356,357,"tram","Downtown network",1972
+357,358,"tram","Downtown network",1994
+358,359,"tram","Downtown network",2015
+359,360,"tram","Downtown network",1994
+360,361,"tram","Downtown network",1972
+361,362,"tram","Downtown network",1987
+362,363,"tram","Downtown network",1972
+363,364,"tram","Downtown network",1972
+364,365,"tram","Downtown network",1972
+365,366,"tram","Downtown network",1972
+366,367,"tram","Downtown network",1972
+367,368,"tram","Downtown network",1972
+368,369,"tram","Downtown network",1972
+369,370,"tram","Downtown network",2017
+370,371,"tram","Downtown network",1976
+371,372,"tram","Downtown network",1972
+372,373,"tram","Downtown network",1972
+373,374,"tram","Downtown network",1994
+374,375,"tram","Downtown network",1999
+375,376,"tram","Downtown network",1972
+376,377,"tram","Downtown network",1997
+377,378,"tram","Downtown network",1972
+378,379,"tram","Downtown network",1972
+379,380,"tram","Downtown network",1972
+380,381,"tram","Downtown network",1972
+381,382,"tram","Downtown network",1972
+382,383,"tram","Downtown network",1972
+383,384,"tram","Downtown network",1972
+384,385,"tram","Downtown network",1972
+385,386,"tram","Downtown network",1972
+386,387,"tram","Downtown network",2014
+387,388,"tram","Downtown network",1980
+388,389,"tram","Downtown network",2014
+389,390,"tram","Downtown network",1972
+390,391,"tram","Downtown network",2007
+391,392,"tram","Downtown network",1972
+392,393,"tram","Downtown network",2020
+393,394,"tram","Downtown network",1972
+394,395,"tram","Downtown network",1972
+395,396,"tram","Downtown network",1972
+396,397,"tram","Downtown network",1972
+397,398,"tram","Downtown network",2008
+398,399,"tram","Downtown network",2008
+399,400,"tram","Downtown network",1972
+400,401,"tram","Downtown network",1980
+401,402,"tram","Downtown network",1972
+402,403,"tram","Downtown network",1972
+403,404,"tram","Downtown network",2014
+404,405,"tram","Downtown network",2017
+405,406,"tram","Downtown network",1972
+406,407,"tram","Downtown network",1972
+407,408,"tram","Downtown network",1973
+408,409,"tram","Downtown network",1973
+409,410,"tram","Downtown network",1994
+410,411,"tram","Downtown network",1972
+411,412,"tram","Downtown network",1972
+412,413,"tram","Downtown network",1972
+413,414,"tram","Downtown network",1972
+414,415,"tram","Downtown network",1972
+415,416,"tram","Downtown network",1972
+416,417,"tram","Downtown network",2017
+417,418,"tram","Downtown network",2010
+418,419,"tram","Downtown network",2017
+419,420,"tram","Downtown network",1972
+420,421,"tram","Downtown network",1977
+421,422,"tram","Downtown network",2018
+422,423,"tram","Downtown network",1972
+423,424,"tram","Downtown network",1972
+424,425,"tram","Downtown network",1991
+425,426,"tram","Downtown network",1991
+426,427,"tram","Downtown network",1991
+427,428,"tram","Downtown network",1972
+428,429,"tram","Downtown network",2020
+429,430,"tram","Downtown network",1972
+430,431,"tram","Downtown network",1972
+431,432,"tram","Downtown network",2017
+432,433,"tram","Downtown network",1972
+433,434,"tram","Downtown network",1972
+434,435,"tram","Downtown network",1972
+435,436,"tram","Downtown network",1972
+436,437,"tram","Downtown network",1972
+437,438,"tram","Downtown network",2022
+438,439,"tram","Downtown network",2022
+439,440,"tram","Downtown network",1992
+440,441,"tram","Downtown network",1992
+441,442,"tram","Downtown network",1980
+442,443,"tram","Downtown network",1980
+443,444,"tram","Downtown network",1984
+444,445,"tram","Downtown network",1991
+445,446,"tram","Downtown network",1991
+446,447,"tram","Downtown network",2023
+447,448,"tram","Downtown network",1991
+448,449,"tram","Downtown network",1991
+449,450,"tram","Downtown network",1991
+450,451,"tram","Downtown network",1991
+451,452,"tram","Downtown network",1972
+452,453,"tram","Downtown network",1980
+453,454,"tram","Downtown network",2019
+454,455,"tram","Downtown network",1980
+455,456,"tram","Downtown network",1985
+456,457,"tram","Downtown network",1985
+457,458,"tram","Downtown network",1985
+458,459,"tram","Downtown network",2002
+459,460,"tram","Downtown network",2008
+460,461,"tram","Downtown network",1985
+461,462,"tram","Downtown network",1985
+462,463,"tram","Downtown network",2020
+463,464,"tram","Downtown network",2022
+464,465,"tram","Downtown network",2019
+465,466,"tram","Downtown network",1995
+466,467,"tram","Downtown network",1976
+467,468,"tram","Downtown network",1976
+468,469,"tram","Downtown network",1976
+469,470,"tram","Downtown network",1976
+470,471,"tram","Downtown network",2022
+471,472,"tram","Downtown network",1985
+472,475,"tram","Downtown network",1985
+475,476,"tram","Downtown network",1972
+476,477,"tram","Downtown network",1997
+477,478,"tram","Downtown network",1997
+478,479,"tram","Downtown network",1998
+479,480,"tram","Downtown network",1972
+480,481,"tram","Downtown network",1997
+481,482,"tram","Downtown network",1972
+482,483,"tram","Downtown network",1972
+483,484,"tram","Downtown network",2020
+484,485,"tram","Downtown network",1993
+485,486,"tram","Downtown network",1972
+486,487,"tram","Downtown network",2012
+487,488,"tram","Downtown network",1972
+488,489,"tram","Downtown network",1972
+489,490,"tram","Downtown network",1972
+490,491,"tram","Downtown network",1996
+491,492,"tram","Downtown network",1972
+492,493,"tram","Downtown network",1972
+493,494,"tram","Downtown network",2001
+494,495,"tram","Downtown network",2017
+495,496,"tram","Downtown network",1995
+496,497,"tram","Downtown network",2017
+497,498,"tram","Downtown network",1972
+498,499,"tram","Downtown network",1996
+499,500,"tram","Downtown network",2017
+500,501,"tram","Downtown network",1972
+501,502,"tram","Downtown network",1996
+502,503,"tram","Downtown network",2011
+503,504,"tram","Downtown network",1972
+504,505,"tram","Downtown network",1972
+505,506,"tram","Downtown network",1972
+506,507,"tram","Downtown network",1972
+507,508,"tram","Downtown network",1972
+508,509,"tram","Downtown network",1995
+509,510,"tram","Downtown network",1972
+510,511,"tram","Downtown network",2019
+511,512,"tram","Downtown network",2019
+512,513,"tram","Downtown network",1972
+513,514,"tram","Downtown network",1991
+514,515,"tram","Downtown network",1976
+515,516,"tram","Downtown network",2022
+516,517,"tram","Downtown network",1994
+517,518,"tram","Downtown network",1972
+518,519,"tram","Downtown network",2018
+519,520,"tram","Downtown network",1972
+520,521,"tram","Downtown network",1995
+521,522,"tram","Downtown network",2011
+522,523,"tram","Downtown network",2008
+523,524,"tram","Downtown network",2021
+524,525,"tram","Downtown network",1972
+525,526,"tram","Downtown network",1972

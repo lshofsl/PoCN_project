@@ -1,0 +1,980 @@
+"nodeID_from","nodeID_to","mode","line","year"
+48,82,"heavy_rail","Northern",1926
+82,83,"heavy_rail","Northern",1926
+83,84,"heavy_rail","Northern",1926
+84,85,"heavy_rail","Northern",1900
+85,87,"heavy_rail","Northern",1890
+87,88,"heavy_rail","Northern",1890
+88,89,"heavy_rail","Northern",1926
+89,90,"heavy_rail","Northern",1926
+90,91,"heavy_rail","Northern",1890
+91,93,"heavy_rail","Northern",1926
+93,94,"heavy_rail","Northern",1926
+94,97,"heavy_rail","Northern",1926
+97,103,"heavy_rail","Northern",1890
+103,106,"heavy_rail","Northern",1890
+106,107,"heavy_rail","Northern",1900
+107,197,"heavy_rail","Northern",1900
+197,198,"heavy_rail","Northern",1907
+198,199,"heavy_rail","Northern",1907
+199,200,"heavy_rail","Northern",1923
+200,201,"heavy_rail","Northern",1924
+201,202,"heavy_rail","Northern",1924
+202,212,"heavy_rail","Northern",1907
+212,213,"heavy_rail","Northern",1867
+213,234,"heavy_rail","Northern",1933
+234,235,"heavy_rail","Northern",1907
+235,237,"heavy_rail","Northern",1907
+237,240,"heavy_rail","Northern",1923
+240,243,"heavy_rail","Northern",1924
+243,252,"heavy_rail","Northern",1907
+252,258,"heavy_rail","Northern",1906
+258,265,"heavy_rail","Northern",1906
+265,266,"heavy_rail","Northern",1907
+266,270,"heavy_rail","Northern",1907
+270,275,"heavy_rail","Northern",1907
+275,276,"heavy_rail","Northern",1907
+276,277,"heavy_rail","Northern",1901
+277,278,"heavy_rail","Northern",1907
+278,279,"heavy_rail","Northern",1907
+279,280,"heavy_rail","Northern",1907
+280,286,"heavy_rail","Northern",1901
+286,287,"heavy_rail","Northern",1867
+287,288,"heavy_rail","Northern",1940
+288,289,"heavy_rail","Northern",1867
+289,290,"heavy_rail","Northern",1872
+290,332,"heavy_rail","Northern",1940
+332,488,"heavy_rail","Northern",1872
+488,512,"heavy_rail","Northern",2020
+512,478,"heavy_rail","Northern",2020
+478,498,"heavy_rail","Northern",1864
+498,319,"heavy_rail","Northern",1863
+4,9,"heavy_rail","Central",1947
+9,72,"heavy_rail","Central",1900
+72,73,"heavy_rail","Central",1947
+73,76,"heavy_rail","Central",1947
+76,77,"heavy_rail","Central",1948
+77,78,"heavy_rail","Central",1947
+78,104,"heavy_rail","Central",1948
+104,134,"heavy_rail","Central",1947
+134,160,"heavy_rail","Central",1948
+160,170,"heavy_rail","Central",1947
+170,171,"heavy_rail","Central",1947
+171,172,"heavy_rail","Central",1947
+172,173,"heavy_rail","Central",1948
+173,174,"heavy_rail","Central",1948
+174,183,"heavy_rail","Central",1948
+183,209,"heavy_rail","Central",1947
+209,302,"heavy_rail","Central",1865
+302,303,"heavy_rail","Central",1900
+303,304,"heavy_rail","Central",1900
+304,305,"heavy_rail","Central",1900
+305,319,"heavy_rail","Central",1900
+319,326,"heavy_rail","Central",1898
+326,329,"heavy_rail","Central",1856
+329,330,"heavy_rail","Central",1900
+330,336,"heavy_rail","Central",1900
+336,337,"heavy_rail","Central",1900
+337,338,"heavy_rail","Central",1900
+338,339,"heavy_rail","Central",1900
+339,359,"heavy_rail","Central",1900
+359,360,"heavy_rail","Central",1920
+360,361,"heavy_rail","Central",1947
+361,362,"heavy_rail","Central",1923
+362,363,"heavy_rail","Central",1923
+363,364,"heavy_rail","Central",1947
+364,365,"heavy_rail","Central",1948
+365,366,"heavy_rail","Central",1948
+366,367,"heavy_rail","Central",1946
+367,381,"heavy_rail","Central",1946
+381,401,"heavy_rail","Central",1906
+401,632,"heavy_rail","Central",1946
+632,633,"heavy_rail","Central",1856
+633,634,"heavy_rail","Central",1865
+634,422,"heavy_rail","Central",1865
+422,696,"heavy_rail","Central",1838
+696,465,"heavy_rail","Central",1903
+465,559,"heavy_rail","Central",1875
+NA,636,"heavy_rail","Central",NA
+461,559,"heavy_rail","Circle",1868
+559,750,"heavy_rail","Circle",1884
+750,313,"heavy_rail","Circle",1868
+313,756,"heavy_rail","Circle",1868
+756,758,"heavy_rail","Circle",1868
+758,462,"heavy_rail","Circle",1864
+462,463,"heavy_rail","Circle",1864
+463,464,"heavy_rail","Circle",1864
+464,228,"heavy_rail","Circle",1864
+228,497,"heavy_rail","Circle",1864
+497,465,"heavy_rail","Circle",1863
+465,102,"heavy_rail","Circle",1875
+102,751,"heavy_rail","Circle",1868
+751,141,"heavy_rail","Circle",1868
+141,142,"heavy_rail","Circle",1868
+142,210,"heavy_rail","Circle",1868
+210,472,"heavy_rail","Circle",1863
+472,476,"heavy_rail","Circle",1864
+476,478,"heavy_rail","Circle",1864
+478,498,"heavy_rail","Circle",1864
+498,499,"heavy_rail","Circle",1863
+499,500,"heavy_rail","Circle",1863
+500,117,"heavy_rail","Circle",1863
+117,146,"heavy_rail","Circle",1868
+146,147,"heavy_rail","Circle",1870
+147,148,"heavy_rail","Circle",1870
+148,149,"heavy_rail","Circle",1866
+149,284,"heavy_rail","Circle",1884
+284,150,"heavy_rail","Circle",1884
+NA,473,"heavy_rail","Circle",NA
+473,501,"heavy_rail","Circle",1876
+NA,496,"heavy_rail","Circle",NA
+49,319,"heavy_rail","Waterloo & City",1898
+1,23,"heavy_rail","District ",1877
+23,25,"heavy_rail","District ",1902
+25,26,"heavy_rail","District ",1902
+26,92,"heavy_rail","District ",1902
+92,95,"heavy_rail","District ",1889
+95,96,"heavy_rail","District ",1889
+96,98,"heavy_rail","District ",1869
+98,99,"heavy_rail","District ",1889
+99,100,"heavy_rail","District ",1880
+100,101,"heavy_rail","District ",1889
+101,102,"heavy_rail","District ",1871
+102,108,"heavy_rail","District ",1868
+108,117,"heavy_rail","District ",1880
+117,137,"heavy_rail","District ",1868
+137,141,"heavy_rail","District ",1874
+141,142,"heavy_rail","District ",1868
+142,143,"heavy_rail","District ",1868
+143,144,"heavy_rail","District ",1906
+144,146,"heavy_rail","District ",1874
+146,147,"heavy_rail","District ",1870
+147,148,"heavy_rail","District ",1870
+148,149,"heavy_rail","District ",1866
+149,150,"heavy_rail","District ",1884
+150,181,"heavy_rail","District ",1884
+181,218,"heavy_rail","District ",1880
+218,219,"heavy_rail","District ",1912
+219,220,"heavy_rail","District ",1877
+220,221,"heavy_rail","District ",1877
+221,223,"heavy_rail","District ",1879
+223,229,"heavy_rail","District ",1879
+229,281,"heavy_rail","District ",1877
+281,282,"heavy_rail","District ",1884
+282,284,"heavy_rail","District ",1879
+284,313,"heavy_rail","District ",1884
+313,323,"heavy_rail","District ",1868
+323,392,"heavy_rail","District ",1858
+392,393,"heavy_rail","District ",1902
+393,400,"heavy_rail","District ",1902
+400,423,"heavy_rail","District ",1902
+423,457,"heavy_rail","District ",1858
+457,503,"heavy_rail","District ",1902
+503,532,"heavy_rail","District ",1902
+532,533,"heavy_rail","District ",1902
+533,534,"heavy_rail","District ",1902
+534,536,"heavy_rail","District ",1902
+536,561,"heavy_rail","District ",1934
+561,562,"heavy_rail","District ",1858
+562,422,"heavy_rail","District ",1858
+422,717,"heavy_rail","District ",1838
+717,750,"heavy_rail","District ",1903
+750,751,"heavy_rail","District ",1868
+751,461,"heavy_rail","District ",1868
+461,756,"heavy_rail","District ",1868
+756,46,"heavy_rail","District ",1868
+46,804,"heavy_rail","District ",1885
+804,208,"heavy_rail","District ",1846
+208,559,"heavy_rail","District ",1863
+559,822,"heavy_rail","District ",1884
+822,825,"heavy_rail","District ",1876
+825,177,"heavy_rail","District ",1884
+NA,497,"heavy_rail","District ",NA
+86,105,"commuter_rail","West London",2007
+105,145,"commuter_rail","West London",2007
+145,208,"commuter_rail","West London",2008
+208,214,"commuter_rail","West London",1863
+214,807,"commuter_rail","West London",2008
+114,118,"heavy_rail","Bakerloo",1906
+118,119,"heavy_rail","Bakerloo",1915
+119,120,"heavy_rail","Bakerloo",1917
+120,138,"heavy_rail","Bakerloo",1915
+138,261,"heavy_rail","Bakerloo",1906
+261,291,"heavy_rail","Bakerloo",1906
+291,309,"heavy_rail","Bakerloo",1906
+309,328,"heavy_rail","Bakerloo",1913
+328,799,"heavy_rail","Bakerloo",1906
+799,103,"heavy_rail","Bakerloo",1868
+NA,469,"heavy_rail","Bakerloo",NA
+469,471,"heavy_rail","Bakerloo",1939
+471,474,"heavy_rail","Bakerloo",1879
+474,635,"heavy_rail","Bakerloo",1932
+635,643,"heavy_rail","Bakerloo",1932
+643,644,"heavy_rail","Bakerloo",1932
+644,475,"heavy_rail","Bakerloo",1932
+475,330,"heavy_rail","Bakerloo",1939
+NA,425,"heavy_rail","Bakerloo",NA
+425,426,"heavy_rail","Bakerloo",1912
+426,333,"heavy_rail","Bakerloo",1914
+NA,479,"heavy_rail","Bakerloo",NA
+121,122,"heavy_rail","Victoria",1972
+122,136,"heavy_rail","Victoria",1971
+136,224,"heavy_rail","Victoria",1971
+224,249,"heavy_rail","Victoria",1968
+249,250,"heavy_rail","Victoria",1968
+250,251,"heavy_rail","Victoria",1968
+251,253,"heavy_rail","Victoria",1968
+253,255,"heavy_rail","Victoria",1968
+255,257,"heavy_rail","Victoria",1968
+257,141,"heavy_rail","Victoria",1968
+141,621,"heavy_rail","Victoria",1868
+621,330,"heavy_rail","Victoria",1968
+330,331,"heavy_rail","Victoria",1900
+331,90,"heavy_rail","Victoria",1906
+90,848,"heavy_rail","Victoria",1890
+110,111,"inter_city_rail","South Western",1884
+111,112,"inter_city_rail","South Western",1871
+112,113,"inter_city_rail","South Western",1838
+113,116,"inter_city_rail","South Western",1877
+116,139,"inter_city_rail","South Western",1848
+139,140,"inter_city_rail","South Western",1838
+140,153,"inter_city_rail","South Western",1846
+153,154,"inter_city_rail","South Western",1933
+154,156,"inter_city_rail","South Western",1848
+156,191,"inter_city_rail","South Western",1863
+191,215,"inter_city_rail","South Western",1838
+215,254,"inter_city_rail","South Western",1838
+254,259,"inter_city_rail","South Western",1876
+259,260,"inter_city_rail","South Western",1846
+260,262,"inter_city_rail","South Western",1846
+262,263,"inter_city_rail","South Western",1846
+263,264,"inter_city_rail","South Western",1846
+264,267,"inter_city_rail","South Western",1930
+267,268,"inter_city_rail","South Western",1848
+268,269,"inter_city_rail","South Western",1873
+269,271,"inter_city_rail","South Western",1863
+271,272,"inter_city_rail","South Western",1889
+272,273,"inter_city_rail","South Western",1863
+273,274,"inter_city_rail","South Western",1863
+274,379,"inter_city_rail","South Western",1869
+379,386,"inter_city_rail","South Western",1932
+386,387,"inter_city_rail","South Western",1851
+387,388,"inter_city_rail","South Western",1939
+388,389,"inter_city_rail","South Western",1930
+389,390,"inter_city_rail","South Western",1916
+390,412,"inter_city_rail","South Western",1848
+412,413,"inter_city_rail","South Western",1859
+413,414,"inter_city_rail","South Western",1859
+414,415,"inter_city_rail","South Western",1925
+415,416,"inter_city_rail","South Western",1849
+416,417,"inter_city_rail","South Western",1939
+417,418,"inter_city_rail","South Western",1938
+418,419,"inter_city_rail","South Western",1938
+419,427,"inter_city_rail","South Western",1849
+427,428,"inter_city_rail","South Western",1850
+428,429,"inter_city_rail","South Western",1931
+429,430,"inter_city_rail","South Western",1849
+430,431,"inter_city_rail","South Western",1850
+431,510,"inter_city_rail","South Western",1849
+510,511,"inter_city_rail","South Western",1864
+511,513,"inter_city_rail","South Western",1878
+513,514,"inter_city_rail","South Western",1864
+514,623,"inter_city_rail","South Western",1864
+623,625,"inter_city_rail","South Western",1864
+625,713,"inter_city_rail","South Western",1944
+713,723,"inter_city_rail","South Western",1838
+723,728,"inter_city_rail","South Western",0
+728,729,"inter_city_rail","South Western",1838
+729,730,"inter_city_rail","South Western",1845
+730,804,"inter_city_rail","South Western",1885
+109,115,"heavy_rail","Jubilee",1999
+115,135,"heavy_rail","Jubilee",1999
+135,155,"heavy_rail","Jubilee",1999
+155,157,"heavy_rail","Jubilee",1999
+157,161,"heavy_rail","Jubilee",1999
+161,162,"heavy_rail","Jubilee",1994
+162,301,"heavy_rail","Jubilee",1840
+301,348,"heavy_rail","Jubilee",1979
+348,399,"heavy_rail","Jubilee",1999
+399,424,"heavy_rail","Jubilee",1979
+424,466,"heavy_rail","Jubilee",1999
+466,467,"heavy_rail","Jubilee",1979
+467,469,"heavy_rail","Jubilee",1979
+469,471,"heavy_rail","Jubilee",1939
+471,474,"heavy_rail","Jubilee",1879
+474,475,"heavy_rail","Jubilee",1932
+475,635,"heavy_rail","Jubilee",1939
+635,643,"heavy_rail","Jubilee",1932
+643,644,"heavy_rail","Jubilee",1932
+644,799,"heavy_rail","Jubilee",1932
+799,315,"heavy_rail","Jubilee",1868
+NA,468,"heavy_rail","Jubilee",NA
+468,117,"heavy_rail","Jubilee",1893
+117,329,"heavy_rail","Jubilee",1868
+329,331,"heavy_rail","Jubilee",1900
+NA,572,"heavy_rail","Jubilee",NA
+216,217,"commuter_rail","South London",2012
+217,230,"commuter_rail","South London",2012
+230,231,"commuter_rail","South London",1866
+231,317,"commuter_rail","South London",1865
+317,207,"commuter_rail","South London",1869
+283,314,"commuter_rail","East London",1869
+314,315,"commuter_rail","East London",1876
+315,316,"commuter_rail","East London",1999
+316,317,"commuter_rail","East London",1869
+317,318,"commuter_rail","East London",1869
+318,320,"commuter_rail","East London",1839
+320,321,"commuter_rail","East London",2010
+321,322,"commuter_rail","East London",1865
+322,327,"commuter_rail","East London",1865
+327,558,"commuter_rail","East London",2010
+558,822,"commuter_rail","East London",2010
+822,564,"commuter_rail","East London",1876
+564,47,"commuter_rail","East London",1886
+47,565,"commuter_rail","East London",1839
+565,566,"commuter_rail","East London",1839
+566,567,"commuter_rail","East London",1839
+567,848,"commuter_rail","East London",1839
+848,849,"commuter_rail","East London",1904
+849,560,"commuter_rail","East London",1850
+NA,62,"commuter_rail","East London",NA
+2,3,"light_rail","DLR",1987
+3,54,"light_rail","DLR",1987
+54,292,"light_rail","DLR",2009
+292,293,"light_rail","DLR",1999
+293,294,"light_rail","DLR",1987
+294,295,"light_rail","DLR",1987
+295,296,"light_rail","DLR",1987
+296,297,"light_rail","DLR",1999
+297,298,"light_rail","DLR",1999
+298,299,"light_rail","DLR",1999
+299,312,"light_rail","DLR",1999
+312,324,"light_rail","DLR",1987
+324,325,"light_rail","DLR",1840
+325,334,"light_rail","DLR",1987
+334,368,"light_rail","DLR",1999
+368,369,"light_rail","DLR",1987
+369,370,"light_rail","DLR",1987
+370,372,"light_rail","DLR",1987
+372,374,"light_rail","DLR",1987
+374,375,"light_rail","DLR",1994
+375,376,"light_rail","DLR",1994
+376,377,"light_rail","DLR",1994
+377,378,"light_rail","DLR",1994
+378,402,"light_rail","DLR",1994
+402,404,"light_rail","DLR",1987
+404,405,"light_rail","DLR",1987
+405,407,"light_rail","DLR",1987
+407,408,"light_rail","DLR",1994
+408,409,"light_rail","DLR",1994
+409,410,"light_rail","DLR",1994
+410,411,"light_rail","DLR",1994
+411,446,"light_rail","DLR",1994
+446,447,"light_rail","DLR",2005
+447,448,"light_rail","DLR",2005
+448,480,"light_rail","DLR",2005
+480,572,"light_rail","DLR",2005
+572,573,"light_rail","DLR",2011
+573,596,"light_rail","DLR",2011
+596,597,"light_rail","DLR",2011
+597,724,"light_rail","DLR",2011
+724,746,"light_rail","DLR",1987
+746,424,"light_rail","DLR",2018
+424,161,"light_rail","DLR",1999
+161,319,"light_rail","DLR",1994
+NA,162,"light_rail","DLR",NA
+300,335,"commuter_rail","North London",2007
+335,487,"commuter_rail","North London",2007
+487,620,"commuter_rail","North London",2007
+620,804,"commuter_rail","North London",1850
+804,843,"commuter_rail","North London",1846
+843,844,"commuter_rail","North London",1980
+844,847,"commuter_rail","North London",1985
+847,848,"commuter_rail","North London",1852
+848,849,"commuter_rail","North London",1904
+849,162,"commuter_rail","North London",1850
+NA,220,"commuter_rail","North London",NA
+220,1,"commuter_rail","North London",1877
+NA,105,"commuter_rail","North London",NA
+5,6,"heavy_rail","Piccadilly",1935
+6,8,"heavy_rail","Piccadilly",1933
+8,192,"heavy_rail","Piccadilly",1906
+192,306,"heavy_rail","Piccadilly",1932
+306,307,"heavy_rail","Piccadilly",1906
+307,308,"heavy_rail","Piccadilly",1906
+308,310,"heavy_rail","Piccadilly",1906
+310,311,"heavy_rail","Piccadilly",1906
+311,331,"heavy_rail","Piccadilly",1932
+331,340,"heavy_rail","Piccadilly",1906
+340,341,"heavy_rail","Piccadilly",1906
+341,342,"heavy_rail","Piccadilly",1906
+342,343,"heavy_rail","Piccadilly",1906
+343,344,"heavy_rail","Piccadilly",1906
+344,394,"heavy_rail","Piccadilly",1906
+394,395,"heavy_rail","Piccadilly",1932
+395,396,"heavy_rail","Piccadilly",1932
+396,397,"heavy_rail","Piccadilly",1933
+397,398,"heavy_rail","Piccadilly",1933
+398,403,"heavy_rail","Piccadilly",1933
+403,420,"heavy_rail","Piccadilly",1977
+420,433,"heavy_rail","Piccadilly",1933
+433,434,"heavy_rail","Piccadilly",2008
+434,435,"heavy_rail","Piccadilly",1975
+435,436,"heavy_rail","Piccadilly",1932
+436,437,"heavy_rail","Piccadilly",1932
+437,438,"heavy_rail","Piccadilly",1932
+438,439,"heavy_rail","Piccadilly",1932
+439,440,"heavy_rail","Piccadilly",1932
+440,441,"heavy_rail","Piccadilly",1933
+441,444,"heavy_rail","Piccadilly",1933
+444,445,"heavy_rail","Piccadilly",1933
+445,452,"heavy_rail","Piccadilly",1933
+452,453,"heavy_rail","Piccadilly",1932
+453,454,"heavy_rail","Piccadilly",1933
+454,455,"heavy_rail","Piccadilly",1933
+455,458,"heavy_rail","Piccadilly",1933
+458,459,"heavy_rail","Piccadilly",1934
+459,460,"heavy_rail","Piccadilly",1933
+460,477,"heavy_rail","Piccadilly",1933
+477,502,"heavy_rail","Piccadilly",1986
+502,101,"heavy_rail","Piccadilly",1932
+101,143,"heavy_rail","Piccadilly",1871
+143,144,"heavy_rail","Piccadilly",1906
+144,229,"heavy_rail","Piccadilly",1874
+229,282,"heavy_rail","Piccadilly",1877
+282,750,"heavy_rail","Piccadilly",1879
+NA,177,"heavy_rail","Piccadilly",NA
+177,328,"heavy_rail","Piccadilly",1904
+328,252,"heavy_rail","Piccadilly",1906
+NA,221,"heavy_rail","Piccadilly",NA
+29,31,"commuter_rail","Thameslink",1862
+31,32,"commuter_rail","Thameslink",1929
+32,41,"commuter_rail","Thameslink",1930
+41,42,"commuter_rail","Thameslink",1892
+42,43,"commuter_rail","Thameslink",1892
+43,67,"commuter_rail","Thameslink",1892
+67,70,"commuter_rail","Thameslink",1868
+70,127,"commuter_rail","Thameslink",1878
+127,206,"commuter_rail","Thameslink",1878
+206,241,"commuter_rail","Thameslink",1862
+241,247,"commuter_rail","Thameslink",1862
+247,248,"commuter_rail","Thameslink",1868
+248,345,"commuter_rail","Thameslink",1892
+345,346,"commuter_rail","Thameslink",1864
+346,347,"commuter_rail","Thameslink",1862
+347,350,"commuter_rail","Thameslink",1863
+350,351,"commuter_rail","Thameslink",1868
+351,352,"commuter_rail","Thameslink",1868
+352,353,"commuter_rail","Thameslink",1894
+353,354,"commuter_rail","Thameslink",1868
+354,355,"commuter_rail","Thameslink",1868
+355,356,"commuter_rail","Thameslink",2007
+356,357,"commuter_rail","Thameslink",1870
+357,358,"commuter_rail","Thameslink",1868
+358,380,"commuter_rail","Thameslink",1871
+380,382,"commuter_rail","Thameslink",1990
+382,383,"commuter_rail","Thameslink",1868
+383,384,"commuter_rail","Thameslink",1868
+384,385,"commuter_rail","Thameslink",1868
+385,391,"commuter_rail","Thameslink",1868
+391,515,"commuter_rail","Thameslink",1930
+515,517,"commuter_rail","Thameslink",2008
+517,519,"commuter_rail","Thameslink",1868
+519,520,"commuter_rail","Thameslink",1868
+520,531,"commuter_rail","Thameslink",1868
+531,539,"commuter_rail","Thameslink",1863
+539,540,"commuter_rail","Thameslink",1892
+540,541,"commuter_rail","Thameslink",1929
+541,542,"commuter_rail","Thameslink",1930
+542,544,"commuter_rail","Thameslink",1930
+544,552,"commuter_rail","Thameslink",1930
+552,638,"commuter_rail","Thameslink",1892
+638,639,"commuter_rail","Thameslink",1892
+639,640,"commuter_rail","Thameslink",1892
+640,442,"commuter_rail","Thameslink",1892
+442,443,"commuter_rail","Thameslink",1836
+443,486,"commuter_rail","Thameslink",1838
+486,508,"commuter_rail","Thameslink",1873
+508,504,"commuter_rail","Thameslink",1879
+504,506,"commuter_rail","Thameslink",1849
+506,507,"commuter_rail","Thameslink",1849
+507,182,"commuter_rail","Thameslink",1849
+182,211,"commuter_rail","Thameslink",1859
+211,196,"commuter_rail","Thameslink",1849
+196,285,"commuter_rail","Thameslink",1900
+285,194,"commuter_rail","Thameslink",1849
+194,236,"commuter_rail","Thameslink",1849
+236,668,"commuter_rail","Thameslink",1849
+668,683,"commuter_rail","Thameslink",1849
+683,685,"commuter_rail","Thameslink",1849
+685,687,"commuter_rail","Thameslink",1849
+687,736,"commuter_rail","Thameslink",1849
+736,207,"commuter_rail","Thameslink",1868
+207,836,"commuter_rail","Thameslink",1865
+836,860,"commuter_rail","Thameslink",1916
+860,62,"commuter_rail","Thameslink",1866
+62,231,"commuter_rail","Thameslink",1856
+231,735,"commuter_rail","Thameslink",1865
+735,742,"commuter_rail","Thameslink",1841
+NA,525,"commuter_rail","Thameslink",NA
+21,69,"commuter_rail","GWR",1926
+69,132,"commuter_rail","GWR",1838
+132,133,"commuter_rail","GWR",1871
+133,178,"commuter_rail","GWR",1868
+178,349,"commuter_rail","GWR",1868
+349,422,"commuter_rail","GWR",1838
+422,518,"commuter_rail","GWR",1838
+518,523,"commuter_rail","GWR",1926
+523,691,"commuter_rail","GWR",1926
+691,701,"commuter_rail","GWR",1839
+701,703,"commuter_rail","GWR",1838
+703,705,"commuter_rail","GWR",1838
+705,707,"commuter_rail","GWR",1838
+707,709,"commuter_rail","GWR",1838
+709,711,"commuter_rail","GWR",1838
+711,713,"commuter_rail","GWR",1838
+713,721,"commuter_rail","GWR",1838
+721,696,"commuter_rail","GWR",2019
+373,406,"people_mover","IFS Cloud Cable Car",2012
+33,34,"commuter_rail","Southeastern",1895
+34,35,"commuter_rail","Southeastern",1928
+35,36,"commuter_rail","Southeastern",1871
+36,37,"commuter_rail","Southeastern",1868
+37,38,"commuter_rail","Southeastern",1866
+38,39,"commuter_rail","Southeastern",1878
+39,40,"commuter_rail","Southeastern",1935
+40,44,"commuter_rail","Southeastern",1866
+44,45,"commuter_rail","Southeastern",1857
+45,47,"commuter_rail","Southeastern",1857
+47,53,"commuter_rail","Southeastern",1839
+53,129,"commuter_rail","Southeastern",1841
+129,163,"commuter_rail","Southeastern",1869
+163,165,"commuter_rail","Southeastern",1864
+165,182,"commuter_rail","Southeastern",1866
+182,184,"commuter_rail","Southeastern",1859
+184,185,"commuter_rail","Southeastern",1895
+185,189,"commuter_rail","Southeastern",1895
+189,193,"commuter_rail","Southeastern",1936
+193,194,"commuter_rail","Southeastern",1868
+194,195,"commuter_rail","Southeastern",1849
+195,196,"commuter_rail","Southeastern",1865
+196,211,"commuter_rail","Southeastern",1900
+211,222,"commuter_rail","Southeastern",1849
+222,225,"commuter_rail","Southeastern",1895
+225,226,"commuter_rail","Southeastern",1895
+226,236,"commuter_rail","Southeastern",1985
+236,238,"commuter_rail","Southeastern",1849
+238,239,"commuter_rail","Southeastern",1849
+239,285,"commuter_rail","Southeastern",1859
+285,432,"commuter_rail","Southeastern",1849
+432,442,"commuter_rail","Southeastern",1836
+442,443,"commuter_rail","Southeastern",1836
+443,486,"commuter_rail","Southeastern",1838
+486,504,"commuter_rail","Southeastern",1873
+504,506,"commuter_rail","Southeastern",1849
+506,507,"commuter_rail","Southeastern",1849
+507,508,"commuter_rail","Southeastern",1849
+508,509,"commuter_rail","Southeastern",1879
+509,516,"commuter_rail","Southeastern",1873
+516,527,"commuter_rail","Southeastern",1857
+527,543,"commuter_rail","Southeastern",1876
+543,545,"commuter_rail","Southeastern",1866
+545,546,"commuter_rail","Southeastern",1868
+546,547,"commuter_rail","Southeastern",1895
+547,548,"commuter_rail","Southeastern",1904
+548,549,"commuter_rail","Southeastern",1866
+549,550,"commuter_rail","Southeastern",1868
+550,551,"commuter_rail","Southeastern",1866
+551,553,"commuter_rail","Southeastern",1864
+553,554,"commuter_rail","Southeastern",1857
+554,555,"commuter_rail","Southeastern",1882
+555,556,"commuter_rail","Southeastern",1890
+556,557,"commuter_rail","Southeastern",1882
+557,560,"commuter_rail","Southeastern",1882
+560,563,"commuter_rail","Southeastern",1850
+563,564,"commuter_rail","Southeastern",1849
+564,565,"commuter_rail","Southeastern",1886
+565,566,"commuter_rail","Southeastern",1839
+566,567,"commuter_rail","Southeastern",1839
+567,570,"commuter_rail","Southeastern",1839
+570,574,"commuter_rail","Southeastern",1841
+574,575,"commuter_rail","Southeastern",1865
+575,641,"commuter_rail","Southeastern",1899
+641,642,"commuter_rail","Southeastern",1878
+642,656,"commuter_rail","Southeastern",1878
+656,657,"commuter_rail","Southeastern",1897
+657,658,"commuter_rail","Southeastern",1901
+658,662,"commuter_rail","Southeastern",1904
+662,663,"commuter_rail","Southeastern",1901
+663,668,"commuter_rail","Southeastern",1899
+668,683,"commuter_rail","Southeastern",1849
+683,685,"commuter_rail","Southeastern",1849
+685,687,"commuter_rail","Southeastern",1849
+687,732,"commuter_rail","Southeastern",1849
+732,741,"commuter_rail","Southeastern",1868
+741,742,"commuter_rail","Southeastern",1862
+742,743,"commuter_rail","Southeastern",1862
+743,744,"commuter_rail","Southeastern",1863
+744,745,"commuter_rail","Southeastern",1863
+745,747,"commuter_rail","Southeastern",1863
+747,318,"commuter_rail","Southeastern",1863
+318,62,"commuter_rail","Southeastern",1839
+62,735,"commuter_rail","Southeastern",1856
+7,10,"inter_city_rail","Southern",1847
+10,11,"inter_city_rail","Southern",1860
+11,12,"inter_city_rail","Southern",1863
+12,13,"inter_city_rail","Southern",1856
+13,14,"inter_city_rail","Southern",1856
+14,15,"inter_city_rail","Southern",1856
+15,16,"inter_city_rail","Southern",1865
+16,19,"inter_city_rail","Southern",1865
+19,24,"inter_city_rail","Southern",1847
+24,27,"inter_city_rail","Southern",1906
+27,30,"inter_city_rail","Southern",1863
+30,50,"inter_city_rail","Southern",1865
+50,51,"inter_city_rail","Southern",1856
+51,52,"inter_city_rail","Southern",1867
+52,62,"inter_city_rail","Southern",1856
+62,176,"inter_city_rail","Southern",1856
+176,203,"inter_city_rail","Southern",1858
+203,204,"inter_city_rail","Southern",1858
+204,205,"inter_city_rail","Southern",1858
+205,207,"inter_city_rail","Southern",1862
+207,244,"inter_city_rail","Southern",1865
+244,245,"inter_city_rail","Southern",1858
+245,246,"inter_city_rail","Southern",1860
+246,421,"inter_city_rail","Southern",1860
+421,449,"inter_city_rail","Southern",1847
+449,481,"inter_city_rail","Southern",1859
+481,489,"inter_city_rail","Southern",1858
+489,490,"inter_city_rail","Southern",2008
+490,491,"inter_city_rail","Southern",1868
+491,492,"inter_city_rail","Southern",1868
+492,493,"inter_city_rail","Southern",1868
+493,494,"inter_city_rail","Southern",1862
+494,521,"inter_city_rail","Southern",1878
+521,525,"inter_city_rail","Southern",1862
+525,535,"inter_city_rail","Southern",1871
+535,537,"inter_city_rail","Southern",1865
+537,538,"inter_city_rail","Southern",1847
+538,568,"inter_city_rail","Southern",1847
+568,569,"inter_city_rail","Southern",1865
+569,576,"inter_city_rail","Southern",1899
+576,716,"inter_city_rail","Southern",1858
+716,731,"inter_city_rail","Southern",1866
+731,733,"inter_city_rail","Southern",1859
+733,735,"inter_city_rail","Southern",1860
+735,739,"inter_city_rail","Southern",1841
+739,740,"inter_city_rail","Southern",1868
+740,382,"inter_city_rail","Southern",1868
+382,749,"inter_city_rail","Southern",1868
+749,807,"inter_city_rail","Southern",1868
+807,208,"inter_city_rail","Southern",1863
+208,145,"inter_city_rail","Southern",1863
+145,285,"inter_city_rail","Southern",2008
+285,230,"inter_city_rail","Southern",1849
+230,231,"inter_city_rail","Southern",1866
+NA,151,"inter_city_rail","Southern",NA
+151,179,"inter_city_rail","Southern",1864
+179,180,"inter_city_rail","Southern",1864
+180,63,"inter_city_rail","Southern",1864
+63,64,"inter_city_rail","Southern",1864
+64,152,"inter_city_rail","Southern",1864
+152,65,"inter_city_rail","Southern",1864
+NA,558,"inter_city_rail","Southern",NA
+55,58,"commuter_rail","Main Line",1850
+58,130,"commuter_rail","Main Line",1873
+130,131,"commuter_rail","Main Line",1885
+131,167,"commuter_rail","Main Line",1850
+167,482,"commuter_rail","Main Line",1850
+482,483,"commuter_rail","Main Line",1852
+483,484,"commuter_rail","Main Line",1861
+484,485,"commuter_rail","Main Line",1885
+485,505,"commuter_rail","Main Line",1859
+505,594,"commuter_rail","Main Line",1850
+594,725,"commuter_rail","Main Line",1871
+725,280,"commuter_rail","Main Line",1850
+57,59,"tram","Tramlink",2000
+59,60,"tram","Tramlink",2000
+60,61,"tram","Tramlink",2000
+61,63,"tram","Tramlink",2000
+63,64,"tram","Tramlink",1864
+64,65,"tram","Tramlink",1864
+65,66,"tram","Tramlink",1864
+66,68,"tram","Tramlink",2000
+68,123,"tram","Tramlink",2000
+123,124,"tram","Tramlink",2000
+124,125,"tram","Tramlink",2000
+125,126,"tram","Tramlink",2000
+126,128,"tram","Tramlink",2000
+128,151,"tram","Tramlink",2000
+151,152,"tram","Tramlink",1864
+152,158,"tram","Tramlink",1864
+158,159,"tram","Tramlink",2000
+159,164,"tram","Tramlink",2000
+164,166,"tram","Tramlink",2000
+166,179,"tram","Tramlink",2000
+179,180,"tram","Tramlink",1864
+180,645,"tram","Tramlink",1864
+645,647,"tram","Tramlink",2000
+647,648,"tram","Tramlink",2000
+648,649,"tram","Tramlink",2000
+649,650,"tram","Tramlink",2000
+650,651,"tram","Tramlink",1996
+651,653,"tram","Tramlink",2000
+653,659,"tram","Tramlink",2000
+659,660,"tram","Tramlink",2000
+660,661,"tram","Tramlink",2000
+661,664,"tram","Tramlink",2000
+664,665,"tram","Tramlink",2000
+665,666,"tram","Tramlink",2000
+666,667,"tram","Tramlink",2000
+210,228,"heavy_rail","Hammersmith & City",1863
+228,462,"heavy_rail","Hammersmith & City",1864
+462,463,"heavy_rail","Hammersmith & City",1864
+463,464,"heavy_rail","Hammersmith & City",1864
+464,465,"heavy_rail","Hammersmith & City",1864
+465,472,"heavy_rail","Hammersmith & City",1875
+472,476,"heavy_rail","Hammersmith & City",1864
+476,478,"heavy_rail","Hammersmith & City",1864
+478,496,"heavy_rail","Hammersmith & City",1864
+496,497,"heavy_rail","Hammersmith & City",1863
+497,498,"heavy_rail","Hammersmith & City",1863
+498,499,"heavy_rail","Hammersmith & City",1863
+499,500,"heavy_rail","Hammersmith & City",1863
+500,501,"heavy_rail","Hammersmith & City",1863
+501,758,"heavy_rail","Hammersmith & City",1865
+758,281,"heavy_rail","Hammersmith & City",1864
+281,323,"heavy_rail","Hammersmith & City",1884
+323,822,"heavy_rail","Hammersmith & City",1858
+822,561,"heavy_rail","Hammersmith & City",1876
+NA,503,"heavy_rail","Hammersmith & City",NA
+503,562,"heavy_rail","Hammersmith & City",1902
+562,400,"heavy_rail","Hammersmith & City",1858
+400,423,"heavy_rail","Hammersmith & City",1902
+423,393,"heavy_rail","Hammersmith & City",1858
+393,392,"heavy_rail","Hammersmith & City",1902
+392,457,"heavy_rail","Hammersmith & City",1902
+79,80,"heavy_rail","Metropolitan",1885
+80,81,"heavy_rail","Metropolitan",1887
+81,175,"heavy_rail","Metropolitan",1925
+175,177,"heavy_rail","Metropolitan",1889
+177,371,"heavy_rail","Metropolitan",1904
+371,450,"heavy_rail","Metropolitan",1908
+450,451,"heavy_rail","Metropolitan",1868
+451,456,"heavy_rail","Metropolitan",1880
+456,468,"heavy_rail","Metropolitan",1923
+468,470,"heavy_rail","Metropolitan",1893
+470,473,"heavy_rail","Metropolitan",1868
+473,495,"heavy_rail","Metropolitan",1876
+495,577,"heavy_rail","Metropolitan",1868
+577,718,"heavy_rail","Metropolitan",1892
+718,719,"heavy_rail","Metropolitan",1915
+719,720,"heavy_rail","Metropolitan",1933
+720,758,"heavy_rail","Metropolitan",1887
+758,462,"heavy_rail","Metropolitan",1864
+462,463,"heavy_rail","Metropolitan",1864
+463,464,"heavy_rail","Metropolitan",1864
+464,228,"heavy_rail","Metropolitan",1864
+228,497,"heavy_rail","Metropolitan",1864
+497,465,"heavy_rail","Metropolitan",1863
+465,472,"heavy_rail","Metropolitan",1875
+472,476,"heavy_rail","Metropolitan",1864
+476,281,"heavy_rail","Metropolitan",1864
+281,498,"heavy_rail","Metropolitan",1884
+498,499,"heavy_rail","Metropolitan",1863
+499,500,"heavy_rail","Metropolitan",1863
+500,799,"heavy_rail","Metropolitan",1863
+799,323,"heavy_rail","Metropolitan",1868
+323,102,"heavy_rail","Metropolitan",1858
+102,825,"heavy_rail","Metropolitan",1868
+825,317,"heavy_rail","Metropolitan",1884
+317,560,"heavy_rail","Metropolitan",1869
+560,318,"heavy_rail","Metropolitan",1850
+318,561,"heavy_rail","Metropolitan",1839
+NA,149,"heavy_rail","Metropolitan",NA
+149,284,"heavy_rail","Metropolitan",1884
+284,150,"heavy_rail","Metropolitan",1884
+NA,471,"heavy_rail","Metropolitan",NA
+471,501,"heavy_rail","Metropolitan",1879
+NA,474,"heavy_rail","Metropolitan",NA
+474,635,"heavy_rail","Metropolitan",1932
+635,643,"heavy_rail","Metropolitan",1932
+643,644,"heavy_rail","Metropolitan",1932
+NA,208,"heavy_rail","Metropolitan",NA
+NA,478,"heavy_rail","Metropolitan",NA
+NA,333,"heavy_rail","Metropolitan",NA
+NA,496,"heavy_rail","Metropolitan",NA
+496,210,"heavy_rail","Metropolitan",1863
+NA,396,"heavy_rail","Metropolitan",NA
+396,453,"heavy_rail","Metropolitan",1933
+453,397,"heavy_rail","Metropolitan",1933
+397,454,"heavy_rail","Metropolitan",1933
+454,398,"heavy_rail","Metropolitan",1933
+398,455,"heavy_rail","Metropolitan",1933
+427,428,"inter_city_rail","Freight Rail",1850
+428,429,"inter_city_rail","Freight Rail",1931
+429,430,"inter_city_rail","Freight Rail",1849
+430,431,"inter_city_rail","Freight Rail",1850
+17,18,"commuter_rail","Gospel Oak-Barking Riverside",2007
+18,56,"commuter_rail","Gospel Oak-Barking Riverside",2007
+56,71,"commuter_rail","Gospel Oak-Barking Riverside",2007
+71,74,"commuter_rail","Gospel Oak-Barking Riverside",2007
+74,75,"commuter_rail","Gospel Oak-Barking Riverside",2007
+75,168,"commuter_rail","Gospel Oak-Barking Riverside",2007
+168,169,"commuter_rail","Gospel Oak-Barking Riverside",2007
+169,522,"commuter_rail","Gospel Oak-Barking Riverside",2007
+522,524,"commuter_rail","Gospel Oak-Barking Riverside",2007
+524,323,"commuter_rail","Gospel Oak-Barking Riverside",2007
+256,479,"commuter_rail","West Midlands Trains/LNWR",1837
+479,726,"commuter_rail","West Midlands Trains/LNWR",1837
+726,425,"commuter_rail","West Midlands Trains/LNWR",1837
+425,426,"commuter_rail","West Midlands Trains/LNWR",1912
+186,187,"commuter_rail","Elizabeth",2018
+187,188,"commuter_rail","Elizabeth",2018
+188,190,"commuter_rail","Elizabeth",2018
+190,227,"commuter_rail","Elizabeth",2018
+227,232,"commuter_rail","Elizabeth",2018
+232,233,"commuter_rail","Elizabeth",2018
+233,242,"commuter_rail","Elizabeth",2018
+242,580,"commuter_rail","Elizabeth",2018
+580,132,"commuter_rail","Elizabeth",2015
+132,690,"commuter_rail","Elizabeth",1871
+690,691,"commuter_rail","Elizabeth",1838
+691,692,"commuter_rail","Elizabeth",1839
+692,422,"commuter_rail","Elizabeth",2008
+422,133,"commuter_rail","Elizabeth",1838
+133,699,"commuter_rail","Elizabeth",1868
+699,69,"commuter_rail","Elizabeth",2022
+69,701,"commuter_rail","Elizabeth",1838
+701,703,"commuter_rail","Elizabeth",1838
+703,705,"commuter_rail","Elizabeth",1838
+705,707,"commuter_rail","Elizabeth",1838
+707,709,"commuter_rail","Elizabeth",1838
+709,711,"commuter_rail","Elizabeth",1838
+711,713,"commuter_rail","Elizabeth",1838
+713,721,"commuter_rail","Elizabeth",1838
+721,791,"commuter_rail","Elizabeth",2019
+791,578,"commuter_rail","Elizabeth",1875
+578,581,"commuter_rail","Elizabeth",1839
+581,162,"commuter_rail","Elizabeth",1840
+162,211,"commuter_rail","Elizabeth",1840
+211,477,"commuter_rail","Elizabeth",1849
+477,178,"commuter_rail","Elizabeth",1986
+NA,571,"commuter_rail","Elizabeth",NA
+NA,822,"commuter_rail","Elizabeth",NA
+822,523,"commuter_rail","Elizabeth",1876
+333,425,"commuter_rail","Watford DC",1912
+425,426,"commuter_rail","Watford DC",1912
+NA,479,"commuter_rail","Watford DC",NA
+NA,105,"commuter_rail","Watford DC",NA
+NA,119,"commuter_rail","Watford DC",NA
+NA,118,"commuter_rail","Watford DC",NA
+NA,309,"commuter_rail","Watford DC",NA
+309,799,"commuter_rail","Watford DC",1913
+799,120,"commuter_rail","Watford DC",1868
+120,256,"commuter_rail","Watford DC",1915
+20,22,"commuter_rail","C2C",1854
+22,46,"commuter_rail","C2C",1854
+46,526,"commuter_rail","C2C",1885
+526,528,"commuter_rail","C2C",1854
+528,529,"commuter_rail","C2C",1886
+529,530,"commuter_rail","C2C",1855
+530,628,"commuter_rail","C2C",1854
+628,629,"commuter_rail","C2C",1854
+629,630,"commuter_rail","C2C",1892
+630,631,"commuter_rail","C2C",1995
+631,637,"commuter_rail","C2C",1908
+637,734,"commuter_rail","C2C",1854
+734,400,"commuter_rail","C2C",1855
+400,162,"commuter_rail","C2C",1902
+28,46,"commuter_rail","Romford-Upminster",2015
+46,578,"commuter_rail","Romford-Upminster",1885
+571,578,"commuter_rail","West Anglia Main Line",1899
+578,579,"commuter_rail","West Anglia Main Line",1839
+579,581,"commuter_rail","West Anglia Main Line",1839
+581,582,"commuter_rail","West Anglia Main Line",1840
+582,583,"commuter_rail","West Anglia Main Line",1840
+583,584,"commuter_rail","West Anglia Main Line",1840
+584,585,"commuter_rail","West Anglia Main Line",1872
+585,586,"commuter_rail","West Anglia Main Line",1872
+586,587,"commuter_rail","West Anglia Main Line",1872
+587,588,"commuter_rail","West Anglia Main Line",1840
+588,589,"commuter_rail","West Anglia Main Line",1872
+589,590,"commuter_rail","West Anglia Main Line",1855
+590,591,"commuter_rail","West Anglia Main Line",1884
+591,592,"commuter_rail","West Anglia Main Line",1840
+592,593,"commuter_rail","West Anglia Main Line",1840
+593,595,"commuter_rail","West Anglia Main Line",1842
+595,598,"commuter_rail","West Anglia Main Line",1840
+598,599,"commuter_rail","West Anglia Main Line",1846
+599,600,"commuter_rail","West Anglia Main Line",1872
+600,603,"commuter_rail","West Anglia Main Line",1872
+603,605,"commuter_rail","West Anglia Main Line",1872
+605,609,"commuter_rail","West Anglia Main Line",1872
+609,610,"commuter_rail","West Anglia Main Line",1872
+610,737,"commuter_rail","West Anglia Main Line",1872
+737,791,"commuter_rail","West Anglia Main Line",1840
+791,580,"commuter_rail","West Anglia Main Line",1875
+NA,209,"commuter_rail","West Anglia Main Line",NA
+209,162,"commuter_rail","West Anglia Main Line",1865
+162,607,"commuter_rail","West Anglia Main Line",1840
+601,602,"commuter_rail","Lea Valley",2015
+602,604,"commuter_rail","Lea Valley",2015
+604,606,"commuter_rail","Lea Valley",2015
+606,607,"commuter_rail","Lea Valley",2015
+607,608,"commuter_rail","Lea Valley",2015
+608,611,"commuter_rail","Lea Valley",2015
+611,612,"commuter_rail","Lea Valley",2015
+612,613,"commuter_rail","Lea Valley",2015
+613,614,"commuter_rail","Lea Valley",2015
+614,616,"commuter_rail","Lea Valley",2015
+616,617,"commuter_rail","Lea Valley",2015
+617,618,"commuter_rail","Lea Valley",2015
+618,619,"commuter_rail","Lea Valley",2015
+619,621,"commuter_rail","Lea Valley",2015
+621,791,"commuter_rail","Lea Valley",1968
+791,598,"commuter_rail","Lea Valley",1875
+615,622,"commuter_rail","Main Line",1898
+622,624,"commuter_rail","Main Line",1926
+624,626,"commuter_rail","Main Line",1906
+626,627,"commuter_rail","Main Line",1906
+627,636,"commuter_rail","Main Line",1906
+636,727,"commuter_rail","Main Line",1908
+727,381,"commuter_rail","Main Line",1906
+646,652,"high_speed_rail","Eurostar/HS1",2007
+652,654,"high_speed_rail","Eurostar/HS1",2007
+654,655,"high_speed_rail","Eurostar/HS1",2007
+317,560,"heavy_rail","East London",1869
+560,318,"heavy_rail","East London",1850
+839,321,"commuter_rail","Main Line",1865
+321,841,"commuter_rail","Main Line",1865
+841,842,"commuter_rail","Main Line",1850
+842,322,"commuter_rail","Main Line",1868
+322,846,"commuter_rail","Main Line",1865
+NA,162,"commuter_rail","Main Line",NA
+561,323,"commuter_rail","Main Line",1858
+323,858,"commuter_rail","Main Line",1858
+858,859,"commuter_rail","Main Line",1840
+859,861,"commuter_rail","Main Line",1871
+28,578,"commuter_rail","Upminster-Grays",2015
+578,162,"commuter_rail","Upminster-Grays",1839
+162,791,"commuter_rail","Upminster-Grays",1840
+NA,81,"commuter_rail","London-Aylesbury",NA
+81,451,"commuter_rail","London-Aylesbury",1925
+451,80,"commuter_rail","London-Aylesbury",1880
+NA,577,"commuter_rail","London-Aylesbury",NA
+NA,286,"commuter_rail","Edgware/High Barnet Branch",NA
+286,287,"commuter_rail","Edgware/High Barnet Branch",1867
+287,288,"commuter_rail","Edgware/High Barnet Branch",1940
+288,212,"commuter_rail","Edgware/High Barnet Branch",1867
+NA,213,"commuter_rail","Edgware/High Barnet Branch",NA
+213,289,"commuter_rail","Edgware/High Barnet Branch",1933
+289,332,"commuter_rail","Edgware/High Barnet Branch",1872
+332,290,"commuter_rail","Edgware/High Barnet Branch",1872
+NA,333,"commuter_rail","Watford-Rickmansworth Branch",NA
+NA,478,"commuter_rail","Northern City",NA
+NA,848,"commuter_rail","Northern City",NA
+NA,478,"commuter_rail","Northern City (1904-13)",NA
+NA,209,"heavy_rail","Epping & Ongar Railway",NA
+209,581,"heavy_rail","Epping & Ongar Railway",1865

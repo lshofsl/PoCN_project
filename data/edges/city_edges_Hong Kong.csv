@@ -1,0 +1,262 @@
+"nodeID_from","nodeID_to","mode","line","year"
+33,34,"heavy_rail","Island Line",1986
+34,35,"heavy_rail","Island Line",2015
+35,36,"heavy_rail","Island Line",2014
+36,37,"heavy_rail","Island Line",2014
+37,38,"heavy_rail","Island Line",1985
+38,39,"heavy_rail","Island Line",1985
+39,112,"heavy_rail","Island Line",1985
+112,113,"heavy_rail","Island Line",1986
+113,114,"heavy_rail","Island Line",1985
+114,115,"heavy_rail","Island Line",1985
+115,116,"heavy_rail","Island Line",1985
+116,117,"heavy_rail","Island Line",1985
+117,118,"heavy_rail","Island Line",1985
+118,119,"heavy_rail","Island Line",1985
+119,120,"heavy_rail","Island Line",1985
+120,121,"heavy_rail","Island Line",1985
+2,51,"commuter_rail","East Rail Line",2007
+51,52,"commuter_rail","East Rail Line",1985
+52,53,"commuter_rail","East Rail Line",1978
+53,54,"commuter_rail","East Rail Line",1910
+54,55,"commuter_rail","East Rail Line",1982
+55,99,"commuter_rail","East Rail Line",1910
+99,123,"commuter_rail","East Rail Line",2007
+123,124,"commuter_rail","East Rail Line",2022
+124,133,"commuter_rail","East Rail Line",2022
+133,134,"commuter_rail","East Rail Line",1983
+134,135,"commuter_rail","East Rail Line",1982
+135,132,"commuter_rail","East Rail Line",1975
+19,20,"heavy_rail","Tsuen Wan Line",1979
+20,21,"heavy_rail","Tsuen Wan Line",1979
+21,22,"heavy_rail","Tsuen Wan Line",1985
+22,23,"heavy_rail","Tsuen Wan Line",1985
+23,24,"heavy_rail","Tsuen Wan Line",1982
+24,25,"heavy_rail","Tsuen Wan Line",1982
+25,26,"heavy_rail","Tsuen Wan Line",1982
+26,27,"heavy_rail","Tsuen Wan Line",1982
+27,28,"heavy_rail","Tsuen Wan Line",1985
+28,29,"heavy_rail","Tsuen Wan Line",1982
+29,30,"heavy_rail","Tsuen Wan Line",1982
+30,31,"heavy_rail","Tsuen Wan Line",1982
+31,32,"heavy_rail","Tsuen Wan Line",1982
+32,101,"heavy_rail","Tsuen Wan Line",1982
+101,102,"heavy_rail","Tsuen Wan Line",1979
+102,103,"heavy_rail","Tsuen Wan Line",1979
+103,104,"heavy_rail","Tsuen Wan Line",1985
+104,105,"heavy_rail","Tsuen Wan Line",1980
+105,108,"heavy_rail","Tsuen Wan Line",1980
+1,3,"heavy_rail","Kwun Tong Line",2016
+3,4,"heavy_rail","Kwun Tong Line",2016
+4,5,"heavy_rail","Kwun Tong Line",1985
+5,6,"heavy_rail","Kwun Tong Line",1985
+6,7,"heavy_rail","Kwun Tong Line",1982
+7,8,"heavy_rail","Kwun Tong Line",1979
+8,9,"heavy_rail","Kwun Tong Line",1979
+9,10,"heavy_rail","Kwun Tong Line",1979
+10,11,"heavy_rail","Kwun Tong Line",1979
+11,12,"heavy_rail","Kwun Tong Line",1979
+12,13,"heavy_rail","Kwun Tong Line",1979
+13,14,"heavy_rail","Kwun Tong Line",1979
+14,15,"heavy_rail","Kwun Tong Line",1979
+15,16,"heavy_rail","Kwun Tong Line",1989
+16,17,"heavy_rail","Kwun Tong Line",2002
+17,18,"heavy_rail","Kwun Tong Line",2002
+18,106,"heavy_rail","Kwun Tong Line",1979
+106,107,"heavy_rail","Kwun Tong Line",1982
+107,109,"heavy_rail","Kwun Tong Line",1982
+109,110,"heavy_rail","Kwun Tong Line",1989
+48,49,"heavy_rail","Tseung Kwan O Line",2002
+49,50,"heavy_rail","Tseung Kwan O Line",2002
+50,56,"heavy_rail","Tseung Kwan O Line",2002
+56,57,"heavy_rail","Tseung Kwan O Line",2002
+57,58,"heavy_rail","Tseung Kwan O Line",2002
+58,59,"heavy_rail","Tseung Kwan O Line",2002
+59,111,"heavy_rail","Tseung Kwan O Line",2009
+40,41,"commuter_rail","Tung Chung Line",1998
+41,42,"commuter_rail","Tung Chung Line",1998
+42,43,"commuter_rail","Tung Chung Line",1998
+43,44,"commuter_rail","Tung Chung Line",2003
+44,45,"commuter_rail","Tung Chung Line",1998
+45,46,"commuter_rail","Tung Chung Line",1998
+46,47,"commuter_rail","Tung Chung Line",2005
+73,74,"heavy_rail","Disneyland Resort Line",2005
+68,69,"commuter_rail","Airport Express",1998
+69,70,"commuter_rail","Airport Express",1998
+70,71,"commuter_rail","Airport Express",1998
+71,72,"commuter_rail","Airport Express",1998
+60,78,"commuter_rail","West Rail Line",2009
+78,79,"commuter_rail","West Rail Line",2003
+79,80,"commuter_rail","West Rail Line",2003
+80,81,"commuter_rail","West Rail Line",2003
+81,82,"commuter_rail","West Rail Line",2003
+82,83,"commuter_rail","West Rail Line",2003
+83,84,"commuter_rail","West Rail Line",2003
+84,130,"commuter_rail","West Rail Line",2009
+130,131,"commuter_rail","West Rail Line",2003
+131,132,"commuter_rail","West Rail Line",2003
+61,62,"heavy_rail","Tuen Ma Line",2020
+62,63,"heavy_rail","Tuen Ma Line",2020
+63,75,"heavy_rail","Tuen Ma Line",2020
+75,76,"heavy_rail","Tuen Ma Line",2004
+76,77,"heavy_rail","Tuen Ma Line",2004
+77,125,"heavy_rail","Tuen Ma Line",2004
+125,126,"heavy_rail","Tuen Ma Line",2021
+126,127,"heavy_rail","Tuen Ma Line",2021
+127,128,"heavy_rail","Tuen Ma Line",2021
+128,236,"heavy_rail","Tuen Ma Line",2021
+236,239,"heavy_rail","Tuen Ma Line",2004
+239,242,"heavy_rail","Tuen Ma Line",2004
+242,245,"heavy_rail","Tuen Ma Line",2004
+245,248,"heavy_rail","Tuen Ma Line",2004
+NA,78,"heavy_rail","Tuen Ma Line",NA
+78,79,"heavy_rail","Tuen Ma Line",2003
+79,80,"heavy_rail","Tuen Ma Line",2003
+80,81,"heavy_rail","Tuen Ma Line",2003
+81,82,"heavy_rail","Tuen Ma Line",2003
+82,83,"heavy_rail","Tuen Ma Line",2003
+83,130,"heavy_rail","Tuen Ma Line",2003
+130,131,"heavy_rail","Tuen Ma Line",2003
+NA,84,"heavy_rail","Tuen Ma Line",NA
+84,132,"heavy_rail","Tuen Ma Line",2009
+64,65,"heavy_rail","South Island Line",2016
+65,66,"heavy_rail","South Island Line",2016
+66,67,"heavy_rail","South Island Line",2016
+67,122,"heavy_rail","South Island Line",2016
+143,144,"tram","Hong Kong Tramways",1904
+144,145,"tram","Hong Kong Tramways",1904
+145,146,"tram","Hong Kong Tramways",1904
+146,147,"tram","Hong Kong Tramways",1904
+147,148,"tram","Hong Kong Tramways",1904
+148,149,"tram","Hong Kong Tramways",1904
+149,150,"tram","Hong Kong Tramways",1904
+150,151,"tram","Hong Kong Tramways",1904
+151,152,"tram","Hong Kong Tramways",1904
+152,153,"tram","Hong Kong Tramways",1904
+153,154,"tram","Hong Kong Tramways",1904
+154,155,"tram","Hong Kong Tramways",1904
+155,156,"tram","Hong Kong Tramways",1904
+156,157,"tram","Hong Kong Tramways",1904
+157,158,"tram","Hong Kong Tramways",1904
+158,159,"tram","Hong Kong Tramways",1904
+159,160,"tram","Hong Kong Tramways",1904
+160,161,"tram","Hong Kong Tramways",1904
+161,162,"tram","Hong Kong Tramways",1904
+162,163,"tram","Hong Kong Tramways",1904
+163,164,"tram","Hong Kong Tramways",1904
+164,165,"tram","Hong Kong Tramways",1904
+165,166,"tram","Hong Kong Tramways",1904
+166,167,"tram","Hong Kong Tramways",1904
+167,168,"tram","Hong Kong Tramways",1904
+168,169,"tram","Hong Kong Tramways",1904
+169,170,"tram","Hong Kong Tramways",1904
+170,171,"tram","Hong Kong Tramways",1904
+171,172,"tram","Hong Kong Tramways",1904
+172,173,"tram","Hong Kong Tramways",1904
+173,174,"tram","Hong Kong Tramways",1904
+174,175,"tram","Hong Kong Tramways",1904
+175,176,"tram","Hong Kong Tramways",1904
+176,177,"tram","Hong Kong Tramways",1904
+177,178,"tram","Hong Kong Tramways",1904
+178,179,"tram","Hong Kong Tramways",1904
+179,180,"tram","Hong Kong Tramways",1904
+180,181,"tram","Hong Kong Tramways",1904
+181,182,"tram","Hong Kong Tramways",1904
+182,183,"tram","Hong Kong Tramways",1904
+183,184,"tram","Hong Kong Tramways",1904
+184,185,"tram","Hong Kong Tramways",1904
+185,186,"tram","Hong Kong Tramways",1904
+186,187,"tram","Hong Kong Tramways",1904
+187,188,"tram","Hong Kong Tramways",1904
+188,189,"tram","Hong Kong Tramways",1904
+189,190,"tram","Hong Kong Tramways",1904
+190,191,"tram","Hong Kong Tramways",1904
+191,192,"tram","Hong Kong Tramways",1904
+192,193,"tram","Hong Kong Tramways",1904
+193,194,"tram","Hong Kong Tramways",1904
+194,195,"tram","Hong Kong Tramways",1904
+195,196,"tram","Hong Kong Tramways",1904
+196,197,"tram","Hong Kong Tramways",1904
+197,198,"tram","Hong Kong Tramways",1904
+198,199,"tram","Hong Kong Tramways",1904
+199,200,"tram","Hong Kong Tramways",1904
+200,201,"tram","Hong Kong Tramways",1904
+201,202,"tram","Hong Kong Tramways",1904
+202,203,"tram","Hong Kong Tramways",1904
+203,204,"tram","Hong Kong Tramways",1904
+204,205,"tram","Hong Kong Tramways",1904
+205,206,"tram","Hong Kong Tramways",1904
+206,207,"tram","Hong Kong Tramways",1904
+207,208,"tram","Hong Kong Tramways",1904
+208,209,"tram","Hong Kong Tramways",1904
+209,210,"tram","Hong Kong Tramways",1904
+210,211,"tram","Hong Kong Tramways",1904
+211,212,"tram","Hong Kong Tramways",1904
+212,213,"tram","Hong Kong Tramways",1904
+213,214,"tram","Hong Kong Tramways",1904
+214,215,"tram","Hong Kong Tramways",1904
+215,216,"tram","Hong Kong Tramways",1904
+216,217,"tram","Hong Kong Tramways",1922
+217,218,"tram","Hong Kong Tramways",1922
+218,219,"tram","Hong Kong Tramways",1922
+219,220,"tram","Hong Kong Tramways",1922
+220,221,"tram","Hong Kong Tramways",1922
+221,222,"tram","Hong Kong Tramways",1922
+222,223,"tram","Hong Kong Tramways",1922
+223,224,"tram","Hong Kong Tramways",1922
+136,137,"tram","Peak Tram",1888
+137,138,"tram","Peak Tram",1888
+138,139,"tram","Peak Tram",1888
+139,140,"tram","Peak Tram",1888
+140,141,"tram","Peak Tram",1888
+141,142,"tram","Peak Tram",1888
+85,86,"inter_city_rail","Kowloon-Canton Railway (East Rail)",1910
+86,87,"inter_city_rail","Kowloon-Canton Railway (East Rail)",1910
+87,88,"inter_city_rail","Kowloon-Canton Railway (East Rail)",1910
+88,89,"inter_city_rail","Kowloon-Canton Railway (East Rail)",1910
+89,90,"inter_city_rail","Kowloon-Canton Railway (East Rail)",1910
+90,91,"inter_city_rail","Kowloon-Canton Railway (East Rail)",1916
+91,92,"inter_city_rail","Kowloon-Canton Railway (East Rail)",1955
+92,94,"inter_city_rail","Kowloon-Canton Railway (East Rail)",1969
+94,100,"inter_city_rail","Kowloon-Canton Railway (East Rail)",1930
+100,132,"inter_city_rail","Kowloon-Canton Railway (East Rail)",1949
+NA,133,"inter_city_rail","Kowloon-Canton Railway (East Rail)",NA
+NA,51,"inter_city_rail","Kowloon-Canton Railway (East Rail)",NA
+51,52,"inter_city_rail","Kowloon-Canton Railway (East Rail)",1985
+52,53,"inter_city_rail","Kowloon-Canton Railway (East Rail)",1978
+53,54,"inter_city_rail","Kowloon-Canton Railway (East Rail)",1910
+NA,134,"inter_city_rail","Kowloon-Canton Railway (East Rail)",NA
+134,135,"inter_city_rail","Kowloon-Canton Railway (East Rail)",1982
+135,55,"inter_city_rail","Kowloon-Canton Railway (East Rail)",1975
+93,95,"commuter_rail","Sha Tau Kok",1912
+95,96,"commuter_rail","Sha Tau Kok",1912
+96,97,"commuter_rail","Sha Tau Kok",1912
+97,98,"commuter_rail","Sha Tau Kok",1912
+236,239,"heavy_rail","Ma On Shan",2004
+239,242,"heavy_rail","Ma On Shan",2004
+242,245,"heavy_rail","Ma On Shan",2004
+245,248,"heavy_rail","Ma On Shan",2004
+NA,75,"heavy_rail","Ma On Shan",NA
+75,76,"heavy_rail","Ma On Shan",2004
+76,77,"heavy_rail","Ma On Shan",2004
+236,239,"heavy_rail","Ma On Shan",2004
+239,242,"heavy_rail","Ma On Shan",2004
+242,245,"heavy_rail","Ma On Shan",2004
+245,248,"heavy_rail","Ma On Shan",2004
+NA,75,"heavy_rail","Ma On Shan",NA
+75,76,"heavy_rail","Ma On Shan",2004
+76,77,"heavy_rail","Ma On Shan",2004
+78,79,"commuter_rail","West Rail",2003
+79,80,"commuter_rail","West Rail",2003
+80,81,"commuter_rail","West Rail",2003
+81,82,"commuter_rail","West Rail",2003
+82,83,"commuter_rail","West Rail",2003
+83,130,"commuter_rail","West Rail",2003
+130,131,"commuter_rail","West Rail",2003
+225,226,"people_mover","Hong Kong International Airport Automated People Mover",2010
+226,227,"people_mover","Hong Kong International Airport Automated People Mover",2007
+227,228,"people_mover","Hong Kong International Airport Automated People Mover",1998
+228,229,"people_mover","Hong Kong International Airport Automated People Mover",1998
+230,231,"ferry","Central - Tsim Sha Tsui",2006
+231,234,"ferry","Central - Tsim Sha Tsui",1906
+232,233,"ferry","Wan Chai - Tsim Sha Tsui",2014

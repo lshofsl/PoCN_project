@@ -1,0 +1,267 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,3,"heavy_rail","Craigieburn Line",1859
+3,4,"heavy_rail","Craigieburn Line",1854
+4,5,"heavy_rail","Craigieburn Line",1859
+5,7,"heavy_rail","Craigieburn Line",1860
+7,8,"heavy_rail","Craigieburn Line",1985
+8,9,"heavy_rail","Craigieburn Line",1981
+9,38,"heavy_rail","Craigieburn Line",1983
+38,50,"heavy_rail","Craigieburn Line",1859
+50,142,"heavy_rail","Craigieburn Line",1906
+142,143,"heavy_rail","Craigieburn Line",1860
+143,144,"heavy_rail","Craigieburn Line",1860
+144,145,"heavy_rail","Craigieburn Line",1860
+145,146,"heavy_rail","Craigieburn Line",1860
+146,147,"heavy_rail","Craigieburn Line",1922
+147,148,"heavy_rail","Craigieburn Line",1890
+148,149,"heavy_rail","Craigieburn Line",1885
+149,150,"heavy_rail","Craigieburn Line",1956
+150,151,"heavy_rail","Craigieburn Line",1887
+151,152,"heavy_rail","Craigieburn Line",1959
+152,153,"heavy_rail","Craigieburn Line",1873
+153,154,"heavy_rail","Craigieburn Line",2010
+154,155,"heavy_rail","Craigieburn Line",2007
+3,4,"heavy_rail","Hurstbridge Line",1854
+4,7,"heavy_rail","Hurstbridge Line",1859
+7,8,"heavy_rail","Hurstbridge Line",1985
+8,9,"heavy_rail","Hurstbridge Line",1981
+9,49,"heavy_rail","Hurstbridge Line",1983
+49,181,"heavy_rail","Hurstbridge Line",1901
+181,182,"heavy_rail","Hurstbridge Line",1901
+182,183,"heavy_rail","Hurstbridge Line",1901
+183,184,"heavy_rail","Hurstbridge Line",1922
+184,185,"heavy_rail","Hurstbridge Line",1926
+185,186,"heavy_rail","Hurstbridge Line",1888
+186,187,"heavy_rail","Hurstbridge Line",1888
+187,188,"heavy_rail","Hurstbridge Line",1924
+188,189,"heavy_rail","Hurstbridge Line",1888
+189,190,"heavy_rail","Hurstbridge Line",1888
+190,191,"heavy_rail","Hurstbridge Line",1888
+191,192,"heavy_rail","Hurstbridge Line",1901
+192,193,"heavy_rail","Hurstbridge Line",1888
+193,194,"heavy_rail","Hurstbridge Line",1888
+194,195,"heavy_rail","Hurstbridge Line",1927
+195,196,"heavy_rail","Hurstbridge Line",1911
+196,197,"heavy_rail","Hurstbridge Line",1923
+197,199,"heavy_rail","Hurstbridge Line",1902
+199,200,"heavy_rail","Hurstbridge Line",1924
+200,201,"heavy_rail","Hurstbridge Line",1902
+201,202,"heavy_rail","Hurstbridge Line",1912
+202,203,"heavy_rail","Hurstbridge Line",1912
+203,209,"heavy_rail","Hurstbridge Line",1912
+209,211,"heavy_rail","Hurstbridge Line",2018
+211,214,"heavy_rail","Hurstbridge Line",2018
+214,215,"heavy_rail","Hurstbridge Line",2012
+215,217,"heavy_rail","Hurstbridge Line",1964
+217,218,"heavy_rail","Hurstbridge Line",1949
+218,219,"heavy_rail","Hurstbridge Line",1889
+219,220,"heavy_rail","Hurstbridge Line",1929
+220,221,"heavy_rail","Hurstbridge Line",1889
+221,222,"heavy_rail","Hurstbridge Line",1889
+222,223,"heavy_rail","Hurstbridge Line",1889
+223,224,"heavy_rail","Hurstbridge Line",1889
+224,225,"heavy_rail","Hurstbridge Line",1889
+225,228,"heavy_rail","Hurstbridge Line",1927
+1,6,"heavy_rail","Frankston Line",1859
+6,19,"heavy_rail","Frankston Line",1891
+19,20,"heavy_rail","Frankston Line",1906
+20,21,"heavy_rail","Frankston Line",1871
+21,22,"heavy_rail","Frankston Line",1878
+22,23,"heavy_rail","Frankston Line",1878
+23,24,"heavy_rail","Frankston Line",1878
+24,3,"heavy_rail","Frankston Line",1920
+3,4,"heavy_rail","Frankston Line",1854
+4,12,"heavy_rail","Frankston Line",1859
+12,10,"heavy_rail","Frankston Line",1859
+10,37,"heavy_rail","Frankston Line",1860
+37,38,"heavy_rail","Frankston Line",1879
+38,88,"heavy_rail","Frankston Line",1859
+88,89,"heavy_rail","Frankston Line",1879
+89,90,"heavy_rail","Frankston Line",1879
+90,91,"heavy_rail","Frankston Line",1879
+91,93,"heavy_rail","Frankston Line",1879
+93,96,"heavy_rail","Frankston Line",1882
+96,97,"heavy_rail","Frankston Line",1881
+97,98,"heavy_rail","Frankston Line",1881
+98,99,"heavy_rail","Frankston Line",1881
+99,100,"heavy_rail","Frankston Line",1907
+100,120,"heavy_rail","Frankston Line",1913
+120,121,"heavy_rail","Frankston Line",1881
+121,122,"heavy_rail","Frankston Line",1881
+122,123,"heavy_rail","Frankston Line",1884
+123,124,"heavy_rail","Frankston Line",1881
+124,125,"heavy_rail","Frankston Line",1961
+125,126,"heavy_rail","Frankston Line",1881
+126,127,"heavy_rail","Frankston Line",2017
+127,128,"heavy_rail","Frankston Line",1881
+128,129,"heavy_rail","Frankston Line",1919
+129,130,"heavy_rail","Frankston Line",1891
+130,131,"heavy_rail","Frankston Line",1919
+131,132,"heavy_rail","Frankston Line",1926
+132,133,"heavy_rail","Frankston Line",1882
+133,134,"heavy_rail","Frankston Line",1975
+134,135,"heavy_rail","Frankston Line",1857
+135,136,"heavy_rail","Frankston Line",1855
+136,137,"heavy_rail","Frankston Line",1881
+137,138,"heavy_rail","Frankston Line",1983
+138,139,"heavy_rail","Frankston Line",1983
+139,140,"heavy_rail","Frankston Line",2013
+140,141,"heavy_rail","Frankston Line",1983
+12,16,"heavy_rail","Lilydale Line",1859
+16,17,"heavy_rail","Lilydale Line",1880
+17,18,"heavy_rail","Lilydale Line",1860
+18,3,"heavy_rail","Lilydale Line",1861
+3,4,"heavy_rail","Lilydale Line",1854
+4,7,"heavy_rail","Lilydale Line",1859
+7,8,"heavy_rail","Lilydale Line",1985
+8,9,"heavy_rail","Lilydale Line",1981
+9,51,"heavy_rail","Lilydale Line",1983
+51,52,"heavy_rail","Lilydale Line",1882
+52,53,"heavy_rail","Lilydale Line",1882
+53,54,"heavy_rail","Lilydale Line",1882
+54,55,"heavy_rail","Lilydale Line",1900
+55,56,"heavy_rail","Lilydale Line",1882
+56,57,"heavy_rail","Lilydale Line",1927
+57,58,"heavy_rail","Lilydale Line",1883
+58,59,"heavy_rail","Lilydale Line",1890
+59,60,"heavy_rail","Lilydale Line",1882
+60,61,"heavy_rail","Lilydale Line",1958
+61,62,"heavy_rail","Lilydale Line",1882
+62,63,"heavy_rail","Lilydale Line",1888
+63,64,"heavy_rail","Lilydale Line",1882
+64,65,"heavy_rail","Lilydale Line",1958
+65,66,"heavy_rail","Lilydale Line",1882
+66,67,"heavy_rail","Lilydale Line",1925
+67,68,"heavy_rail","Lilydale Line",1882
+68,69,"heavy_rail","Lilydale Line",1887
+69,70,"heavy_rail","Lilydale Line",1882
+70,71,"heavy_rail","Lilydale Line",NA
+71,72,"heavy_rail","Lilydale Line",1889
+72,73,"heavy_rail","Lilydale Line",1890
+73,74,"heavy_rail","Lilydale Line",1890
+74,75,"heavy_rail","Lilydale Line",1890
+75,76,"heavy_rail","Lilydale Line",1890
+76,77,"heavy_rail","Lilydale Line",1890
+77,78,"heavy_rail","Lilydale Line",1929
+78,79,"heavy_rail","Lilydale Line",1930
+79,80,"heavy_rail","Lilydale Line",1930
+80,81,"heavy_rail","Lilydale Line",1930
+81,82,"heavy_rail","Lilydale Line",1930
+82,83,"heavy_rail","Lilydale Line",1930
+83,84,"heavy_rail","Lilydale Line",1891
+84,85,"heavy_rail","Lilydale Line",1908
+85,86,"heavy_rail","Lilydale Line",1906
+86,87,"heavy_rail","Lilydale Line",1891
+87,164,"heavy_rail","Lilydale Line",1948
+164,165,"heavy_rail","Lilydale Line",1898
+165,166,"heavy_rail","Lilydale Line",1898
+166,227,"heavy_rail","Lilydale Line",1898
+10,12,"heavy_rail","Sandringham Line",1860
+12,15,"heavy_rail","Sandringham Line",1859
+15,3,"heavy_rail","Sandringham Line",1860
+3,4,"heavy_rail","Sandringham Line",1854
+4,110,"heavy_rail","Sandringham Line",1859
+110,111,"heavy_rail","Sandringham Line",NA
+111,112,"heavy_rail","Sandringham Line",NA
+112,113,"heavy_rail","Sandringham Line",NA
+113,114,"heavy_rail","Sandringham Line",NA
+114,115,"heavy_rail","Sandringham Line",NA
+115,116,"heavy_rail","Sandringham Line",NA
+116,117,"heavy_rail","Sandringham Line",NA
+117,118,"heavy_rail","Sandringham Line",NA
+118,119,"heavy_rail","Sandringham Line",NA
+10,12,"heavy_rail","Pakenham & cranbourne Line",1860
+12,3,"heavy_rail","Pakenham & cranbourne Line",1859
+3,4,"heavy_rail","Pakenham & cranbourne Line",1854
+4,7,"heavy_rail","Pakenham & cranbourne Line",1859
+7,8,"heavy_rail","Pakenham & cranbourne Line",1985
+8,9,"heavy_rail","Pakenham & cranbourne Line",1981
+9,91,"heavy_rail","Pakenham & cranbourne Line",1983
+91,101,"heavy_rail","Pakenham & cranbourne Line",1879
+101,102,"heavy_rail","Pakenham & cranbourne Line",1877
+102,103,"heavy_rail","Pakenham & cranbourne Line",1880
+103,104,"heavy_rail","Pakenham & cranbourne Line",1880
+104,105,"heavy_rail","Pakenham & cranbourne Line",1877
+105,106,"heavy_rail","Pakenham & cranbourne Line",1887
+106,107,"heavy_rail","Pakenham & cranbourne Line",1877
+107,108,"heavy_rail","Pakenham & cranbourne Line",2011
+108,109,"heavy_rail","Pakenham & cranbourne Line",1995
+109,156,"heavy_rail","Pakenham & cranbourne Line",1888
+156,157,"heavy_rail","Pakenham & cranbourne Line",2025
+157,158,"heavy_rail","Pakenham & cranbourne Line",2025
+158,159,"heavy_rail","Pakenham & cranbourne Line",2025
+159,160,"heavy_rail","Pakenham & cranbourne Line",2025
+160,169,"heavy_rail","Pakenham & cranbourne Line",2025
+169,170,"heavy_rail","Pakenham & cranbourne Line",1927
+170,171,"heavy_rail","Pakenham & cranbourne Line",1951
+171,172,"heavy_rail","Pakenham & cranbourne Line",1889
+172,173,"heavy_rail","Pakenham & cranbourne Line",1965
+173,174,"heavy_rail","Pakenham & cranbourne Line",1913
+174,175,"heavy_rail","Pakenham & cranbourne Line",1976
+93,95,"heavy_rail","Stony Point Line",1882
+161,162,"heavy_rail","Kew Line",1887
+176,179,"heavy_rail","Fairfield to Riversdale",1891
+163,167,"heavy_rail","Camberwell to Waverley Road",1891
+249,250,"heavy_rail","St Kilda Line",1858
+250,251,"heavy_rail","St Kilda Line",1860
+251,252,"heavy_rail","St Kilda Line",1883
+245,246,"heavy_rail","Port Melbourne Line",1854
+246,247,"heavy_rail","Port Melbourne Line",1883
+247,248,"heavy_rail","Port Melbourne Line",1859
+177,178,"heavy_rail","Deepdene Dasher",1900
+178,180,"heavy_rail","Deepdene Dasher",1900
+204,205,"heavy_rail","Inner Circle Line",1888
+205,206,"heavy_rail","Inner Circle Line",1888
+207,208,"heavy_rail","Whittlesea Line",1889
+208,210,"heavy_rail","Whittlesea Line",1889
+210,212,"heavy_rail","Whittlesea Line",1889
+212,213,"heavy_rail","Whittlesea Line",1889
+213,216,"heavy_rail","Whittlesea Line",1889
+255,264,"inter_city_rail","Geelong Line",1885
+264,266,"inter_city_rail","Geelong Line",2015
+266,267,"inter_city_rail","Geelong Line",1884
+229,230,"heavy_rail","Flemington Racecourse Line",1861
+253,254,"heavy_rail","Sunbury Line",1888
+254,255,"heavy_rail","Sunbury Line",1891
+255,257,"heavy_rail","Sunbury Line",1885
+257,258,"heavy_rail","Sunbury Line",1860
+258,259,"heavy_rail","Sunbury Line",1982
+259,260,"heavy_rail","Sunbury Line",1887
+260,261,"heavy_rail","Sunbury Line",2002
+261,262,"heavy_rail","Sunbury Line",1859
+262,263,"heavy_rail","Sunbury Line",1859
+289,291,"inter_city_rail","Albury Line",1872
+291,292,"inter_city_rail","Albury Line",1873
+292,293,"inter_city_rail","Albury Line",1873
+293,294,"inter_city_rail","Albury Line",1873
+231,232,"heavy_rail","Upfield Line",1889
+232,233,"heavy_rail","Upfield Line",1928
+233,234,"heavy_rail","Upfield Line",1889
+234,235,"heavy_rail","Upfield Line",1889
+235,236,"heavy_rail","Upfield Line",1889
+236,237,"heavy_rail","Upfield Line",1884
+237,238,"heavy_rail","Upfield Line",1884
+238,239,"heavy_rail","Upfield Line",1926
+239,240,"heavy_rail","Upfield Line",1884
+240,241,"heavy_rail","Upfield Line",1884
+241,242,"heavy_rail","Upfield Line",1884
+242,243,"heavy_rail","Upfield Line",1885
+243,244,"heavy_rail","Upfield Line",1887
+268,269,"inter_city_rail","Bendigo Line",1861
+269,270,"inter_city_rail","Bendigo Line",1861
+270,271,"inter_city_rail","Bendigo Line",1861
+271,272,"inter_city_rail","Bendigo Line",1861
+272,273,"inter_city_rail","Bendigo Line",1861
+273,274,"inter_city_rail","Bendigo Line",1862
+274,275,"inter_city_rail","Bendigo Line",1862
+275,276,"inter_city_rail","Bendigo Line",1879
+276,277,"inter_city_rail","Bendigo Line",1862
+277,278,"inter_city_rail","Bendigo Line",1862
+278,279,"inter_city_rail","Bendigo Line",1862
+279,280,"inter_city_rail","Bendigo Line",1862
+280,281,"inter_city_rail","Bendigo Line",1862
+281,282,"inter_city_rail","Bendigo Line",1862
+282,283,"inter_city_rail","Bendigo Line",1862
+283,284,"inter_city_rail","Bendigo Line",1862
+285,287,"heavy_rail","Victorian Goldfields Railway (Castlemaine to Maldon)",1884
+285,287,"heavy_rail","Maldon Branch Line",1884

@@ -1,0 +1,424 @@
+"nodeID_from","nodeID_to","mode","line","year"
+26,27,"heavy_rail","LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg)",2022
+27,95,"heavy_rail","LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg)",2022
+95,96,"heavy_rail","LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg)",2022
+96,98,"heavy_rail","LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg)",2022
+98,99,"heavy_rail","LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg)",2022
+99,100,"heavy_rail","LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg)",2022
+100,102,"heavy_rail","LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg)",2022
+102,103,"heavy_rail","LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg)",2022
+103,104,"heavy_rail","LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg)",2022
+104,105,"heavy_rail","LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg)",2022
+105,106,"heavy_rail","LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg)",2022
+106,94,"heavy_rail","LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg)",2022
+94,174,"heavy_rail","LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg)",2020
+174,19,"heavy_rail","LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg)",2022
+19,413,"heavy_rail","LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg)",2021
+21,22,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2021
+22,94,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2014
+94,110,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2020
+110,111,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2021
+111,112,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2021
+112,113,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2021
+113,114,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2021
+114,115,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2021
+115,116,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2021
+116,117,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2021
+117,118,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2021
+118,119,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2021
+119,120,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2021
+120,121,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2021
+121,122,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2021
+122,123,"heavy_rail","LINE 2A (Dahisar-DN Nagar)",2021
+16,19,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+19,20,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+20,79,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+79,62,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2014
+62,100,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2019
+100,133,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2022
+133,230,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+230,291,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2023
+291,292,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+292,294,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+294,295,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+295,296,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+296,297,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+297,298,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+298,299,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+299,300,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+300,301,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+301,302,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+302,303,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+303,304,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+304,305,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+305,306,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+306,307,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+307,308,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+308,309,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+309,310,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+310,311,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+311,312,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+312,313,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",2021
+NA,2,"heavy_rail","LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ)",NA
+13,14,"heavy_rail","LINE 1 (Versova–Andheri–Ghatkopar)",2014
+14,22,"heavy_rail","LINE 1 (Versova–Andheri–Ghatkopar)",2014
+22,28,"heavy_rail","LINE 1 (Versova–Andheri–Ghatkopar)",2014
+28,29,"heavy_rail","LINE 1 (Versova–Andheri–Ghatkopar)",2014
+29,76,"heavy_rail","LINE 1 (Versova–Andheri–Ghatkopar)",2021
+76,77,"heavy_rail","LINE 1 (Versova–Andheri–Ghatkopar)",2014
+77,78,"heavy_rail","LINE 1 (Versova–Andheri–Ghatkopar)",2014
+78,79,"heavy_rail","LINE 1 (Versova–Andheri–Ghatkopar)",2014
+79,81,"heavy_rail","LINE 1 (Versova–Andheri–Ghatkopar)",2014
+81,82,"heavy_rail","LINE 1 (Versova–Andheri–Ghatkopar)",2014
+82,83,"heavy_rail","LINE 1 (Versova–Andheri–Ghatkopar)",2014
+83,84,"heavy_rail","LINE 1 (Versova–Andheri–Ghatkopar)",2014
+84,292,"heavy_rail","LINE 1 (Versova–Andheri–Ghatkopar)",2014
+292,407,"heavy_rail","LINE 1 (Versova–Andheri–Ghatkopar)",2021
+34,35,"heavy_rail","LINE 4 A (Kasarwadavali-Gaimukh",2022
+35,194,"heavy_rail","LINE 4 A (Kasarwadavali-Gaimukh",2022
+8,14,"commuter_rail","Line 1( Fast) CSTM- Kasara",0
+14,170,"commuter_rail","Line 1( Fast) CSTM- Kasara",2014
+170,178,"commuter_rail","Line 1( Fast) CSTM- Kasara",2022
+178,209,"commuter_rail","Line 1( Fast) CSTM- Kasara",2022
+209,230,"commuter_rail","Line 1( Fast) CSTM- Kasara",2023
+230,247,"commuter_rail","Line 1( Fast) CSTM- Kasara",2023
+247,7,"commuter_rail","Line 1( Fast) CSTM- Kasara",2025
+7,310,"commuter_rail","Line 1( Fast) CSTM- Kasara",0
+310,324,"commuter_rail","Line 1( Fast) CSTM- Kasara",2021
+324,349,"commuter_rail","Line 1( Fast) CSTM- Kasara",0
+349,139,"commuter_rail","Line 1( Fast) CSTM- Kasara",0
+139,394,"commuter_rail","Line 1( Fast) CSTM- Kasara",2022
+394,400,"commuter_rail","Line 1( Fast) CSTM- Kasara",0
+400,407,"commuter_rail","Line 1( Fast) CSTM- Kasara",0
+407,410,"commuter_rail","Line 1( Fast) CSTM- Kasara",0
+410,416,"commuter_rail","Line 1( Fast) CSTM- Kasara",0
+416,419,"commuter_rail","Line 1( Fast) CSTM- Kasara",0
+419,11,"commuter_rail","Line 1( Fast) CSTM- Kasara",0
+NA,4,"commuter_rail","Line 1( Fast) CSTM- Kasara",NA
+6,84,"commuter_rail","Line 1 CSMT- Goregaon",0
+84,70,"commuter_rail","Line 1 CSMT- Goregaon",2014
+70,226,"commuter_rail","Line 1 CSMT- Goregaon",2019
+226,230,"commuter_rail","Line 1 CSMT- Goregaon",2023
+230,310,"commuter_rail","Line 1 CSMT- Goregaon",2023
+310,324,"commuter_rail","Line 1 CSMT- Goregaon",2021
+324,328,"commuter_rail","Line 1 CSMT- Goregaon",0
+328,331,"commuter_rail","Line 1 CSMT- Goregaon",0
+331,334,"commuter_rail","Line 1 CSMT- Goregaon",0
+334,336,"commuter_rail","Line 1 CSMT- Goregaon",0
+336,339,"commuter_rail","Line 1 CSMT- Goregaon",0
+339,342,"commuter_rail","Line 1 CSMT- Goregaon",0
+342,344,"commuter_rail","Line 1 CSMT- Goregaon",0
+NA,223,"commuter_rail","Line 1 CSMT- Goregaon",NA
+223,227,"commuter_rail","Line 1 CSMT- Goregaon",2023
+48,47,"heavy_rail","NMML 1 (Belapur-Pendhar	",2020
+47,51,"heavy_rail","NMML 1 (Belapur-Pendhar	",2025
+51,367,"heavy_rail","NMML 1 (Belapur-Pendhar	",2020
+367,372,"heavy_rail","NMML 1 (Belapur-Pendhar	",2004
+NA,370,"heavy_rail","NMML 1 (Belapur-Pendhar	",NA
+238,239,"heavy_rail","CIRCULAR LINE",2025
+239,240,"heavy_rail","CIRCULAR LINE",2025
+240,241,"heavy_rail","CIRCULAR LINE",2025
+241,242,"heavy_rail","CIRCULAR LINE",2025
+242,243,"heavy_rail","CIRCULAR LINE",2025
+243,244,"heavy_rail","CIRCULAR LINE",2025
+244,245,"heavy_rail","CIRCULAR LINE",2025
+245,246,"heavy_rail","CIRCULAR LINE",2025
+246,247,"heavy_rail","CIRCULAR LINE",2025
+247,248,"heavy_rail","CIRCULAR LINE",2025
+248,249,"heavy_rail","CIRCULAR LINE",2025
+249,250,"heavy_rail","CIRCULAR LINE",2025
+250,251,"heavy_rail","CIRCULAR LINE",2025
+251,252,"heavy_rail","CIRCULAR LINE",2025
+252,253,"heavy_rail","CIRCULAR LINE",2025
+253,254,"heavy_rail","CIRCULAR LINE",2025
+254,255,"heavy_rail","CIRCULAR LINE",2025
+255,256,"heavy_rail","CIRCULAR LINE",2025
+256,257,"heavy_rail","CIRCULAR LINE",2025
+257,258,"heavy_rail","CIRCULAR LINE",2025
+258,192,"heavy_rail","CIRCULAR LINE",2025
+192,184,"heavy_rail","CIRCULAR LINE",2022
+184,7,"heavy_rail","CIRCULAR LINE",2022
+1,2,"heavy_rail","Line 1(Fast) Churchgate- Dahanu Rd",0
+2,84,"heavy_rail","Line 1(Fast) Churchgate- Dahanu Rd",0
+84,312,"heavy_rail","Line 1(Fast) Churchgate- Dahanu Rd",2014
+312,305,"heavy_rail","Line 1(Fast) Churchgate- Dahanu Rd",2021
+305,400,"heavy_rail","Line 1(Fast) Churchgate- Dahanu Rd",2021
+NA,3,"heavy_rail","Line 1(Fast) Churchgate- Dahanu Rd",NA
+NA,10,"heavy_rail","Line 1(Fast) Churchgate- Dahanu Rd",NA
+NA,306,"heavy_rail","Line 1(Fast) Churchgate- Dahanu Rd",NA
+3,84,"heavy_rail","Line 2 (slow)Churchgate -Borivali",0
+84,312,"heavy_rail","Line 2 (slow)Churchgate -Borivali",2014
+312,305,"heavy_rail","Line 2 (slow)Churchgate -Borivali",2021
+305,398,"heavy_rail","Line 2 (slow)Churchgate -Borivali",2021
+398,400,"heavy_rail","Line 2 (slow)Churchgate -Borivali",0
+NA,6,"heavy_rail","Line 2 (slow)Churchgate -Borivali",NA
+NA,306,"heavy_rail","Line 2 (slow)Churchgate -Borivali",NA
+306,307,"heavy_rail","Line 2 (slow)Churchgate -Borivali",2021
+307,75,"heavy_rail","Line 2 (slow)Churchgate -Borivali",2021
+75,62,"heavy_rail","Line 2 (slow)Churchgate -Borivali",2019
+4,14,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+14,106,"commuter_rail","Line 2(Slow) CSTM- Kalyan",2014
+106,170,"commuter_rail","Line 2(Slow) CSTM- Kalyan",2022
+170,178,"commuter_rail","Line 2(Slow) CSTM- Kalyan",2022
+178,209,"commuter_rail","Line 2(Slow) CSTM- Kalyan",2022
+209,230,"commuter_rail","Line 2(Slow) CSTM- Kalyan",2023
+230,247,"commuter_rail","Line 2(Slow) CSTM- Kalyan",2023
+247,7,"commuter_rail","Line 2(Slow) CSTM- Kalyan",2025
+7,310,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+310,324,"commuter_rail","Line 2(Slow) CSTM- Kalyan",2021
+324,328,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+328,331,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+331,349,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+349,139,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+139,394,"commuter_rail","Line 2(Slow) CSTM- Kalyan",2022
+394,396,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+396,397,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+397,398,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+398,400,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+400,404,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+404,405,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+405,406,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+406,407,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+407,410,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+410,413,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+413,416,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+416,418,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+418,419,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+419,421,"commuter_rail","Line 2(Slow) CSTM- Kalyan",0
+NA,11,"commuter_rail","Line 2(Slow) CSTM- Kalyan",NA
+NA,75,"commuter_rail","Line 2(Slow) CSTM- Kalyan",NA
+12,364,"commuter_rail","Line 3 Nerul- Uran ",2021
+364,389,"commuter_rail","Line 3 Nerul- Uran ",2004
+389,390,"commuter_rail","Line 3 Nerul- Uran ",2019
+390,391,"commuter_rail","Line 3 Nerul- Uran ",2021
+391,392,"commuter_rail","Line 3 Nerul- Uran ",2021
+392,393,"commuter_rail","Line 3 Nerul- Uran ",2021
+9,10,"commuter_rail","Line 4 Vasai Rd-Diva-Roha",0
+10,11,"commuter_rail","Line 4 Vasai Rd-Diva-Roha",0
+11,47,"commuter_rail","Line 4 Vasai Rd-Diva-Roha",0
+47,5,"commuter_rail","Line 4 Vasai Rd-Diva-Roha",2025
+5,70,"commuter_rail","Line 2 CSMT- Panvel",2004
+70,67,"commuter_rail","Line 2 CSMT- Panvel",2019
+67,226,"commuter_rail","Line 2 CSMT- Panvel",2019
+226,230,"commuter_rail","Line 2 CSMT- Panvel",2023
+230,55,"commuter_rail","Line 2 CSMT- Panvel",2023
+55,310,"commuter_rail","Line 2 CSMT- Panvel",2024
+310,324,"commuter_rail","Line 2 CSMT- Panvel",2021
+324,328,"commuter_rail","Line 2 CSMT- Panvel",0
+328,331,"commuter_rail","Line 2 CSMT- Panvel",0
+331,334,"commuter_rail","Line 2 CSMT- Panvel",0
+334,336,"commuter_rail","Line 2 CSMT- Panvel",0
+336,339,"commuter_rail","Line 2 CSMT- Panvel",0
+339,342,"commuter_rail","Line 2 CSMT- Panvel",0
+342,344,"commuter_rail","Line 2 CSMT- Panvel",0
+344,347,"commuter_rail","Line 2 CSMT- Panvel",0
+347,348,"commuter_rail","Line 2 CSMT- Panvel",0
+348,349,"commuter_rail","Line 2 CSMT- Panvel",0
+349,139,"commuter_rail","Line 2 CSMT- Panvel",0
+139,356,"commuter_rail","Line 2 CSMT- Panvel",2022
+356,357,"commuter_rail","Line 2 CSMT- Panvel",0
+357,358,"commuter_rail","Line 2 CSMT- Panvel",0
+358,359,"commuter_rail","Line 2 CSMT- Panvel",0
+359,360,"commuter_rail","Line 2 CSMT- Panvel",0
+360,362,"commuter_rail","Line 2 CSMT- Panvel",0
+362,364,"commuter_rail","Line 2 CSMT- Panvel",0
+364,367,"commuter_rail","Line 2 CSMT- Panvel",2004
+367,370,"commuter_rail","Line 2 CSMT- Panvel",2004
+370,372,"commuter_rail","Line 2 CSMT- Panvel",2020
+372,375,"commuter_rail","Line 2 CSMT- Panvel",2004
+375,377,"commuter_rail","Line 2 CSMT- Panvel",2004
+377,147,"commuter_rail","Line 2 CSMT- Panvel",2004
+NA,223,"commuter_rail","Line 2 CSMT- Panvel",NA
+223,227,"commuter_rail","Line 2 CSMT- Panvel",2023
+7,247,"commuter_rail","Line 1 Thane -Panvel",0
+247,55,"commuter_rail","Line 1 Thane -Panvel",2025
+55,5,"commuter_rail","Line 1 Thane -Panvel",2024
+5,360,"commuter_rail","Line 1 Thane -Panvel",2004
+360,362,"commuter_rail","Line 1 Thane -Panvel",0
+362,364,"commuter_rail","Line 1 Thane -Panvel",0
+364,367,"commuter_rail","Line 1 Thane -Panvel",2004
+367,370,"commuter_rail","Line 1 Thane -Panvel",2004
+370,372,"commuter_rail","Line 1 Thane -Panvel",2020
+372,375,"commuter_rail","Line 1 Thane -Panvel",2004
+375,377,"commuter_rail","Line 1 Thane -Panvel",2004
+377,384,"commuter_rail","Line 1 Thane -Panvel",2004
+384,385,"commuter_rail","Line 1 Thane -Panvel",2004
+385,386,"commuter_rail","Line 1 Thane -Panvel",2004
+386,387,"commuter_rail","Line 1 Thane -Panvel",2004
+387,388,"commuter_rail","Line 1 Thane -Panvel",2004
+37,59,"light_rail","Line 1 Chembur- Wadala",2016
+59,61,"light_rail","Line 1 Chembur- Wadala",2016
+61,64,"light_rail","Line 1 Chembur- Wadala",2016
+64,65,"light_rail","Line 1 Chembur- Wadala",2016
+65,66,"light_rail","Line 1 Chembur- Wadala",2016
+66,142,"light_rail","Line 1 Chembur- Wadala",2016
+142,357,"light_rail","Line 1 Chembur- Wadala",2022
+53,55,"heavy_rail","NMML 2 (MIDC Taloja–Khandeshwar)",2022
+55,377,"heavy_rail","NMML 2 (MIDC Taloja–Khandeshwar)",2024
+51,53,"heavy_rail","NMML 3 (Pendhar and MIDC)",2020
+44,45,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2023
+45,195,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2022
+195,196,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2023
+196,197,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2023
+197,198,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2023
+198,199,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2023
+199,200,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2023
+200,201,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2023
+201,202,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2023
+202,203,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2023
+203,204,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2023
+204,205,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2023
+205,206,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2023
+206,207,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2023
+207,208,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2023
+208,4,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",2023
+4,209,"heavy_rail","LINE 5 (Thane-Bhiwandi-Kalyan)",0
+29,28,"heavy_rail","LINE 7 (Dahisar (East)-Andheri (East))",2021
+28,21,"heavy_rail","LINE 7 (Dahisar (East)-Andheri (East))",2014
+21,96,"heavy_rail","LINE 7 (Dahisar (East)-Andheri (East))",2021
+96,148,"heavy_rail","LINE 7 (Dahisar (East)-Andheri (East))",2022
+148,149,"heavy_rail","LINE 7 (Dahisar (East)-Andheri (East))",2021
+149,150,"heavy_rail","LINE 7 (Dahisar (East)-Andheri (East))",2021
+150,151,"heavy_rail","LINE 7 (Dahisar (East)-Andheri (East))",2021
+151,152,"heavy_rail","LINE 7 (Dahisar (East)-Andheri (East))",2021
+152,153,"heavy_rail","LINE 7 (Dahisar (East)-Andheri (East))",2021
+153,154,"heavy_rail","LINE 7 (Dahisar (East)-Andheri (East))",2021
+154,155,"heavy_rail","LINE 7 (Dahisar (East)-Andheri (East))",2021
+155,156,"heavy_rail","LINE 7 (Dahisar (East)-Andheri (East))",2021
+156,157,"heavy_rail","LINE 7 (Dahisar (East)-Andheri (East))",2021
+157,158,"heavy_rail","LINE 7 (Dahisar (East)-Andheri (East))",2021
+16,29,"heavy_rail","LINE 7A (Andheri-CSIA)",2021
+29,28,"heavy_rail","LINE 7A (Andheri-CSIA)",2021
+28,159,"heavy_rail","LINE 7A (Andheri-CSIA)",2014
+15,16,"heavy_rail","LINE 8 (CSIA T2-NMIA)",2025
+16,24,"heavy_rail","LINE 8 (CSIA T2-NMIA)",2021
+40,43,"heavy_rail","LINE 9 (Dahisar (East)-Mira-Bhayander)",2023
+43,211,"heavy_rail","LINE 9 (Dahisar (East)-Mira-Bhayander)",2022
+211,212,"heavy_rail","LINE 9 (Dahisar (East)-Mira-Bhayander)",2022
+212,213,"heavy_rail","LINE 9 (Dahisar (East)-Mira-Bhayander)",2022
+213,214,"heavy_rail","LINE 9 (Dahisar (East)-Mira-Bhayander)",2022
+214,215,"heavy_rail","LINE 9 (Dahisar (East)-Mira-Bhayander)",2022
+215,216,"heavy_rail","LINE 9 (Dahisar (East)-Mira-Bhayander)",2022
+216,21,"heavy_rail","LINE 9 (Dahisar (East)-Mira-Bhayander)",2022
+40,34,"heavy_rail","LINE 10 (Gaimukh-Shivaji Chowk )",2023
+34,212,"heavy_rail","LINE 10 (Gaimukh-Shivaji Chowk )",2022
+212,218,"heavy_rail","LINE 10 (Gaimukh-Shivaji Chowk )",2022
+218,219,"heavy_rail","LINE 10 (Gaimukh-Shivaji Chowk )",2023
+219,220,"heavy_rail","LINE 10 (Gaimukh-Shivaji Chowk )",2023
+221,222,"heavy_rail","LINE 11 (Wadala-CSMT)",2023
+222,223,"heavy_rail","LINE 11 (Wadala-CSMT)",2023
+223,224,"heavy_rail","LINE 11 (Wadala-CSMT)",2023
+224,225,"heavy_rail","LINE 11 (Wadala-CSMT)",2023
+225,226,"heavy_rail","LINE 11 (Wadala-CSMT)",2023
+226,227,"heavy_rail","LINE 11 (Wadala-CSMT)",2023
+227,228,"heavy_rail","LINE 11 (Wadala-CSMT)",2023
+228,229,"heavy_rail","LINE 11 (Wadala-CSMT)",2023
+229,230,"heavy_rail","LINE 11 (Wadala-CSMT)",2023
+230,310,"heavy_rail","LINE 11 (Wadala-CSMT)",2023
+310,336,"heavy_rail","LINE 11 (Wadala-CSMT)",2021
+336,339,"heavy_rail","LINE 11 (Wadala-CSMT)",0
+339,37,"heavy_rail","LINE 11 (Wadala-CSMT)",0
+37,342,"heavy_rail","LINE 11 (Wadala-CSMT)",2016
+342,334,"heavy_rail","LINE 11 (Wadala-CSMT)",0
+47,48,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+48,44,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2020
+44,268,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2023
+268,269,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+269,270,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+270,271,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+271,272,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+272,273,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+273,274,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+274,275,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+275,276,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+276,277,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+277,278,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+278,279,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+279,280,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+280,281,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+281,282,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+282,283,"heavy_rail","LINE 12 (Kalyan-Dombivali-Taloja)",2025
+NA,275,"heavy_rail","LINE 14 (Kanjurmarg-Badlapur)",NA
+24,124,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+124,125,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+125,126,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+126,127,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+127,128,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+128,129,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+129,130,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+130,131,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+131,132,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+132,133,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+133,135,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2021
+135,136,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+136,137,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+137,138,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+138,139,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+139,140,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+140,142,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+142,144,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+144,145,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+145,146,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+146,147,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+147,349,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2022
+349,359,"heavy_rail","LINE 2B (DN Nagar-Mandala)",0
+NA,64,"heavy_rail","LINE 2B (DN Nagar-Mandala)",NA
+64,163,"heavy_rail","LINE 2B (DN Nagar-Mandala)",2016
+35,37,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+37,45,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2016
+45,61,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+61,106,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2016
+106,140,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+140,160,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+160,161,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+161,162,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+162,163,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+163,164,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+164,165,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+165,166,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+166,167,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+167,168,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+168,169,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+169,170,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+170,173,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+173,174,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+174,176,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+176,177,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+177,178,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+178,181,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+181,182,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+182,183,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+183,184,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+184,185,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+185,186,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+186,187,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+187,188,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+188,189,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+189,190,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+190,191,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+191,192,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+192,193,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+193,245,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2022
+245,410,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",2025
+410,413,"heavy_rail","LINE 4  (Wadala–Kasarvadavali",0
+55,15,"heavy_rail","NMML 4 (Khandeshwar-NMIA)",2024
+15,377,"heavy_rail","NMML 4 (Khandeshwar-NMIA)",2025
+59,62,"light_rail","Line 1 Wadala- Jacob's Circle",2016
+62,67,"light_rail","Line 1 Wadala- Jacob's Circle",2019
+67,68,"light_rail","Line 1 Wadala- Jacob's Circle",2019
+68,69,"light_rail","Line 1 Wadala- Jacob's Circle",2019
+69,70,"light_rail","Line 1 Wadala- Jacob's Circle",2019
+70,71,"light_rail","Line 1 Wadala- Jacob's Circle",2019
+71,72,"light_rail","Line 1 Wadala- Jacob's Circle",2019
+72,73,"light_rail","Line 1 Wadala- Jacob's Circle",2019
+73,74,"light_rail","Line 1 Wadala- Jacob's Circle",2019
+74,75,"light_rail","Line 1 Wadala- Jacob's Circle",2019
+75,305,"light_rail","Line 1 Wadala- Jacob's Circle",2019
+305,344,"light_rail","Line 1 Wadala- Jacob's Circle",2021
+NA,397,"light_rail","Line 1 Wadala- Jacob's Circle",NA
+NA,4,"commuter_rail","Line 1( Fast) CSTM- Khopoli",NA
+4,400,"commuter_rail","Line 1( Fast) CSTM- Khopoli",0
+400,349,"commuter_rail","Line 1( Fast) CSTM- Khopoli",0
+349,7,"commuter_rail","Line 1( Fast) CSTM- Khopoli",0
+NA,135,"high_speed_rail","Mumbai -Ahmedabad",NA
+135,133,"high_speed_rail","Mumbai -Ahmedabad",2022

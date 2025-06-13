@@ -1,0 +1,74 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,5,"light_rail","1 Otogar - SSK",2004
+5,9,"light_rail","1 Otogar - SSK",2004
+9,11,"light_rail","1 Otogar - SSK",2004
+11,13,"light_rail","1 Otogar - SSK",2004
+13,15,"light_rail","1 Otogar - SSK",2004
+15,17,"light_rail","1 Otogar - SSK",2004
+17,19,"light_rail","1 Otogar - SSK",2004
+19,22,"light_rail","1 Otogar - SSK",2004
+22,24,"light_rail","1 Otogar - SSK",2004
+24,34,"light_rail","1 Otogar - SSK",2004
+34,42,"light_rail","1 Otogar - SSK",2004
+42,46,"light_rail","1 Otogar - SSK",2004
+46,50,"light_rail","1 Otogar - SSK",2004
+50,54,"light_rail","1 Otogar - SSK",2004
+54,58,"light_rail","1 Otogar - SSK",2004
+58,60,"light_rail","1 Otogar - SSK",2004
+1,5,"light_rail","3 OGÜ - SSK",2004
+5,9,"light_rail","3 OGÜ - SSK",2004
+9,11,"light_rail","3 OGÜ - SSK",2004
+11,13,"light_rail","3 OGÜ - SSK",2004
+13,15,"light_rail","3 OGÜ - SSK",2004
+15,17,"light_rail","3 OGÜ - SSK",2004
+17,19,"light_rail","3 OGÜ - SSK",2004
+19,22,"light_rail","3 OGÜ - SSK",2004
+22,28,"light_rail","3 OGÜ - SSK",2004
+28,30,"light_rail","3 OGÜ - SSK",2004
+30,32,"light_rail","3 OGÜ - SSK",2004
+24,34,"light_rail","4 Otogar - OGÜ",2004
+34,42,"light_rail","4 Otogar - OGÜ",2004
+42,46,"light_rail","4 Otogar - OGÜ",2004
+46,50,"light_rail","4 Otogar - OGÜ",2004
+50,54,"light_rail","4 Otogar - OGÜ",2004
+54,58,"light_rail","4 Otogar - OGÜ",2004
+58,60,"light_rail","4 Otogar - OGÜ",2004
+1,5,"light_rail","8 SSK - Batıkent",2004
+1,5,"light_rail","9 SSK - Çamlıca",2004
+19,24,"light_rail","10 Şehir Hastanesi - Kumlubel",2004
+24,28,"light_rail","10 Şehir Hastanesi - Kumlubel",2004
+28,30,"light_rail","10 Şehir Hastanesi - Kumlubel",2004
+30,32,"light_rail","10 Şehir Hastanesi - Kumlubel",2004
+32,36,"light_rail","10 Şehir Hastanesi - Kumlubel",2004
+36,37,"light_rail","10 Şehir Hastanesi - Kumlubel",2021
+37,38,"light_rail","10 Şehir Hastanesi - Kumlubel",2021
+38,39,"light_rail","10 Şehir Hastanesi - Kumlubel",2021
+39,40,"light_rail","10 Şehir Hastanesi - Kumlubel",2021
+40,41,"light_rail","10 Şehir Hastanesi - Kumlubel",2021
+41,42,"light_rail","10 Şehir Hastanesi - Kumlubel",2021
+42,46,"light_rail","10 Şehir Hastanesi - Kumlubel",2004
+46,50,"light_rail","10 Şehir Hastanesi - Kumlubel",2004
+50,54,"light_rail","10 Şehir Hastanesi - Kumlubel",2004
+54,62,"light_rail","10 Şehir Hastanesi - Kumlubel",2004
+62,64,"light_rail","10 Şehir Hastanesi - Kumlubel",2014
+64,66,"light_rail","10 Şehir Hastanesi - Kumlubel",2014
+66,68,"light_rail","10 Şehir Hastanesi - Kumlubel",2014
+68,70,"light_rail","10 Şehir Hastanesi - Kumlubel",2014
+70,72,"light_rail","10 Şehir Hastanesi - Kumlubel",2014
+72,74,"light_rail","10 Şehir Hastanesi - Kumlubel",2014
+74,76,"light_rail","10 Şehir Hastanesi - Kumlubel",2019
+76,78,"light_rail","10 Şehir Hastanesi - Kumlubel",NA
+78,80,"light_rail","10 Şehir Hastanesi - Kumlubel",NA
+24,42,"light_rail","12 OGÜ - 75. Yıl",2004
+42,46,"light_rail","12 OGÜ - 75. Yıl",2004
+46,50,"light_rail","12 OGÜ - 75. Yıl",2004
+50,54,"light_rail","12 OGÜ - 75. Yıl",2004
+54,62,"light_rail","12 OGÜ - 75. Yıl",2004
+62,64,"light_rail","12 OGÜ - 75. Yıl",2014
+64,66,"light_rail","12 OGÜ - 75. Yıl",2014
+66,68,"light_rail","12 OGÜ - 75. Yıl",2014
+68,70,"light_rail","12 OGÜ - 75. Yıl",2014
+70,72,"light_rail","12 OGÜ - 75. Yıl",2014
+72,74,"light_rail","12 OGÜ - 75. Yıl",2014
+74,76,"light_rail","12 OGÜ - 75. Yıl",2019
+76,78,"light_rail","12 OGÜ - 75. Yıl",NA

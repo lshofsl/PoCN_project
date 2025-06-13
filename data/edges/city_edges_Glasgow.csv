@@ -1,0 +1,91 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,3,"light_rail","Outer Circle",1896
+3,5,"light_rail","Outer Circle",1896
+5,7,"light_rail","Outer Circle",1896
+7,9,"light_rail","Outer Circle",1896
+9,11,"light_rail","Outer Circle",1896
+11,13,"light_rail","Outer Circle",1896
+13,15,"light_rail","Outer Circle",1896
+15,17,"light_rail","Outer Circle",1896
+17,19,"light_rail","Outer Circle",1896
+19,21,"light_rail","Outer Circle",1896
+21,23,"light_rail","Outer Circle",1896
+23,25,"light_rail","Outer Circle",1896
+25,27,"light_rail","Outer Circle",1896
+27,29,"light_rail","Outer Circle",1896
+1,3,"light_rail","Inner Circle",1896
+3,5,"light_rail","Inner Circle",1896
+5,7,"light_rail","Inner Circle",1896
+7,9,"light_rail","Inner Circle",1896
+9,11,"light_rail","Inner Circle",1896
+11,13,"light_rail","Inner Circle",1896
+13,15,"light_rail","Inner Circle",1896
+15,17,"light_rail","Inner Circle",1896
+17,19,"light_rail","Inner Circle",1896
+19,21,"light_rail","Inner Circle",1896
+21,23,"light_rail","Inner Circle",1896
+23,25,"light_rail","Inner Circle",1896
+25,27,"light_rail","Inner Circle",1896
+27,29,"light_rail","Inner Circle",1896
+31,32,"commuter_rail","Maryhill Branch",0
+32,33,"commuter_rail","Maryhill Branch",0
+33,34,"commuter_rail","Maryhill Branch",0
+34,35,"commuter_rail","Maryhill Branch",0
+35,36,"commuter_rail","Maryhill Branch",0
+36,37,"commuter_rail","Maryhill Branch",0
+38,39,"commuter_rail","Springburn Branch",0
+39,40,"commuter_rail","Springburn Branch",0
+40,41,"commuter_rail","Springburn Branch",0
+41,67,"commuter_rail","Springburn Branch",0
+42,43,"inter_city_rail","Via Falkirk High",0
+43,44,"inter_city_rail","Via Falkirk High",0
+44,98,"inter_city_rail","Via Falkirk High",0
+42,46,"commuter_rail","Via Falkirk Grahamston",0
+46,47,"commuter_rail","Via Falkirk Grahamston",0
+47,48,"commuter_rail","Via Falkirk Grahamston",0
+48,49,"commuter_rail","Via Falkirk Grahamston",0
+49,50,"commuter_rail","Via Falkirk Grahamston",0
+50,51,"commuter_rail","Via Falkirk Grahamston",0
+51,97,"commuter_rail","Via Falkirk Grahamston",0
+97,98,"commuter_rail","Via Falkirk Grahamston",0
+52,53,"commuter_rail","North Clyde Line",0
+53,54,"commuter_rail","North Clyde Line",0
+54,55,"commuter_rail","North Clyde Line",0
+55,56,"commuter_rail","North Clyde Line",0
+56,57,"commuter_rail","North Clyde Line",0
+57,66,"commuter_rail","North Clyde Line",0
+66,67,"commuter_rail","North Clyde Line",0
+67,69,"commuter_rail","North Clyde Line",0
+69,70,"commuter_rail","North Clyde Line",0
+70,71,"commuter_rail","North Clyde Line",0
+71,73,"commuter_rail","North Clyde Line",0
+73,74,"commuter_rail","North Clyde Line",0
+74,75,"commuter_rail","North Clyde Line",0
+75,76,"commuter_rail","North Clyde Line",0
+76,77,"commuter_rail","North Clyde Line",0
+77,96,"commuter_rail","North Clyde Line",0
+58,59,"commuter_rail","Paisley Canal",0
+59,60,"commuter_rail","Paisley Canal",0
+60,61,"commuter_rail","Paisley Canal",0
+61,62,"commuter_rail","Paisley Canal",0
+62,63,"commuter_rail","Paisley Canal",0
+63,64,"commuter_rail","Paisley Canal",0
+64,65,"commuter_rail","Paisley Canal",0
+83,92,"commuter_rail","Argyle Line",0
+92,93,"commuter_rail","Argyle Line",0
+78,79,"commuter_rail","Milngavie Branch",0
+79,80,"commuter_rail","Milngavie Branch",0
+81,83,"inter_city_rail","West Coast Mainline",0
+81,83,"inter_city_rail","East Coast Mainline",0
+86,87,"commuter_rail","Whifflet Branch",0
+87,88,"commuter_rail","Whifflet Branch",0
+88,89,"commuter_rail","Whifflet Branch",0
+89,90,"commuter_rail","Whifflet Branch",0
+90,91,"commuter_rail","Whifflet Branch",0
+92,81,"commuter_rail","via Shotts",0
+58,101,"commuter_rail","Cathcart Circle",0
+101,102,"commuter_rail","Cathcart Circle",0
+102,103,"commuter_rail","Cathcart Circle",0
+103,104,"commuter_rail","Cathcart Circle",0
+104,105,"commuter_rail","Cathcart Circle",0
+15,13,"light_rail","Circle",1896

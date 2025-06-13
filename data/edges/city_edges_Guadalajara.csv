@@ -1,0 +1,19 @@
+"nodeID_from","nodeID_to","mode","line","year"
+6,7,"light_rail","Línea 1",0
+7,8,"light_rail","Línea 1",0
+8,9,"light_rail","Línea 1",0
+9,10,"light_rail","Línea 1",0
+10,16,"light_rail","Línea 1",0
+16,17,"light_rail","Línea 1",0
+17,18,"light_rail","Línea 1",0
+18,19,"light_rail","Línea 1",0
+19,20,"light_rail","Línea 1",0
+1,2,"light_rail","Línea 2",0
+2,3,"light_rail","Línea 2",0
+3,4,"light_rail","Línea 2",0
+4,5,"light_rail","Línea 2",0
+5,11,"light_rail","Línea 2",0
+11,12,"light_rail","Línea 2",0
+12,13,"light_rail","Línea 2",0
+13,14,"light_rail","Línea 2",0
+14,15,"light_rail","Línea 2",0

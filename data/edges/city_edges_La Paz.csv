@@ -1,0 +1,27 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,2,"default","Línea Roja",2014
+2,3,"default","Línea Roja",2014
+4,5,"default","Línea Amarilla",2014
+5,6,"default","Línea Amarilla",2014
+6,7,"default","Línea Amarilla",2014
+8,9,"default","Línea Verde",2014
+9,10,"default","Línea Verde",2014
+10,4,"default","Línea Verde",2014
+11,12,"default","Línea Azul",2017
+12,13,"default","Línea Azul",2017
+13,14,"default","Línea Azul",2017
+14,33,"default","Línea Azul",2017
+15,16,"default","Línea Naranja",2017
+16,17,"default","Línea Naranja",2017
+17,18,"default","Línea Naranja",2017
+18,19,"default","Línea Blanca",2018
+19,20,"default","Línea Blanca",2018
+20,21,"default","Línea Blanca",2018
+29,30,"default","Línea Café",2018
+26,27,"default","Línea Morada",2018
+27,28,"default","Línea Morada",2018
+22,23,"default","Línea Celeste",2018
+23,24,"default","Línea Celeste",2018
+24,25,"default","Línea Celeste",2018
+31,32,"default","Línea Plateada",2019
+32,27,"default","Línea Plateada",2019

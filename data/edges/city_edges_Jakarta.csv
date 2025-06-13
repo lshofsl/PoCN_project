@@ -1,0 +1,550 @@
+"nodeID_from","nodeID_to","mode","line","year"
+7,8,"brt","TJ koridor 1",2004
+8,9,"brt","TJ koridor 1",2004
+9,10,"brt","TJ koridor 1",2004
+10,11,"brt","TJ koridor 1",2004
+11,12,"brt","TJ koridor 1",2004
+12,13,"brt","TJ koridor 1",2004
+13,14,"brt","TJ koridor 1",2004
+14,15,"brt","TJ koridor 1",2004
+15,17,"brt","TJ koridor 1",2004
+17,18,"brt","TJ koridor 1",2004
+18,19,"brt","TJ koridor 1",2004
+19,22,"brt","TJ koridor 1",2004
+22,24,"brt","TJ koridor 1",2014
+24,25,"brt","TJ koridor 1",2004
+25,27,"brt","TJ koridor 1",2014
+27,28,"brt","TJ koridor 1",2004
+28,30,"brt","TJ koridor 1",2004
+30,32,"brt","TJ koridor 1",2004
+32,363,"brt","TJ koridor 1",2004
+363,364,"brt","TJ koridor 1",2019
+364,365,"brt","TJ koridor 1",2004
+365,366,"brt","TJ koridor 1",2004
+366,380,"brt","TJ koridor 1",2004
+380,164,"brt","TJ koridor 1",2019
+164,421,"brt","TJ koridor 1",2006
+421,422,"brt","TJ koridor 1",2022
+143,144,"brt","TJ koridor 2",2006
+144,145,"brt","TJ koridor 2",2006
+145,146,"brt","TJ koridor 2",2006
+146,147,"brt","TJ koridor 2",2006
+147,149,"brt","TJ koridor 2",2006
+149,150,"brt","TJ koridor 2",2006
+150,151,"brt","TJ koridor 2",2006
+151,152,"brt","TJ koridor 2",2006
+152,153,"brt","TJ koridor 2",2006
+153,154,"brt","TJ koridor 2",2006
+154,155,"brt","TJ koridor 2",2006
+155,156,"brt","TJ koridor 2",2006
+156,157,"brt","TJ koridor 2",2006
+157,158,"brt","TJ koridor 2",2006
+158,159,"brt","TJ koridor 2",2006
+159,160,"brt","TJ koridor 2",2006
+160,162,"brt","TJ koridor 2",2006
+162,163,"brt","TJ koridor 2",2006
+163,164,"brt","TJ koridor 2",2006
+164,165,"brt","TJ koridor 2",2006
+165,166,"brt","TJ koridor 2",2006
+166,167,"brt","TJ koridor 2",2006
+167,381,"brt","TJ koridor 2",2006
+381,118,"brt","TJ koridor 2",2006
+160,168,"brt","TJ koridor 3",2006
+168,169,"brt","TJ koridor 3",2006
+169,170,"brt","TJ koridor 3",2006
+170,171,"brt","TJ koridor 3",2006
+171,172,"brt","TJ koridor 3",2006
+172,173,"brt","TJ koridor 3",2006
+173,174,"brt","TJ koridor 3",2006
+174,175,"brt","TJ koridor 3",2006
+175,176,"brt","TJ koridor 3",2006
+176,177,"brt","TJ koridor 3",2006
+177,178,"brt","TJ koridor 3",2006
+178,180,"brt","TJ koridor 3",2006
+180,167,"brt","TJ koridor 3",2006
+167,162,"brt","TJ koridor 3",2006
+162,185,"brt","TJ koridor 3",2006
+35,110,"brt","TJ koridor 4",2007
+110,112,"brt","TJ koridor 4",2007
+112,118,"brt","TJ koridor 4",2007
+118,119,"brt","TJ koridor 4",2007
+119,120,"brt","TJ koridor 4",2007
+120,121,"brt","TJ koridor 4",2007
+121,122,"brt","TJ koridor 4",2007
+122,123,"brt","TJ koridor 4",2007
+123,124,"brt","TJ koridor 4",2007
+124,125,"brt","TJ koridor 4",2007
+125,126,"brt","TJ koridor 4",2007
+126,128,"brt","TJ koridor 4",2007
+128,129,"brt","TJ koridor 4",2007
+129,130,"brt","TJ koridor 4",2007
+130,131,"brt","TJ koridor 4",2007
+131,132,"brt","TJ koridor 4",2007
+67,68,"brt","TJ koridor 5",2007
+68,69,"brt","TJ koridor 5",2011
+69,70,"brt","TJ koridor 5",2007
+70,71,"brt","TJ koridor 5",2007
+71,72,"brt","TJ koridor 5",2007
+72,73,"brt","TJ koridor 5",2007
+73,74,"brt","TJ koridor 5",2007
+74,75,"brt","TJ koridor 5",2007
+75,76,"brt","TJ koridor 5",2007
+76,77,"brt","TJ koridor 5",2007
+77,78,"brt","TJ koridor 5",2007
+78,79,"brt","TJ koridor 5",2007
+79,80,"brt","TJ koridor 5",2007
+80,81,"brt","TJ koridor 5",2007
+81,83,"brt","TJ koridor 5",2007
+83,85,"brt","TJ koridor 5",2007
+85,86,"brt","TJ koridor 5",2007
+132,110,"brt","TJ koridor 6",2007
+110,135,"brt","TJ koridor 6",2007
+135,233,"brt","TJ koridor 6",2007
+233,293,"brt","TJ koridor 6",2007
+293,294,"brt","TJ koridor 6",2007
+294,295,"brt","TJ koridor 6",2007
+295,296,"brt","TJ koridor 6",2007
+296,297,"brt","TJ koridor 6",2007
+297,298,"brt","TJ koridor 6",2007
+298,299,"brt","TJ koridor 6",2007
+299,300,"brt","TJ koridor 6",2007
+300,301,"brt","TJ koridor 6",2007
+301,302,"brt","TJ koridor 6",2007
+302,303,"brt","TJ koridor 6",2007
+303,304,"brt","TJ koridor 6",2007
+304,305,"brt","TJ koridor 6",2007
+305,306,"brt","TJ koridor 6",2007
+306,307,"brt","TJ koridor 6",2007
+307,308,"brt","TJ koridor 6",2007
+204,206,"brt","TJ koridor 7",2007
+206,210,"brt","TJ koridor 7",2007
+210,211,"brt","TJ koridor 7",2007
+211,212,"brt","TJ koridor 7",2007
+212,213,"brt","TJ koridor 7",2007
+213,214,"brt","TJ koridor 7",2007
+214,215,"brt","TJ koridor 7",2007
+215,216,"brt","TJ koridor 7",2007
+216,217,"brt","TJ koridor 7",2007
+217,218,"brt","TJ koridor 7",2007
+218,225,"brt","TJ koridor 7",2007
+225,226,"brt","TJ koridor 7",2007
+226,268,"brt","TJ koridor 7",2007
+106,182,"brt","TJ koridor 8",2015
+182,183,"brt","TJ koridor 8",2009
+183,186,"brt","TJ koridor 8",2009
+186,187,"brt","TJ koridor 8",2009
+187,188,"brt","TJ koridor 8",2009
+188,189,"brt","TJ koridor 8",2009
+189,190,"brt","TJ koridor 8",2009
+190,191,"brt","TJ koridor 8",2009
+191,192,"brt","TJ koridor 8",2009
+192,193,"brt","TJ koridor 8",2009
+193,194,"brt","TJ koridor 8",2009
+194,196,"brt","TJ koridor 8",2009
+196,197,"brt","TJ koridor 8",2009
+197,198,"brt","TJ koridor 8",2009
+198,199,"brt","TJ koridor 8",2009
+199,200,"brt","TJ koridor 8",2009
+200,180,"brt","TJ koridor 8",2009
+180,178,"brt","TJ koridor 8",2006
+178,177,"brt","TJ koridor 8",2006
+177,176,"brt","TJ koridor 8",2006
+136,179,"brt","TJ koridor 9",2010
+179,201,"brt","TJ koridor 9",2010
+201,202,"brt","TJ koridor 9",2010
+202,203,"brt","TJ koridor 9",2010
+203,207,"brt","TJ koridor 9",2010
+207,227,"brt","TJ koridor 9",2010
+227,228,"brt","TJ koridor 9",2010
+228,229,"brt","TJ koridor 9",2010
+229,230,"brt","TJ koridor 9",2010
+230,231,"brt","TJ koridor 9",2010
+231,232,"brt","TJ koridor 9",2010
+232,234,"brt","TJ koridor 9",2010
+234,235,"brt","TJ koridor 9",2010
+235,236,"brt","TJ koridor 9",2010
+236,238,"brt","TJ koridor 9",2010
+238,239,"brt","TJ koridor 9",2010
+239,240,"brt","TJ koridor 9",2010
+240,241,"brt","TJ koridor 9",2010
+241,242,"brt","TJ koridor 9",2010
+242,243,"brt","TJ koridor 9",2010
+243,244,"brt","TJ koridor 9",2010
+244,245,"brt","TJ koridor 9",2010
+245,246,"brt","TJ koridor 9",2010
+246,247,"brt","TJ koridor 9",2010
+247,249,"brt","TJ koridor 9",2010
+127,148,"brt","TJ koridor 10",2010
+148,205,"brt","TJ koridor 10",2010
+205,266,"brt","TJ koridor 10",2010
+266,271,"brt","TJ koridor 10",2010
+271,273,"brt","TJ koridor 10",2010
+273,276,"brt","TJ koridor 10",2010
+276,277,"brt","TJ koridor 10",2010
+277,278,"brt","TJ koridor 10",2010
+278,279,"brt","TJ koridor 10",2010
+279,280,"brt","TJ koridor 10",2010
+280,281,"brt","TJ koridor 10",2010
+281,282,"brt","TJ koridor 10",2010
+282,283,"brt","TJ koridor 10",2010
+283,284,"brt","TJ koridor 10",2010
+284,285,"brt","TJ koridor 10",2010
+285,287,"brt","TJ koridor 10",2011
+287,288,"brt","TJ koridor 10",2010
+288,289,"brt","TJ koridor 10",2010
+289,290,"brt","TJ koridor 10",2010
+290,291,"brt","TJ koridor 10",2010
+291,292,"brt","TJ koridor 10",2010
+286,318,"brt","TJ koridor 11",2011
+318,321,"brt","TJ koridor 11",2015
+321,322,"brt","TJ koridor 11",2011
+322,323,"brt","TJ koridor 11",2011
+323,324,"brt","TJ koridor 11",2011
+324,325,"brt","TJ koridor 11",2011
+325,326,"brt","TJ koridor 11",2011
+326,327,"brt","TJ koridor 11",2011
+327,328,"brt","TJ koridor 11",2011
+328,329,"brt","TJ koridor 11",2011
+329,330,"brt","TJ koridor 11",2011
+330,331,"brt","TJ koridor 11",2011
+331,332,"brt","TJ koridor 11",2011
+332,333,"brt","TJ koridor 11",2011
+333,335,"brt","TJ koridor 11",2011
+82,84,"brt","TJ koridor 12",2013
+84,248,"brt","TJ koridor 12",2013
+248,250,"brt","TJ koridor 12",2013
+250,251,"brt","TJ koridor 12",2013
+251,252,"brt","TJ koridor 12",2013
+252,253,"brt","TJ koridor 12",2013
+253,254,"brt","TJ koridor 12",2013
+254,255,"brt","TJ koridor 12",2013
+255,256,"brt","TJ koridor 12",2013
+256,257,"brt","TJ koridor 12",2013
+257,258,"brt","TJ koridor 12",2013
+258,259,"brt","TJ koridor 12",2013
+259,260,"brt","TJ koridor 12",2013
+260,261,"brt","TJ koridor 12",2013
+261,262,"brt","TJ koridor 12",2013
+262,263,"brt","TJ koridor 12",2013
+263,264,"brt","TJ koridor 12",2013
+264,265,"brt","TJ koridor 12",2013
+265,269,"brt","TJ koridor 12",2013
+269,270,"brt","TJ koridor 12",2013
+270,272,"brt","TJ koridor 12",2013
+272,274,"brt","TJ koridor 12",2013
+274,275,"brt","TJ koridor 12",2013
+195,334,"brt","TJ koridor 13",2018
+334,336,"brt","TJ koridor 13",2017
+336,337,"brt","TJ koridor 13",2018
+337,338,"brt","TJ koridor 13",2017
+338,339,"brt","TJ koridor 13",2022
+339,340,"brt","TJ koridor 13",2017
+340,341,"brt","TJ koridor 13",2017
+341,342,"brt","TJ koridor 13",2017
+342,343,"brt","TJ koridor 13",2017
+343,344,"brt","TJ koridor 13",2018
+344,345,"brt","TJ koridor 13",2018
+345,346,"brt","TJ koridor 13",2017
+346,347,"brt","TJ koridor 13",2017
+347,348,"brt","TJ koridor 13",2018
+1,2,"light_rail","Line A",2019
+2,3,"light_rail","Line A",2019
+3,4,"light_rail","Line A",2019
+4,5,"light_rail","Line A",2019
+5,6,"light_rail","Line A",2019
+16,20,"heavy_rail","Line 1",2019
+20,21,"heavy_rail","Line 1",2019
+21,23,"heavy_rail","Line 1",2019
+23,26,"heavy_rail","Line 1",2019
+26,29,"heavy_rail","Line 1",2019
+29,31,"heavy_rail","Line 1",2019
+31,33,"heavy_rail","Line 1",2019
+33,104,"heavy_rail","Line 1",2019
+104,105,"heavy_rail","Line 1",2019
+105,107,"heavy_rail","Line 1",2019
+107,108,"heavy_rail","Line 1",2019
+108,109,"heavy_rail","Line 1",2019
+109,371,"heavy_rail","Line 1",2019
+371,372,"heavy_rail","Line 1",2025
+372,373,"heavy_rail","Line 1",2025
+373,375,"heavy_rail","Line 1",2029
+375,376,"heavy_rail","Line 1",2029
+376,377,"heavy_rail","Line 1",2027
+377,378,"heavy_rail","Line 1",2029
+41,42,"commuter_rail","Loop Line",2011
+42,44,"commuter_rail","Loop Line",2011
+44,46,"commuter_rail","Loop Line",2011
+46,48,"commuter_rail","Loop Line",2011
+48,50,"commuter_rail","Loop Line",2011
+50,52,"commuter_rail","Loop Line",2011
+52,54,"commuter_rail","Loop Line",2011
+54,137,"commuter_rail","Loop Line",2011
+137,138,"commuter_rail","Loop Line",2011
+138,139,"commuter_rail","Loop Line",2011
+139,140,"commuter_rail","Loop Line",2017
+140,221,"commuter_rail","Loop Line",2011
+221,379,"commuter_rail","Loop Line",2011
+379,424,"commuter_rail","Loop Line",2011
+424,427,"commuter_rail","Loop Line",2011
+427,430,"commuter_rail","Loop Line",2011
+430,224,"commuter_rail","Loop Line",2011
+224,438,"commuter_rail","Loop Line",2011
+438,441,"commuter_rail","Loop Line",2011
+441,444,"commuter_rail","Loop Line",2011
+444,447,"commuter_rail","Loop Line",2011
+447,450,"commuter_rail","Loop Line",2011
+450,453,"commuter_rail","Loop Line",2011
+453,456,"commuter_rail","Loop Line",2011
+456,459,"commuter_rail","Loop Line",2011
+459,462,"commuter_rail","Loop Line",2011
+462,465,"commuter_rail","Loop Line",2011
+465,468,"commuter_rail","Loop Line",2011
+468,505,"commuter_rail","Loop Line",2011
+34,36,"commuter_rail","Cikarang Line",2011
+36,37,"commuter_rail","Cikarang Line",2023
+37,38,"commuter_rail","Cikarang Line",2011
+38,42,"commuter_rail","Cikarang Line",2011
+42,44,"commuter_rail","Cikarang Line",2011
+44,46,"commuter_rail","Cikarang Line",2011
+46,48,"commuter_rail","Cikarang Line",2011
+48,50,"commuter_rail","Cikarang Line",2011
+50,52,"commuter_rail","Cikarang Line",2011
+52,54,"commuter_rail","Cikarang Line",2011
+54,56,"commuter_rail","Cikarang Line",2011
+56,57,"commuter_rail","Cikarang Line",2011
+57,58,"commuter_rail","Cikarang Line",2018
+58,59,"commuter_rail","Cikarang Line",2011
+59,60,"commuter_rail","Cikarang Line",2011
+60,61,"commuter_rail","Cikarang Line",2011
+61,62,"commuter_rail","Cikarang Line",2011
+62,63,"commuter_rail","Cikarang Line",2017
+63,64,"commuter_rail","Cikarang Line",2017
+64,65,"commuter_rail","Cikarang Line",2017
+65,66,"commuter_rail","Cikarang Line",2019
+66,360,"commuter_rail","Cikarang Line",2017
+360,471,"commuter_rail","Cikarang Line",1991
+471,474,"commuter_rail","Cikarang Line",2011
+474,477,"commuter_rail","Cikarang Line",2011
+477,480,"commuter_rail","Cikarang Line",2011
+480,483,"commuter_rail","Cikarang Line",2011
+483,486,"commuter_rail","Cikarang Line",2011
+486,489,"commuter_rail","Cikarang Line",2011
+489,505,"commuter_rail","Cikarang Line",2011
+221,224,"commuter_rail","Central Line",2011
+224,379,"commuter_rail","Central Line",2011
+379,424,"commuter_rail","Central Line",2011
+424,427,"commuter_rail","Central Line",2011
+427,430,"commuter_rail","Central Line",2011
+430,438,"commuter_rail","Central Line",2011
+438,441,"commuter_rail","Central Line",2011
+441,444,"commuter_rail","Central Line",2011
+444,447,"commuter_rail","Central Line",2011
+447,450,"commuter_rail","Central Line",2011
+450,453,"commuter_rail","Central Line",2011
+453,456,"commuter_rail","Central Line",2011
+456,459,"commuter_rail","Central Line",2011
+459,462,"commuter_rail","Central Line",2011
+462,465,"commuter_rail","Central Line",2011
+465,468,"commuter_rail","Central Line",2011
+468,471,"commuter_rail","Central Line",2011
+471,474,"commuter_rail","Central Line",2011
+474,477,"commuter_rail","Central Line",2011
+477,480,"commuter_rail","Central Line",2011
+480,483,"commuter_rail","Central Line",2011
+483,486,"commuter_rail","Central Line",2011
+486,489,"commuter_rail","Central Line",2011
+489,492,"commuter_rail","Central Line",2011
+89,90,"commuter_rail","Rangkas Bitung Line",2011
+90,100,"commuter_rail","Rangkas Bitung Line",2011
+100,101,"commuter_rail","Rangkas Bitung Line",2011
+101,102,"commuter_rail","Rangkas Bitung Line",2011
+102,103,"commuter_rail","Rangkas Bitung Line",2011
+103,319,"commuter_rail","Rangkas Bitung Line",2011
+319,320,"commuter_rail","Rangkas Bitung Line",2011
+320,349,"commuter_rail","Rangkas Bitung Line",2011
+349,350,"commuter_rail","Rangkas Bitung Line",2011
+350,351,"commuter_rail","Rangkas Bitung Line",2011
+351,352,"commuter_rail","Rangkas Bitung Line",2013
+352,353,"commuter_rail","Rangkas Bitung Line",2013
+353,354,"commuter_rail","Rangkas Bitung Line",2013
+354,355,"commuter_rail","Rangkas Bitung Line",2013
+355,356,"commuter_rail","Rangkas Bitung Line",2013
+356,357,"commuter_rail","Rangkas Bitung Line",2017
+357,358,"commuter_rail","Rangkas Bitung Line",2017
+358,510,"commuter_rail","Rangkas Bitung Line",2013
+87,88,"commuter_rail","Tangerang Line",2011
+88,91,"commuter_rail","Tangerang Line",2011
+91,92,"commuter_rail","Tangerang Line",2011
+92,93,"commuter_rail","Tangerang Line",2011
+93,94,"commuter_rail","Tangerang Line",2011
+94,95,"commuter_rail","Tangerang Line",2011
+95,96,"commuter_rail","Tangerang Line",2011
+96,97,"commuter_rail","Tangerang Line",2011
+97,98,"commuter_rail","Tangerang Line",2011
+98,388,"commuter_rail","Tangerang Line",2011
+39,40,"commuter_rail","Tanjung Priok Line",2016
+40,361,"commuter_rail","Tanjung Priok Line",2015
+361,362,"commuter_rail","Tanjung Priok Line",2015
+99,111,"heavy_rail","Soekarno-Hatta Airport Line",2018
+111,113,"heavy_rail","Soekarno-Hatta Airport Line",2018
+113,359,"heavy_rail","Soekarno-Hatta Airport Line",2018
+359,417,"heavy_rail","Soekarno-Hatta Airport Line",2018
+417,418,"heavy_rail","Soekarno-Hatta Airport Line",2019
+208,209,"heavy_rail","Cibubur Line",2023
+209,237,"heavy_rail","Cibubur Line",2023
+237,314,"heavy_rail","Cibubur Line",2023
+314,315,"heavy_rail","Cibubur Line",2023
+315,316,"heavy_rail","Cibubur Line",2023
+316,317,"heavy_rail","Cibubur Line",2023
+317,367,"heavy_rail","Cibubur Line",2023
+367,368,"heavy_rail","Cibubur Line",2023
+368,369,"heavy_rail","Cibubur Line",2023
+369,370,"heavy_rail","Cibubur Line",2023
+370,387,"heavy_rail","Cibubur Line",2023
+309,310,"heavy_rail","Bekasi Line",2023
+310,311,"heavy_rail","Bekasi Line",2023
+311,312,"heavy_rail","Bekasi Line",2023
+312,313,"heavy_rail","Bekasi Line",2023
+313,386,"heavy_rail","Bekasi Line",2023
+386,237,"heavy_rail","Bekasi Line",2023
+237,367,"heavy_rail","Bekasi Line",2023
+367,387,"heavy_rail","Bekasi Line",2023
+387,317,"heavy_rail","Bekasi Line",2023
+317,369,"heavy_rail","Bekasi Line",2023
+369,370,"heavy_rail","Bekasi Line",2023
+370,208,"heavy_rail","Bekasi Line",2023
+114,115,"people_mover","Line 1",2017
+115,116,"people_mover","Line 1",2017
+116,117,"people_mover","Line 1",2017
+141,142,"commuter_rail","Nambo Line",1997
+142,219,"commuter_rail","Nambo Line",1997
+219,220,"commuter_rail","Nambo Line",1997
+220,221,"commuter_rail","Nambo Line",2015
+374,523,"heavy_rail","Line 2",2034
+523,524,"heavy_rail","Line 2",2034
+524,525,"heavy_rail","Line 2",2034
+525,526,"heavy_rail","Line 2",2034
+526,527,"heavy_rail","Line 2",2034
+527,528,"heavy_rail","Line 2",2034
+528,529,"heavy_rail","Line 2",2034
+529,530,"heavy_rail","Line 2",2034
+530,531,"heavy_rail","Line 2",2034
+531,532,"heavy_rail","Line 2",2034
+532,533,"heavy_rail","Line 2",2034
+533,534,"heavy_rail","Line 2",2034
+534,535,"heavy_rail","Line 2",2034
+535,536,"heavy_rail","Line 2",2034
+536,537,"heavy_rail","Line 2",2034
+537,538,"heavy_rail","Line 2",2034
+538,539,"heavy_rail","Line 2",2034
+539,540,"heavy_rail","Line 2",2034
+540,541,"heavy_rail","Line 2",2034
+541,542,"heavy_rail","Line 2",2034
+542,552,"heavy_rail","Line 2",2034
+552,553,"heavy_rail","Line 2",2028
+553,554,"heavy_rail","Line 2",2028
+554,555,"heavy_rail","Line 2",2028
+555,556,"heavy_rail","Line 2",2028
+556,557,"heavy_rail","Line 2",2028
+557,558,"heavy_rail","Line 2",NA
+558,559,"heavy_rail","Line 2",2032
+559,560,"heavy_rail","Line 2",2032
+560,561,"heavy_rail","Line 2",2032
+561,562,"heavy_rail","Line 2",2032
+562,563,"heavy_rail","Line 2",2030
+563,564,"heavy_rail","Line 2",2032
+564,565,"heavy_rail","Line 2",2032
+565,566,"heavy_rail","Line 2",2032
+566,567,"heavy_rail","Line 2",2032
+567,568,"heavy_rail","Line 2",2032
+568,569,"heavy_rail","Line 2",2032
+569,570,"heavy_rail","Line 2",2032
+570,571,"heavy_rail","Line 2",2032
+571,572,"heavy_rail","Line 2",NA
+572,573,"heavy_rail","Line 2",NA
+573,574,"heavy_rail","Line 2",NA
+574,575,"heavy_rail","Line 2",NA
+575,576,"heavy_rail","Line 2",NA
+576,577,"heavy_rail","Line 2",NA
+385,423,"high_speed_rail","Line 1",2024
+543,544,"heavy_rail","Line 3",NA
+544,545,"heavy_rail","Line 3",NA
+545,546,"heavy_rail","Line 3",NA
+546,547,"heavy_rail","Line 3",NA
+547,548,"heavy_rail","Line 3",NA
+548,549,"heavy_rail","Line 3",NA
+549,550,"heavy_rail","Line 3",NA
+550,551,"heavy_rail","Line 3",NA
+389,391,"tram","BTM Line",1869
+391,393,"tram","BTM Line",1869
+393,395,"tram","BTM Line",1869
+395,397,"tram","BTM Line",1869
+397,399,"tram","BTM Line",1869
+399,401,"tram","BTM Line",1869
+401,403,"tram","BTM Line",1869
+403,405,"tram","BTM Line",1869
+405,407,"tram","BTM Line",1869
+407,409,"tram","BTM Line",1869
+409,411,"tram","BTM Line",1869
+411,419,"tram","BTM Line",1869
+389,391,"tram","NITM Line",1869
+391,393,"tram","NITM Line",1869
+393,395,"tram","NITM Line",1869
+395,397,"tram","NITM Line",1869
+397,399,"tram","NITM Line",1869
+399,401,"tram","NITM Line",1869
+401,403,"tram","NITM Line",1869
+403,405,"tram","NITM Line",1869
+405,407,"tram","NITM Line",1869
+407,409,"tram","NITM Line",1869
+409,411,"tram","NITM Line",1869
+424,427,"commuter_rail","Bogor Line",2011
+427,430,"commuter_rail","Bogor Line",2011
+430,219,"commuter_rail","Bogor Line",2011
+219,220,"commuter_rail","Bogor Line",1997
+220,221,"commuter_rail","Bogor Line",2015
+221,224,"commuter_rail","Bogor Line",2011
+224,438,"commuter_rail","Bogor Line",2011
+438,441,"commuter_rail","Bogor Line",2011
+441,444,"commuter_rail","Bogor Line",2011
+444,447,"commuter_rail","Bogor Line",2011
+447,450,"commuter_rail","Bogor Line",2011
+450,453,"commuter_rail","Bogor Line",2011
+453,456,"commuter_rail","Bogor Line",2011
+456,459,"commuter_rail","Bogor Line",2011
+459,462,"commuter_rail","Bogor Line",2011
+462,465,"commuter_rail","Bogor Line",2011
+465,468,"commuter_rail","Bogor Line",2011
+468,471,"commuter_rail","Bogor Line",2011
+471,474,"commuter_rail","Bogor Line",2011
+474,477,"commuter_rail","Bogor Line",2011
+477,480,"commuter_rail","Bogor Line",2011
+480,483,"commuter_rail","Bogor Line",2011
+483,486,"commuter_rail","Bogor Line",2011
+486,489,"commuter_rail","Bogor Line",2011
+489,492,"commuter_rail","Bogor Line",2011
+379,41,"commuter_rail","Cikarang Loop Line",2011
+41,137,"commuter_rail","Cikarang Loop Line",2011
+137,138,"commuter_rail","Cikarang Loop Line",2011
+138,139,"commuter_rail","Cikarang Loop Line",2011
+139,42,"commuter_rail","Cikarang Loop Line",2017
+42,44,"commuter_rail","Cikarang Loop Line",2011
+44,46,"commuter_rail","Cikarang Loop Line",2011
+46,48,"commuter_rail","Cikarang Loop Line",2011
+48,50,"commuter_rail","Cikarang Loop Line",2011
+50,52,"commuter_rail","Cikarang Loop Line",2011
+52,505,"commuter_rail","Cikarang Loop Line",2011
+505,54,"commuter_rail","Cikarang Loop Line",2011
+54,140,"commuter_rail","Cikarang Loop Line",2011
+140,56,"commuter_rail","Cikarang Loop Line",2011
+56,57,"commuter_rail","Cikarang Loop Line",2011
+57,58,"commuter_rail","Cikarang Loop Line",2018
+58,59,"commuter_rail","Cikarang Loop Line",2011
+59,60,"commuter_rail","Cikarang Loop Line",2011
+60,61,"commuter_rail","Cikarang Loop Line",2011
+61,62,"commuter_rail","Cikarang Loop Line",2011
+62,63,"commuter_rail","Cikarang Loop Line",2017
+63,64,"commuter_rail","Cikarang Loop Line",2017
+64,65,"commuter_rail","Cikarang Loop Line",2017
+65,66,"commuter_rail","Cikarang Loop Line",2019
+66,111,"commuter_rail","Cikarang Loop Line",2017

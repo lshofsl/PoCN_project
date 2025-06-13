@@ -1,0 +1,229 @@
+"nodeID_from","nodeID_to","mode","line","year"
+95,96,"light_rail","Kelana Jaya Line",1998
+96,97,"light_rail","Kelana Jaya Line",1998
+97,98,"light_rail","Kelana Jaya Line",1998
+98,99,"light_rail","Kelana Jaya Line",1998
+99,100,"light_rail","Kelana Jaya Line",1998
+100,101,"light_rail","Kelana Jaya Line",1998
+101,102,"light_rail","Kelana Jaya Line",2015
+102,103,"light_rail","Kelana Jaya Line",1998
+103,104,"light_rail","Kelana Jaya Line",1998
+104,105,"light_rail","Kelana Jaya Line",1998
+105,106,"light_rail","Kelana Jaya Line",2015
+106,107,"light_rail","Kelana Jaya Line",2001
+107,108,"light_rail","Kelana Jaya Line",1998
+108,109,"light_rail","Kelana Jaya Line",1999
+109,110,"light_rail","Kelana Jaya Line",1999
+110,111,"light_rail","Kelana Jaya Line",1999
+111,112,"light_rail","Kelana Jaya Line",1999
+112,113,"light_rail","Kelana Jaya Line",1999
+113,114,"light_rail","Kelana Jaya Line",1999
+114,115,"light_rail","Kelana Jaya Line",1999
+115,116,"light_rail","Kelana Jaya Line",1999
+116,117,"light_rail","Kelana Jaya Line",1999
+117,118,"light_rail","Kelana Jaya Line",2010
+118,119,"light_rail","Kelana Jaya Line",1999
+119,120,"light_rail","Kelana Jaya Line",1999
+120,121,"light_rail","Kelana Jaya Line",1999
+121,122,"light_rail","Kelana Jaya Line",2016
+122,123,"light_rail","Kelana Jaya Line",2016
+123,124,"light_rail","Kelana Jaya Line",2016
+124,125,"light_rail","Kelana Jaya Line",2016
+125,126,"light_rail","Kelana Jaya Line",2016
+126,127,"light_rail","Kelana Jaya Line",2016
+127,128,"light_rail","Kelana Jaya Line",2016
+128,129,"light_rail","Kelana Jaya Line",2016
+129,130,"light_rail","Kelana Jaya Line",2016
+130,131,"light_rail","Kelana Jaya Line",2016
+131,132,"light_rail","Kelana Jaya Line",2016
+132,133,"light_rail","Kelana Jaya Line",2016
+41,42,"light_rail","Ampang Line",1996
+42,43,"light_rail","Ampang Line",1996
+43,44,"light_rail","Ampang Line",1996
+44,45,"light_rail","Ampang Line",1996
+45,46,"light_rail","Ampang Line",1996
+46,47,"light_rail","Ampang Line",1996
+47,48,"light_rail","Ampang Line",1996
+48,49,"light_rail","Ampang Line",1996
+49,50,"light_rail","Ampang Line",1996
+50,51,"light_rail","Ampang Line",1996
+51,52,"light_rail","Ampang Line",1996
+52,53,"light_rail","Ampang Line",1996
+53,54,"light_rail","Ampang Line",1996
+54,55,"light_rail","Ampang Line",1996
+55,57,"light_rail","Ampang Line",1998
+57,59,"light_rail","Ampang Line",1998
+59,61,"light_rail","Ampang Line",1998
+61,81,"light_rail","Ampang Line",1998
+81,83,"light_rail","Ampang Line",1998
+83,85,"light_rail","Ampang Line",1998
+85,87,"light_rail","Ampang Line",1998
+87,89,"light_rail","Ampang Line",1998
+89,91,"light_rail","Ampang Line",1998
+91,93,"light_rail","Ampang Line",1998
+55,57,"light_rail","Sri Petaling Line",1998
+57,59,"light_rail","Sri Petaling Line",1998
+59,61,"light_rail","Sri Petaling Line",1998
+61,63,"light_rail","Sri Petaling Line",1998
+63,64,"light_rail","Sri Petaling Line",1998
+64,65,"light_rail","Sri Petaling Line",1998
+65,66,"light_rail","Sri Petaling Line",1998
+66,67,"light_rail","Sri Petaling Line",1998
+67,68,"light_rail","Sri Petaling Line",1998
+68,69,"light_rail","Sri Petaling Line",1998
+69,70,"light_rail","Sri Petaling Line",1998
+70,71,"light_rail","Sri Petaling Line",2015
+71,72,"light_rail","Sri Petaling Line",2015
+72,73,"light_rail","Sri Petaling Line",2015
+73,74,"light_rail","Sri Petaling Line",2015
+74,75,"light_rail","Sri Petaling Line",2016
+75,76,"light_rail","Sri Petaling Line",2016
+76,77,"light_rail","Sri Petaling Line",2016
+77,78,"light_rail","Sri Petaling Line",2016
+78,79,"light_rail","Sri Petaling Line",2016
+79,80,"light_rail","Sri Petaling Line",2016
+80,81,"light_rail","Sri Petaling Line",2016
+81,83,"light_rail","Sri Petaling Line",1998
+83,85,"light_rail","Sri Petaling Line",1998
+85,87,"light_rail","Sri Petaling Line",1998
+87,89,"light_rail","Sri Petaling Line",1998
+89,91,"light_rail","Sri Petaling Line",1998
+91,93,"light_rail","Sri Petaling Line",1998
+143,144,"people_mover","KL Monorail Line",2003
+144,145,"people_mover","KL Monorail Line",2003
+145,146,"people_mover","KL Monorail Line",2003
+146,147,"people_mover","KL Monorail Line",2003
+147,148,"people_mover","KL Monorail Line",2003
+148,149,"people_mover","KL Monorail Line",2003
+149,150,"people_mover","KL Monorail Line",2003
+150,151,"people_mover","KL Monorail Line",2003
+151,152,"people_mover","KL Monorail Line",2003
+152,153,"people_mover","KL Monorail Line",2003
+161,162,"heavy_rail","Kajang Line",2016
+162,163,"heavy_rail","Kajang Line",2016
+163,164,"heavy_rail","Kajang Line",2016
+164,165,"heavy_rail","Kajang Line",2016
+165,166,"heavy_rail","Kajang Line",2016
+166,167,"heavy_rail","Kajang Line",2016
+167,168,"heavy_rail","Kajang Line",2016
+168,169,"heavy_rail","Kajang Line",2016
+169,170,"heavy_rail","Kajang Line",2016
+170,171,"heavy_rail","Kajang Line",2016
+171,172,"heavy_rail","Kajang Line",2017
+172,173,"heavy_rail","Kajang Line",2017
+173,174,"heavy_rail","Kajang Line",2017
+174,175,"heavy_rail","Kajang Line",2017
+175,176,"heavy_rail","Kajang Line",2017
+176,177,"heavy_rail","Kajang Line",2017
+177,178,"heavy_rail","Kajang Line",2017
+178,179,"heavy_rail","Kajang Line",2017
+179,180,"heavy_rail","Kajang Line",2017
+180,181,"heavy_rail","Kajang Line",2017
+181,182,"heavy_rail","Kajang Line",2017
+182,183,"heavy_rail","Kajang Line",2017
+183,184,"heavy_rail","Kajang Line",2017
+184,185,"heavy_rail","Kajang Line",2017
+185,186,"heavy_rail","Kajang Line",2017
+186,187,"heavy_rail","Kajang Line",2017
+187,188,"heavy_rail","Kajang Line",2017
+188,189,"heavy_rail","Kajang Line",2017
+35,23,"commuter_rail","Seremban Line",2015
+23,5,"commuter_rail","Seremban Line",2001
+5,22,"commuter_rail","Seremban Line",1995
+22,6,"commuter_rail","Seremban Line",1995
+6,193,"commuter_rail","Seremban Line",1995
+193,196,"commuter_rail","Seremban Line",2018
+196,197,"commuter_rail","Seremban Line",1995
+197,198,"commuter_rail","Seremban Line",1995
+198,199,"commuter_rail","Seremban Line",1995
+199,200,"commuter_rail","Seremban Line",1995
+200,201,"commuter_rail","Seremban Line",1995
+201,202,"commuter_rail","Seremban Line",1995
+202,203,"commuter_rail","Seremban Line",1995
+203,204,"commuter_rail","Seremban Line",1995
+204,205,"commuter_rail","Seremban Line",1995
+205,206,"commuter_rail","Seremban Line",1995
+206,207,"commuter_rail","Seremban Line",1995
+207,208,"commuter_rail","Seremban Line",1995
+208,210,"commuter_rail","Seremban Line",1995
+210,212,"commuter_rail","Seremban Line",2015
+212,214,"commuter_rail","Seremban Line",2015
+214,216,"commuter_rail","Seremban Line",2015
+216,217,"commuter_rail","Seremban Line",2015
+217,218,"commuter_rail","Seremban Line",1995
+218,219,"commuter_rail","Seremban Line",1995
+219,220,"commuter_rail","Seremban Line",1995
+220,222,"commuter_rail","Seremban Line",1995
+222,223,"commuter_rail","Seremban Line",2016
+223,224,"commuter_rail","Seremban Line",2016
+224,225,"commuter_rail","Seremban Line",2016
+134,136,"heavy_rail","KLIA Transit",2014
+136,138,"heavy_rail","KLIA Transit",2002
+138,139,"heavy_rail","KLIA Transit",2002
+139,140,"heavy_rail","KLIA Transit",2002
+140,142,"heavy_rail","KLIA Transit",2002
+134,136,"heavy_rail","KLIA Express",2014
+136,140,"heavy_rail","KLIA Express",2002
+1,2,"commuter_rail","Port Klang Line",1995
+2,3,"commuter_rail","Port Klang Line",1995
+3,4,"commuter_rail","Port Klang Line",1995
+4,5,"commuter_rail","Port Klang Line",1995
+5,6,"commuter_rail","Port Klang Line",1995
+6,7,"commuter_rail","Port Klang Line",1995
+7,8,"commuter_rail","Port Klang Line",1995
+8,9,"commuter_rail","Port Klang Line",1995
+9,10,"commuter_rail","Port Klang Line",1995
+10,11,"commuter_rail","Port Klang Line",2015
+11,12,"commuter_rail","Port Klang Line",1995
+12,13,"commuter_rail","Port Klang Line",1995
+13,14,"commuter_rail","Port Klang Line",2015
+14,15,"commuter_rail","Port Klang Line",1995
+15,16,"commuter_rail","Port Klang Line",1995
+16,17,"commuter_rail","Port Klang Line",1995
+17,18,"commuter_rail","Port Klang Line",1995
+18,19,"commuter_rail","Port Klang Line",1995
+19,20,"commuter_rail","Port Klang Line",1995
+20,21,"commuter_rail","Port Klang Line",1995
+21,22,"commuter_rail","Port Klang Line",1995
+22,23,"commuter_rail","Port Klang Line",1995
+23,24,"commuter_rail","Port Klang Line",2001
+24,25,"commuter_rail","Port Klang Line",2015
+25,26,"commuter_rail","Port Klang Line",1995
+26,27,"commuter_rail","Port Klang Line",2015
+27,28,"commuter_rail","Port Klang Line",2018
+28,29,"commuter_rail","Port Klang Line",2015
+29,30,"commuter_rail","Port Klang Line",2015
+30,31,"commuter_rail","Port Klang Line",2015
+31,32,"commuter_rail","Port Klang Line",2015
+32,33,"commuter_rail","Port Klang Line",2015
+33,34,"commuter_rail","Port Klang Line",2015
+34,36,"commuter_rail","Port Klang Line",2015
+36,191,"commuter_rail","Port Klang Line",1995
+191,193,"commuter_rail","Port Klang Line",2018
+193,209,"commuter_rail","Port Klang Line",2018
+209,211,"commuter_rail","Port Klang Line",2010
+211,213,"commuter_rail","Port Klang Line",2010
+213,215,"commuter_rail","Port Klang Line",2010
+190,191,"commuter_rail","Skypark Line",2018
+191,193,"commuter_rail","Skypark Line",2018
+154,155,"brt","Sunway Line",2015
+155,156,"brt","Sunway Line",2015
+156,157,"brt","Sunway Line",2015
+157,158,"brt","Sunway Line",2015
+158,159,"brt","Sunway Line",2015
+159,160,"brt","Sunway Line",2015
+221,226,"light_rail","Shah Alam Line",2024
+226,227,"light_rail","Shah Alam Line",2024
+227,228,"light_rail","Shah Alam Line",2024
+228,229,"light_rail","Shah Alam Line",2024
+229,230,"light_rail","Shah Alam Line",2024
+230,231,"light_rail","Shah Alam Line",2024
+231,232,"light_rail","Shah Alam Line",2024
+232,233,"light_rail","Shah Alam Line",2024
+233,234,"light_rail","Shah Alam Line",2024
+234,235,"light_rail","Shah Alam Line",2024
+235,236,"light_rail","Shah Alam Line",2024
+236,237,"light_rail","Shah Alam Line",2024
+237,238,"light_rail","Shah Alam Line",2024
+238,239,"light_rail","Shah Alam Line",2024
+NA,161,"heavy_rail","Putrajaya Line",NA
