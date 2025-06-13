@@ -1,0 +1,59 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Le Parc",1.0814665,49.4312383,"light_rail",1997
+2,"Le Parc",1.0814768,49.4312152,"light_rail",1997
+3,"Maryse Bastié",1.0815743,49.4012171,"light_rail",1997
+4,"Maryse Bastié",1.0890772,49.423083,"light_rail",1997
+5,"Technopôle",1.075883,49.4013991,"light_rail",1997
+6,"Joffre-Mutualité",1.0708659,49.3867975,"light_rail",1994
+7,"Joffre-Mutualité",1.0808541,49.4284657,"light_rail",1994
+8,"Hôtel de ville de Sotteville",1.105098,49.4470306,"light_rail",1994
+9,"Hôtel de ville de Sotteville",1.1050799,49.4470058,"light_rail",1994
+10,"14-Juillet",1.0902333,49.4141716,"light_rail",1997
+11,"14-Juillet",1.0815621,49.427964,"light_rail",1997
+12,"Jean Zay",1.0832036,49.4091951,"light_rail",1997
+13,"Jean Zay",1.084389,49.4041892,"light_rail",1997
+14,"Toit Familial",1.0758883,49.4014228,"light_rail",1997
+15,"Toit Familial",1.0729689,49.3983988,"light_rail",1997
+16,"Champ de Courses",1.0693817,49.395354,"light_rail",1997
+17,"Champ de Courses",1.0700808,49.3919501,"light_rail",1997
+18,"Ernest Renan",1.070826,49.3867991,"light_rail",1997
+19,"Ernest Renan",1.0908144,49.4188601,"light_rail",1997
+20,"Garibaldi",1.0868742,49.4260842,"light_rail",1994
+21,"Garibaldi",1.1003294,49.448454,"light_rail",1994
+22,"Voltaire",1.081543,49.4012346,"light_rail",1994
+23,"Honoré de Balzac",1.0890324,49.4230821,"light_rail",1994
+24,"Honoré de Balzac",1.0945675,49.4484382,"light_rail",1994
+25,"Europe",1.0423639,49.4005384,"light_rail",1994
+26,"Europe",1.042278,49.4005206,"light_rail",1994
+27,"Boulingrin",1.0945547,49.4484538,"light_rail",1994
+28,"Boulingrin",1.090957,49.4426718,"light_rail",1994
+29,"Saint-Sever",1.0909169,49.4426808,"light_rail",1994
+30,"Saint-Sever",1.0892998,49.4398904,"light_rail",1994
+31,"Théâtre des Arts",1.089355,49.439882,"light_rail",1994
+32,"Théâtre des Arts",1.072967,49.3983718,"light_rail",1994
+33,"Palais de Justice",1.1003219,49.448441,"light_rail",1994
+34,"Palais de Justice",1.0694288,49.3953503,"light_rail",1994
+35,"Gare Rue Verte",1.0701192,49.3919431,"light_rail",1994
+36,"Gare Rue Verte",1.090853,49.4188671,"light_rail",1994
+37,"Beauvoisine",1.0868946,49.4261117,"light_rail",1994
+38,"Beauvoisine",1.0866304,49.4353078,"light_rail",1994
+39,"Georges Braque",1.0866693,49.4352976,"light_rail",1994
+40,"Georges Braque",1.0902619,49.414154,"light_rail",1994
+41,"Théâtre des Arts",1.0832446,49.4091843,"brt",2001
+42,"Théâtre des Arts",1.0844147,49.4042094,"brt",2001
+43,"Théâtre des Arts",1.09007693271863,49.4399861758687,"brt",2001
+44,"Mont-Riboudet",1.06423972824254,49.4490441070247,"brt",2001
+45,"Mont-Riboudet",1.03419232908468,49.4554354468517,"brt",2001
+46,"Mont-Riboudet",1.03618099420999,49.4573183931099,"brt",2001
+47,"Mont-Riboudet",1.10989264020358,49.4393017429338,"bus",2001
+48,"Pissarro",1.04884295474267,49.4881539663031,"brt",2001
+49,"Monet",1.07143468702876,49.4660653457651,"brt",2001
+50,"CHU Charles Nicolle",1.13167693909253,49.4616977627151,"brt",2001
+51,"CHU Charles Nicolle",1.12787383186543,49.4403798090231,"brt",2001
+52,"CHU Charles Nicolle",1.14989826505016,49.4427649160619,"brt",2001
+53,"CHU Charles Nicolle",1.09692020500697,49.439135752664,"brt",2001
+54,"Mairie - V. Schoelcher",1.07286503259866,49.412250751697,"brt",NA
+55,"Mont aux Malades",1.08258533739161,49.4416776596946,"brt",2002
+56,"Tamarelle",1.11990027395891,49.4379041443103,"brt",2007
+57,"Durécu-Lavoisier",1.05599203459784,49.3888892492856,"brt",2007
+58,"Stade Diochon",1.09568025351257,49.3306844295653,"brt",2014

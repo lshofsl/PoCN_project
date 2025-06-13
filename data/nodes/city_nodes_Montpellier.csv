@@ -1,0 +1,172 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Port Marianne",3.8940022,43.603993,"light_rail",2000
+2,"Port Marianne",3.8939694,43.6073923,"light_rail",2000
+3,"Port Marianne",3.8883314,43.6139508,"light_rail",2000
+4,"Port Marianne",3.8949185,43.6042503,"light_rail",2000
+5,"Mondial 98",3.8949065,43.6125111,"light_rail",2010
+6,"Mondial 98",3.8842324,43.6037618,"light_rail",2010
+7,"Millénaire",3.8889694,43.6037185,"light_rail",2000
+8,"Millénaire",3.8938614,43.6040207,"light_rail",2003
+9,"Place de France",3.8939097,43.6072981,"light_rail",2000
+10,"Place de France",3.8881044,43.61399,"light_rail",2000
+11,"Odysseum",3.8866898,43.6086092,"light_rail",2009
+12,"Odysseum",3.8902941,43.6088993,"light_rail",2009
+13,"Moularès (Hôtel de Ville)",3.8949896,43.6126573,"light_rail",2000
+14,"Moularès (Hôtel de Ville)",3.8866241,43.6084999,"light_rail",2000
+15,"Moularès (Hôtel de Ville)",3.8900989,43.6089494,"light_rail",2000
+16,"Moularès (Hôtel de Ville)",3.8833017,43.6071804,"light_rail",2000
+17,"Rives du Lez",3.8831972,43.6070636,"light_rail",2000
+18,"Rives du Lez",3.8796741,43.60835,"light_rail",2000
+19,"Rives du Lez",3.8835972,43.6170502,"light_rail",0
+20,"Rives du Lez",3.8820808,43.6143022,"light_rail",2000
+21,"Rives du Lez",3.8840706,43.6204816,"light_rail",2000
+22,"Rives du Lez",3.8782032,43.6147274,"light_rail",0
+23,"Place de l'Europe",3.8830851,43.6262919,"light_rail",2000
+24,"Place de l'Europe",3.8819233,43.6144427,"light_rail",2000
+25,"Place de l'Europe",3.8801992,43.6056584,"light_rail",2000
+26,"Place de l'Europe",3.8798699,43.6084121,"light_rail",2000
+27,"Antigone",3.8802526,43.6056635,"light_rail",2000
+28,"Léon Blum",3.874061,43.6165623,"light_rail",2000
+29,"Antigone",3.8722608,43.6115568,"light_rail",2000
+30,"Léon Blum",3.8741187,43.6164766,"light_rail",2000
+31,"Du Guesclin",3.8817785,43.6142312,"light_rail",2000
+32,"Du Guesclin",3.8834353,43.6169338,"light_rail",2000
+33,"Comédie",3.8821386,43.6144479,"light_rail",2000
+34,"Comédie",3.8723464,43.6115545,"light_rail",2000
+35,"Gare Saint-Roch",3.8780174,43.6147682,"light_rail",2000
+36,"Gare Saint-Roch",3.884074,43.6203407,"light_rail",2000
+37,"Comédie",3.8885806,43.6267545,"light_rail",2000
+38,"Comédie",3.8737427,43.6148219,"light_rail",2000
+39,"Gare Saint-Roch",3.8694871,43.6189067,"light_rail",2000
+40,"Gare Saint-Roch",3.8681444,43.6224984,"light_rail",2000
+41,"Corum",3.8658015,43.6269267,"light_rail",2000
+42,"Corum",3.8616709,43.6291563,"light_rail",2000
+43,"Louis Blanc",3.8484797,43.634628,"light_rail",2000
+44,"Louis Blanc",3.8430936,43.6316307,"light_rail",2000
+45,"Corum",3.833307,43.6345296,"light_rail",0
+46,"Corum",3.822705,43.6364094,"light_rail",2000
+47,"Corum",3.8737959,43.6148165,"light_rail",2000
+48,"Corum",3.8525865,43.6316941,"light_rail",0
+49,"Louis Blanc",3.8525608,43.6316751,"light_rail",2000
+50,"Louis Blanc",3.8483979,43.6347952,"light_rail",2000
+51,"Place Albert 1er - Saint-Charles",3.8430532,43.6316074,"light_rail",2000
+52,"Place Albert 1er - Saint-Charles",3.8332043,43.6346401,"light_rail",2000
+53,"Boutonnet",3.8276286,43.6389849,"light_rail",2000
+54,"Saint-Éloi",3.8277875,43.6390018,"light_rail",2000
+55,"Stade Philippidès",3.8212168,43.6306579,"light_rail",2000
+56,"Stade Philippidès",3.8466375,43.6114471,"light_rail",2000
+57,"Boutonnet",3.817535,43.627657,"light_rail",2000
+58,"Saint-Éloi",3.868106,43.6226771,"light_rail",2000
+59,"Universités des Sciences et Lettres",3.8656488,43.6270831,"light_rail",2000
+60,"Universités des Sciences et Lettres",3.8695186,43.6190802,"light_rail",2000
+61,"Hôpital Lapeyronie",3.8173578,43.6211235,"light_rail",2000
+62,"Hôpital Lapeyronie",3.8614592,43.6291152,"light_rail",2000
+63,"Occitanie",3.8226703,43.6362734,"light_rail",2000
+64,"Occitanie",3.8198414,43.6162888,"light_rail",2000
+65,"Château d'Ô",3.8210035,43.6306938,"light_rail",2000
+66,"Château d'Ô",3.9221379,43.6342103,"light_rail",2000
+67,"Malbosc",3.8174933,43.6275357,"light_rail",2000
+68,"Malbosc",3.8174028,43.6213447,"light_rail",2000
+69,"Euromédecine",3.8349511,43.6219189,"light_rail",2000
+70,"Euromédecine",3.8258568,43.6154832,"light_rail",2000
+71,"Hauts de Massane",3.8548,43.610261,"light_rail",2000
+72,"Hauts de Massane",3.8391413,43.6182507,"light_rail",2000
+73,"Saint-Paul",3.8319619,43.6195151,"light_rail",2000
+74,"Halles de la Paillade",3.8196447,43.6161429,"light_rail",2000
+75,"Saint-Paul",3.8397593,43.6174105,"light_rail",2000
+76,"Halles de la Paillade",3.8681304,43.6085626,"light_rail",2000
+77,"Stade de la Mosson",3.9210503,43.6492406,"light_rail",2000
+78,"Stade de la Mosson",3.8196588,43.6163397,"light_rail",2000
+79,"Mosson",3.8197842,43.6161829,"light_rail",2000
+80,"Mosson",3.8615025,43.6100217,"light_rail",0
+81,"Mosson",3.8467949,43.6113243,"light_rail",2000
+82,"Mosson",3.8395235,43.6135181,"light_rail",0
+83,"Beaux-Arts",3.8887704,43.6267745,"light_rail",2006
+84,"Beaux-Arts",3.8351279,43.6220087,"light_rail",2006
+85,"Jeu de Mail des Abbés",3.8321502,43.6195923,"light_rail",2006
+86,"Jeu de Mail des Abbés",3.8681087,43.6085373,"light_rail",2006
+87,"Aiguelongue",3.8976846,43.6285691,"light_rail",2006
+88,"Saint-Lazare",3.8624768,43.609864,"light_rail",2006
+89,"Aiguelongue",3.8259015,43.6156769,"light_rail",2006
+90,"Saint-Lazare",3.855048,43.6102597,"light_rail",2006
+91,"Charles de Gaulle",3.8833184,43.626274,"light_rail",2006
+92,"Notre-Dame de Sablassou",3.9223924,43.6342577,"light_rail",2006
+93,"Centurions",3.9156202,43.6327809,"light_rail",2006
+94,"La Galine",3.9089161,43.6314427,"light_rail",2006
+95,"Clairval",3.9025061,43.6301628,"light_rail",2006
+96,"Notre-Dame de Sablassou",3.9158063,43.6327881,"light_rail",2006
+97,"Centurions",3.9128047,43.6545596,"light_rail",2006
+98,"La Galine",3.90911,43.6314509,"light_rail",2006
+99,"Clairval",3.9026917,43.6301681,"light_rail",2006
+100,"Charles de Gaulle",3.8761818,43.6030665,"light_rail",2006
+101,"Aube Rouge",3.8978384,43.628648,"light_rail",2006
+102,"Aube Rouge",3.9248354,43.638641,"light_rail",2006
+103,"Via Domitia",3.8760145,43.594954,"light_rail",2006
+104,"Via Domitia",3.9248573,43.6384876,"light_rail",2006
+105,"Georges Pompidou",3.8756775,43.5994208,"light_rail",2006
+106,"Georges Pompidou",3.9294517,43.6468218,"light_rail",2006
+107,"Jacou",3.9294866,43.6466173,"light_rail",2006
+108,"Rondelet",3.9210111,43.6493863,"light_rail",2006
+109,"Rondelet",3.8756446,43.5992903,"light_rail",2006
+110,"Nouveau Saint-Roch",3.8759259,43.6031345,"light_rail",2006
+111,"Nouveau Saint-Roch",3.8664382,43.5925048,"light_rail",2006
+112,"Nouveau Saint-Roch",3.8679574,43.5955627,"light_rail",2006
+113,"Nouveau Saint-Roch",3.8601051,43.583879,"light_rail",2006
+114,"Rondelet",3.8664466,43.5923385,"light_rail",2006
+115,"Rondelet",3.8677984,43.5954543,"light_rail",2006
+116,"Saint-Cléophas",3.8306564,43.5748738,"light_rail",2006
+117,"Saint-Cléophas",3.8730593,43.5936982,"light_rail",2006
+118,"Sabines",3.8731927,43.59358,"light_rail",2006
+119,"Villeneuve d'Angoulême",3.8499642,43.5752209,"light_rail",2006
+120,"Croix d'Argent",3.865695,43.5888673,"light_rail",2006
+121,"Mas Drevon",3.8758854,43.5948469,"light_rail",2006
+122,"Lemasson",3.8497681,43.5751577,"light_rail",2006
+123,"Lemasson",3.8602074,43.5837056,"light_rail",2006
+124,"Mas Drevon",3.8656566,43.5887133,"light_rail",2006
+125,"Croix d'Argent",3.8444363,43.5719919,"light_rail",2006
+126,"Villeneuve d'Angoulême",3.8307161,43.5749282,"light_rail",2006
+127,"Sabines",3.8380381,43.5708163,"light_rail",2006
+128,"Victoire 2",3.8377975,43.5709059,"light_rail",2006
+129,"Victoire 2",3.9257823,43.5826143,"light_rail",2006
+130,"La Condamine",3.9352762,43.5779836,"light_rail",2006
+131,"Saint-Jean-le-Sec",3.9350421,43.5781392,"light_rail",2006
+132,"Saint-Jean-le-Sec",3.9457963,43.5728456,"light_rail",2006
+133,"Saint-Jean-de-Védas Centre",3.9456566,43.5729444,"light_rail",2006
+134,"Saint-Jean-de-Védas Centre",3.9573953,43.5654383,"light_rail",2006
+135,"Boirargues",3.9573136,43.5653949,"light_rail",2012
+136,"Écopôle",3.9636474,43.5579564,"light_rail",2012
+137,"Écopôle",3.9636059,43.5579423,"light_rail",2012
+138,"Parc Expo",3.9139627,43.5713482,"light_rail",2012
+139,"Parc Expo",3.9052229,43.570666,"light_rail",2012
+140,"Pérols - Centre",3.9051692,43.570728,"light_rail",2012
+141,"Pérols - Centre",3.8735064,43.6081132,"light_rail",2012
+142,"Pérols - Étang de l'Or",3.8727299,43.6062372,"light_rail",2012
+143,"Pérols - Étang de l'Or",3.8397933,43.6134871,"light_rail",2012
+144,"Cougourlude",3.8735638,43.6081335,"light_rail",2012
+145,"Lattes - Centre",3.8766896,43.606427,"light_rail",2012
+146,"Lattes - Centre",3.8768143,43.6063438,"light_rail",2012
+147,"Albert 1er - Cathédrale",3.8797131,43.6052422,"light_rail",2012
+148,"Albert 1er - Cathédrale",3.8797962,43.6051723,"light_rail",2012
+149,"Peyrou - Arc de Triomphe",3.8739545,43.6055891,"light_rail",2016
+150,"Peyrou - Arc de Triomphe",3.8955449,43.6005714,"light_rail",2016
+151,"Saint-Guilhem Courreau",3.8999684,43.6016996,"light_rail",2016
+152,"Observatoire",3.9036298,43.597799,"light_rail",2012
+153,"Observatoire",3.9100221,43.6033557,"light_rail",2012
+154,"Observatoire",3.9034583,43.5977551,"light_rail",2012
+155,"Observatoire",3.9157023,43.6037495,"light_rail",2012
+156,"Gare Saint-Roch",3.899234,43.601486,"light_rail",2012
+157,"Gare Saint-Roch",3.8955356,43.6006479,"light_rail",2012
+158,"Gare Saint-Roch",3.9256144,43.5827358,"light_rail",2012
+159,"Gare Saint-Roch",3.9041182,43.6027649,"light_rail",2012
+160,"Saint-Denis",3.903967,43.6027593,"light_rail",2012
+161,"Saint-Denis",3.9157934,43.6037388,"light_rail",2012
+162,"Plan Cabanes",3.9204329,43.603795,"light_rail",2012
+163,"Plan Cabanes",3.8960726,43.5935183,"light_rail",2012
+164,"Arceaux",3.9203673,43.6038356,"light_rail",2012
+165,"Arceaux",3.8949293,43.5994093,"light_rail",2012
+166,"Astruc",3.8948873,43.6041858,"light_rail",2012
+167,"Astruc",3.8958178,43.5935375,"light_rail",2012
+168,"Jules Guesde",3.90986,43.6033754,"light_rail",2012
+169,"Jules Guesde",3.8950854,43.5994861,"light_rail",2012
+170,"Tonnelles",3.8842954,43.6036345,"light_rail",2012
+171,"Tonnelles",3.8892253,43.6037049,"light_rail",2012

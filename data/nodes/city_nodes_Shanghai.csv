@@ -1,0 +1,527 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Zhongshan Bei Lu (North Zhongshan Road)",121.454837271715,31.2599082035625,"heavy_rail",2004
+2,"Loushanguan Lu (Loushanguan Road)",121.399503650211,31.2128819292004,"heavy_rail",2006
+3,"Shaanxi Nan Lu (South Shaanxi Road)",121.576551184773,31.2582914116285,"heavy_rail",2015
+4,"Damuqiao Lu (Damuqiao Road)",121.384031610598,31.1966094221815,"heavy_rail",2015
+5,"Jinqiao Lu (Jinqiao Road)",121.484191170422,31.2610847483785,"heavy_rail",2007
+6,"Deping Lu (Deping Road)",121.431662199062,31.1843686612429,"heavy_rail",2007
+7,"",121.354442423903,31.1853621637235,"brt",2017
+8,"Dishìni (Disney Resort)",121.380479917593,31.1120628112544,"heavy_rail",2016
+9,"Shanghai Tiyuguan (Shanghai Indoor Stadium)",121.388733861964,31.1232408085839,"heavy_rail",1993
+10,"Xujiahui",121.397993463182,31.1329841838475,"heavy_rail",1993
+11,"Shanghai Nanzhan (Shanghai South Railway)",121.43033348013,31.1703066738917,"heavy_rail",1993
+12,"Caobao Lu (Caobao Road)",121.433793397669,31.1943060977789,"heavy_rail",1993
+13,"Jinjiang Leyuan (Jinjiang Park)",121.442643230666,31.2076279084433,"heavy_rail",1993
+14,"Lianhua Lu (Lianhua Road)",121.470248574419,31.2357432431905,"heavy_rail",1996
+15,"Waihuanlu",121.463623570281,31.2408872228546,"heavy_rail",1996
+16,"Xinzhuang",121.453603667504,31.2432962248543,"heavy_rail",1996
+17,"Hengshan Lu (Hengshan Road)",121.450408770469,31.2504717173669,"heavy_rail",1995
+18,"Shaanxi Nan Lu (South Shaanxi Road)",121.450985940392,31.2733366923544,"heavy_rail",1995
+19,"Renmin Guangchang (People's Square)",121.447568986134,31.2811851032102,"heavy_rail",1995
+20,"Xinzha Lu (Xinzha Road)",121.445516275524,31.2945883596903,"heavy_rail",1995
+21,"Hanzhong Lu (Hanzhong Road)",121.444094283717,31.3087970030042,"heavy_rail",1995
+22,"Changshu Lu (Changshu Road)",121.356777961098,31.2200766478454,"heavy_rail",1995
+23,"Huangpi Nan Lu (South Huangpi Road)",121.369292734966,31.2186081397689,"heavy_rail",1995
+24,"Shanghai Huochezhan (Shanghai Railway)",121.380950750564,31.2170008857455,"heavy_rail",1995
+25,"Yanchang Lu (Yanchang Road)",121.500667112105,31.2387982202833,"heavy_rail",2004
+26,"Shanghai Maxi Cheng (Shanghai Circus World)",121.510354903282,31.2355095984513,"heavy_rail",2004
+27,"Wenshui Lu (Wenshui Road)",121.522946508925,31.2307415783631,"heavy_rail",2004
+28,"Weining Lu (Weining Road)",121.538628615469,31.221878555337,"heavy_rail",2006
+29,"Pengpu Xincun",121.546348713875,31.2125698048743,"heavy_rail",2004
+30,"Beixinjing",121.553496459377,31.2047103402699,"heavy_rail",2006
+31,"Songhong Lu (Songhong Road)",121.650383384001,31.2150381759045,"heavy_rail",2006
+32,"Gongkang Lu (Gongkang Road)",121.667968912464,31.2128427946426,"heavy_rail",2004
+33,"Tonghe Xincun",121.676801361694,31.1975842738505,"heavy_rail",2004
+34,"Chuangxin Zhong Lu(Middle Chuangxin Road)",121.469148673511,31.235849337856,"heavy_rail",2010
+35,"Hulan Lu (Hulan Road)",121.291378879183,31.1884307829974,"heavy_rail",2004
+36,"Gongfu Xincun",121.479673192227,31.2391618538904,"heavy_rail",2004
+37,"Bao'an Gonglu (Bao'an Highway)",121.582035653981,31.2039836968666,"heavy_rail",2007
+38,"Tangzhen",121.615475548437,31.2134268868865,"heavy_rail",2010
+39,"Youyi Xi Lu (West Youyi Road)",121.693843929847,31.1888478423385,"heavy_rail",2007
+40,"Fujin Lu (Fujin Road)",121.718735946949,31.1940448132545,"heavy_rail",2007
+41,"Longyang Lu (Longyang Road)",121.750093939141,31.2014813187198,"heavy_rail",1999
+42,"Shiji Gongyuan (Century Park)",121.412508382183,31.2114355081525,"heavy_rail",1999
+43,"Jinke Lu (Jinke Road)",121.408561642348,31.2340844603472,"heavy_rail",2010
+44,"Shanghai Kejiguan (Shanghai Science and Technology Museum)",121.477816183943,31.2832507057659,"heavy_rail",1999
+45,"Shiji Dadao (Century Avenue)",121.4224792797,31.1885976997562,"heavy_rail",1999
+46,"Dongchang Lu (Dongchang Road)",121.480555114031,31.3075248130202,"heavy_rail",1999
+47,"Huaxia Dong Lu (East Huaxia Road)",121.474595479058,31.2732671189184,"heavy_rail",2010
+48,"Lujiazui",121.47863192364,31.2913604884214,"heavy_rail",1999
+49,"Nanjing Dong Lu (East Nanjing Road)",121.41619,31.1992101449874,"heavy_rail",1999
+50,"Renmin Guangchang (People's Square)",121.438567060251,31.1597740448148,"heavy_rail",1999
+51,"Chuansha",121.439829790022,31.1712457785391,"heavy_rail",2010
+52,"Nanjing Xi Lu (West Nanjing Road)",121.433749053149,31.1785502837353,"heavy_rail",1999
+53,"Jing'an Si (Jing'an Temple)",121.45397444977,31.2166006815171,"heavy_rail",1999
+54,"Jiangsu Lu (Jiangsu Road)",121.510413435892,31.1626500080919,"heavy_rail",1999
+55,"Zhongshan Gongyuan (Zhongshan Park)",121.481589589521,31.2138017053745,"heavy_rail",1999
+56,"Zhangjiang Gaoke (Zhangjiang Hi-Tech Park)",121.636371279021,31.265510376126,"heavy_rail",2000
+57,"Shilong Lu (Shilong Road)",121.465680391189,31.2085279564709,"heavy_rail",2000
+58,"Lingkong Lu (Lingkong Road)",121.470549999067,31.2182726421939,"heavy_rail",2010
+59,"Yuandong Dadao (Yuandong Avenue)",121.438227736243,31.172009908797,"heavy_rail",2010
+60,"Hongqiao Erhao Hangzhanlou (Hongqiao Airport Terminal 2)",121.432183608329,31.1965938169823,"heavy_rail",2010
+61,"Pudong Guoji Jichang(Pudong International Airport)",121.45318994943,31.2430340753999,"heavy_rail",2010
+62,"Longcao Lu (Longcao Road)",121.454661823992,31.2300569904672,"heavy_rail",2000
+63,"Xujing Dong (East Xujing)",121.480183582799,31.2403262352299,"heavy_rail",2010
+64,"Hongqiao Huochezhan (Hongqiao Railway)",121.523090787112,31.2305230175408,"heavy_rail",2010
+65,"Guanglan Lu (Guanglan Road)",121.508753044913,31.2600431298587,"heavy_rail",2010
+66,"Caoxi Lu (Caoxi Road)",121.424083487286,31.1886771424589,"heavy_rail",2000
+67,"Caoyang Lu (Caoyang Road)",121.585707794394,31.282266678358,"heavy_rail",2000
+68,"Yishan Lu (Yishan Road)",121.446359684835,31.2015486275637,"heavy_rail",2000
+69,"Shanghai Nanzhan (Shanghai South Railway)",121.496537447679,31.2764194006194,"heavy_rail",2000
+70,"Baoshan Lu (Baoshan Road)",121.466894702477,31.2442104177726,"heavy_rail",2000
+71,"Jinshajiang Lu (Jinshajiang Road)",121.545291893639,31.2299233715174,"heavy_rail",2000
+72,"Yan'an Xi Lu (West Yan'an Road)",121.511729225331,31.2322672973735,"heavy_rail",2000
+73,"Hongqiao Lu (Hongqiao Road)",121.37677109797,31.1674441565417,"heavy_rail",2000
+74,"Zhongshan Gongyuan (Zhongshan Park)",121.364436303875,31.160148402064,"heavy_rail",2000
+75,"Zhongtan Lu (Zhongtan Road)",121.344649882617,31.1570780388518,"heavy_rail",2000
+76,"Zhenping Lu (Zhenping Road)",121.33404203739,31.1513498056264,"heavy_rail",2000
+77,"Dongbaoxing Lu (Dongbaoxing Road)",121.312510906054,31.1388545842902,"heavy_rail",2000
+78,"Shanghai Huochezhan (Shanghai Railway)",121.255035333987,31.1203783418068,"heavy_rail",2000
+79,"Dabaishu",121.225075893376,31.1071613730549,"heavy_rail",2000
+80,"Chifeng Lu (Chifeng Road)",121.225974110561,31.0853163757324,"heavy_rail",2000
+81,"Hongkou Zuqiu (Hongkou Football Stadium)",121.2257533128,31.0320288889884,"heavy_rail",2000
+82,"Jiangwan Zhen (Jiangwan Town)",121.350526537463,31.168049117685,"heavy_rail",2000
+83,"Gaoqing Lu (Gaoqing Road)",121.360006110127,31.1717505132683,"heavy_rail",2007
+84,"Shaanxi Nan Lu (South Shaanxi Road)",121.365538369628,31.1808633951689,"heavy_rail",2010
+85,"Jiashan Lu (Jiashan Road)",121.429284498673,31.20377744101,"heavy_rail",2009
+86,"Dapuqiao",121.439657133742,31.2100072030191,"heavy_rail",2009
+87,"Jinhai Lu (Jinhai Road)",121.482623512114,31.2301754197878,"heavy_rail",2013
+88,"Xintiandi",121.477861304716,31.2463187753032,"heavy_rail",2010
+89,"Lujiabang Lu (Lujiabang Road)",121.477813935354,31.2458373640165,"heavy_rail",2009
+90,"Shanghai Dongwuyuan (Shanghai Zoo)",121.479648661496,31.2536301719085,"heavy_rail",2010
+91,"Xiaonanmen",121.622411553688,31.2819456529536,"heavy_rail",2009
+92,"Laoximen",121.61128967021,31.2820060852338,"heavy_rail",2010
+93,"Shangcheng Lu (Shangcheng Road)",121.599120778548,31.2823492449402,"heavy_rail",2009
+94,"Songjiang Xincheng",121.575051074623,31.284481750744,"heavy_rail",2007
+95,"Songjiang Daxue Cheng (Songjiang University Town)",121.557838038276,31.2834974046584,"heavy_rail",2007
+96,"Wujiaochang",121.548171942613,31.2820234185549,"heavy_rail",2010
+97,"Shiji Dadao (Century Avenue)",121.539201897015,31.2765338098161,"heavy_rail",2009
+98,"Sijing",121.527881837405,31.2705722296183,"heavy_rail",2007
+99,"Yuyuan (Yuyuan Garden)",121.518979908395,31.2666007436007,"heavy_rail",2010
+100,"Jiuting",121.42882856128,31.1703471648629,"heavy_rail",2007
+101,"Yanggao Zhong Lu (Middle Yanggao Road)",121.471530526333,31.4057195221763,"heavy_rail",2009
+102,"Sheshan",121.454999965271,31.4096242766795,"heavy_rail",2007
+103,"Dongjing",121.488376942483,31.1625437711658,"heavy_rail",2007
+104,"Qibao",121.447685088389,31.1759714428613,"heavy_rail",2007
+105,"Zhongchun Lu (Zhongchun Road)",121.40508113421,31.16581260719,"heavy_rail",2007
+106,"Guilin Lu (Guilin Road)",121.471783416249,31.2534174686449,"heavy_rail",2007
+107,"Xingzhong Lu (Xingzhong Road)",121.443453578447,31.2249932957856,"heavy_rail",2007
+108,"Madang Lu (Madang Road)",121.554228670558,31.2053268603767,"heavy_rail",2009
+109,"Hechuan Lu (Hechuan Road)",121.474506768611,31.2717804336044,"heavy_rail",2007
+110,"Yishan Lu (Yishan Road)",121.486751435141,31.3338943596637,"heavy_rail",2008
+111,"Caohejing Kaifaqu (Caohejing Hi-Tech Park)",121.449798405411,31.193158451529,"heavy_rail",2007
+112,"Nanjing Dong Lu (East Nanjing Road)",121.485085819374,31.204240979403,"heavy_rail",2010
+113,"Hangzhong Lu (Hangzhong Road)",121.568823548998,31.355174478726,"heavy_rail",2010
+114,"Xujiahui",121.582687573111,31.3500509011813,"heavy_rail",2009
+115,"Ziteng Lu (Ziteng Road)",121.588464706535,31.3400736875705,"heavy_rail",2010
+116,"Zhaojiabang Lu (Zhaojiabang Road)",121.585096533815,31.3140909775314,"heavy_rail",2009
+117,"Jiangwan Tiyuchang (Jiangwan Stadium)",121.505402885898,31.1878115178984,"heavy_rail",2010
+118,"Longbai Xincun",121.476001444461,31.1553053059483,"heavy_rail",2010
+119,"Tiantong Lu (Tiantong Road)",121.345300230266,31.4037646408873,"heavy_rail",2010
+120,"Longxi Lu (Longxi Road)",121.353051483219,31.3897441776517,"heavy_rail",2010
+121,"Shuicheng Lu (Shuicheng Road)",121.352323112048,31.3648862196199,"heavy_rail",2010
+122,"Yili Lu (Yili Road)",121.358090064707,31.3591017908669,"heavy_rail",2010
+123,"Sichuan Bei Lu (North Sichuan Road)",121.36779424918,31.3472552269527,"heavy_rail",2010
+124,"Songyuan Lu (Songyuan Road)",121.367608126877,31.326542196457,"heavy_rail",2010
+125,"Hongqiao Lu (Hongqiao Road)",121.393998540778,31.3231714443834,"heavy_rail",2010
+126,"Jiaotong Daxue (Jiaotong University)",121.433954798548,31.2412065301376,"heavy_rail",2010
+127,"Hailun Lu (Hailun Road)",121.437917166465,31.2360006504393,"heavy_rail",2010
+128,"Shanghai Tushuguan (Shanghai Library)",121.445341882289,31.2021764519015,"heavy_rail",2010
+129,"Sanmen Lu (Sanmen Road)",121.453073497472,31.1875018926271,"heavy_rail",2010
+130,"Hongqiao Yihao Hangzhanlou (Hongqiao Airport Terminal 1)",121.46837189727,31.1736237048027,"heavy_rail",2010
+131,"	Xinjiangwancheng",121.481588783604,31.1770231276129,"heavy_rail",2010
+132,"Hongqiao Erhao Hangzhanlou (Hongqiao Airport Terminal 2)",121.490077224935,31.180428452212,"heavy_rail",2010
+133,"Guoquan Lu (Guoquan Road)",121.489991120715,31.1808652749825,"heavy_rail",2010
+134,"Tongji Daxue (Tongji University)",121.49612456402,31.1841337245274,"heavy_rail",2010
+135,"Siping Lu (Siping Road)",121.520861540145,31.189598814908,"heavy_rail",2010
+136,"Youdian Xincun",121.535527271711,31.1896427267962,"heavy_rail",2010
+137,"Jinjing Lu (Jinjing Road)",121.54518699909,31.1964460203442,"heavy_rail",2013
+138,"Hongqiao Huochezhan (Hongqiao Railway)",121.557548186274,31.2151007715922,"heavy_rail",2010
+139,"Yanggao Bei Lu (North Yanggao Road)",121.527645376519,31.3236353786115,"heavy_rail",2013
+140,"Shenjiang Lu (Shenjiang Road)",121.527589198125,31.3166251136879,"heavy_rail",2013
+141,"Aiguo Lu (Aiguo Road)",121.52759010087,31.3074762522212,"heavy_rail",2013
+142,"Jufeng Lu (Jufeng Road)",121.528739400024,31.2980441591202,"commuter_rail",2013
+143,"Donglu Lu (Donglu Road)",121.530622772107,31.2911113246405,"heavy_rail",2013
+144,"Longchang Lu (Longchang Road)",121.52448306593,31.2811759338492,"heavy_rail",2013
+145,"Ningguo Lu (Ningguo Road)",121.465216158342,31.266572153938,"heavy_rail",2013
+146,"Jiangpu Gongyuan (Jiangpu Park)",121.464081757188,31.2555288856081,"heavy_rail",2013
+147,"Dalian Lu (Dalian Road)",121.467007614411,31.244844775606,"heavy_rail",2013
+148,"Tilanqiao",121.475433415539,31.2282042007866,"heavy_rail",2013
+149,"Guoji Keyun Zhongxin (International Cruise Terminal)",121.478084412824,31.221567016925,"heavy_rail",2013
+150,"Qufu Lu (Qufu Road)",121.481501828885,31.2141310493103,"heavy_rail",2014
+151,"Hanzhong Lu (Hanzhong Road)",121.488938371723,31.1873950198058,"heavy_rail",2015
+152,"Nanjing Xi Lu (West Nanjing Road)",121.485103198254,31.1429784185933,"heavy_rail",2015
+153,"Fuxing Dao (Fuxing Island)",121.493949422079,31.1204524473488,"heavy_rail",2013
+154,"Jiashan Lu (Jiashan Road)",121.501775649553,31.0983249398672,"heavy_rail",2015
+155,"Longhua Zhong Lu (Middle Longhua Road)",121.50608068063,31.0761650165066,"heavy_rail",2015
+156,"Longcao Lu (Longcao Road)",121.507683146653,31.0641153902817,"heavy_rail",2013
+157,"Guilin Gongyuan (Guilin Park)",121.375218403164,31.1392563574942,"heavy_rail",2015
+158,"Hongmei Lu (Hongmei Road)",121.356506550866,31.1329614130895,"heavy_rail",2015
+159,"Donglan Lu (Donglan Road)",121.548895670293,31.2416880002982,"heavy_rail",2015
+160,"Yangsi",121.452999729208,31.2516697848231,"heavy_rail",2009
+161,"Longhua",121.379287113853,31.193993045218,"heavy_rail",2015
+162,"Jiangyang Bei Lu (North Jiangyang Road)",121.371302421229,31.1911250533066,"heavy_rail",2006
+163,"Caobao Lu (Caobao Road)",121.363083999241,31.1884331937448,"heavy_rail",2015
+164,"Tieli Lu (Tieli Road)",121.34707941982,31.1830367373254,"heavy_rail",2006
+165,"Hongcao Lu (Hongcao Road)",121.486995757067,31.2350790566547,"heavy_rail",2015
+166,"Gudai Lu (Gudai Road)",121.340082655147,31.1780325567617,"heavy_rail",2015
+167,"Youyi Lu (Youyi Road)",121.481861158074,31.2330392827257,"heavy_rail",2006
+168,"Hongxin Lu (Hongxin Road)",121.474109715814,31.2306978062164,"heavy_rail",2015
+169,"Yaohua Lu (Yaohua Road)",121.335492185213,31.1748335432745,"heavy_rail",2009
+170,"Qixin Lu (Qixin Road)",121.469037755895,31.2281297743115,"heavy_rail",2015
+171,"Baoyang Lu (Baoyang Road)",121.465284454059,31.226527408778,"heavy_rail",2006
+172,"Meilan Hu (Meilan Lake)",121.45620457523,31.2257816347073,"heavy_rail",2010
+173,"Yuntai Lu (Yuntai Road)",121.449577392771,31.2253600063428,"heavy_rail",2009
+174,"Luonan Xincun",121.440478087783,31.2226711152331,"heavy_rail",2010
+175,"Shuichan Lu (Shuichan Road)",121.433328164715,31.2193988522438,"heavy_rail",2006
+176,"Gaoke Xi Lu (West Gaoke Road)",121.428012387975,31.216009513192,"heavy_rail",2009
+177,"Panguang Lu (Panguang Road)",121.44540551294,31.2238327271662,"heavy_rail",2010
+178,"Liuhang",121.424063086664,31.2125917330225,"heavy_rail",2010
+179,"Songbin Lu (Songbin Road)",121.418668328939,31.2115412481566,"heavy_rail",2006
+180,"Gucun Gongyuan (Gucun Park)",121.411876716296,31.210099386691,"heavy_rail",2010
+181,"Yanggao Nan Lu (South Yanggao Road)",121.397518500354,31.2029912746016,"heavy_rail",2009
+182,"Qihua Lu (Qihua Road)",121.388222179495,31.1990197214483,"heavy_rail",2010
+183,"Shanghai Daxue (Shanghai University)",121.330050257142,31.1736299260649,"heavy_rail",2009
+184,"	Zhanghuabang",121.457548453575,31.2315949918221,"heavy_rail",2006
+185,"Nanchen Lu (Nanchen Road)",121.522651284278,31.2306408603268,"heavy_rail",2009
+186,"Jinxiu Lu (Jinxiu Road)",121.523424879834,31.2138256365124,"heavy_rail",2009
+187,"Shangda Lu (Shangda Road)",121.568578137587,31.2526161734175,"heavy_rail",2009
+188,"Changzhong Lu (Changzhong Road)",121.52447283371,31.2223528277907,"heavy_rail",2009
+189,"Songfa Lu (Songfa Road)",121.513202820094,31.1961659214851,"heavy_rail",2006
+190,"Fanghua Lu (Fanghua Road)",121.433376619011,31.2423971290208,"heavy_rail",2009
+191,"Dachang Zhen (Dachang Town)",121.482503497576,31.1779984380451,"heavy_rail",2009
+192,"Xingzhi Lu (Xingzhi Road)",121.493033285124,31.1736234255144,"heavy_rail",2009
+193,"Dahuasan Lu (Dahuasan Road)",121.47052686937,31.2179118275133,"heavy_rail",2009
+194,"Longyang Lu (Longyang Road)",121.418564482731,31.2319425901927,"heavy_rail",2009
+195,"Xincun Lu (Xincun Road)",121.418325092523,31.2307477149387,"heavy_rail",2009
+196,"Quyang Lu (Quyang Road)",121.429760880519,31.2050821601589,"heavy_rail",2007
+197,"Zhenping Lu (Zhenping Road)",121.435940085428,31.1807631284709,"heavy_rail",2009
+198,"Huamu Lu (Huamu Road)",121.44588742723,31.1748139053104,"heavy_rail",2009
+199,"Changshou Lu (Changshou Road)",121.454018293395,31.169264374347,"heavy_rail",2009
+200,"Changqing Lu (Changqing Road)",121.45511726547,31.1617237697336,"heavy_rail",2009
+201,"Changping Lu (Changping Road)",121.506619133898,31.1449647862479,"heavy_rail",2009
+202,"Langao Lu (Langao Road)",121.518722861888,31.1483597235483,"heavy_rail",2009
+203,"Dongfang Tiyu Zhongxin (Oriental Sports Center)",121.534239986561,31.1529366165039,"heavy_rail",2009
+204,"Changshu Lu (Changshu Road)",121.315752855511,31.2430285546963,"heavy_rail",2009
+205,"Shiguang Lu (Shiguang Road)",121.330808689125,31.2432140352159,"heavy_rail",2007
+206,"Zhaojiabang Lu (Zhaojiabang Road)",121.350680653921,31.2442898152494,"heavy_rail",2009
+207,"Dong'an Lu (Dong'an Road)",121.362806459073,31.2397034572233,"heavy_rail",2009
+208,"Longhua Zhong Lu (Middle Longhua Road)",121.376734189555,31.2342870751629,"heavy_rail",2009
+209,"Houtan",121.424448769458,31.2345183332165,"heavy_rail",2009
+210,"Changjiang Nan Lu (South Changjiang Road)",121.439601831939,31.2459924211617,"heavy_rail",2006
+211,"Nenjiang Lu (Nenjiang Road)",121.457660727306,31.2389933879441,"heavy_rail",2007
+212,"Lujiabang Lu (Lujiabang Road)",121.460063113534,31.2223062644111,"heavy_rail",2007
+213,"Hongkou Zuqiu (Hongkou Football Stadium)",121.479782767702,31.1862311381805,"heavy_rail",2007
+214,"Xiangyin Lu (Xiangyin Road)",121.240773986983,31.3471933323586,"heavy_rail",2007
+215,"Xizang Bei Lu (North Xizang Road)",121.249456304757,31.3322516514514,"heavy_rail",2007
+216,"Huangxing Gongyuan (Huangxing Park)",121.272375559421,31.3217272388777,"heavy_rail",2007
+217,"Zhongxing Lu (Zhongxing Road)",121.385606757922,31.2708086915265,"heavy_rail",2007
+218,"Yanji Zhong Lu (Middle Yanji Road)",121.516134113023,31.2408818471311,"heavy_rail",2007
+219,"Xizang Nan Lu (South Xizang Road)",121.493124531868,31.2640844739152,"heavy_rail",2007
+220,"Qufu Lu (Qufu Road)",121.196126168071,31.2954612512861,"heavy_rail",2007
+221,"Huangxing Lu (Huangxing Road)",121.176081944007,31.2873371357348,"heavy_rail",2007
+222,"Anshan Xincun",121.432596470976,31.1846167887635,"heavy_rail",2007
+223,"Renmin Guangchang (People's Square)",121.523384993321,31.230644829944,"heavy_rail",2007
+224,"Siping Lu (Siping Road)",121.438999244823,31.1874543129293,"heavy_rail",2007
+225,"Dashijie",121.512723208206,31.2544738298099,"heavy_rail",2007
+226,"Zhonghua Yìshu Gong (China Art Museum)",121.508951302026,31.2598209351269,"heavy_rail",2007
+227,"Laoximen",121.663897678173,31.2704190606624,"heavy_rail",2007
+228,"Yaohua Lu (Yaohua Road)",121.553034663454,31.2333515173107,"heavy_rail",2007
+229,"Jing'an Si (Jing'an Temple)",121.221597739899,31.3338360116552,"heavy_rail",2009
+230,"Chengshan Lu (Chengshan Road)",121.157892257166,31.2905076209182,"heavy_rail",2009
+231,"Pujiang Zhen (Pujiang Town)",121.624018487449,31.19104159272,"heavy_rail",2009
+232,"Lingzhao Xincun",121.483832806037,31.2310200873815,"heavy_rail",2009
+233,"Luheng Lu (Luheng Road)",121.506441854079,31.2399840449995,"heavy_rail",2009
+234,"Shendu Gonglu (Shendu Highway)",121.516479671017,31.2425394827465,"heavy_rail",2009
+235,"Lianhang Lu (Lianhang Road)",121.525549744987,31.2437138246037,"heavy_rail",2009
+236,"Jiangpu Lu (Jiangpu Road)",121.535855987492,31.246511881832,"heavy_rail",2007
+237,"Gangcheng Lu (Gangcheng Road)",121.547434491053,31.2531725380966,"heavy_rail",2007
+238,"Waigaoqiao Baoshuiqu Bei (North Waigaoqiao Free Trade Zone)",121.596050630131,31.2391286935965,"heavy_rail",2007
+239,"Hangjin Lu (Hangjin Road)",121.610398273728,31.2436366799306,"heavy_rail",2007
+240,"Waigaoqiao Baoshuiqu Nan (South Waigaoqiao Free Trade Zone)",121.624606381728,31.2444029372513,"heavy_rail",2007
+241,"Zhouhai Lu (Zhouhai Road)",121.632475592283,31.2532796629922,"heavy_rail",2007
+242,"Wuzhou Dadao (Wuzhou Avenue)",121.677853294072,31.2731494475562,"heavy_rail",2007
+243,"Dongjing Lu (Dongjing Road)",121.652262232128,31.2681564408155,"heavy_rail",2007
+244,"Jufeng Lu (Jufeng Road)",121.522934053314,31.1785713201325,"heavy_rail",2007
+245,"Wulian Lu (Wulian Road)",121.536957418767,31.1815515626446,"heavy_rail",2007
+246,"Boxing Lu (Boxing Road)",121.54507837059,31.1822499377079,"heavy_rail",2007
+247,"Yingao Xi Lu (West Yingao Road)",121.553489650875,31.1767966781745,"heavy_rail",2006
+248,"Yuanshen Tiyuzhongxin (Yuanshen Stadium(Yuanshen Stadium)",121.562402973595,31.1714759714515,"heavy_rail",2007
+249,"Beiyangjing Lu (Beiyangjing Road)",121.578918345635,31.1776322329392,"heavy_rail",2007
+250,"Minsheng Lu (Minsheng Road)",121.436309754703,31.2564011056272,"heavy_rail",2007
+251,"",121.425241198891,31.2482091114976,"brt",2017
+252,"Shiji Dadao (Century Avenue)",121.408620929841,31.2340349394335,"heavy_rail",2007
+253,"Pudian Lu (Pudian Road)",121.412436805679,31.2115518495138,"heavy_rail",2007
+254,"Lancun Lu (Lancun Road)",121.416058382565,31.1991798552763,"heavy_rail",2007
+255,"",121.385665777379,31.0910066786004,"brt",2017
+256,"Shanghai Ertong Yixue Zhongxin (Shanghai Children's Medical Center)",121.397264195895,31.0690636982652,"heavy_rail",2007
+257,"Linyi Xincun",121.381087590677,31.1001895935985,"heavy_rail",2007
+258,"",121.405596441108,31.0469282341774,"brt",2017
+259,"Dongming Lu (Dongming Road)",121.37958199249,31.111933449474,"heavy_rail",2007
+260,"Dongming Lu (Dongming Road)",121.411910747331,31.0285484805077,"heavy_rail",2018
+261,"Shangnan Lu (Shangnan Road)",121.415082176476,31.0206247215975,"heavy_rail",2007
+262,"Huaxia Xi Lu (West Huaxia Road)",121.406430462675,31.0133695520995,"heavy_rail",2007
+263,"",121.390751188857,31.0094471882088,"brt",2017
+264,"Lingyan Nan Lu (South Lingyan Road)",121.376225028555,31.005576155886,"heavy_rail",2007
+265,"Dongfang Tiyu Zhongxin (Oriental Sports Center)",121.364625839598,31.0024743408112,"heavy_rail",2011
+266,"",121.418396694313,31.0088518008681,"brt",2017
+267,"",121.428086568484,30.9913047830354,"brt",2017
+268,"",121.436948018187,30.9688212262184,"brt",2017
+269,"",121.445479741249,30.9427054443958,"brt",2017
+270,"Xintiandi",121.459647712311,30.9332715003604,"heavy_rail",2015
+271,"",121.479700567318,30.9341678553023,"brt",2017
+272,"",121.487801651169,30.9317011468306,"brt",2017
+273,"",121.491579683583,30.9179660550043,"brt",2017
+274,"Jinshajiang Xi Lu (West Jinshajiang Road)",121.497505547975,30.8912464061517,"heavy_rail",2013
+275,"",121.597539015447,31.3240456771395,"brt",2017
+276,"",121.584988421103,31.3045536099828,"brt",2017
+277,"Jinyun Lu (Jinyun Road)",121.5846592616,31.2927541979552,"heavy_rail",2013
+278,"",121.584271100954,31.2833381717907,"brt",2017
+279,"",121.583730703188,31.2739518700238,"brt",2017
+280,"",121.582456177201,31.2662134356996,"brt",2017
+281,"",121.560043331799,31.2475227517059,"brt",2017
+282,"Longde Lu (Longde Road)",121.539347957871,31.237995726352,"heavy_rail",2014
+283,"",121.529673936669,31.2349741305194,"brt",2017
+284,"Fengzhuang",121.505380422369,31.1868357129488,"heavy_rail",2017
+285,"",121.507601045585,31.1748931154296,"brt",2017
+286,"",121.506121021767,31.1751049850549,"brt",2017
+287,"",121.511062410315,31.1519564539846,"brt",2017
+288,"Qilianshan Nan Lu (South Qilianshan Road)",121.500854675901,31.1510821356347,"heavy_rail",2017
+289,"",121.489468621966,31.1505625547334,"brt",2017
+290,"Madang Lu (Madang Road)",121.47244411898,31.1557359359408,"heavy_rail",2015
+291,"Zhenbei Lu (Zhenbei Road)",121.472965948611,31.1554174238595,"heavy_rail",2017
+292,"Daduhe Lu (Daduhe Road)",121.519288329747,31.2062185830674,"heavy_rail",2017
+293,"Jinshajiang Lu (Jinshajiang Road)",121.383395068596,31.3222687589128,"heavy_rail",2017
+294,"Wuning Lu (Wuning Road)",121.404156563219,31.3160588793252,"heavy_rail",2014
+295,"",121.408815504779,31.3055531860622,"brt",2017
+296,"",121.411823646811,31.2953304878428,"brt",2017
+297,"Pusan Lu (Pusan Road)",121.41696290732,31.2865230994934,"heavy_rail",2013
+298,"Changshou Lu (Changshou Road)",121.418353587939,31.2761108197891,"heavy_rail",2013
+299,"Jiangning Lu (Jiangning Road)",121.417966688244,31.2662107071069,"heavy_rail",2015
+300,"Hanzhong Lu (Hanzhong Road)",121.417185868337,31.2580143160329,"heavy_rail",2015
+301,"Ziran Bowuguan (Shanghai Natural History Museum)",121.453390254997,31.1871106391262,"heavy_rail",2015
+302,"Kangxin Gonglu (Kangxin Highway)",121.514162730762,31.2771033551801,"heavy_rail",2015
+303,"Nanjing Xi Lu (West Nanjing Road)",121.50545869576,31.2749996887098,"heavy_rail",2015
+304,"Shibohui Bowuguan (World Expo Museum)",121.496748902833,31.2769883587121,"heavy_rail",2015
+305,"Huaihai Zhong Lu (Middle Huaihai Road)",121.486366323922,31.278591090343,"heavy_rail",2015
+306,"Shibo Dadao (Shibo Avenue)",121.479398697382,31.2209772116689,"heavy_rail",2015
+307,"Changqing Lu (Changqing Road)",121.49181947591,31.173030342266,"heavy_rail",2015
+308,"Chengshan Lu (Chengshan Road)",121.504415598002,31.0856398951215,"heavy_rail",2018
+309,"Longyao Yu (Longyao Road)",121.635797738457,31.2664096937298,"heavy_rail",2013
+310,"Sanlin Dong (East Sanlin)",121.624463034938,31.2663332998667,"heavy_rail",2013
+311,"Luoshan Lu (Luoshan Road)",121.606282027754,31.2627253858944,"heavy_rail",2013
+312,"Yuqiao",121.592202549402,31.2542672846262,"heavy_rail",2013
+313,"Sanlin",121.573172844815,31.2431190446657,"heavy_rail",2013
+314,"Xujiahui",121.493982590372,31.2191081773178,"heavy_rail",2013
+315,"Yunjin Lu (Yunjin Road)",121.472699142628,31.2114275252097,"heavy_rail",2013
+316,"Shanghai Yongyuan Guan (Shanghai Swimming Center)",121.456442680673,31.2048430055533,"heavy_rail",2013
+317,"Longhua",121.456318840506,31.2053631251268,"heavy_rail",2013
+318,"Longde Lu (Longde Road)",121.41112076362,31.1761989945375,"heavy_rail",2009
+319,"Caoyang Lu (Caoyang Road)",121.393718347359,31.1727188544972,"heavy_rail",2009
+320,"Gaoke Xi Lu (West Gaoke Road)",121.228023573386,31.0566940815143,"heavy_rail",2007
+321,"Yunshan Lu (Yunshan Road)",121.226181196265,31.0180812678765,"heavy_rail",2007
+322,"Wuwei Lu (Wuwei Road)",121.224250379396,31.0026894600359,"heavy_rail",2009
+323,"Taopu Xincun",121.471767861205,31.2534368296115,"heavy_rail",2009
+324,"Nanxiang",121.408985846585,31.1438549975518,"heavy_rail",2009
+325,"Malu",121.44518082381,31.2144560900219,"heavy_rail",2009
+326,"Jiading Xincheng",121.444529474516,31.2151161806537,"heavy_rail",2009
+327,"Baiyin Lu (Baiyin Road)",121.426635227289,31.1552726794966,"heavy_rail",2009
+328,"Jiading Xi (West Jiading)",121.424082833106,31.1555037767778,"heavy_rail",2009
+329,"North Bei (North Jiading)",121.431310560825,31.1972221466473,"heavy_rail",2009
+330,"Zhenru",121.453465019336,31.2183282601112,"heavy_rail",2009
+331,"Shanghai Xi Zhan(West Shanghai Railway)",121.454879181781,31.217899764683,"heavy_rail",2009
+332,"Fengqiao Lu (Fengqiao Road)",121.469861067929,31.2251410908872,"heavy_rail",2009
+333,"Qilianshan Lu (Qilianshan Road)",121.470605799424,31.2356954182491,"heavy_rail",2009
+334,"Liziyuan",121.453951963789,31.2427480799011,"heavy_rail",2009
+335,"Shanghai Qichecheng (Shanghai Automobile City)",121.442951748334,31.3196853868642,"heavy_rail",2010
+336,"Changji Dong Lu (East Changji Road)",121.436949081891,31.3330488384693,"heavy_rail",2010
+337,"Dong'an Lu (Dong'an Road)",121.433053074673,31.3418517112058,"heavy_rail",2005
+338,"Damuqiao Lu (Damuqiao Road)",121.429485295492,31.3569286339258,"heavy_rail",2005
+339,"Xizang Nan Lu (South Xizang Road)",121.42641133055,31.3714929944642,"heavy_rail",2007
+340,"Nanpu Daqiao (Nanpu Bridge)",121.423187040307,31.3838644901518,"heavy_rail",2007
+341,"Pudian Lu (Pudian Road)",121.420331721516,31.3929566353634,"heavy_rail",2005
+342,"Linping Lu (Linping Road)",121.313369832867,31.1956846418104,"heavy_rail",2005
+343,"Pudong Dadong (Pudong Avenue)",121.313339248512,31.1955072565396,"heavy_rail",2005
+344,"Wuning Lu (Wuning Road)",121.321994279734,31.1962991360462,"heavy_rail",2021
+345,"",121.32200903943,31.1960845032987,"heavy_rail",2021
+346,"Shanghai Sachechang (Shanghai Circuit)",121.41132553492,31.219886768495,"heavy_rail",2010
+347,"",121.426366154343,31.2211848576174,"heavy_rail",2021
+348,"Shanghai Tiyuguan (Shanghai Indoor Stadium)",121.442112424536,31.2252424769164,"heavy_rail",2005
+349,"Shanghai Tiyu (Shanghai Stadium)",121.45636205349,31.232053658853,"heavy_rail",2005
+350,"",121.596378080629,31.2064822883437,"heavy_rail",2021
+351,"Luban Lu (Luban Road)",121.801619222594,31.1519717687405,"heavy_rail",2007
+352,"Tangqiao",121.792938511608,31.1702366884936,"heavy_rail",2007
+353,"Minlei Lu (Minlei Road)",121.417932234188,31.1987481181427,"heavy_rail",2017
+354,"Anting",121.40699641547,31.2329430151912,"heavy_rail",2010
+355,"",121.413139194558,31.2399090240991,"heavy_rail",2021
+356,"",121.427024577647,31.2485433589165,"heavy_rail",2021
+357,"",121.475713603034,31.2615277236418,"heavy_rail",2021
+358,"Dalian Lu (Dalian Road)",121.480304600592,31.32145129032,"heavy_rail",2005
+359,"Hailun Lu (Hailun Road)",121.495703071404,31.3469440052731,"heavy_rail",2005
+360,"Yangshupu Lu (Yangshupu Road)",121.493607983182,31.3610894375027,"heavy_rail",2005
+361,"Shiji Dadao (Century Avenue)",121.488104530263,31.3736395538133,"heavy_rail",2005
+362,"Lancun Lu (Lancun Road)",121.482686423822,31.3845272586215,"heavy_rail",2005
+363,"",121.474662006331,31.3976453496681,"heavy_rail",2021
+364,"",121.434449629532,31.4101253883986,"heavy_rail",2021
+365,"",121.449736203098,31.1925591718502,"heavy_rail",2021
+366,"Yuyuan (Yuyuan Garden)",121.459303123576,31.1962191850581,"heavy_rail",2021
+367,"",121.4596521619,31.1955025397683,"heavy_rail",2021
+368,"",121.471270799265,31.2010800592796,"heavy_rail",2021
+369,"",121.485913477963,31.2042356619694,"heavy_rail",2021
+370,"",121.494337675248,31.2101647681022,"heavy_rail",2021
+371,"Zhenru",121.512061128717,31.2129010906648,"heavy_rail",2021
+372,"",121.523536464199,31.2136939729843,"heavy_rail",2021
+373,"Pudong Dadong (Pudong Avenue)",121.527863799146,31.2244604972456,"heavy_rail",2021
+374,"",121.483973591075,31.2609219892925,"heavy_rail",2021
+375,"Zhangjiang Lu (Zhangjiang Road)",121.313333347577,31.1959867401332,"heavy_rail",2018
+376,"Fangdian Lu (Fangdian Road)",121.22643309936,30.9866819397225,"heavy_rail",2017
+377,"Caolu",121.343207835029,31.1929504523202,"heavy_rail",2017
+378,"",121.363044594097,31.1921741960447,"heavy_rail",2021
+379,"Lantian Lu (Lantian Road)",121.375779778341,31.1964809990274,"heavy_rail",2017
+380,"Yunshan Lu (Yunshan Road)",121.387176583273,31.2010662351979,"heavy_rail",2021
+381,"Jinqiao",121.39986779997,31.2006096989605,"heavy_rail",2017
+382,"Lantian Lu (Lantian Road)",121.407757930181,31.1984620441949,"heavy_rail",2021
+383,"",121.490437479867,31.2710517856298,"heavy_rail",2021
+384,"Taierzhuang Lu (Taierzhuang Road)",121.501680488068,31.2836463988388,"heavy_rail",2017
+385,"",121.5090880036,31.2983219799427,"heavy_rail",2021
+386,"Huapeng Lu (Huapeng Road)",121.50772747779,31.3081455650647,"heavy_rail",2018
+387,"Jinji Lu (Jinji Road)",121.50325169424,31.3155585151196,"heavy_rail",2017
+388,"Jinhai Lu (Jinhai Road)",121.501831241301,31.3227957833682,"heavy_rail",2017
+389,"Huaxia Zhong Lu (Middle Huaxia Road)",121.502156098979,31.3308235885227,"heavy_rail",2018
+390,"Gutang Lu (Gutang Road)",121.223545109842,31.3783392940346,"heavy_rail",2017
+391,"Lianxi Lu (Lianxi Road)",121.233227119913,31.3936950443754,"heavy_rail",2018
+392,"Xianan Lu (Xianan Road)",121.145942788771,31.2908270026574,"heavy_rail",2018
+393,"Beicai",121.099339124173,31.3006970551383,"heavy_rail",2018
+394,"Chenchun Lu (Chenchun Road)",121.318670612553,31.2989689320566,"heavy_rail",2018
+395,"Zhongke Lu (Zhongke Road)",121.346031676342,31.2834751537726,"heavy_rail",2018
+396,"Xuelin Lu (Xuelin Road)",121.358424303308,31.2798299047399,"heavy_rail",2018
+397,"Xinzhuang",121.371962374643,31.2734350533829,"heavy_rail",0
+398,"Hongqiao Huochezhan (Hongqiao Railway)",121.396430891903,31.2646701386828,"heavy_rail",2017
+399,"Haitiansan Lu (Haitiansan Road)",121.402195920193,31.2533808154311,"heavy_rail",2010
+400,"Baoshan Lu (Baoshan Road)",121.406017201398,31.2440931937631,"heavy_rail",2007
+401,"Shanghai Huochezhan (Shanghai Railway)",121.112791516978,31.2979723133679,"heavy_rail",2007
+402,"Zhongtan Lu (Zhongtan Road)",121.426282575667,31.2215992341641,"heavy_rail",2007
+403,"Zhenping Lu (Zhenping Road)",121.589929363536,31.1536878452154,"heavy_rail",2007
+404,"Caoyang Lu (Caoyang Road)",121.566329288642,31.1603514358193,"heavy_rail",2007
+405,"Jinshajiang Lu (Jinshajiang Road)",121.505484436126,31.2907456368066,"heavy_rail",2007
+406,"Zhongshan Gongyuan (Zhongshan Park)",121.611271340845,31.1326653045903,"heavy_rail",2007
+407,"Yan'an Xi Lu (West Yan'an Road)",121.594592385415,31.1400213971821,"heavy_rail",2007
+408,"Hongqiao Lu (Hongqiao Road)",121.661386689825,31.1428966071056,"heavy_rail",2007
+409,"Yishan Lu (Yishan Road)",121.501173485197,31.2551182103822,"heavy_rail",2007
+410,"Chunshen Lu (Chunshen Road)",121.491894823826,31.2513817242479,"heavy_rail",2003
+411,"Yindu Lu (Yindu Road)",121.41776643908,31.168931093716,"heavy_rail",2003
+412,"Zhuanqiao",121.394030750774,31.1626222223306,"heavy_rail",2003
+413,"Beiqiao",121.387311759998,31.1557265123063,"heavy_rail",2003
+414,"Jianchuan Lu (Jianchuan Road)",121.386584546814,31.1422044796141,"heavy_rail",2003
+415,"Dongchuan Lu (Dongchuan Road)",121.390715985037,31.2337285457489,"heavy_rail",0
+416,"Huaning Lu (Huaning Road)",121.472161502581,31.21132222998,"heavy_rail",0
+417,"Wenjing Lu (Wenjing Road)",121.477420440592,31.1987342742172,"heavy_rail",0
+418,"Minhang Kaifaqu (Minhang Development Zone)",121.601411257012,31.181490456344,"heavy_rail",0
+419,"Jiangchuan Lu (Jiangchuan Road)",121.606759542668,31.1835561861259,"heavy_rail",0
+420,"Xidu",121.552663719083,31.2046797599459,"heavy_rail",0
+421,"Xiaotang",121.579494600104,31.1782130517921,"heavy_rail",0
+422,"Fengpu Dadao (Fengpu Avenue)",121.589539315201,31.1538012217589,"heavy_rail",0
+423,"Huancheng Dong Lu (Huancheng Dong Road)",121.602727230049,31.1123724000165,"heavy_rail",0
+424,"Wangyuan Lu (Wangyuan Road)",121.60718199552,31.0799879192747,"heavy_rail",0
+425,"Jinhai Hu (Jinhai Lake)",121.612889189859,31.0585302889295,"heavy_rail",0
+426,"Fengxian Xincheng",121.644294326659,31.0478146269015,"heavy_rail",0
+427,"Pingzhuang Gonglu (Pingzhuang Highway)",121.69550810659,31.0523726754556,"heavy_rail",0
+428,"Dongfang Tiyu Zhongxin (Oriental Sports Center)",121.756235929673,31.0559621044493,"heavy_rail",2013
+429,"Jiangyue Lu (Jiangyue Road)",121.789472241685,31.0291511145994,"heavy_rail",2009
+430,"Songjiang Tiyu Zhongxin (Songjiang Sports Center)",121.845404913922,30.9621998147563,"heavy_rail",2012
+431,"Zuibaichi (Zuibaichi Park)",121.90696774819,30.9254639256473,"heavy_rail",2012
+432,"Songjiang Nan Zhan (Songjiang South Railway)",121.925765532833,30.9092882148694,"heavy_rail",2012
+433,"Tiantong Lu (Tiantong Road)",121.287206866116,31.1935572962326,"heavy_rail",2013
+434,"Yingao Dong Lu (East Yingao Road)",121.272286582232,31.1885143766741,"heavy_rail",2010
+435,"Guangming Lu (Guangming Road)",121.248194152395,31.1802308506733,"heavy_rail",2013
+436,"Zhaofeng Lu (Zhaofeng Road)",121.234267474859,31.1772991278937,"heavy_rail",2013
+437,"Huaqiao",121.220032742091,31.1661746383128,"heavy_rail",2013
+438,"Jiangsu Lu (Jiangsu Road)",121.188964202359,31.1635587217912,"heavy_rail",2009
+439,"Jiaotong Daxue (Jiaotong University)",121.147106359691,31.1630464005313,"heavy_rail",2013
+440,"Luoshan Lu (Luoshan Road)",121.12080877057,31.1608000349934,"heavy_rail",2013
+441,"Xiuyan Lu (Xiuyan Road)",121.074770947499,31.1350061668861,"heavy_rail",2015
+442,"Longyang Lu (Longyang Road)",121.043133406171,31.1028058841612,"heavy_rail",2014
+443,"Huaxia Zhong Lu (Middle Huaxia Road)",121.01524767138,31.1009521016759,"heavy_rail",2014
+444,"Zhoupu Dong (East Zhoupu)",121.092162359831,31.1623370278212,"heavy_rail",2013
+445,"Heshahangcheng",121.453056208985,31.2517214775058,"heavy_rail",2013
+446,"Hangtou Dong (East Hangtou)",121.436292160254,31.2564533417228,"heavy_rail",2013
+447,"Xinchang",121.425208728969,31.2482991789734,"heavy_rail",2013
+448,"Yesheng Dongwuyuan (Wild Animal Park)",121.4130756947,31.2409970256563,"heavy_rail",2013
+449,"Huinan",121.413046030338,31.241112252828,"heavy_rail",2013
+450,"Huinan Dong (East Huinan)",121.411111313376,31.2197881752036,"heavy_rail",2013
+451,"Shuyuan",121.411009050708,31.2197402380944,"heavy_rail",2013
+452,"Lingang Dadao (Lingang Avenue)",121.422543249432,31.1886048732678,"heavy_rail",2013
+453,"Dishui Hu (Dishui Lake)",121.446453331161,31.0253279143587,"heavy_rail",2013
+454,"Zhuguang Lu (Zhuguang Road)",121.438378633995,31.0413646768571,"heavy_rail",2017
+455,"Panlong Lu (Panlong Road)",121.427120613548,31.0653562493852,"heavy_rail",2017
+456,"Xuying Lu (Xuying Road)",121.417552261897,31.0844247326298,"heavy_rail",2017
+457,"Xuying Road",121.413482158603,31.0919912868069,"heavy_rail",2017
+458,"Jiasong Zhong Lu (Middle Jiasong Road)",121.414840560047,31.1018514184269,"heavy_rail",2017
+459,"Zhaoxiang",121.428768161633,31.1058745347013,"heavy_rail",2017
+460,"Huijin Lu (Huijin Road)",121.43558496589,31.1142270324805,"heavy_rail",2017
+461,"Qingpu Xincheng",121.433190791967,31.1263944632278,"heavy_rail",2017
+462,"Dianshanhu Dadao (Dianshanhu Avenue)",121.431244499041,31.1334738056327,"heavy_rail",2017
+463,"Zhujiajiao",121.433422069629,31.1465797528471,"heavy_rail",2017
+464,"Dongfang Luzhao (Oriental Land)",121.425777140014,31.1585562104543,"heavy_rail",2017
+465,"Caoying Lu (Caoying Road)",121.413678514204,31.1698951133291,"heavy_rail",2017
+466,"Zizhu Hi-tech Park",121.410907083448,31.1782500785301,"heavy_rail",2020
+467,"Yongde Road",121.409105503297,31.1866985847971,"heavy_rail",2020
+468,"Yuanjiang Road",121.400843051901,31.1934350143389,"heavy_rail",2020
+469,"Shuangbai Road",121.393863219063,31.2012425485602,"heavy_rail",2020
+470,"Shujian Road",121.395222029005,31.215046399636,"heavy_rail",2020
+471,"Jingxi Road",121.391592735272,31.2281634966566,"heavy_rail",2020
+472,"South Hongmei Road",121.391370260696,31.2345867125997,"heavy_rail",2020
+473,"West Huajing",121.392279023222,31.2455078216436,"heavy_rail",2020
+474,"Zhumei Road",121.392980962851,31.2535388745533,"heavy_rail",2020
+475,"Luoxiu Road",121.395976200642,31.2648128582885,"heavy_rail",2020
+476,"East China University of Science and Technology",121.387373682549,31.2776544519586,"heavy_rail",2020
+477,"Shanghai South Railway Station",121.379900150503,31.2936906805174,"heavy_rail",2020
+478,"Guilin Park",121.3680204681,31.3473170703068,"heavy_rail",2020
+479,"Guilin Road",121.377251268355,31.3230071747619,"heavy_rail",2021
+480,"Wuzhong Road",121.376302507886,31.3106425660168,"heavy_rail",2020
+481,"Yaohong Road",121.375518545381,31.3010903228975,"heavy_rail",2020
+482,"Loushanguan Road",121.387844503036,31.2867105823733,"heavy_rail",2020
+483,"Changfeng Park",121.591914861061,31.0393035634893,"heavy_rail",2020
+484,"Daduhe Road",121.584869005128,31.0569296019234,"heavy_rail",2019
+485,"North Meiling Road",121.581685569887,31.0749568946377,"heavy_rail",2020
+486,"Tongchuan Road",121.576349104365,31.0935204435847,"heavy_rail",2020
+487,"Shanghai West Railway Station",121.56348311317,31.1171645209432,"heavy_rail",2020
+488,"East Wuwei Road",121.567019547836,31.161454963401,"heavy_rail",2020
+489,"Qi'an Road",121.561584121272,31.1721792314879,"heavy_rail",2020
+490,"Gucun Park",121.556896000112,31.1851795522441,"heavy_rail",2020
+491,"Jinqiu Road",121.554786089828,31.1932460318188,"heavy_rail",2020
+492,"Fengxiang Road",121.552737352877,31.202688359221,"heavy_rail",2020
+493,"Nanda Road",121.547284183102,31.2219722562055,"heavy_rail",2020
+494,"Gulang Road",121.544676500145,31.2292280298556,"heavy_rail",2020
+495,"Hongbaoshi Road",121.540277324701,31.2377007836854,"heavy_rail",2020
+496,"Hangtou",121.535929411493,31.2457731869408,"heavy_rail",2020
+497,"Xiasha",121.526628406009,31.255992751147,"heavy_rail",2020
+498,"Hetao Road",121.518729401124,31.2670796936886,"heavy_rail",2020
+499,"Shenmei Road",121.521971669394,31.2617641703838,"heavy_rail",2020
+500,"Zhoupu",121.514503654811,31.2759753237317,"heavy_rail",2020
+501,"Yuqiao",121.511355870424,31.2858810907241,"heavy_rail",2020
+502,"Lianxi Road",121.506959038842,31.2911516370489,"heavy_rail",2021
+503,"Beizhong Road",121.49489797976,31.2985972363454,"heavy_rail",2021
+504,"Fangxin Road",121.491927024786,31.3099109629049,"heavy_rail",2021
+505,"Longyang Road",121.491028535152,31.3236809641229,"heavy_rail",2021
+506,"Yingchun Road",121.484517831998,31.3343912430745,"heavy_rail",2021
+507,"Middle Yanggao Road",121.566613917559,31.1040058878771,"heavy_rail",2021
+508,"Minsheng Road",121.562916166454,31.1343006746543,"heavy_rail",2021
+509,"Danyang Road",121.291262676818,31.2696926992588,"heavy_rail",2020
+510,"Pingliang Road",121.309728444261,31.2671503353559,"heavy_rail",2021
+511,"Jiangpu Park",121.326361725257,31.265025327905,"heavy_rail",2021
+512,"Jiangpu Road",121.342333346988,31.2607139438053,"heavy_rail",2021
+513,"",121.368981605006,31.2568102196285,"heavy_rail",2021
+514,"",121.380325003944,31.2550985362248,"heavy_rail",2021
+515,"",121.393041820913,31.2526691680704,"heavy_rail",2021
+516,"",121.402104806841,31.2526936358238,"heavy_rail",2021
+517,"",121.410580364545,31.2465134296424,"heavy_rail",2021
+518,"Fushun Road",121.416750768638,31.2418491433709,"heavy_rail",2021
+519,"Guoquan Road",121.425923787016,31.2353039040688,"heavy_rail",2021
+520,"Fudan University",121.43215222875,31.229048004909,"heavy_rail",2021
+521,"Shanghai University of Finance and Economics",121.440807443778,31.2235539429217,"heavy_rail",2021
+522,"Yingao Road",121.45388365692,31.2223308554709,"heavy_rail",2021
+523,"South Changjiang Road",121.468404406577,31.2256165304734,"heavy_rail",2021
+524,"Fanrong Road",121.474664469959,31.2282693465297,"heavy_rail",2020
+525,"Kangqiao",121.567180405559,31.2527028184081,"heavy_rail",2020
+526,"Longju Road",121.573927906331,31.2427155450768,"heavy_rail",NA

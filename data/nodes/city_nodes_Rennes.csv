@@ -1,0 +1,68 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Colombier",-1.6818351,48.1059472,"heavy_rail",2020
+2,"J.F. Kennedy",-1.7112751,48.1213127,"heavy_rail",2002
+3,"Villejean-Université",-1.7039216,48.1212281,"heavy_rail",2002
+4,"Sainte-Anne",-1.6805088,48.1145468,"heavy_rail",2002
+5,"Anatole France",-1.6875881,48.1181479,"heavy_rail",2002
+6,"Gares",-1.6720876,48.1042331,"heavy_rail",2020
+7,"République",-1.6791606,48.1097583,"heavy_rail",2002
+8,"Saint-Germain",-1.6760958,48.1105462,"heavy_rail",2020
+9,"Sainte-Anne",-1.6799664,48.1146999,"heavy_rail",2020
+10,"Charles de Gaulle",-1.6768556,48.1054507,"heavy_rail",2002
+11,"Sainte-Anne",-1.6805413,48.114524,"heavy_rail",2002
+12,"Villejean-Université",-1.7039212,48.1212538,"heavy_rail",2002
+13,"Pontchaillou",-1.6934028,48.1215715,"heavy_rail",2002
+14,"Anatole France",-1.6876157,48.1181234,"heavy_rail",2002
+15,"Colombier",-1.6818453,48.1059775,"heavy_rail",2020
+16,"République",-1.6792077,48.1097595,"heavy_rail",2002
+17,"Sainte-Anne",-1.679925,48.1147155,"heavy_rail",2020
+18,"Gares",-1.6720792,48.1042018,"heavy_rail",2020
+19,"Charles de Gaulle",-1.6768429,48.105481,"heavy_rail",2002
+20,"Mabilais",-1.6928079,48.1050577,"heavy_rail",2020
+21,"Gares",-1.6722505,48.1038315,"heavy_rail",2002
+22,"Mabilais",-1.6928094,48.1050892,"heavy_rail",2020
+23,"Joliot-Curie",-1.6514405,48.1240547,"heavy_rail",2020
+24,"Jules Ferry",-1.6709285,48.1186559,"heavy_rail",2020
+25,"Italie",-1.6679205,48.0865793,"heavy_rail",2002
+26,"Gares",-1.6722168,48.1038535,"heavy_rail",2002
+27,"Cleunay",-1.7063902,48.1009414,"heavy_rail",2020
+28,"Jacques Cartier",-1.6754729,48.0975447,"heavy_rail",2002
+29,"Triangle",-1.6603575,48.08645,"heavy_rail",2002
+30,"Clemenceau",-1.6744399,48.093493,"heavy_rail",2002
+31,"Henri Fréville",-1.6748324,48.0876759,"heavy_rail",2002
+32,"Le Blosne",-1.6542812,48.0877451,"heavy_rail",2002
+33,"Saint-Germain",-1.6761185,48.1105189,"heavy_rail",2020
+34,"La Poterie",-1.6445739,48.0875085,"heavy_rail",2002
+35,"Pontchaillou",-1.6933994,48.1215446,"heavy_rail",2002
+36,"Saint-Jacques – Gaîté",-1.7038084,48.0919245,"heavy_rail",2020
+37,"La Courrouze",-1.6986175,48.0966907,"heavy_rail",2020
+38,"Gros Chêne",-1.6644484,48.1251862,"heavy_rail",2020
+39,"Les Gayeulles",-1.6571569,48.129439,"heavy_rail",2020
+40,"Atalante",-1.6281107,48.127132,"heavy_rail",2020
+41,"Jacques Cartier",-1.6754269,48.0975512,"heavy_rail",2002
+42,"Les Gayeulles",-1.6571557,48.1294075,"heavy_rail",2020
+43,"Triangle",-1.6603593,48.0864251,"heavy_rail",2002
+44,"Clemenceau",-1.6744009,48.093495,"heavy_rail",2002
+45,"Henri Fréville",-1.6747983,48.0876753,"heavy_rail",2002
+46,"Jules Ferry",-1.6709316,48.1186873,"heavy_rail",2020
+47,"La Courrouze",-1.698652,48.0966693,"heavy_rail",2020
+48,"Le Blosne",-1.6542818,48.0877194,"heavy_rail",2002
+49,"Italie",-1.6679201,48.0865537,"heavy_rail",2002
+50,"Saint-Jacques – Gaîté",-1.7037673,48.0919096,"heavy_rail",2020
+51,"La Poterie",-1.6445747,48.0874766,"heavy_rail",2002
+52,"Cleunay",-1.7064366,48.1009351,"heavy_rail",2020
+53,"Gros Chêne",-1.6644029,48.1251771,"heavy_rail",2020
+54,"Atalante",-1.6281205,48.1271625,"heavy_rail",2020
+55,"Beaulieu-Université",-1.6394506,48.1220396,"heavy_rail",2020
+56,"Joliot-Curie",-1.6513943,48.1240596,"heavy_rail",2020
+57,"Viasilva",-1.6181865,48.1329374,"heavy_rail",2020
+58,"Beaulieu-Université",-1.6394646,48.1220697,"heavy_rail",2020
+59,"Viasilva",-1.6181477,48.1329192,"heavy_rail",2020
+60,"J.F. Kennedy",-1.71123327040548,48.121318517464,"heavy_rail",2002
+61,"Octroi de Paris",-1.65686320373703,48.1146143467402,"light_rail",1907
+62,"Place de la Mairie",-1.67925803681226,48.1113463244131,"light_rail",1897
+63,"Rue de Bel Air",-1.67280453101606,48.1123929128122,"light_rail",1897
+64,"Faubourg de Paris",-1.65686496933156,48.1146172777294,"light_rail",1897
+65,"Caserne de Guines",-1.684256059864,48.102108025154,"light_rail",1897
+66,"Place de Bretagne",-1.68420412253098,48.1086272758892,"light_rail",1897
+67,"Rue de Paris",-1.66814915436077,48.1124488744441,"light_rail",1897

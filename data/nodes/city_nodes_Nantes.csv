@@ -1,0 +1,269 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Babinière Sud",-1.54055852369908,47.2561323472489,"light_rail",2019
+2,"Gare de la Bourse",-1.56088874217943,47.2111864293489,"default",1879
+3,"Halvêque",-1.520452,47.2572683,"light_rail",1989
+4,"Gare SNCF Nord",-1.5423976,47.2178543,"light_rail",1985
+5,"Ranzay",-1.5303578,47.2532428,"light_rail",2012
+6,"Haluchère-Batignolles",-1.5223692,47.2488449,"light_rail",2012
+7,"Hôpital Bellier",-1.5245255,47.2211974,"light_rail",1985
+8,"Pin Sec",-1.5180544,47.2435643,"light_rail",1985
+9,"Beaujoire",-1.5259933,47.2588237,"light_rail",1989
+10,"Souillarderie",-1.5160712,47.2382914,"light_rail",1985
+11,"Halvêque",-1.5204882,47.2572768,"light_rail",1989
+12,"Moutonnerie",-1.5331341,47.2195619,"light_rail",1985
+13,"Landreau",-1.516109,47.2323156,"light_rail",1985
+14,"Boulevard de Doulon",-1.5200339,47.224447,"light_rail",1985
+15,"Manufacture",-1.5373749,47.21877,"light_rail",1985
+16,"Bouffay",-1.5523589,47.214594,"light_rail",1985
+17,"Gare SNCF Nord",-1.5424016,47.2178802,"light_rail",1985
+18,"Commerce",-1.5560344,47.2135612,"light_rail",1985
+19,"Commerce",-1.556054,47.2135881,"light_rail",1985
+20,"Gare Maritime",-1.5731154,47.2070546,"light_rail",1985
+21,"Mairie de Doulon",-1.5186817,47.2268604,"light_rail",0
+22,"Beaujoire",-1.5259974,47.2587969,"light_rail",1989
+23,"Landreau",-1.5161476,47.2323215,"light_rail",1985
+24,"Boulevard de Doulon",-1.5199951,47.2244406,"light_rail",1985
+25,"Ranzay",-1.530349,47.2532682,"light_rail",2012
+26,"Haluchère-Batignolles",-1.5229081,47.2491427,"light_rail",2012
+27,"Pin Sec",-1.5180951,47.2435588,"light_rail",1985
+28,"Bouffay",-1.5523453,47.2145651,"light_rail",1985
+29,"Souillarderie",-1.5160372,47.2382967,"light_rail",1985
+30,"Hôpital Bellier",-1.5245007,47.2211736,"light_rail",1985
+31,"Beaujoire",-1.5245783,47.2588182,"light_rail",1989
+32,"Chantiers Navals",-1.56757,47.2088876,"light_rail",1985
+33,"Duchesse Anne - Château",-1.547301,47.216242,"light_rail",1985
+34,"Médiathèque",-1.5608806,47.2111448,"light_rail",1985
+35,"Moutonnerie",-1.5331469,47.2195909,"light_rail",1985
+36,"Manufacture",-1.5373632,47.2187475,"light_rail",1985
+37,"Duchesse Anne - Château",-1.5473212,47.2162654,"light_rail",1985
+38,"Médiathèque",-1.5608619,47.2111213,"light_rail",1985
+39,"Chantiers Navals",-1.567552,47.2088633,"light_rail",1985
+40,"Égalité",-1.5886318,47.2093441,"light_rail",1985
+41,"Du Chaffault",-1.5818067,47.207577,"light_rail",1985
+42,"Croix Bonneau",-1.5954404,47.2096313,"light_rail",2000
+43,"Jamet",-1.6030561,47.2100742,"light_rail",1985
+44,"Mendès France - Bellevue",-1.6114847,47.2087267,"light_rail",1985
+45,"Romain Rolland",-1.5483077419548,47.1918745999465,"light_rail",2000
+46,"Mairie de Doulon",-1.6097185,47.2067013,"light_rail",1985
+47,"Gare Maritime",-1.5186443,47.2268522,"light_rail",1985
+48,"Schœlcher",-1.5731296,47.2070848,"light_rail",2000
+49,"Du Chaffault",-1.6280357,47.220524,"light_rail",1985
+50,"Jean Moulin",-1.5818224,47.2075514,"light_rail",2000
+51,"Égalité",-1.6002397,47.2069495,"light_rail",1985
+52,"Croix Bonneau",-1.5886155,47.2093675,"light_rail",2000
+53,"Saint-Mihiel",-1.5954459,47.2096611,"light_rail",1994
+54,"Jamet",-1.5534239,47.2233118,"light_rail",1985
+55,"Romanet",-1.6030623,47.2100469,"light_rail",2000
+56,"Mendès France - Bellevue",-1.6090278,47.2116828,"light_rail",1985
+57,"Romain Rolland",-1.6115233,47.2087383,"light_rail",2000
+58,"Tourmaline",-1.6097724,47.2066579,"light_rail",2000
+59,"Lauriers",-1.6326555,47.2214339,"light_rail",2000
+60,"Neruda",-1.6049684,47.2047949,"light_rail",2000
+61,"Frachon",-1.6137088,47.2176442,"light_rail",2000
+62,"Motte Rouge",-1.6205809,47.2190736,"light_rail",1994
+63,"François Mitterrand",-1.5541112,47.2278199,"light_rail",2000
+64,"Tertre",-1.6382404,47.2220783,"light_rail",2000
+65,"Place du Cirque",-1.6081559,47.2145715,"light_rail",1992
+66,"Place du Cirque",-1.5570584,47.216823,"light_rail",1992
+67,"Saint-Félix",-1.557018,47.2168328,"light_rail",1994
+68,"Lauriers",-1.5565791,47.2313874,"light_rail",2000
+69,"François Mitterrand",-1.6050016,47.2047466,"light_rail",2000
+70,"Jean Moulin",-1.6382339,47.2221129,"light_rail",2000
+71,"Schœlcher",-1.6002711,47.2069704,"light_rail",2000
+72,"Tertre",-1.6280205,47.2205559,"light_rail",2000
+73,"Romanet",-1.6081158,47.2145942,"light_rail",2000
+74,"Cinquante Otages",-1.6090651,47.2116944,"light_rail",1992
+75,"Neruda",-1.5557777,47.2199823,"light_rail",2000
+76,"Frachon",-1.6137243,47.2176187,"light_rail",2000
+77,"Cinquante Otages",-1.620567,47.2191005,"light_rail",1992
+78,"Saint-Mihiel",-1.5558123,47.2200009,"light_rail",1994
+79,"Tourmaline",-1.5533813,47.2233138,"light_rail",2000
+80,"Facultés",-1.6326468,47.2214632,"light_rail",1994
+81,"Motte Rouge",-1.5552061,47.2457374,"light_rail",1994
+82,"Recteur Schmitt",-1.5541378,47.2278446,"light_rail",1994
+83,"Boissière",-1.5528849,47.2520393,"light_rail",1994
+84,"Facultés",-1.565855,47.255098,"light_rail",1994
+85,"Michelet Sciences",-1.5552345,47.245761,"light_rail",1994
+86,"Recteur Schmitt",-1.5566101,47.2351732,"light_rail",1994
+87,"Bourgeonnière",-1.5528665,47.2520596,"light_rail",1994
+88,"Bourgeonnière",-1.5597979,47.2532522,"light_rail",1994
+89,"Le Cardo",-1.559808,47.253192,"light_rail",1994
+90,"Orvault Grand Val",-1.5842318,47.2618076,"light_rail",1994
+91,"Boissière",-1.5921889,47.261861,"light_rail",1994
+92,"Michelet Sciences",-1.5659419,47.2550907,"light_rail",1994
+93,"Morrhonnière Petit Port",-1.5565715,47.2351724,"light_rail",1994
+94,"École Centrale Audencia",-1.5564799,47.2414965,"light_rail",1994
+95,"École Centrale Audencia",-1.5512162,47.2486403,"light_rail",1994
+96,"Chêne des Anglais",-1.5512448,47.2486526,"light_rail",1994
+97,"Santos Dumont",-1.573276,47.2614401,"light_rail",1994
+98,"Chêne des Anglais",-1.5681223,47.2594852,"light_rail",1994
+99,"Orvault Grand Val",-1.5732797,47.2614112,"light_rail",1994
+100,"Saint-Félix",-1.5921998,47.2618298,"light_rail",1994
+101,"Morrhonnière Petit Port",-1.55152972340207,47.189342754834,"light_rail",1994
+102,"René Cassin",-1.5564919,47.2313874,"light_rail",1994
+103,"Santos Dumont",-1.5564439,47.2414944,"light_rail",1994
+104,"René Cassin",-1.5761902,47.2642009,"light_rail",1994
+105,"Le Cardo",-1.5681639,47.2594664,"light_rail",1994
+106,"Bretagne",-1.5761958,47.2642295,"light_rail",2000
+107,"Bignon",-1.5842579,47.2618281,"light_rail",2009
+108,"Jean Jaurès",-1.5584045,47.2172282,"light_rail",2000
+109,"Alexandre Vincent Sainte-Thérèse",-1.5978674,47.2492395,"light_rail",2000
+110,"Viarme-Talensac",-1.5603488,47.2186059,"light_rail",2000
+111,"Poitou",-1.5653863,47.2242675,"light_rail",2000
+112,"Plaisance",-1.577599,47.2328526,"light_rail",2000
+113,"Félix Faure",-1.5626702,47.2213549,"light_rail",2000
+114,"Longchamp",-1.5654719,47.2242474,"light_rail",2000
+115,"Rond-Point de Vannes",-1.5912789,47.240168,"light_rail",2000
+116,"Ferrière",-1.5695865,47.2270997,"light_rail",2009
+117,"Jean Rostand",-1.582405,47.2349843,"light_rail",2009
+118,"Marcel Paul",-1.5727424,47.2299239,"light_rail",2009
+119,"Orvault Morlière",-1.5916305,47.2432435,"light_rail",2009
+120,"Beauséjour",-1.5938701,47.2460344,"light_rail",2000
+121,"Marcel Paul",-1.616285,47.2459428,"light_rail",2009
+122,"Jean Jaurès",-1.6033047,47.2469703,"light_rail",2000
+123,"Alexandre Vincent Sainte-Thérèse",-1.5871848,47.2382112,"light_rail",2000
+124,"Bretagne",-1.6163266,47.2458998,"light_rail",2000
+125,"Viarme-Talensac",-1.5603807,47.2185819,"light_rail",2000
+126,"Poitou",-1.5776192,47.2328325,"light_rail",2000
+127,"Longchamp",-1.5583768,47.2172528,"light_rail",2000
+128,"Félix Faure",-1.5626962,47.2213408,"light_rail",2000
+129,"Plaisance",-1.5823534,47.2350364,"light_rail",2000
+130,"Sillon de Bretagne",-1.5695179,47.227138,"light_rail",2009
+131,"Beauséjour",-1.5912553,47.2401825,"light_rail",2000
+132,"Ferrière",-1.6086468,47.2456093,"light_rail",2009
+133,"Orvault Morlière",-1.5872074,47.2381886,"light_rail",2009
+134,"Bignon",-1.5915449,47.2432175,"light_rail",2009
+135,"Jean Rostand",-1.6033359,47.2469937,"light_rail",2009
+136,"Rond-Point de Vannes",-1.5979004,47.2492193,"light_rail",2000
+137,"Sillon de Bretagne",-1.5939497,47.2460454,"light_rail",2009
+138,"Gare de Pont-Rousseau",-1.5728681,47.2299459,"light_rail",2007
+139,"Neustrie",-1.6086233,47.2455819,"light_rail",2007
+140,"Pont-Rousseau Martyrs",-1.5490435,47.1929443,"default",0
+141,"Les Couëts",-1.5927838,47.1772888,"light_rail",2007
+142,"Pont-Rousseau Martyrs",-1.5482973,47.1918898,"default",0
+143,"Trocardière",-1.5864833,47.1807902,"light_rail",2007
+144,"Gare de Pont-Rousseau",-1.5482761,47.1918639,"light_rail",2007
+145,"Trocardière",-1.5700377,47.1832467,"light_rail",1994
+146,"Grande Ouche",-1.5490347,47.19297,"light_rail",2007
+147,"Gare de Pont-Rousseau",-1.57003766495598,47.1832470199207,"light_rail",2007
+148,"8 Mai",-1.5794788,47.1813519,"default",0
+149,"8 Mai",-1.5490143,47.1930311,"default",0
+150,"Pirmil",-1.5515294,47.1893905,"light_rail",1992
+151,"Wattignies",-1.5514936,47.1893709,"light_rail",1992
+152,"Pirmil",-1.5427621,47.1962006,"light_rail",1992
+153,"Hôtel-Dieu",-1.5464695,47.2039729,"light_rail",1992
+154,"Commerce",-1.5427418,47.1961681,"light_rail",1992
+155,"Trocardière",-1.553317,47.2118608,"light_rail",1994
+156,"Grande Ouche",-1.5559482,47.2146437,"light_rail",2007
+157,"Neustrie",-1.57000269023558,47.1831832446309,"light_rail",2007
+158,"Hôtel-Dieu",-1.579476,47.1813195,"light_rail",1992
+159,"Les Couëts",-1.5927654,47.1772626,"light_rail",2007
+160,"Commerce",-1.5532795,47.2118736,"light_rail",2000
+161,"Trocardière",-1.5864471,47.1807296,"light_rail",2007
+162,"Romanet",-1.5557642,47.2143743,"light_rail",1985
+163,"Aimé Delrue",-1.5700035,47.1831824,"light_rail",1992
+164,"Vincent Gâche",-1.60867691510461,47.2106950846272,"light_rail",1992
+165,"Mangin",-1.5502759,47.2091247,"light_rail",1992
+166,"Wattignies",-1.5483321,47.2064976,"light_rail",1992
+167,"Mangin",-1.5451031,47.2017387,"light_rail",1992
+168,"Vincent Gâche",-1.5465108,47.2039569,"light_rail",1992
+169,"Aimé Delrue",-1.5450604,47.201749,"light_rail",1992
+170,"Château de Rezé F. Mitterrand",-1.5482949,47.2065144,"light_rail",2007
+171,"Pont Rousseau",-1.5502372,47.2091452,"light_rail",1994
+172,"8 Mai",-1.55953446080042,47.1847556371972,"light_rail",2007
+173,"Balinière",-1.55392661239281,47.1861330144434,"light_rail",1994
+174,"Trentemoult - Roquios",-1.58228092599012,47.1953905584125,"default",2005
+175,"Port Boyer",-1.54600313509829,47.2420259201661,"default",1997
+176,"Saint-Mihiel",-1.55362038325575,47.2279878671058,"default",2007
+177,"Dépôt de Doulon",-1.53104469321508,47.2243192068472,"default",1879
+178,"Ceineray",-1.55250091271245,47.2213051490956,"default",2005
+179,"Jonelière",-1.53902033243901,47.256931478429,"default",2005
+180,"Gare fluviale",-1.55194265160679,47.2281543083037,"default",2005
+181,"Place du Commerce",-1.55777096660555,47.2132573329921,"default",1879
+182,"Gare Maritime",-1.57223101668993,47.2066834787076,"default",1880
+183,"Usine de tramways de Doulon",-1.529710378424,47.2237228332598,"default",1879
+184,"Hangar à Bananes",-1.52117343455944,47.2481294220861,"default",2020
+185,"Hangar à Bananes",-1.59767285935684,47.2096124854929,"default",2020
+186,"Arbre aux Hérons",-1.58779592810672,47.2090400243593,"default",2023
+187,"Bas Chantenay",-1.60294049079135,47.2100434650301,"default",2020
+188,"Bas Chantenay",-1.54272733913297,47.1961975504319,"default",2020
+189,"Trentemoult aval",-1.54648362259573,47.2039579933077,"default",2022
+190,"Trentemoult aval",-1.55025682712653,47.2091243389974,"default",2022
+191,"Haluchère-Batignolles",-1.55953480730054,47.1847567233623,"commuter_rail",2014
+192,"Haluchère-Batignolles",-1.55153041988947,47.1893426554295,"commuter_rail",2014
+193,"Nantes",-1.54827413784608,47.2064709312851,"commuter_rail",2014
+194,"Babinière",-1.55594848362151,47.2146440055815,"commuter_rail",2014
+195,"Babinière",-1.54506096976564,47.2016990015267,"commuter_rail",2014
+196,"Erdre Active",-1.54503636668835,47.2136565915204,"commuter_rail",2014
+197,"Erdre Active",-1.5483070353018,47.1918746262126,"commuter_rail",2014
+198,"La Chapelle - Aulnay",-1.55392970483666,47.1861343889899,"commuter_rail",2014
+199,"Sucé-sur-Erdre",-1.56254043835961,47.1844436750184,"commuter_rail",2014
+200,"Nort-sur-Erdre",-1.56254158781502,47.1844441312288,"commuter_rail",2014
+201,"Nort-sur-Erdre",-1.54272826318325,47.1961977232746,"commuter_rail",2014
+202,"Abbaretz",-1.53355854032301,47.1996605426974,"commuter_rail",2014
+203,"Issé",-1.54065057721922,47.2083132859012,"commuter_rail",2014
+204,"Issé",-1.55039373134832,47.2193108086302,"commuter_rail",2014
+205,"Châteaubriant Tram-Train",-1.54691209712703,47.216148816743,"commuter_rail",2014
+206,"Châteaubriant Tram-Train",-1.53126910308217,47.1968647726761,"commuter_rail",2014
+207,"Saint-Sébastien Frêne Rond",-1.53710150167601,47.2039787481574,"commuter_rail",2011
+208,"Saint-Sébastien Frêne Rond",-1.52555724370248,47.1901477881188,"commuter_rail",2011
+209,"Vertou",-1.52910105672765,47.1942146878506,"commuter_rail",2011
+210,"Vertou",-1.52102860159124,47.1872253322836,"commuter_rail",2011
+211,"La Haie Fouassière",-1.51710389626882,47.1896160225009,"commuter_rail",2011
+212,"La Haie Fouassière",-1.5115631779644,47.1892512534274,"commuter_rail",2011
+213,"Le Pallet",-1.51067180756789,47.1847792351069,"commuter_rail",2011
+214,"Le Pallet",-1.5388001688188,47.2060402411461,"commuter_rail",2011
+215,"Gorges",-1.50511363565207,47.1808516172757,"commuter_rail",2011
+216,"Gorges",-1.55332134165252,47.211868961465,"commuter_rail",2011
+217,"Clisson",-1.59277312432735,47.1772754022487,"commuter_rail",2011
+218,"Clisson",-1.55576439457173,47.2143742049454,"commuter_rail",2011
+219,"Saint-Sébastien Pas Enchantés",-1.57304129293649,47.2057240457617,"commuter_rail",2011
+220,"Saint-Sébastien Pas Enchantés",-1.54754300247211,47.2431295984912,"commuter_rail",2011
+221,"Haluchère",-1.54345468220563,47.2155325977999,"light_rail",1985
+222,"Croix Bonneau",-1.54287056533079,47.2178201733815,"light_rail",1985
+223,"Égalité",-1.54889716896133,47.2345904858108,"light_rail",1985
+224,"Jamet",-1.56925224634494,47.2063738543453,"light_rail",2007
+225,"Pirmil",-1.55947007282015,47.204242734359,"light_rail",2007
+226,"Wattignies",-1.55884194078948,47.2125281427544,"light_rail",2007
+227,"Aimé Delrue",-1.57425422622194,47.1992958714181,"light_rail",2007
+228,"Château de Rezé F. Mitterrand",-1.57838194601879,47.1997305958727,"light_rail",1994
+229,"8 Mai",-1.59208905388976,47.1946309766558,"light_rail",1994
+230,"Vincent Gâche",-1.58933813688378,47.1930265763693,"light_rail",2007
+231,"Commerce",-1.5222901,47.2489129,"light_rail",2000
+232,"Mangin",-1.522776,47.2492415,"light_rail",2007
+233,"Cité internationale des congrès",-1.54139,47.2168854,"brt",2006
+234,"Pont-Rousseau Martyrs",-1.5404384,47.2178008,"light_rail",2007
+235,"Balinière",-1.5404493,47.2178317,"light_rail",2007
+236,"Espace Diderot",-1.5404095,47.2177196,"light_rail",1994
+237,"Espace Diderot",-1.5414038,47.2169146,"light_rail",2007
+238,"Pirmil",-1.5403989,47.2176897,"light_rail",1994
+239,"Grèneraie",-1.541609,47.2173487,"brt",2006
+240,"Tripode",-1.5414456,47.2170031,"brt",2006
+241,"Foch-Cathédrale",-1.54146,47.2170336,"brt",2006
+242,"Duchesse Anne - Château",-1.5415196,47.2171595,"brt",2006
+243,"Bonne Garde",-1.5303495,47.3430003,"brt",2006
+244,"Beaulieu",-1.541537,47.2171964,"brt",2006
+245,"Mauvoisins",-1.5416235,47.2173794,"brt",2006
+246,"Clos Toreau",-1.4508732,47.6268488,"brt",2006
+247,"Bourdonnières",-1.5413381,47.2167598,"brt",2006
+248,"Joliverie",-1.5033523,47.4419222,"brt",2006
+249,"Chapeau Verni",-1.5449184,47.258815,"brt",2006
+250,"Maraîchers",-1.5449735,47.2587996,"brt",2006
+251,"Île de Nantes",-1.5446818,47.2830058,"brt",2006
+252,"Porte de Vertou",-1.5034037,47.4419237,"brt",2006
+253,"Hôtel-Dieu",-1.5446393,47.2830213,"light_rail",2000
+254,"Neustrie",-1.5480508,47.2975954,"light_rail",2007
+255,"Commerce",-1.5480056,47.2975918,"light_rail",1992
+256,"Gare Maritime",-1.5244159,47.5546432,"default",2005
+257,"Petit Port Facultés",-1.5414844,47.3087224,"default",1997
+258,"Gare S.N.C.F. Sud",-1.3714532,47.7170797,"default",2006
+259,"Gare de Nantes - Anjou",-1.4509282,47.6268994,"default",1879
+260,"Tortière",-1.3713826,47.7170764,"default",2005
+261,"Ponton des Chantiers",-1.4957336,47.1904756,"default",2007
+262,"Gare de l'État",-1.4956913,47.1904855,"default",1888
+263,"Jardin de la Bourse",-1.4780014,47.186027,"default",1879
+264,"Hangar à Bananes",-1.4780028,47.1860627,"brt",2020
+265,"Quai des Antilles",-1.5109338,47.2068791,"brt",2020
+266,"Quai des Antilles",-1.3467773,47.1438981,"brt",2020
+267,"Haubans",-1.3058778,47.1001487,"brt",2020
+268,"Haubans",-1.3063199,47.1004853,"brt",2020

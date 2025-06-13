@@ -1,0 +1,73 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Université",7.31518,47.7335153,"light_rail",2006
+2,"Palais des Sports",7.3192846,47.7374804,"light_rail",2006
+3,"Illberg",7.3104628,47.7321343,"light_rail",2006
+4,"Nations",7.3014066,47.7363163,"light_rail",2006
+5,"Coteaux",7.297603,47.7349079,"light_rail",2006
+6,"Bel Air",7.3040548,47.7332691,"light_rail",2006
+7,"Bel Air",7.3040447,47.7333283,"light_rail",2006
+8,"Université",7.3150966,47.7335337,"light_rail",2006
+9,"Nations",7.301338,47.7363556,"light_rail",2006
+10,"Coteaux",7.2975357,47.7348725,"light_rail",2006
+11,"Palais des Sports",7.3192467,47.7374878,"light_rail",2006
+12,"Illberg",7.3103712,47.7321231,"light_rail",2006
+13,"Daguerre",7.3243916,47.7425359,"light_rail",2006
+14,"Daguerre",7.3172447,47.7434198,"light_rail",2006
+15,"Daguerre",7.3168405,47.7436692,"commuter_rail",2006
+16,"Daguerre",7.3243248,47.7425362,"light_rail",2006
+17,"Daguerre",7.3354873,47.7493034,"light_rail",2006
+18,"Daguerre",7.3403456,47.74947,"commuter_rail",2006
+19,"Mairie",7.3318381,47.7466184,"light_rail",2006
+20,"Mairie",7.3374253,47.7525359,"light_rail",2006
+21,"Mairie",7.3286264,47.7450641,"commuter_rail",2006
+22,"Porte Haute",7.335566,47.7492857,"light_rail",2006
+23,"Porte Haute",7.3400086,47.7495889,"light_rail",2006
+24,"Porte Haute",7.3318742,47.7465908,"commuter_rail",2006
+25,"Tour Nessel",7.3360393,47.7562853,"light_rail",2006
+26,"Tour Nessel",7.3286489,47.7450366,"light_rail",2006
+27,"Tour Nessel",7.3457765,47.7525817,"commuter_rail",2006
+28,"Mairie",7.3480486,47.7563294,"light_rail",2006
+29,"Mairie",7.350892,47.7595131,"light_rail",2006
+30,"Mairie",7.3481109,47.7563367,"commuter_rail",2006
+31,"Porte Haute",7.3413752,47.7460356,"light_rail",2006
+32,"Porte Haute",7.3321947,47.760324,"light_rail",2006
+33,"Porte Haute",7.3373826,47.7524625,"commuter_rail",2006
+34,"Tour Nessel",7.3360271,47.756208,"light_rail",2006
+35,"Tour Nessel",7.3321713,47.7604066,"light_rail",2006
+36,"Tour Nessel",7.3257367,47.7628218,"commuter_rail",2006
+37,"Porte Jeune",7.3403537,47.749536,"light_rail",2006
+38,"Porte Jeune",7.3295218,47.7731054,"light_rail",2006
+39,"Porte Jeune",7.3219682,47.7674346,"light_rail",2006
+40,"Porte Jeune",7.3211542,47.7699067,"commuter_rail",2006
+41,"Porte Jeune",7.3219549,47.7673784,"light_rail",2006
+42,"Porte Jeune",7.3400164,47.7496532,"light_rail",2006
+43,"Porte Jeune",7.3413292,47.7460139,"light_rail",2006
+44,"Porte Jeune",7.325504,47.7709691,"commuter_rail",2006
+45,"République",7.3458494,47.7525767,"light_rail",2006
+46,"République",7.3509912,47.7595625,"light_rail",2006
+47,"République",7.3257784,47.7628396,"commuter_rail",2006
+48,"République",7.3211249,47.7697968,"light_rail",2006
+49,"République",7.3092696,47.7462709,"light_rail",2006
+50,"République",7.3294567,47.7731049,"commuter_rail",2006
+51,"Gare Centrale",7.3256214,47.7709699,"light_rail",2009
+52,"Gare Centrale",7.3431159,47.7428749,"commuter_rail",2009
+53,"Gare Centrale",7.3288397,47.7768391,"light_rail",2006
+54,"Nordfeld",7.3088896,47.7464858,"light_rail",2006
+55,"Nordfeld",7.3287963,47.7768178,"light_rail",2006
+56,"Lefebvre",7.2982696,47.7502463,"light_rail",2006
+57,"Lefebvre",7.3431727,47.7428272,"light_rail",2006
+58,"Nouveau Bassin",7.2986723,47.7500312,"light_rail",2006
+59,"Nouveau Bassin",7.2764899,47.7580768,"light_rail",2006
+60,"Grand Rex",7.2764215,47.7580319,"light_rail",2006
+61,"Grand Rex",7.2247805,47.7808089,"light_rail",2006
+62,"Cité Administrative",7.1736592,47.8017403,"light_rail",2006
+63,"Cité Administrative",7.2248085,47.7808371,"light_rail",2006
+64,"Musée de l'Auto",7.1736641,47.8017761,"light_rail",2006
+65,"Musée de l'Auto",7.1326149,47.8020956,"light_rail",2006
+66,"Doller",7.1326003,47.802065,"light_rail",2006
+67,"Doller",7.1194723,47.8057818,"light_rail",2006
+68,"Stade de Bourtzwiller",7.1070794,47.809036,"light_rail",2006
+69,"Rattachement",7.09348,47.8133343,"light_rail",2006
+70,"Stade de Bourtzwiller",7.1070899,47.8090694,"light_rail",2006
+71,"Rattachement",7.1010456,47.8099878,"light_rail",2006
+72,"Saint-Nazaire",7.0934475,47.8132684,"light_rail",2006

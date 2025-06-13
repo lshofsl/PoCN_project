@@ -1,0 +1,121 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Central",-43.293781645963,-22.8954920202385,"light_rail",2017
+2,"Central",-43.230306505728,-22.9786644801324,"light_rail",2017
+3,"Santa Rita",-43.1754190096897,-22.9108641751641,"light_rail",2019
+4,"Santos Dumont",-43.1720359732811,-22.9112596868056,"light_rail",2016
+5,"Cinelândia",-43.1675183108144,-22.9123078611246,"light_rail",2016
+6,"Antônio Carlos",-43.2082133951377,-22.9029450921313,"light_rail",2016
+7,"Carioca",-43.1775530885456,-22.9051091912709,"light_rail",2016
+8,"Sete de Setembro",-43.1767239989527,-22.9073532880701,"light_rail",2016
+9,"Candelária",-43.1798950365832,-22.8988228648445,"light_rail",2016
+10,"São Bento",-43.1820030575979,-22.8959034322261,"light_rail",2016
+11,"Parada dos Museus",-43.1871274518402,-22.8941592747064,"light_rail",2016
+12,"Parada dos Navios",-43.1902978438775,-22.8930671029219,"light_rail",2016
+13,"Utopia/AquaRio",-43.178886043254,-22.9015338856138,"light_rail",2016
+14,"Candelária",-43.1729622763236,-22.9019834492444,"light_rail",2016
+15,"Sete de Setembro",-43.1778943112915,-22.9050837292681,"light_rail",2016
+16,"Carioca",-43.1827288091551,-22.9065292862966,"light_rail",2016
+17,"Cinelândia",-43.1875175843692,-22.9056038617198,"light_rail",2016
+18,"Antônio Carlos",-43.166987834865,-22.9557860620634,"light_rail",2016
+19,"Santos Dumont",-43.1650828406991,-22.951686874556,"light_rail",2016
+20,"Praça XV",-43.1637794236434,-22.9511329207655,"light_rail",2017
+21,"Colombo",-43.1567008665057,-22.9496187686785,"light_rail",2017
+22,"Tiradentes",-43.2382699,-22.9309412,"light_rail",2017
+23,"",-43.2061360212954,-22.9087419761445,"default",1912
+24,"",-43.1767129,-22.9206456,"default",1912
+25,"",-43.2065639,-22.9135438,"default",1913
+26,"",-43.2449358,-22.8964547,"default",1913
+27,"Uruguai",-43.260399,-22.8815393,"heavy_rail",2014
+28,"Cidade Nova",-43.2235819,-22.920772,"heavy_rail",2010
+29,"Maracanã",-43.1907819,-22.9050384,"heavy_rail",1981
+30,"São Cristóvão",-43.2177451,-22.9184484,"heavy_rail",1981
+31,"Glória",-43.1765838,-22.9263263,"heavy_rail",1979
+32,"Catete",-43.1842154,-22.9503628,"heavy_rail",1981
+33,"Botafogo",-43.3655335,-22.8063663,"heavy_rail",1981
+34,"São Francisco Xavier",-43.200283,-22.909917,"heavy_rail",1982
+35,"Afonso Pena",-43.1861796,-22.903341,"heavy_rail",1982
+36,"Central",-43.1818193,-22.9029089,"heavy_rail",1979
+37,"Praça Onze",-43.178026,-22.9075413,"heavy_rail",1979
+38,"Carioca",-43.1756533,-22.9109063,"heavy_rail",1981
+39,"Flamengo",-43.1781402,-22.9308513,"heavy_rail",1981
+40,"Largo do Machado",-43.2325924,-22.924141,"heavy_rail",1981
+41,"Cinelândia",-43.1782113,-22.9381724,"heavy_rail",1979
+42,"Saens Peña",-43.2724203556205,-22.8790743066213,"heavy_rail",1982
+43,"Presidente Vargas",-43.283145,-22.8746115,"heavy_rail",1979
+44,"Uruguaiana",-43.2975758,-22.8678968,"heavy_rail",1980
+45,"Pavuna",-43.3068612040534,-22.8626154292385,"heavy_rail",1998
+46,"Saara",-43.3126118063751,-22.8544318362051,"light_rail",2017
+47,"Estácio",-43.3235281,-22.8479804,"heavy_rail",0
+48,"Triagem",-43.3343318,-22.8427042,"heavy_rail",1988
+49,"Maria da Graça",-43.3430470044872,-22.8317763123128,"heavy_rail",1983
+50,"Nova América/Del Castilho",-43.3494432356808,-22.824934832362,"heavy_rail",1983
+51,"Central",-43.3585245719095,-22.8163174351123,"heavy_rail",1979
+52,"Presidente Vargas",-43.181734,-22.9635256,"heavy_rail",1979
+53,"Uruguaiana",-43.1944503,-22.9754703,"heavy_rail",1980
+54,"Carioca",-43.187363,-22.9671783,"heavy_rail",1981
+55,"Cinelândia",-43.1968662982965,-22.9846735417674,"heavy_rail",1979
+56,"Glória",-43.2235693,-22.9844923,"heavy_rail",1979
+57,"Catete",-43.2157299,-22.9837072,"heavy_rail",1981
+58,"Largo do Machado",-43.2066325418928,-22.9841865955252,"heavy_rail",1981
+59,"Flamengo",-43.6138475,-22.912634,"heavy_rail",1981
+60,"Botafogo",-43.5110337,-22.8793213,"heavy_rail",1981
+61,"Inhaúma",-43.4868359,-22.8758425,"heavy_rail",1983
+62,"Thomaz Coelho",-43.4560334,-22.8752282,"heavy_rail",1996
+63,"Vicente de Carvalho",-43.4472726,-22.8750692,"heavy_rail",1996
+64,"Engenho da Rainha",-43.465489,-22.8753398,"heavy_rail",1991
+65,"Irajá",-43.4852563,-22.8757731,"heavy_rail",1998
+66,"Colégio",-43.2549729,-22.9916629,"heavy_rail",1998
+67,"Coelho Neto",-43.3109313,-23.0068286,"heavy_rail",1998
+68,"Acari / Fazenda Botafogo",-43.6839066,-22.9154352,"heavy_rail",1998
+69,"Engenheiro Rubens Paiva",-43.6323888889233,-22.9162396953507,"heavy_rail",1998
+70,"Cardeal Arcoverde",-43.6492571373971,-22.9188785375032,"heavy_rail",1998
+71,"General Osório",-43.5806384,-22.9062009,"heavy_rail",2009
+72,"Cantagalo",-43.5936548,-22.9087224,"heavy_rail",2007
+73,"Siqueira Campos",-43.5370511,-22.8927029,"heavy_rail",2002
+74,"General Osório",-43.6154854,-22.9129941,"heavy_rail",2009
+75,"Jardim Oceânico",-43.5594625,-22.9020999,"heavy_rail",2016
+76,"Santa Cruz",-43.4132521,-22.8679186,"heavy_rail",0
+77,"Paciência",-43.428837,-22.8747306,"heavy_rail",0
+78,"Tancredo Neves",-43.401662,-22.8623302,"heavy_rail",0
+79,"Benjamin do Monte",-43.3843732,-22.8549743,"heavy_rail",0
+80,"Augusto Vasconcelos",-43.336915,-22.8732344,"heavy_rail",0
+81,"Campo Grande",-43.3518454,-22.8546452,"heavy_rail",0
+82,"Magalhães Bastos",-43.3208413,-22.8885718,"heavy_rail",0
+83,"Realengo",-43.3502319466311,-22.8691221067428,"heavy_rail",0
+84,"Vila Militar",-43.1924342552142,-22.9028324844406,"heavy_rail",0
+85,"Antero de Quental",-43.1815457876644,-22.9006142658864,"heavy_rail",2016
+86,"Jardim de Alah",-43.1853635318103,-22.9022147715909,"heavy_rail",2016
+87,"Nossa Senhora da Paz",-43.1996451500594,-22.8990214895332,"heavy_rail",2016
+88,"São Conrado",-43.1907270291101,-22.9032927477502,"heavy_rail",2016
+89,"Cosmos",-43.2077400190692,-22.8990707898172,"heavy_rail",0
+90,"Santíssimo",-43.2003816678262,-22.8953333948226,"heavy_rail",0
+91,"Senador Camará",-43.2048952396074,-22.8979013749206,"heavy_rail",0
+92,"Guilherme da Silveira",-43.2045149831336,-22.8971959235223,"heavy_rail",0
+93,"Mocidade de Padre Miguel",-43.2019300584518,-22.8966973550349,"heavy_rail",0
+94,"Bangu",-43.1971560461164,-22.8942640318355,"heavy_rail",0
+95,"Camerino",-43.1995634430405,-22.8979201534564,"light_rail",2019
+96,"Duque de Caxias",-43.1966262407971,-22.8974861405283,"light_rail",2019
+97,"Duque de Caxias",-43.1913674357003,-22.8957487795062,"light_rail",2019
+98,"Praia Formosa",-43.1720081212812,-22.9026342657501,"light_rail",2017
+99,"Praia Formosa",-43.1246231063315,-22.8938609231926,"light_rail",2017
+100,"Rodoviária",-43.0993798175337,-22.9321130834512,"light_rail",2016
+101,"Rodoviária",-43.2344437,-22.9096861,"light_rail",2016
+102,"Equador",-43.1920109082936,-22.9037157784975,"light_rail",2016
+103,"Equador",-43.2209965,-22.9096837,"light_rail",2016
+104,"Cordeiro da Graça",-43.2131673986135,-22.9098218678244,"light_rail",2016
+105,"Cordeiro da Graça",-43.2445083264407,-22.8964727162292,"light_rail",2016
+106,"Vila Olímpica",-43.2507579917313,-22.8796379468274,"light_rail",2017
+107,"Pereira Reis",-43.2539576056074,-22.8865173348547,"light_rail",2016
+108,"Pereira Reis",-43.3982497,-22.83946,"light_rail",2016
+109,"Santo Cristo",-43.4034919,-22.8241638,"light_rail",2016
+110,"Santo Cristo",-43.3984098,-22.8412057,"light_rail",2016
+111,"Cidade do Samba",-43.4029138,-22.8246214,"light_rail",2016
+112,"Gamboa",-43.4102424,-22.8168833,"light_rail",2016
+113,"Gamboa",-43.4151527,-22.8085144,"light_rail",2016
+114,"Providência",-43.4144586,-22.8095612,"light_rail",2017
+115,"Harmonia",-43.4097176,-22.8181497,"light_rail",2017
+116,"Praça XV",-43.422591,-22.7962971,"ferry",0
+117,"Praça XV",-43.4226244,-22.7963431,"ferry",0
+118,"Praça XV",-43.6528919,-22.6444876,"ferry",0
+119,"Praça XV",-43.6529159,-22.6445152,"ferry",0
+120,"Araribóia",-43.6542293,-22.6438419,"ferry",0

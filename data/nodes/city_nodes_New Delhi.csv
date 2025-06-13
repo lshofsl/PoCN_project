@@ -1,0 +1,286 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Jawaharlal Nehru Stadium",77.2505385,28.6684554,"heavy_rail",2010
+2,"Jangpura",77.206399,28.6981065,"heavy_rail",2010
+3,"Khan Market",77.2861306,28.702422,"heavy_rail",2010
+4,"Janpath",77.2797342,28.6920791,"heavy_rail",2017
+5,"Jama Masjid",77.2748559,28.6827201,"heavy_rail",2017
+6,"Mandi House",77.2769679,28.6723718,"heavy_rail",2017
+7,"Lal Quila",77.2848996,28.6647329,"heavy_rail",2017
+8,"Delhi Gate",77.2902379,28.6578345,"heavy_rail",2017
+9,"ITO",77.2291415,28.6022643,"heavy_rail",2017
+10,"Kashmere Gate",77.2338082,28.5882486,"heavy_rail",2017
+11,"Krishna Nagar",77.2393458,28.5830411,"heavy_rail",2018
+12,"East Azad Nagar",77.2192877,28.6240472,"heavy_rail",2018
+13,"Welcome (Pink Line)",77.234191,28.6254928,"heavy_rail",2018
+14,"Jaffrabad",77.2410728,28.6281909,"heavy_rail",2018
+15,"Maujpur-Babarpur",77.2147075,28.6950097,"heavy_rail",2018
+16,"Gokulpuri",77.2408097,28.6392211,"heavy_rail",2018
+17,"Johri Enclave",77.2376857,28.6500446,"heavy_rail",2018
+18,"Shiv Vihar",77.0929722,28.4875413,"heavy_rail",2018
+19,"Karkarduma Court",77.0969288,28.4574227,"heavy_rail",2018
+20,"Shastri Park",77.1004409,28.4463789,"heavy_rail",2002
+21,"Sikandarpur RMRG Station",77.1048838,28.432977,"heavy_rail",2013
+22,"DLF Phase 2",77.2092708,28.5741693,"heavy_rail",2013
+23,"Vodafone Belvedere Towers",77.212503,28.5865988,"heavy_rail",2013
+24,"IndusInd Bank Cyber City",77.2110668,28.5973456,"heavy_rail",2013
+25,"Micromax Moulsari Avenue",77.2117641,28.6095152,"heavy_rail",2013
+26,"DLF Phase 3",77.2249956,28.6297527,"heavy_rail",2013
+27,"DLF Phase 1",77.2196877,28.6327591,"heavy_rail",2017
+28,"Sector 42-43",77.2341954,28.6255914,"heavy_rail",2017
+29,"Sector 53-54",77.2957814,28.6536406,"heavy_rail",2017
+30,"Sector 54 Chowk",77.2894834,28.7214306,"heavy_rail",2017
+31,"Sector 55–56",77.2901557,28.7128868,"heavy_rail",2017
+32,"HUDA City Centre",77.0944203,28.4809994,"heavy_rail",2010
+33,"IFFCO Chowk Metro Station",77.0939371,28.4714259,"heavy_rail",2010
+34,"MG Road",77.0726383,28.4593643,"heavy_rail",2010
+35,"Sikandarpur",77.0723912,28.472324,"heavy_rail",2010
+36,"Guru Dronacharya",77.0798784,28.4795882,"heavy_rail",2010
+37,"Arjan Garh",77.0929927,28.4812957,"heavy_rail",2010
+38,"Ghitorni",77.102264,28.4820507,"heavy_rail",2010
+39,"Sultanpur",77.1257454,28.4807575,"heavy_rail",2010
+40,"Chhatarpur",77.2192419,28.6327955,"heavy_rail",2010
+41,"Qutub Minar",77.0881318,28.4917023,"heavy_rail",2010
+42,"Saket",77.0891604,28.4980613,"heavy_rail",2010
+43,"Malviya Nagar",77.0946306,28.5007775,"heavy_rail",2010
+44,"Hauz Khas",77.093661,28.4935677,"heavy_rail",2010
+45,"Green Park",77.1051863,28.4232967,"heavy_rail",2010
+46,"All India Institute of Medical Sciences",77.1491706,28.4937759,"heavy_rail",2010
+47,"INA (Yellow Line)",77.1618748,28.4993367,"heavy_rail",2010
+48,"Jor Bagh",77.1749775,28.5067403,"heavy_rail",2010
+49,"Lok Kalyan Marg",77.1864348,28.5129724,"heavy_rail",2010
+50,"Udyog Bhavan",77.2026333,28.5215434,"heavy_rail",2010
+51,"Central Secretariat",77.2047957,28.529057,"heavy_rail",2005
+52,"Patel Chok",77.2066794,28.5442626,"heavy_rail",2005
+53,"Rajiv Chowk",77.206761,28.5580108,"heavy_rail",2005
+54,"New Delhi",77.2077737,28.5668673,"heavy_rail",2005
+55,"Chawri Bazaar",77.2140067,28.6229815,"heavy_rail",2005
+56,"Chandni Chowk",77.2227137,28.6434908,"heavy_rail",2005
+57,"Kashmere Gate",77.2264893,28.6492758,"heavy_rail",2004
+58,"Civil Lines",77.212252,28.615882,"heavy_rail",2004
+59,"Vidhan Sabha",77.4157409457525,28.6705953330473,"heavy_rail",2004
+60,"Vishwa Vidyalaya",77.4066491295513,28.6734142054866,"heavy_rail",2004
+61,"GTB Nagar",77.3921640482813,28.6769546229474,"heavy_rail",2009
+62,"Adarsh Nagar",77.3842693671204,28.6785450041998,"heavy_rail",2009
+63,"Azadpur (Yellow Line)",77.3709824365533,28.6782500188961,"heavy_rail",2009
+64,"Model Town",77.3585240045128,28.6776604612142,"heavy_rail",2009
+65,"Jahangirpuri",77.3470149015346,28.6771257997049,"heavy_rail",2009
+66,"Haiderpur",77.3340083066393,28.6766878568282,"heavy_rail",2015
+67,"Samaypur Badli",77.2303051,28.6584232,"heavy_rail",2015
+68,"Rohini Sector 18",77.228162,28.6675033,"heavy_rail",2015
+69,"Dwarka Sector 12",77.224998,28.6768422,"heavy_rail",2006
+70,"Dwarka Sector 13",77.2216975,28.6863183,"heavy_rail",2006
+71,"Dwarka",77.1703991,28.7165652,"heavy_rail",2005
+72,"Dwarka Sector 14",77.1803608,28.7070189,"heavy_rail",2006
+73,"Dwarka Mor",77.1939816,28.7026901,"heavy_rail",2005
+74,"Nawada",77.1626316,28.7259582,"heavy_rail",2005
+75,"Rajouri Garden (Blue Line)",77.1489146,28.7296724,"heavy_rail",2005
+76,"Rajendra Place",77.1382654,28.7446158,"heavy_rail",2005
+77,"Jhandewalan",77.1398323,28.7383477,"heavy_rail",2005
+78,"Tilak Nagar",77.0407464,28.5922515,"heavy_rail",2005
+79,"Uttam Nagar East",77.0335556,28.597025,"heavy_rail",2005
+80,"Janakpuri West",77.0227861,28.6149318,"heavy_rail",2005
+81,"Ramakrishna Ashram Marg",77.0259935,28.602234,"heavy_rail",2005
+82,"Subhash Nagar",77.0332835,28.6192912,"heavy_rail",2005
+83,"Tagore Garden",77.0450835,28.6202562,"heavy_rail",2005
+84,"Janakpuri East",77.0557191,28.6217367,"heavy_rail",2005
+85,"Uttam Nagar West",77.122743,28.6490372,"heavy_rail",2005
+86,"Barakhambha Road",77.1782794,28.6424765,"heavy_rail",2005
+87,"Rajiv Chowk",77.1999053,28.6442998,"heavy_rail",2005
+88,"Dwarka Sector 11",77.096482,28.6365265,"heavy_rail",2006
+89,"Dwarka Sector 10",77.0652972,28.6248301,"heavy_rail",2006
+90,"Dwarka Sector 9",77.0780939,28.6295652,"heavy_rail",2006
+91,"Dwarka Sector 8",77.2085684,28.6392249,"heavy_rail",2010
+92,"Dwarka Sector 21",77.1052347,28.6404628,"heavy_rail",2010
+93,"Delhi Aerocity",77.1128703,28.6437288,"heavy_rail",2011
+94,"Dwarka Sector 21",77.0867273,28.6329889,"heavy_rail",2011
+95,"Mandi House",77.0557081,28.6217769,"heavy_rail",2006
+96,"Indraprastha",77.0494551,28.586462,"heavy_rail",2006
+97,"Pragati Maidan",77.0575146,28.5810731,"heavy_rail",2006
+98,"Yamuna Bank (Blue Line)",77.0653509,28.5742819,"heavy_rail",2009
+99,"Akshardham",77.0670615,28.5656075,"heavy_rail",2009
+100,"Noida City Centre",77.0584649,28.551986,"heavy_rail",2009
+101,"Noida Golf Course",77.1208089,28.5487982,"heavy_rail",2009
+102,"Botanical Garden",77.0586489,28.5518376,"heavy_rail",2009
+103,"Wave Sector-18 Noida",77.2495452,28.6205832,"heavy_rail",2009
+104,"Noida Sector 16",77.2425121,28.6234593,"heavy_rail",2009
+105,"Noida Sector 15",77.2679018,28.6231136,"heavy_rail",2009
+106,"New Ashok Nagar",77.2795258,28.6178791,"heavy_rail",2009
+107,"Mayur Vihar Extension",77.3562496,28.5747852,"heavy_rail",2009
+108,"Mayur Vihar - I (Blue Line)",77.346399,28.5674266,"heavy_rail",2009
+109,"Noida Sector 52",77.3343825,28.5639218,"heavy_rail",2019
+110,"Noida Sector 34",77.3261467,28.5707894,"heavy_rail",2019
+111,"Noida Sector 62",77.3178293,28.5781067,"heavy_rail",2019
+112,"Noida Sector 59",77.3116814,28.5849263,"heavy_rail",2019
+113,"Noida Sector 61",77.3015826,28.5891047,"heavy_rail",2019
+114,"Noida Electronic City",77.2944279,28.5944669,"heavy_rail",2019
+115,"Preet Vihar",77.2895211,28.6040558,"heavy_rail",2010
+116,"Nirman Vihar",77.3730379,28.5868466,"heavy_rail",2010
+117,"Laxmi Nagar",77.3635215,28.5802275,"heavy_rail",2010
+118,"Anand Vihar (Blue Line)",77.3736218,28.6169832,"heavy_rail",2010
+119,"Kaushambi",77.3727211,28.6065246,"heavy_rail",2011
+120,"Karkarduma (Blue Line)",77.372309,28.5975791,"heavy_rail",2010
+121,"Vaishali",77.3750442,28.6282598,"heavy_rail",2011
+122,"Anand Vihar (Pink Line)",77.2952594,28.6414409,"heavy_rail",2018
+123,"IP Extension",77.2867943,28.6364928,"heavy_rail",2018
+124,"Mandawali - West Vinod Nagar",77.277575,28.6305526,"heavy_rail",2018
+125,"East Vinod Nagar - Mayur Vihar - II",77.321573396472,28.6758549058553,"heavy_rail",2018
+126,"Trilokpuri Sanjay Lake",77.3125053536709,28.6757515413493,"heavy_rail",2018
+127,"Karkarduma (Pink Line)",77.3009505787249,28.6754160015369,"heavy_rail",2018
+128,"Yamuna Bank (Blue Line)",77.2899891895216,28.6734848976288,"heavy_rail",2010
+129,"Madipur",77.2777771286906,28.6717580625649,"heavy_rail",2010
+130,"Shivaji Park",77.2668121058879,28.6698484763932,"heavy_rail",2010
+131,"Paschim Vihar East",77.316053,28.6468919,"heavy_rail",2010
+132,"Paschim Vihar West",77.3243485,28.6453286,"heavy_rail",2010
+133,"Rajdhani Park",77.305527,28.6484435,"heavy_rail",2010
+134,"Nangloi",77.3395582,28.6497109,"heavy_rail",2010
+135,"Surajmal Stadium",77.3088799,28.6134349,"heavy_rail",2010
+136,"Mundka",77.3054199,28.6200969,"heavy_rail",2010
+137,"Nangloi Railway Station",77.3045173,28.6249535,"heavy_rail",2010
+138,"Peera Garhi",77.3108013,28.6318892,"heavy_rail",2010
+139,"Punjabi Bagh",77.3154104,28.646705,"heavy_rail",2010
+140,"Udyog Nagar",77.3061384,28.6492926,"heavy_rail",2010
+141,"Bahadurgarh City",77.267824,28.623261,"heavy_rail",2018
+142,"Brigadier Hoshiyar Singh",77.119345,28.6764051,"heavy_rail",2018
+143,"Tikri Kalan",77.1304571,28.6749602,"heavy_rail",2018
+144,"Ghevra Metro Station",77.1122776,28.6773285,"heavy_rail",2018
+145,"Pandit Shree Ram Sharma",77.1022105,28.6785848,"heavy_rail",2018
+146,"Tikri Border",77.0439364,28.6822405,"heavy_rail",2018
+147,"Mundka Industrial Area",77.0647264,28.6823335,"heavy_rail",2018
+148,"Inderlok (Green Line)",77.2283534349095,28.66749259184,"heavy_rail",2010
+149,"Ashok Park Main",77.2073994484431,28.6664268291835,"heavy_rail",2010
+150,"Kirti Nagar",77.1990644132574,28.6667036128511,"heavy_rail",2011
+151,"Karol Bagh",77.181818905469,28.6701100320837,"heavy_rail",2005
+152,"Patel Nagar (East)",77.170356531882,28.6736173313396,"heavy_rail",2005
+153,"Shadipur",77.1647942489671,28.6824750331966,"heavy_rail",2005
+154,"Kirti Nagar",77.1617523344631,28.6888875324281,"heavy_rail",2005
+155,"Moti Nagar",77.1526691627749,28.6961733593935,"heavy_rail",2005
+156,"Kamesh Nagar",77.1406556265127,28.6980218616534,"heavy_rail",2005
+157,"Satguru Ramsingh Marg",77.1324889512755,28.7031329945104,"heavy_rail",2011
+158,"Central Secretariat",77.2166570553314,28.6671943256768,"heavy_rail",2005
+159,"Jasola Apollo",77.074004,28.681828,"heavy_rail",2010
+160,"Sarita Vihar",77.0305677,28.682368,"heavy_rail",2010
+161,"Harkesh Nagar Okhla",77.0562372,28.6821301,"heavy_rail",2010
+162,"Govind Puri",77.0926637,28.6797337,"heavy_rail",2010
+163,"Nehru Place",77.1461152,28.6729266,"heavy_rail",2010
+164,"Kailash Colony",77.0808421,28.6810385,"heavy_rail",2010
+165,"Moolchand",76.9354398,28.6906577,"heavy_rail",2010
+166,"Lajpat Nagar (Violet Line)",76.9191444,28.6973429,"heavy_rail",2010
+167,"Tughlakabad",76.9771962,28.6867294,"heavy_rail",2011
+168,"Badarpur",76.9961223,28.6852334,"heavy_rail",2011
+169,"Mohan Estate",76.9511523,28.6891548,"heavy_rail",2011
+170,"Sarai",77.1259446311437,28.7076903676061,"heavy_rail",2015
+171,"Badhkal Mor",77.1154879819904,28.7149277673851,"heavy_rail",2015
+172,"Mewala Maharajpur",77.1072052310698,28.7208122835965,"heavy_rail",2015
+173,"N.H.P.C. Chowk",77.264817,28.5544908,"heavy_rail",2015
+174,"Old Faridabad Metro Station",77.251518,28.5460369,"heavy_rail",2015
+175,"Sector 28",77.1945149,28.5470025,"heavy_rail",2015
+176,"Escorts Mujesar",77.1610899,28.557808,"heavy_rail",2015
+177,"Bata Chowk",77.2302907,28.5410914,"heavy_rail",2015
+178,"Neelam Chowk Ajronda",77.3337934191657,28.563870616411,"heavy_rail",2015
+179,"Sant Surdas (Sihi)",77.3216407603996,28.5529434285084,"heavy_rail",2018
+180,"Raja Nahar Singh",77.3102313656143,28.5429840806981,"heavy_rail",2018
+181,"Majlis Park",77.296585644623,28.5459687214068,"heavy_rail",2018
+182,"Azadpur (Pink Line)",77.2919050651598,28.561243373761,"heavy_rail",2018
+183,"Shalimar Bagh",77.28634001669,28.5630074759041,"heavy_rail",2018
+184,"Netaji Subhash Place (Pink Line)",77.2751066153314,28.5598471180747,"heavy_rail",2018
+185,"Shakurpur",77.2569486601513,28.5503216944173,"heavy_rail",2018
+186,"Punjabi Bagh West",77.2384972275118,28.5418850941009,"heavy_rail",2018
+187,"ESI Hospital",77.2211048755093,28.5423441359214,"heavy_rail",2018
+188,"Rajouri Garden (Pink Line)",77.2050676620812,28.543336405169,"heavy_rail",2018
+189,"Mayapuri",77.1861424723344,28.5500958911566,"heavy_rail",2018
+190,"Naraina Vihar",77.1749076266307,28.5570287974288,"heavy_rail",2018
+191,"Delhi Cantonment",76.9640684,28.6878977,"heavy_rail",2018
+192,"Durgabai Deshmukh South Campus",77.0170989,28.6834315,"heavy_rail",2018
+193,"Sir Vishweshwaraiah Moti Bagh",77.2830377,28.5384251,"heavy_rail",2018
+194,"Bhikaji Cama Place",77.1691376,28.6726319,"heavy_rail",2018
+195,"Sarojini Nagar",77.1552808,28.6715367,"heavy_rail",2018
+196,"INA (Pink Line)",77.151307456529,28.6545118341803,"heavy_rail",2018
+197,"South Extension",77.188587054674,28.6440012827447,"heavy_rail",2018
+198,"Lajpat Nagar (Pink Line)",77.1693810654552,28.6449892779693,"heavy_rail",2018
+199,"Vinobapuri",77.1583295092539,28.6515911660988,"heavy_rail",2018
+200,"Ashram",77.1507661431937,28.6557462794194,"heavy_rail",2018
+201,"Hazrat Nizamuddin",77.14272162296,28.6579765734198,"heavy_rail",2018
+202,"Mayur Vihar - I (Pink Line)",77.131646087596,28.6527299584658,"heavy_rail",2018
+203,"Mayur Vihar Pocket 1",77.1577001299831,28.6620660091476,"heavy_rail",2018
+204,"Dhaula Kuan",77.2517393,28.5514411,"heavy_rail",2011
+205,"ONGC Shivaji Stadium",77.241984,28.5553442,"heavy_rail",2011
+206,"New Delhi",77.2342783,28.5644043,"heavy_rail",2011
+207,"IGI Airport",77.2364175,28.5705695,"heavy_rail",2011
+208,"Dwarka",77.1878597,28.5702392,"heavy_rail",2019
+209,"Nangli",77.2075791,28.573627,"heavy_rail",2019
+210,"Najafgarh",77.2205602,28.5685434,"heavy_rail",2019
+211,"Dhansa Bus Stand",77.2382659,28.5695405,"heavy_rail",2021
+212,"Shaheed Sthal New Bus Adda",77.2366881,28.6574815,"heavy_rail",2019
+213,"Hindon River",77.228075,28.668686,"heavy_rail",2019
+214,"Arthala",77.2883311,28.5285737,"heavy_rail",2019
+215,"Mohan Nagar",77.2756683,28.5432816,"heavy_rail",2019
+216,"Shyam Park",77.264266,28.5443766,"heavy_rail",2019
+217,"Major Mohit Sharma Rajendra Nagar",77.2992401,28.5023598,"heavy_rail",2019
+218,"Raj Bagh",77.3030239,28.4931698,"heavy_rail",2019
+219,"Shaheed Nagar",77.2945917,28.5197198,"heavy_rail",2019
+220,"Dilshad Garden",77.3049182,28.4779698,"heavy_rail",2008
+221,"Jhilmil",77.3103769,28.4227144,"heavy_rail",2008
+222,"Mansarovar Park",77.308095,28.4486201,"heavy_rail",2008
+223,"Shahdara",77.1980768,28.5757936,"heavy_rail",2002
+224,"Welcome (Red Line)",77.2487352,28.5657942,"heavy_rail",2002
+225,"Seelampur",77.2581218,28.5720033,"heavy_rail",2002
+226,"Kashmere Gate",77.2573864,28.5883001,"heavy_rail",2002
+227,"Tis Hazari",77.3073933,28.4577786,"heavy_rail",2002
+228,"Pul Bangash",77.3115047,28.4108332,"heavy_rail",2003
+229,"Pratap Nagar",77.309063,28.4381599,"heavy_rail",2003
+230,"Shastri Nagar",77.3149203,28.3702344,"heavy_rail",2003
+231,"Inderlok (Red Line)",77.313462,28.3858361,"heavy_rail",2003
+232,"Kanhiya Nagar",77.3124347,28.3974884,"heavy_rail",2005
+233,"Keshav Puram",77.3162264,28.3546513,"heavy_rail",2005
+234,"Netaji Subhash Place (Red Line)",77.3164281,28.3400192,"heavy_rail",2005
+235,"Kohat Enclave",77.1242237,28.6511757,"heavy_rail",2005
+236,"Pitam Pura",77.1297013,28.6371662,"heavy_rail",2005
+237,"Rohini East",77.1364134,28.6243731,"heavy_rail",2005
+238,"Rohini West",77.1404223,28.6086345,"heavy_rail",2005
+239,"Rithala",77.290655,28.603497,"heavy_rail",2005
+240,"Okhla NSIC",77.298042,28.6056313,"heavy_rail",2017
+241,"Nehru Enclave",77.1617034,28.5918905,"heavy_rail",2018
+242,"IIT Delhi",77.1818662,28.7248072,"heavy_rail",2018
+243,"Vasant Vihar",77.181944,28.7058181,"heavy_rail",2018
+244,"Chirag Delhi",77.1654294,28.701988,"heavy_rail",2018
+245,"Botanical Garden",77.1542356,28.6947226,"heavy_rail",2017
+246,"Okhla Bird Sanctuary",77.1495906,28.68579,"heavy_rail",2017
+247,"Kalindi Kunj",77.1391779,28.6727762,"heavy_rail",2017
+248,"Jasola Vihar Shaheen Bagh",77.1272304,28.6580809,"heavy_rail",2017
+249,"Okhla Vihar",77.1695155,28.5893205,"heavy_rail",2017
+250,"Jamia Millia Islamia",77.1757075,28.5785245,"heavy_rail",2017
+251,"Sukhdev Vihar",77.211311,28.6289139,"heavy_rail",2017
+252,"Kalkaji Mandir",77.2230977984415,28.64249196396,"heavy_rail",2017
+253,"Greater Kailash",77.0867618981913,28.5564914024776,"heavy_rail",2018
+254,"Panchsheel Park",77.0224636,28.6158872,"heavy_rail",2018
+255,"Hauz Khas",77.0104313,28.6173229,"heavy_rail",2018
+256,"R. K. Puram",76.9865583,28.6124795,"heavy_rail",2018
+257,"Munirka",76.9785452,28.6119363,"heavy_rail",2018
+258,"Shankar Vihar",77.140254,28.5608275,"heavy_rail",2018
+259,"Terminal 1 Indira Gandhi Airport",77.1226212,28.5648599,"heavy_rail",2018
+260,"Sadar Bazaar",77.1111533,28.5771509,"heavy_rail",2018
+261,"Palam",77.0830489,28.5889096,"heavy_rail",2018
+262,"Dashrath Puri",77.0823561,28.6018751,"heavy_rail",2018
+263,"Dabri Mor",77.085178,28.6157555,"heavy_rail",2018
+264,"Janakpuri West",77.0779235,28.6289502,"heavy_rail",2018
+265,"Noida Sector 50",77.3782577,28.5743612,"heavy_rail",2019
+266,"Noida Sector 51",77.3752876,28.5857261,"heavy_rail",2019
+267,"Noida Sector 76",77.3796863,28.5653399,"heavy_rail",2019
+268,"Noida Sector 101",77.3849701,28.5560682,"heavy_rail",2019
+269,"Noida Sector 81",77.3899722,28.5493162,"heavy_rail",2019
+270,"NSEZ",77.3947827,28.5324158,"heavy_rail",2019
+271,"Noida Sector 83",77.3964592,28.5222947,"heavy_rail",2019
+272,"Noida Sector 137",77.4036289,28.5107876,"heavy_rail",2019
+273,"Noida Sector 143",77.4223917,28.4942812,"heavy_rail",2019
+274,"Noida Sector 142",77.4128606,28.4989679,"heavy_rail",2019
+275,"Noida Sector 144",77.4330884,28.4863132,"heavy_rail",2019
+276,"Noida Sector 146",77.4552147,28.4687822,"heavy_rail",2019
+277,"Noida Sector 145",77.4424232,28.4790219,"heavy_rail",2019
+278,"Noida Sector 148",77.4766226,28.4480792,"heavy_rail",2019
+279,"Noida Sector 147",77.4661727,28.4593136,"heavy_rail",2019
+280,"Knowledge Park II",77.5003058,28.4570516,"heavy_rail",2019
+281,"Alpha 1",77.5127076,28.4710499,"heavy_rail",2019
+282,"Delta 1",77.5256933,28.4784907,"heavy_rail",2019
+283,"Pari Chowk",77.5083353,28.4634141,"heavy_rail",2019
+284,"Depot Station",77.5439804,28.4890297,"heavy_rail",2019
+285,"Punjabi Bagh West",77.1390178427328,28.6741978511567,"heavy_rail",2022

@@ -1,0 +1,74 @@
+"nodeID","nodeLabel","longitud","latitud","mode","year"
+1,"Blas Infante",-5.9504317,37.3677638,"light_rail",2009
+2,"1.º de Mayo",-5.9518127,37.37154,"light_rail",2009
+3,"Gran Plaza",-5.9526764,37.3758299,"light_rail",2009
+4,"Nervión",-5.9556812,37.3807208,"light_rail",2009
+5,"San Bernardo",-5.9667375,37.3816411,"light_rail",2009
+6,"Prado de San Sebastián",-6.0104512,37.37321,"light_rail",2009
+7,"Puerta de Jerez",-5.9739904,37.3829686,"light_rail",2009
+8,"Plaza de Cuba",-5.9387773,37.3291793,"light_rail",2009
+9,"Parque de los Príncipes",-5.9363067,37.3465414,"light_rail",2009
+10,"San Juan Bajo",-5.9436673,37.3540052,"light_rail",2009
+11,"San Juan Alto",-5.93462018474051,37.3423012860131,"light_rail",2009
+12,"Cavaleri",-5.9351937581381,37.3377508718264,"light_rail",2009
+13,"Cocheras",-5.979101,37.3781986,"light_rail",2009
+14,"La Plata",-5.9872005,37.3807601,"light_rail",2009
+15,"Amate",-5.9943473,37.3817715,"light_rail",2009
+16,"Olivar de Quintos",-5.9993628,37.3792378,"light_rail",2009
+17,"Condequinto",-6.0047435,37.3764792,"light_rail",2009
+18,"Pablo de Olavide",-6.025143,37.3670051,"light_rail",2009
+19,"Montequinto",-6.0385692,37.3616777,"light_rail",2009
+20,"Europa",-6.0468134,37.3529428,"light_rail",2009
+21,"Ciudad Expo",-6.05170929037459,37.3492360867472,"light_rail",2009
+22,"Guadaíra",-5.94762734939485,37.3577571680491,"light_rail",NA
+23,"Puerta Jerez",-5.9924242,37.3821089,"tram",2007
+24,"Prado de San Sebastián",-5.9870138,37.3808083,"tram",2007
+25,"Archivo de Indias",-5.9938546,37.3847098,"tram",2007
+26,"Plaza Nueva",-5.9952519,37.3883228,"tram",2007
+27,"San Bernardo",-5.97921748320023,37.3786036487586,"tram",2007
+28,"Nervión",-5.97320293194639,37.3829116756377,"tram",NA
+29,"Virgen del Rocío",-5.9757985,37.3628046,"commuter_rail",1992
+30,"Virgen del Rocío",-5.939346,37.370827,"commuter_rail",1992
+31,"Virgen del Rocío",-5.9642085,37.3215094,"commuter_rail",1992
+32,"Padre Pío-Palmete",-5.96401443612252,37.3329649612144,"commuter_rail",2004
+33,"Jardines de Hércules",-6.00751833141652,37.4172340836797,"commuter_rail",2015
+34,"Jardines de Hércules",-6.01017290271078,37.4071993412261,"commuter_rail",2015
+35,"Bellavista",-5.9795078,37.3776623,"commuter_rail",1998
+36,"Estadio Olímpico",-6.01017948956174,37.4072,"commuter_rail",2012
+37,"Cartuja",-6.00751882653449,37.4172298668554,"commuter_rail",1992
+38,"Cartuja",-5.97951017181094,37.377659057684,"commuter_rail",2012
+39,"Estadio Olímpico",-5.97950950125332,37.377659057684,"commuter_rail",1992
+40,"San Bernardo",-5.93647199900741,37.4038788466324,"commuter_rail",1992
+41,"San Bernardo",-5.97524001872011,37.3919398911696,"commuter_rail",2004
+42,"San Bernardo",-6.20781330533501,37.3570889269369,"commuter_rail",2004
+43,"San Bernardo",-6.04075736099307,37.4179555526208,"commuter_rail",2011
+44,"San Bernardo",-6.057016982569,37.4266920980076,"commuter_rail",2011
+45,"San Bernardo",-6.0986886150157,37.4105885005702,"commuter_rail",2011
+46,"Palacio de Congresos",-6.14835038547943,37.4072136681905,"commuter_rail",2004
+47,"Santa Justa",-6.19376444792442,37.381507767017,"commuter_rail",2020
+48,"Santa Justa",-5.98035224162359,37.4330749341459,"commuter_rail",2020
+49,"Santa Justa",-5.9803543053365,37.4330750707629,"commuter_rail",2020
+50,"Santa Justa",-5.93992414258335,37.4799191950969,"commuter_rail",2020
+51,"Santa Justa",-5.93288333216552,37.4862842290148,"commuter_rail",1992
+52,"Santa Justa",-5.86683856139564,37.5460450018843,"commuter_rail",1992
+53,"Santa Justa",-5.80333857776182,37.5747235331681,"commuter_rail",1992
+54,"Benacazón",-5.53102138481026,37.661229458161,"commuter_rail",2011
+55,"Camas",-5.7619836,37.837441,"commuter_rail",2011
+56,"Valencina-Santiponce",-5.75019270037555,37.7007011740064,"commuter_rail",2011
+57,"Salteras",-5.7043728,37.9326401,"commuter_rail",2011
+58,"Villanueva del Ariscal-Olivares",-5.7309896,37.6354454,"commuter_rail",2011
+59,"Sanlúcar la Mayor",-5.71197978243211,37.6616685785272,"commuter_rail",2011
+60,"San Jerónimo",-5.73154588308506,37.6092713990695,"commuter_rail",2020
+61,"San Jerónimo",-5.72539726031724,37.5897131931762,"commuter_rail",2012
+62,"San Jerónimo",-5.66982972553197,37.5815658617501,"commuter_rail",2012
+63,"La Rinconada",-5.79024767661767,37.1833598839863,"commuter_rail",1991
+64,"La Rinconada",-5.92341000839525,37.287254023543,"commuter_rail",1991
+65,"El Cáñamo",-5.91064528358882,37.278483132645,"commuter_rail",2011
+66,"El Cáñamo",-6.09516442903367,36.9116898879923,"commuter_rail",2011
+67,"Brenes",-5.94566135932206,37.0185590902599,"commuter_rail",1991
+68,"Brenes",-5.97524089647844,37.3919394672502,"commuter_rail",1991
+69,"Cantillana",-5.97523675835055,37.3919391391452,"commuter_rail",1991
+70,"Cantillana",-5.97523263993568,37.3919395496959,"commuter_rail",1991
+71,"Los Rosales",-5.9752314618494,37.3919399139946,"commuter_rail",1991
+72,"Los Rosales",-5.97523632335071,37.3919400471841,"commuter_rail",1991
+73,"Lora del Río",-5.97523280295428,37.3919400471841,"commuter_rail",1991
