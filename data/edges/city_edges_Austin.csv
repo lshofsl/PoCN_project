@@ -1,0 +1,14 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,2,"commuter_rail","Red Line",2008
+2,3,"commuter_rail","Red Line",2008
+3,4,"commuter_rail","Red Line",2008
+4,5,"commuter_rail","Red Line",2008
+5,6,"commuter_rail","Red Line",2008
+6,7,"commuter_rail","Red Line",2008
+7,8,"commuter_rail","Red Line",2008
+8,9,"commuter_rail","Red Line",2008
+10,11,"bus","801",NA
+11,12,"bus","801",-1
+12,13,"bus","801",-1
+13,14,"bus","801",-1
+14,15,"bus","801",NA

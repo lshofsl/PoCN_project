@@ -1,0 +1,29 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,2,"heavy_rail","Red Line",1967
+2,3,"heavy_rail","Red Line",1967
+3,4,"heavy_rail","Red Line",1967
+4,5,"heavy_rail","Red Line",1967
+5,8,"heavy_rail","Red Line",1967
+8,9,"heavy_rail","Red Line",1970
+9,10,"heavy_rail","Red Line",1970
+10,11,"heavy_rail","Red Line",1972
+11,12,"heavy_rail","Red Line",1972
+12,26,"heavy_rail","Red Line",1972
+26,28,"heavy_rail","Red Line",1989
+28,30,"heavy_rail","Red Line",2002
+13,3,"heavy_rail","Green Line",1976
+3,2,"heavy_rail","Green Line",1967
+2,8,"heavy_rail","Green Line",1967
+8,9,"heavy_rail","Green Line",1970
+9,1,"heavy_rail","Green Line",1970
+1,12,"heavy_rail","Green Line",1967
+12,11,"heavy_rail","Green Line",1972
+11,10,"heavy_rail","Green Line",1972
+10,22,"heavy_rail","Green Line",1972
+22,23,"heavy_rail","Green Line",1985
+23,24,"heavy_rail","Green Line",1985
+24,25,"heavy_rail","Green Line",1985
+25,26,"heavy_rail","Green Line",1985
+26,28,"heavy_rail","Green Line",1989
+28,30,"heavy_rail","Green Line",2002
+6,7,"heavy_rail","Green Line (shuttle)",1993

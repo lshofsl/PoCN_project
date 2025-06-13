@@ -1,0 +1,51 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,14,"heavy_rail","Metro SubwayLink Green",1987
+14,15,"heavy_rail","Metro SubwayLink Green",1983
+15,16,"heavy_rail","Metro SubwayLink Green",1983
+16,17,"heavy_rail","Metro SubwayLink Green",1983
+17,18,"heavy_rail","Metro SubwayLink Green",1983
+18,19,"heavy_rail","Metro SubwayLink Green",1983
+19,20,"heavy_rail","Metro SubwayLink Green",1983
+20,21,"heavy_rail","Metro SubwayLink Green",1983
+21,22,"heavy_rail","Metro SubwayLink Green",1983
+22,23,"heavy_rail","Metro SubwayLink Green",1995
+23,24,"heavy_rail","Metro SubwayLink Green",1987
+24,25,"heavy_rail","Metro SubwayLink Green",1983
+25,26,"heavy_rail","Metro SubwayLink Green",1995
+13,27,"light_rail","Baltimore Light RailLink",1992
+27,28,"light_rail","Baltimore Light RailLink",1992
+28,29,"light_rail","Baltimore Light RailLink",1992
+29,30,"light_rail","Baltimore Light RailLink",1992
+30,31,"light_rail","Baltimore Light RailLink",1992
+31,32,"light_rail","Baltimore Light RailLink",1992
+32,33,"light_rail","Baltimore Light RailLink",1992
+33,34,"light_rail","Baltimore Light RailLink",1992
+34,35,"light_rail","Baltimore Light RailLink",1992
+35,36,"light_rail","Baltimore Light RailLink",1992
+36,37,"light_rail","Baltimore Light RailLink",1992
+37,38,"light_rail","Baltimore Light RailLink",1992
+38,39,"light_rail","Baltimore Light RailLink",1992
+39,40,"light_rail","Baltimore Light RailLink",1992
+40,41,"light_rail","Baltimore Light RailLink",1992
+41,42,"light_rail","Baltimore Light RailLink",1992
+42,43,"light_rail","Baltimore Light RailLink",1992
+43,44,"light_rail","Baltimore Light RailLink",1992
+44,45,"light_rail","Baltimore Light RailLink",1992
+45,46,"light_rail","Baltimore Light RailLink",1997
+46,47,"light_rail","Baltimore Light RailLink",1997
+47,48,"light_rail","Baltimore Light RailLink",1997
+48,49,"light_rail","Baltimore Light RailLink",1997
+49,50,"light_rail","Baltimore Light RailLink",1997
+50,51,"light_rail","Baltimore Light RailLink",1997
+51,52,"light_rail","Baltimore Light RailLink",1993
+52,53,"light_rail","Baltimore Light RailLink",1993
+53,54,"light_rail","Baltimore Light RailLink",1993
+54,55,"light_rail","Baltimore Light RailLink",1993
+55,56,"light_rail","Baltimore Light RailLink",1993
+56,57,"light_rail","Baltimore Light RailLink",1993
+57,58,"light_rail","Baltimore Light RailLink",1997
+2,3,"ferry","HC1 - Maritime Park and Tide Point",2009
+4,3,"ferry","HC2 - Canton Waterfront Park and Tide Point",2009
+6,7,"ferry","HC3 - Pier 5 and Federal Hill",2019
+8,9,"bus","Harbor Connector Alternate Shuttle",NA
+9,12,"bus","Harbor Connector Alternate Shuttle",2011

@@ -1,0 +1,745 @@
+"nodeID_from","nodeID_to","mode","line","year"
+231,255,"heavy_rail","A",1913
+255,256,"heavy_rail","A",1913
+256,257,"heavy_rail","A",1913
+257,258,"heavy_rail","A",1913
+258,259,"heavy_rail","A",1913
+259,260,"heavy_rail","A",1913
+260,261,"heavy_rail","A",1913
+261,262,"heavy_rail","A",1913
+262,263,"heavy_rail","A",1914
+263,264,"heavy_rail","A",1914
+264,265,"heavy_rail","A",1914
+265,266,"heavy_rail","A",1914
+266,289,"heavy_rail","A",1914
+289,292,"heavy_rail","A",1913
+292,293,"heavy_rail","A",2008
+293,297,"heavy_rail","A",2008
+297,298,"heavy_rail","A",2013
+112,227,"heavy_rail","B",1931
+227,247,"heavy_rail","B",1931
+247,248,"heavy_rail","B",1931
+248,249,"heavy_rail","B",1930
+249,250,"heavy_rail","B",1930
+250,251,"heavy_rail","B",1930
+251,252,"heavy_rail","B",1930
+252,253,"heavy_rail","B",1930
+253,254,"heavy_rail","B",1930
+254,286,"heavy_rail","B",1930
+286,291,"heavy_rail","B",1930
+291,307,"heavy_rail","B",2003
+307,308,"heavy_rail","B",1931
+308,309,"heavy_rail","B",1930
+309,310,"heavy_rail","B",2003
+310,311,"heavy_rail","B",2013
+228,229,"heavy_rail","C",1934
+229,230,"heavy_rail","C",1934
+230,232,"heavy_rail","C",1934
+232,244,"heavy_rail","C",1934
+244,245,"heavy_rail","C",1936
+245,246,"heavy_rail","C",1936
+246,278,"heavy_rail","C",1934
+278,312,"heavy_rail","C",1937
+237,238,"heavy_rail","D",1937
+238,239,"heavy_rail","D",1938
+239,240,"heavy_rail","D",1937
+240,241,"heavy_rail","D",1938
+241,242,"heavy_rail","D",1938
+242,243,"heavy_rail","D",1938
+243,275,"heavy_rail","D",1940
+275,276,"heavy_rail","D",1938
+276,277,"heavy_rail","D",1938
+277,282,"heavy_rail","D",1938
+282,283,"heavy_rail","D",1993
+283,284,"heavy_rail","D",1997
+284,285,"heavy_rail","D",1997
+285,288,"heavy_rail","D",1999
+288,290,"heavy_rail","D",1937
+290,299,"heavy_rail","D",2000
+299,771,"heavy_rail","D",1987
+86,164,"heavy_rail","E",1986
+164,165,"heavy_rail","E",1973
+165,267,"heavy_rail","E",1985
+267,268,"heavy_rail","E",1966
+268,269,"heavy_rail","E",1966
+269,270,"heavy_rail","E",1966
+270,271,"heavy_rail","E",1944
+271,272,"heavy_rail","E",1944
+272,273,"heavy_rail","E",1944
+273,274,"heavy_rail","E",1944
+274,279,"heavy_rail","E",1944
+279,280,"heavy_rail","E",1985
+280,281,"heavy_rail","E",1966
+281,287,"heavy_rail","E",1960
+287,300,"heavy_rail","E",1985
+300,301,"heavy_rail","E",1944
+301,302,"heavy_rail","E",1944
+302,303,"heavy_rail","E",2019
+303,304,"heavy_rail","E",2019
+1,163,"heavy_rail","H",2016
+163,233,"heavy_rail","H",2015
+233,234,"heavy_rail","H",2007
+234,235,"heavy_rail","H",2007
+235,236,"heavy_rail","H",2007
+236,294,"heavy_rail","H",2007
+294,295,"heavy_rail","H",2010
+295,296,"heavy_rail","H",2011
+296,305,"heavy_rail","H",2013
+305,306,"heavy_rail","H",NA
+306,313,"heavy_rail","H",2015
+313,652,"heavy_rail","H",2007
+652,755,"heavy_rail","H",2018
+87,89,"tram","Premetro",1987
+89,90,"tram","Premetro",1987
+90,91,"tram","Premetro",1987
+91,92,"tram","Premetro",1987
+92,93,"tram","Premetro",1987
+93,94,"tram","Premetro",1987
+94,95,"tram","Premetro",1987
+95,96,"tram","Premetro",1987
+96,97,"tram","Premetro",1987
+97,98,"tram","Premetro",1987
+98,103,"tram","Premetro",1987
+103,104,"tram","Premetro",1987
+104,105,"tram","Premetro",1987
+105,106,"tram","Premetro",2000
+106,107,"tram","Premetro",1987
+107,108,"tram","Premetro",1987
+108,109,"tram","Premetro",2006
+109,111,"tram","Premetro",1987
+56,57,"commuter_rail","Urquiza",1914
+57,59,"commuter_rail","Urquiza",1888
+59,60,"commuter_rail","Urquiza",1914
+60,61,"commuter_rail","Urquiza",1888
+61,62,"commuter_rail","Urquiza",1888
+62,63,"commuter_rail","Urquiza",1914
+63,64,"commuter_rail","Urquiza",1888
+64,65,"commuter_rail","Urquiza",1888
+65,66,"commuter_rail","Urquiza",1888
+66,67,"commuter_rail","Urquiza",1888
+67,68,"commuter_rail","Urquiza",1888
+68,71,"commuter_rail","Urquiza",1888
+71,72,"commuter_rail","Urquiza",1888
+72,73,"commuter_rail","Urquiza",1888
+73,74,"commuter_rail","Urquiza",1888
+74,75,"commuter_rail","Urquiza",1888
+75,88,"commuter_rail","Urquiza",1888
+88,99,"commuter_rail","Urquiza",1888
+99,100,"commuter_rail","Urquiza",1888
+100,101,"commuter_rail","Urquiza",1888
+101,102,"commuter_rail","Urquiza",1914
+102,140,"commuter_rail","Urquiza",1914
+140,141,"commuter_rail","Urquiza",1888
+141,142,"commuter_rail","Urquiza",1908
+142,143,"commuter_rail","Urquiza",1888
+143,144,"commuter_rail","Urquiza",1914
+144,145,"commuter_rail","Urquiza",1974
+145,146,"commuter_rail","Urquiza",1914
+146,147,"commuter_rail","Urquiza",1914
+147,148,"commuter_rail","Urquiza",1888
+148,151,"commuter_rail","Urquiza",1914
+151,343,"commuter_rail","Urquiza",1974
+343,344,"commuter_rail","Urquiza",1911
+344,345,"commuter_rail","Urquiza",1911
+2,3,"commuter_rail","Mitre",1898
+3,4,"commuter_rail","Mitre",1960
+4,5,"commuter_rail","Mitre",1892
+5,6,"commuter_rail","Mitre",1892
+6,7,"commuter_rail","Mitre",1892
+7,8,"commuter_rail","Mitre",1892
+8,9,"commuter_rail","Mitre",1894
+9,10,"commuter_rail","Mitre",1894
+10,11,"commuter_rail","Mitre",1894
+11,12,"commuter_rail","Mitre",1894
+12,13,"commuter_rail","Mitre",1900
+13,14,"commuter_rail","Mitre",1894
+14,15,"commuter_rail","Mitre",1894
+15,16,"commuter_rail","Mitre",1881
+16,17,"commuter_rail","Mitre",1894
+17,18,"commuter_rail","Mitre",1894
+18,19,"commuter_rail","Mitre",1894
+19,20,"commuter_rail","Mitre",1894
+20,21,"commuter_rail","Mitre",1894
+21,22,"commuter_rail","Mitre",1894
+22,23,"commuter_rail","Mitre",1881
+23,49,"commuter_rail","Mitre",1881
+49,50,"commuter_rail","Mitre",1896
+50,51,"commuter_rail","Mitre",1893
+51,52,"commuter_rail","Mitre",1892
+52,53,"commuter_rail","Mitre",1892
+53,54,"commuter_rail","Mitre",1891
+54,55,"commuter_rail","Mitre",1893
+55,58,"commuter_rail","Mitre",1891
+58,69,"commuter_rail","Mitre",1896
+69,70,"commuter_rail","Mitre",1876
+70,76,"commuter_rail","Mitre",1876
+76,77,"commuter_rail","Mitre",1876
+77,78,"commuter_rail","Mitre",1876
+78,79,"commuter_rail","Mitre",1876
+79,80,"commuter_rail","Mitre",1876
+80,81,"commuter_rail","Mitre",1876
+81,82,"commuter_rail","Mitre",1877
+82,83,"commuter_rail","Mitre",1876
+83,84,"commuter_rail","Mitre",1876
+84,85,"commuter_rail","Mitre",1892
+85,110,"commuter_rail","Mitre",1914
+110,113,"commuter_rail","Mitre",1916
+113,114,"commuter_rail","Mitre",1996
+114,149,"commuter_rail","Mitre",1915
+149,152,"commuter_rail","Mitre",1862
+152,156,"commuter_rail","Mitre",1862
+156,157,"commuter_rail","Mitre",1865
+157,158,"commuter_rail","Mitre",1938
+158,159,"commuter_rail","Mitre",1933
+159,160,"commuter_rail","Mitre",1933
+160,161,"commuter_rail","Mitre",1933
+161,162,"commuter_rail","Mitre",1863
+162,166,"commuter_rail","Mitre",1862
+166,167,"commuter_rail","Mitre",1865
+167,168,"commuter_rail","Mitre",1864
+168,169,"commuter_rail","Mitre",1891
+169,170,"commuter_rail","Mitre",1864
+170,171,"commuter_rail","Mitre",1871
+171,172,"commuter_rail","Mitre",1864
+172,173,"commuter_rail","Mitre",1864
+173,174,"commuter_rail","Mitre",1873
+174,175,"commuter_rail","Mitre",1862
+175,176,"commuter_rail","Mitre",1932
+176,177,"commuter_rail","Mitre",1895
+177,178,"commuter_rail","Mitre",1876
+178,179,"commuter_rail","Mitre",1889
+179,180,"commuter_rail","Mitre",1876
+180,181,"commuter_rail","Mitre",1876
+181,182,"commuter_rail","Mitre",1876
+182,183,"commuter_rail","Mitre",1876
+183,184,"commuter_rail","Mitre",1933
+184,185,"commuter_rail","Mitre",1876
+185,186,"commuter_rail","Mitre",1876
+186,187,"commuter_rail","Mitre",1876
+187,188,"commuter_rail","Mitre",1891
+188,189,"commuter_rail","Mitre",1891
+189,190,"commuter_rail","Mitre",1898
+190,191,"commuter_rail","Mitre",1915
+191,192,"commuter_rail","Mitre",1891
+192,193,"commuter_rail","Mitre",1931
+193,194,"commuter_rail","Mitre",1951
+194,386,"commuter_rail","Mitre",1891
+386,461,"commuter_rail","Mitre",1892
+461,648,"commuter_rail","Mitre",2018
+648,649,"commuter_rail","Mitre",2019
+649,665,"commuter_rail","Mitre",2019
+665,667,"commuter_rail","Mitre",1892
+667,668,"commuter_rail","Mitre",1892
+24,25,"commuter_rail","San Martín",1908
+25,28,"commuter_rail","San Martín",1908
+28,29,"commuter_rail","San Martín",1908
+29,115,"commuter_rail","San Martín",1908
+115,116,"commuter_rail","San Martín",1930
+116,117,"commuter_rail","San Martín",1907
+117,118,"commuter_rail","San Martín",1888
+118,119,"commuter_rail","San Martín",1907
+119,120,"commuter_rail","San Martín",1889
+120,121,"commuter_rail","San Martín",1893
+121,122,"commuter_rail","San Martín",1891
+122,123,"commuter_rail","San Martín",1906
+123,124,"commuter_rail","San Martín",1888
+124,125,"commuter_rail","San Martín",1912
+125,126,"commuter_rail","San Martín",2009
+126,127,"commuter_rail","San Martín",1888
+127,128,"commuter_rail","San Martín",1872
+128,129,"commuter_rail","San Martín",1950
+129,130,"commuter_rail","San Martín",1906
+130,131,"commuter_rail","San Martín",1908
+131,132,"commuter_rail","San Martín",1895
+132,133,"commuter_rail","San Martín",1958
+133,134,"commuter_rail","San Martín",1896
+134,135,"commuter_rail","San Martín",2014
+135,136,"commuter_rail","San Martín",1888
+136,137,"commuter_rail","San Martín",1901
+137,138,"commuter_rail","San Martín",1888
+138,139,"commuter_rail","San Martín",2014
+139,650,"commuter_rail","San Martín",1900
+650,651,"commuter_rail","San Martín",2023
+26,27,"commuter_rail","Sarmiento",1911
+27,30,"commuter_rail","Sarmiento",1872
+30,31,"commuter_rail","Sarmiento",1911
+31,32,"commuter_rail","Sarmiento",1911
+32,33,"commuter_rail","Sarmiento",1873
+33,34,"commuter_rail","Sarmiento",1857
+34,35,"commuter_rail","Sarmiento",1857
+35,36,"commuter_rail","Sarmiento",1911
+36,37,"commuter_rail","Sarmiento",1910
+37,198,"commuter_rail","Sarmiento",1858
+198,199,"commuter_rail","Sarmiento",1857
+199,200,"commuter_rail","Sarmiento",1857
+200,202,"commuter_rail","Sarmiento",1857
+202,203,"commuter_rail","Sarmiento",1857
+203,205,"commuter_rail","Sarmiento",1859
+205,207,"commuter_rail","Sarmiento",1913
+207,208,"commuter_rail","Sarmiento",1872
+208,210,"commuter_rail","Sarmiento",1923
+210,211,"commuter_rail","Sarmiento",1860
+211,212,"commuter_rail","Sarmiento",1938
+212,216,"commuter_rail","Sarmiento",1860
+216,347,"commuter_rail","Sarmiento",1886
+347,348,"commuter_rail","Sarmiento",1923
+348,349,"commuter_rail","Sarmiento",1864
+349,350,"commuter_rail","Sarmiento",1864
+350,351,"commuter_rail","Sarmiento",1864
+351,352,"commuter_rail","Sarmiento",1864
+352,353,"commuter_rail","Sarmiento",1864
+353,354,"commuter_rail","Sarmiento",1984
+354,355,"commuter_rail","Sarmiento",1864
+355,356,"commuter_rail","Sarmiento",1884
+356,357,"commuter_rail","Sarmiento",1864
+357,358,"commuter_rail","Sarmiento",1888
+358,359,"commuter_rail","Sarmiento",1864
+359,360,"commuter_rail","Sarmiento",1871
+360,361,"commuter_rail","Sarmiento",1871
+361,362,"commuter_rail","Sarmiento",1871
+362,363,"commuter_rail","Sarmiento",1871
+363,364,"commuter_rail","Sarmiento",1871
+364,365,"commuter_rail","Sarmiento",1884
+365,366,"commuter_rail","Sarmiento",1871
+366,367,"commuter_rail","Sarmiento",1870
+367,368,"commuter_rail","Sarmiento",1910
+368,369,"commuter_rail","Sarmiento",1870
+369,459,"commuter_rail","Sarmiento",1870
+195,219,"commuter_rail","Belgrano Norte",1912
+219,220,"commuter_rail","Belgrano Norte",1988
+220,221,"commuter_rail","Belgrano Norte",1909
+221,222,"commuter_rail","Belgrano Norte",1909
+222,223,"commuter_rail","Belgrano Norte",1909
+223,224,"commuter_rail","Belgrano Norte",1913
+224,225,"commuter_rail","Belgrano Norte",1909
+225,226,"commuter_rail","Belgrano Norte",1909
+226,653,"commuter_rail","Belgrano Norte",1912
+653,654,"commuter_rail","Belgrano Norte",1909
+654,655,"commuter_rail","Belgrano Norte",1965
+655,656,"commuter_rail","Belgrano Norte",1947
+656,657,"commuter_rail","Belgrano Norte",1909
+657,658,"commuter_rail","Belgrano Norte",1909
+658,659,"commuter_rail","Belgrano Norte",1955
+659,660,"commuter_rail","Belgrano Norte",1909
+660,661,"commuter_rail","Belgrano Norte",1930
+661,662,"commuter_rail","Belgrano Norte",1912
+662,663,"commuter_rail","Belgrano Norte",1912
+663,664,"commuter_rail","Belgrano Norte",2015
+664,666,"commuter_rail","Belgrano Norte",1912
+666,684,"commuter_rail","Belgrano Norte",1912
+684,757,"commuter_rail","Belgrano Norte",1912
+757,763,"commuter_rail","Belgrano Norte",NA
+196,197,"commuter_rail","Belgrano Sur",1908
+197,204,"commuter_rail","Belgrano Sur",2018
+204,314,"commuter_rail","Belgrano Sur",1911
+314,315,"commuter_rail","Belgrano Sur",1908
+315,316,"commuter_rail","Belgrano Sur",1908
+316,317,"commuter_rail","Belgrano Sur",1908
+317,318,"commuter_rail","Belgrano Sur",1908
+318,319,"commuter_rail","Belgrano Sur",1908
+319,320,"commuter_rail","Belgrano Sur",1909
+320,321,"commuter_rail","Belgrano Sur",1909
+321,322,"commuter_rail","Belgrano Sur",1909
+322,323,"commuter_rail","Belgrano Sur",1909
+323,324,"commuter_rail","Belgrano Sur",1909
+324,325,"commuter_rail","Belgrano Sur",1909
+325,326,"commuter_rail","Belgrano Sur",1909
+326,327,"commuter_rail","Belgrano Sur",1909
+327,328,"commuter_rail","Belgrano Sur",1985
+328,329,"commuter_rail","Belgrano Sur",1909
+329,330,"commuter_rail","Belgrano Sur",1908
+330,331,"commuter_rail","Belgrano Sur",1908
+331,332,"commuter_rail","Belgrano Sur",1909
+332,333,"commuter_rail","Belgrano Sur",1909
+333,334,"commuter_rail","Belgrano Sur",1908
+334,335,"commuter_rail","Belgrano Sur",1908
+335,336,"commuter_rail","Belgrano Sur",1908
+336,337,"commuter_rail","Belgrano Sur",1913
+337,338,"commuter_rail","Belgrano Sur",1981
+338,339,"commuter_rail","Belgrano Sur",1908
+339,340,"commuter_rail","Belgrano Sur",1908
+340,341,"commuter_rail","Belgrano Sur",1908
+341,342,"commuter_rail","Belgrano Sur",2014
+342,346,"commuter_rail","Belgrano Sur",1999
+346,370,"commuter_rail","Belgrano Sur",1909
+370,371,"commuter_rail","Belgrano Sur",999999
+371,460,"commuter_rail","Belgrano Sur",999999
+460,545,"commuter_rail","Belgrano Sur",1926
+545,626,"commuter_rail","Belgrano Sur",2019
+626,669,"commuter_rail","Belgrano Sur",1909
+669,670,"commuter_rail","Belgrano Sur",1926
+670,671,"commuter_rail","Belgrano Sur",1926
+671,672,"commuter_rail","Belgrano Sur",1926
+672,673,"commuter_rail","Belgrano Sur",1926
+673,674,"commuter_rail","Belgrano Sur",1926
+674,675,"commuter_rail","Belgrano Sur",1926
+675,676,"commuter_rail","Belgrano Sur",1926
+676,677,"commuter_rail","Belgrano Sur",1926
+677,678,"commuter_rail","Belgrano Sur",1926
+678,679,"commuter_rail","Belgrano Sur",1926
+679,680,"commuter_rail","Belgrano Sur",1926
+680,681,"commuter_rail","Belgrano Sur",1926
+681,682,"commuter_rail","Belgrano Sur",1926
+682,740,"commuter_rail","Belgrano Sur",1926
+740,758,"commuter_rail","Belgrano Sur",2019
+758,770,"commuter_rail","Belgrano Sur",2021
+201,206,"commuter_rail","Roca",1865
+206,209,"commuter_rail","Roca",1868
+209,213,"commuter_rail","Roca",1868
+213,214,"commuter_rail","Roca",1873
+214,215,"commuter_rail","Roca",1865
+215,217,"commuter_rail","Roca",1866
+217,218,"commuter_rail","Roca",1865
+218,372,"commuter_rail","Roca",1871
+372,373,"commuter_rail","Roca",1910
+373,374,"commuter_rail","Roca",1888
+374,375,"commuter_rail","Roca",1865
+375,376,"commuter_rail","Roca",1928
+376,377,"commuter_rail","Roca",1865
+377,378,"commuter_rail","Roca",1865
+378,379,"commuter_rail","Roca",1865
+379,380,"commuter_rail","Roca",1865
+380,381,"commuter_rail","Roca",1872
+381,382,"commuter_rail","Roca",1883
+382,383,"commuter_rail","Roca",1906
+383,384,"commuter_rail","Roca",1872
+384,385,"commuter_rail","Roca",1889
+385,387,"commuter_rail","Roca",1872
+387,388,"commuter_rail","Roca",1872
+388,389,"commuter_rail","Roca",1888
+389,390,"commuter_rail","Roca",1910
+390,391,"commuter_rail","Roca",1865
+391,392,"commuter_rail","Roca",1865
+392,393,"commuter_rail","Roca",1865
+393,394,"commuter_rail","Roca",1865
+394,395,"commuter_rail","Roca",1865
+395,396,"commuter_rail","Roca",1865
+396,397,"commuter_rail","Roca",1865
+397,398,"commuter_rail","Roca",1865
+398,399,"commuter_rail","Roca",1865
+399,400,"commuter_rail","Roca",1889
+400,401,"commuter_rail","Roca",1872
+401,402,"commuter_rail","Roca",1872
+402,403,"commuter_rail","Roca",1872
+403,404,"commuter_rail","Roca",1872
+404,405,"commuter_rail","Roca",1884
+405,406,"commuter_rail","Roca",1884
+406,407,"commuter_rail","Roca",1914
+407,408,"commuter_rail","Roca",1889
+408,409,"commuter_rail","Roca",1886
+409,410,"commuter_rail","Roca",1883
+410,411,"commuter_rail","Roca",1909
+411,412,"commuter_rail","Roca",1888
+412,413,"commuter_rail","Roca",1927
+413,414,"commuter_rail","Roca",1878
+414,415,"commuter_rail","Roca",1872
+415,416,"commuter_rail","Roca",1883
+416,417,"commuter_rail","Roca",1883
+417,418,"commuter_rail","Roca",1883
+418,419,"commuter_rail","Roca",1883
+419,420,"commuter_rail","Roca",1883
+420,421,"commuter_rail","Roca",1883
+421,422,"commuter_rail","Roca",1913
+422,423,"commuter_rail","Roca",1885
+423,424,"commuter_rail","Roca",1885
+424,425,"commuter_rail","Roca",1885
+425,426,"commuter_rail","Roca",1903
+426,427,"commuter_rail","Roca",1885
+427,428,"commuter_rail","Roca",1885
+428,429,"commuter_rail","Roca",1885
+429,430,"commuter_rail","Roca",1885
+430,431,"commuter_rail","Roca",1885
+431,432,"commuter_rail","Roca",1885
+432,433,"commuter_rail","Roca",1885
+433,434,"commuter_rail","Roca",1885
+434,435,"commuter_rail","Roca",1885
+435,436,"commuter_rail","Roca",1885
+436,437,"commuter_rail","Roca",1965
+437,438,"commuter_rail","Roca",1883
+438,439,"commuter_rail","Roca",1883
+439,440,"commuter_rail","Roca",1883
+440,441,"commuter_rail","Roca",1939
+441,442,"commuter_rail","Roca",1911
+442,443,"commuter_rail","Roca",1911
+443,444,"commuter_rail","Roca",1911
+444,445,"commuter_rail","Roca",1883
+445,446,"commuter_rail","Roca",1970
+446,447,"commuter_rail","Roca",1883
+447,448,"commuter_rail","Roca",1883
+448,449,"commuter_rail","Roca",1875
+449,450,"commuter_rail","Roca",1940
+450,451,"commuter_rail","Roca",1875
+451,452,"commuter_rail","Roca",1932
+452,453,"commuter_rail","Roca",1963
+453,454,"commuter_rail","Roca",1971
+454,455,"commuter_rail","Roca",1875
+455,456,"commuter_rail","Roca",1875
+456,457,"commuter_rail","Roca",1886
+457,458,"commuter_rail","Roca",1886
+458,683,"commuter_rail","Roca",1886
+683,741,"commuter_rail","Roca",1969
+741,360,"commuter_rail","Roca",2019
+360,359,"commuter_rail","Roca",1871
+359,744,"commuter_rail","Roca",1871
+744,745,"commuter_rail","Roca",2019
+745,746,"commuter_rail","Roca",2019
+746,764,"commuter_rail","Roca",2019
+764,765,"commuter_rail","Roca",NA
+765,766,"commuter_rail","Roca",NA
+766,767,"commuter_rail","Roca",NA
+767,768,"commuter_rail","Roca",NA
+768,769,"commuter_rail","Roca",NA
+150,153,"tram","Tranvía del Este",2007
+153,154,"tram","Tranvía del Este",2007
+154,155,"tram","Tranvía del Este",2007
+38,39,"light_rail","Tren de la Costa",1995
+39,40,"light_rail","Tren de la Costa",1995
+40,41,"light_rail","Tren de la Costa",1995
+41,42,"light_rail","Tren de la Costa",1995
+42,43,"light_rail","Tren de la Costa",1995
+43,44,"light_rail","Tren de la Costa",1995
+44,45,"light_rail","Tren de la Costa",1995
+45,46,"light_rail","Tren de la Costa",1995
+46,47,"light_rail","Tren de la Costa",1995
+47,48,"light_rail","Tren de la Costa",1995
+627,628,"brt","Juan B. Justo",2011
+628,629,"brt","Juan B. Justo",2011
+629,630,"brt","Juan B. Justo",2011
+630,631,"brt","Juan B. Justo",2011
+631,632,"brt","Juan B. Justo",2011
+632,633,"brt","Juan B. Justo",2011
+633,634,"brt","Juan B. Justo",2011
+634,635,"brt","Juan B. Justo",2011
+635,636,"brt","Juan B. Justo",2011
+636,637,"brt","Juan B. Justo",2011
+637,638,"brt","Juan B. Justo",2011
+638,639,"brt","Juan B. Justo",2011
+639,640,"brt","Juan B. Justo",2011
+640,641,"brt","Juan B. Justo",2011
+641,642,"brt","Juan B. Justo",2011
+642,643,"brt","Juan B. Justo",2011
+643,644,"brt","Juan B. Justo",2011
+644,645,"brt","Juan B. Justo",2011
+645,646,"brt","Juan B. Justo",2011
+646,647,"brt","Juan B. Justo",2011
+474,475,"brt","9 de Julio",2013
+475,476,"brt","9 de Julio",2013
+476,477,"brt","9 de Julio",2013
+477,478,"brt","9 de Julio",2013
+478,479,"brt","9 de Julio",2013
+479,480,"brt","9 de Julio",2013
+480,481,"brt","9 de Julio",2013
+481,482,"brt","9 de Julio",2013
+482,483,"brt","9 de Julio",2013
+483,484,"brt","9 de Julio",2013
+484,485,"brt","9 de Julio",2013
+485,486,"brt","9 de Julio",2013
+486,487,"brt","9 de Julio",2013
+487,488,"brt","9 de Julio",2013
+488,489,"brt","9 de Julio",2013
+489,490,"brt","9 de Julio",2013
+462,463,"brt","San Martín",2016
+463,464,"brt","San Martín",2016
+464,465,"brt","San Martín",2016
+465,466,"brt","San Martín",2016
+466,467,"brt","San Martín",2016
+467,468,"brt","San Martín",2016
+468,469,"brt","San Martín",2016
+469,470,"brt","San Martín",2016
+470,471,"brt","San Martín",2016
+471,472,"brt","San Martín",2016
+472,473,"brt","San Martín",2016
+560,561,"brt","Norte",2016
+561,562,"brt","Norte",2016
+562,563,"brt","Norte",2016
+563,564,"brt","Norte",2016
+564,565,"brt","Norte",2016
+565,566,"brt","Norte",2016
+566,567,"brt","Norte",2016
+567,568,"brt","Norte",2016
+568,569,"brt","Norte",2016
+569,570,"brt","Norte",2016
+570,571,"brt","Norte",2016
+571,572,"brt","Norte",2016
+572,573,"brt","Norte",2016
+573,574,"brt","Norte",2016
+574,575,"brt","Norte",2016
+575,576,"brt","Norte",2016
+576,577,"brt","Norte",2016
+577,578,"brt","Norte",2016
+578,579,"brt","Norte",2016
+579,580,"brt","Norte",2016
+580,581,"brt","Norte",2016
+581,582,"brt","Norte",2016
+582,583,"brt","Norte",2016
+583,584,"brt","Norte",2016
+584,585,"brt","Norte",2016
+585,586,"brt","Norte",2016
+586,587,"brt","Norte",2016
+587,588,"brt","Norte",2016
+588,589,"brt","Norte",2016
+589,590,"brt","Norte",2015
+590,591,"brt","Norte",2015
+591,592,"brt","Norte",2015
+592,593,"brt","Norte",2015
+593,594,"brt","Norte",2015
+594,595,"brt","Norte",2015
+595,596,"brt","Norte",2015
+596,597,"brt","Norte",2015
+597,598,"brt","Norte",2015
+598,599,"brt","Norte",2015
+599,600,"brt","Norte",2015
+600,601,"brt","Norte",2015
+601,602,"brt","Norte",2015
+602,603,"brt","Norte",2015
+603,604,"brt","Norte",2015
+604,605,"brt","Norte",2015
+605,606,"brt","Norte",2015
+606,607,"brt","Norte",2015
+607,608,"brt","Norte",2015
+608,609,"brt","Norte",2015
+609,610,"brt","Norte",2015
+610,611,"brt","Norte",2015
+611,612,"brt","Norte",2015
+612,613,"brt","Norte",2015
+613,614,"brt","Norte",2015
+614,615,"brt","Norte",2015
+615,616,"brt","Norte",2015
+616,617,"brt","Norte",2015
+617,618,"brt","Norte",2015
+618,619,"brt","Norte",2015
+619,620,"brt","Norte",2015
+620,621,"brt","Norte",2015
+621,622,"brt","Norte",2015
+622,623,"brt","Norte",2015
+623,624,"brt","Norte",2015
+624,625,"brt","Norte",2015
+491,492,"brt","del Bajo",2017
+492,493,"brt","del Bajo",2017
+493,494,"brt","del Bajo",2017
+494,495,"brt","del Bajo",2017
+495,496,"brt","del Bajo",2017
+496,497,"brt","del Bajo",2017
+497,498,"brt","del Bajo",2017
+498,499,"brt","del Bajo",2017
+499,500,"brt","del Bajo",2017
+500,501,"brt","del Bajo",2017
+501,502,"brt","del Bajo",2017
+502,503,"brt","del Bajo",2017
+503,504,"brt","del Bajo",2017
+504,505,"brt","del Bajo",2017
+505,506,"brt","del Bajo",2017
+507,508,"brt","Sur",2013
+508,509,"brt","Sur",2013
+509,510,"brt","Sur",2013
+510,511,"brt","Sur",2013
+511,512,"brt","Sur",2013
+512,513,"brt","Sur",2013
+513,514,"brt","Sur",2013
+514,515,"brt","Sur",2013
+515,516,"brt","Sur",2013
+516,517,"brt","Sur",2013
+517,518,"brt","Sur",2013
+518,519,"brt","Sur",2013
+519,520,"brt","Sur",2013
+520,521,"brt","Sur",2013
+521,522,"brt","Sur",2013
+522,523,"brt","Sur",2013
+523,524,"brt","Sur",2013
+524,525,"brt","Sur",2013
+525,526,"brt","Sur",2013
+526,527,"brt","Sur",2013
+527,528,"brt","Sur",2013
+528,529,"brt","Sur",2013
+529,530,"brt","Sur",2013
+530,531,"brt","Sur",2013
+531,532,"brt","Sur",2013
+532,533,"brt","Sur",2013
+533,534,"brt","Sur",2013
+534,535,"brt","Sur",2013
+535,536,"brt","Sur",2013
+536,537,"brt","Sur",2013
+537,538,"brt","Sur",2013
+538,539,"brt","Sur",2013
+539,540,"brt","Sur",2013
+540,541,"brt","Sur",2013
+541,542,"brt","Sur",2013
+542,543,"brt","Sur",2013
+543,544,"brt","Sur",2013
+544,546,"brt","Sur",2013
+546,547,"brt","Sur",2013
+547,548,"brt","Sur",2013
+548,549,"brt","Sur",2013
+549,550,"brt","Sur",2013
+550,551,"brt","Sur",2013
+551,552,"brt","Sur",2013
+552,553,"brt","Sur",2013
+553,554,"brt","Sur",2013
+554,555,"brt","Sur",2013
+555,556,"brt","Sur",2013
+556,557,"brt","Sur",2013
+557,558,"brt","Sur",2013
+558,559,"brt","Sur",2013
+710,711,"brt","La Matanza",2017
+711,712,"brt","La Matanza",2017
+712,713,"brt","La Matanza",2017
+713,714,"brt","La Matanza",2017
+714,715,"brt","La Matanza",2017
+715,716,"brt","La Matanza",2017
+716,717,"brt","La Matanza",2017
+717,718,"brt","La Matanza",2017
+718,719,"brt","La Matanza",2017
+719,720,"brt","La Matanza",2017
+720,721,"brt","La Matanza",2017
+721,722,"brt","La Matanza",2017
+722,723,"brt","La Matanza",2017
+723,724,"brt","La Matanza",2017
+724,725,"brt","La Matanza",2017
+725,726,"brt","La Matanza",2017
+726,727,"brt","La Matanza",2017
+685,686,"brt","Oeste",2018
+686,687,"brt","Oeste",2018
+687,688,"brt","Oeste",2018
+688,689,"brt","Oeste",2018
+689,690,"brt","Oeste",2018
+690,691,"brt","Oeste",2018
+692,693,"brt","Ruta 8",2017
+693,694,"brt","Ruta 8",2017
+694,695,"brt","Ruta 8",2017
+695,696,"brt","Ruta 8",2017
+696,697,"brt","Ruta 8",2017
+697,698,"brt","Ruta 8",2017
+698,728,"brt","Ruta 8",2017
+728,729,"brt","Ruta 8",2019
+729,730,"brt","Ruta 8",2019
+730,731,"brt","Ruta 8",2019
+731,732,"brt","Ruta 8",2019
+732,733,"brt","Ruta 8",2019
+733,734,"brt","Ruta 8",2019
+734,735,"brt","Ruta 8",2019
+735,736,"brt","Ruta 8",2019
+736,737,"brt","Ruta 8",2019
+737,738,"brt","Ruta 8",2019
+738,739,"brt","Ruta 8",2019
+699,700,"brt","Calchaquí",2019
+700,701,"brt","Calchaquí",2019
+701,702,"brt","Calchaquí",2019
+702,703,"brt","Calchaquí",2019
+703,704,"brt","Calchaquí",2019
+704,705,"brt","Calchaquí",2019
+705,706,"brt","Calchaquí",2019
+706,707,"brt","Calchaquí",2019
+707,708,"brt","Calchaquí",2019
+708,709,"brt","Calchaquí",2019
+709,754,"brt","Calchaquí",2019
+754,756,"brt","Calchaquí",2019
+747,748,"light_rail","Tren Universitario",2013
+748,749,"light_rail","Tren Universitario",2013
+749,750,"light_rail","Tren Universitario",2013
+750,751,"light_rail","Tren Universitario",2013
+751,752,"light_rail","Tren Universitario",2013
+752,753,"light_rail","Tren Universitario",2013
+753,759,"light_rail","Tren Universitario",2013
+759,760,"light_rail","Tren Universitario",2022
+760,761,"light_rail","Tren Universitario",2022
+761,762,"light_rail","Tren Universitario",2022

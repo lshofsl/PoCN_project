@@ -1,0 +1,211 @@
+"nodeID_from","nodeID_to","mode","line","year"
+115,116,"commuter_rail","Airport Rail Link Line",2010
+116,117,"commuter_rail","Airport Rail Link Line",2010
+117,118,"commuter_rail","Airport Rail Link Line",2010
+118,119,"commuter_rail","Airport Rail Link Line",2010
+119,120,"commuter_rail","Airport Rail Link Line",2010
+120,121,"commuter_rail","Airport Rail Link Line",2010
+121,122,"commuter_rail","Airport Rail Link Line",2010
+18,19,"heavy_rail","Silom Line",1999
+19,20,"heavy_rail","Silom Line",1999
+20,21,"heavy_rail","Silom Line",1999
+21,22,"heavy_rail","Silom Line",1999
+22,23,"heavy_rail","Silom Line",1999
+23,24,"heavy_rail","Silom Line",1999
+24,25,"heavy_rail","Silom Line",2009
+25,31,"heavy_rail","Silom Line",2009
+31,32,"heavy_rail","Silom Line",2013
+32,33,"heavy_rail","Silom Line",2013
+33,34,"heavy_rail","Silom Line",2013
+34,215,"heavy_rail","Silom Line",2013
+215,216,"heavy_rail","Silom Line",1999
+1,2,"heavy_rail","Sukhumvit Line",1999
+2,3,"heavy_rail","Sukhumvit Line",1999
+3,4,"heavy_rail","Sukhumvit Line",1999
+4,5,"heavy_rail","Sukhumvit Line",1999
+5,6,"heavy_rail","Sukhumvit Line",1999
+6,7,"heavy_rail","Sukhumvit Line",1999
+7,8,"heavy_rail","Sukhumvit Line",1999
+8,9,"heavy_rail","Sukhumvit Line",1999
+9,10,"heavy_rail","Sukhumvit Line",1999
+10,11,"heavy_rail","Sukhumvit Line",1999
+11,12,"heavy_rail","Sukhumvit Line",1999
+12,13,"heavy_rail","Sukhumvit Line",1999
+13,14,"heavy_rail","Sukhumvit Line",1999
+14,15,"heavy_rail","Sukhumvit Line",1999
+15,16,"heavy_rail","Sukhumvit Line",1999
+16,17,"heavy_rail","Sukhumvit Line",1999
+17,26,"heavy_rail","Sukhumvit Line",1999
+26,27,"heavy_rail","Sukhumvit Line",2011
+27,28,"heavy_rail","Sukhumvit Line",2011
+28,29,"heavy_rail","Sukhumvit Line",2011
+29,30,"heavy_rail","Sukhumvit Line",2011
+30,35,"heavy_rail","Sukhumvit Line",2011
+35,36,"heavy_rail","Sukhumvit Line",2017
+36,37,"heavy_rail","Sukhumvit Line",2018
+37,38,"heavy_rail","Sukhumvit Line",2018
+38,39,"heavy_rail","Sukhumvit Line",2018
+39,40,"heavy_rail","Sukhumvit Line",2018
+40,41,"heavy_rail","Sukhumvit Line",2018
+41,42,"heavy_rail","Sukhumvit Line",2018
+42,43,"heavy_rail","Sukhumvit Line",2018
+43,44,"heavy_rail","Sukhumvit Line",2018
+44,45,"heavy_rail","Sukhumvit Line",2019
+45,46,"heavy_rail","Sukhumvit Line",2019
+46,47,"heavy_rail","Sukhumvit Line",2019
+47,48,"heavy_rail","Sukhumvit Line",2019
+48,49,"heavy_rail","Sukhumvit Line",2019
+49,50,"heavy_rail","Sukhumvit Line",2020
+50,51,"heavy_rail","Sukhumvit Line",2020
+51,52,"heavy_rail","Sukhumvit Line",2020
+52,53,"heavy_rail","Sukhumvit Line",2020
+53,54,"heavy_rail","Sukhumvit Line",2020
+54,55,"heavy_rail","Sukhumvit Line",2020
+55,56,"heavy_rail","Sukhumvit Line",2020
+56,57,"heavy_rail","Sukhumvit Line",2020
+57,58,"heavy_rail","Sukhumvit Line",2020
+58,59,"heavy_rail","Sukhumvit Line",2020
+60,61,"heavy_rail","Blue Line",2004
+61,62,"heavy_rail","Blue Line",2004
+62,63,"heavy_rail","Blue Line",2004
+63,64,"heavy_rail","Blue Line",2004
+64,65,"heavy_rail","Blue Line",2004
+65,66,"heavy_rail","Blue Line",2004
+66,67,"heavy_rail","Blue Line",2004
+67,68,"heavy_rail","Blue Line",2004
+68,69,"heavy_rail","Blue Line",2004
+69,70,"heavy_rail","Blue Line",2004
+70,71,"heavy_rail","Blue Line",2004
+71,72,"heavy_rail","Blue Line",2004
+72,73,"heavy_rail","Blue Line",2004
+73,74,"heavy_rail","Blue Line",2004
+74,75,"heavy_rail","Blue Line",2004
+75,76,"heavy_rail","Blue Line",2004
+76,77,"heavy_rail","Blue Line",2004
+77,94,"heavy_rail","Blue Line",2004
+94,96,"heavy_rail","Blue Line",2017
+96,97,"heavy_rail","Blue Line",2019
+97,98,"heavy_rail","Blue Line",2019
+98,99,"heavy_rail","Blue Line",2019
+99,100,"heavy_rail","Blue Line",2019
+100,101,"heavy_rail","Blue Line",2019
+101,102,"heavy_rail","Blue Line",2019
+102,103,"heavy_rail","Blue Line",2019
+103,104,"heavy_rail","Blue Line",2019
+104,105,"heavy_rail","Blue Line",2019
+105,106,"heavy_rail","Blue Line",2019
+106,107,"heavy_rail","Blue Line",2019
+107,108,"heavy_rail","Blue Line",2020
+108,109,"heavy_rail","Blue Line",2020
+109,110,"heavy_rail","Blue Line",2020
+110,111,"heavy_rail","Blue Line",2020
+111,112,"heavy_rail","Blue Line",2020
+112,113,"heavy_rail","Blue Line",2020
+113,114,"heavy_rail","Blue Line",2020
+78,79,"heavy_rail","Purple Line",2016
+79,80,"heavy_rail","Purple Line",2016
+80,81,"heavy_rail","Purple Line",2016
+81,82,"heavy_rail","Purple Line",2016
+82,83,"heavy_rail","Purple Line",2016
+83,84,"heavy_rail","Purple Line",2016
+84,85,"heavy_rail","Purple Line",2016
+85,86,"heavy_rail","Purple Line",2016
+86,87,"heavy_rail","Purple Line",2016
+87,88,"heavy_rail","Purple Line",2016
+88,89,"heavy_rail","Purple Line",2016
+89,90,"heavy_rail","Purple Line",2016
+90,91,"heavy_rail","Purple Line",2016
+91,92,"heavy_rail","Purple Line",2016
+92,93,"heavy_rail","Purple Line",2016
+93,94,"heavy_rail","Purple Line",2016
+123,124,"brt","Sathon - Ratchaphruek",2010
+124,125,"brt","Sathon - Ratchaphruek",2010
+125,126,"brt","Sathon - Ratchaphruek",2010
+126,127,"brt","Sathon - Ratchaphruek",2010
+127,128,"brt","Sathon - Ratchaphruek",2010
+128,129,"brt","Sathon - Ratchaphruek",2010
+129,130,"brt","Sathon - Ratchaphruek",2010
+130,131,"brt","Sathon - Ratchaphruek",2010
+131,132,"brt","Sathon - Ratchaphruek",2010
+132,133,"brt","Sathon - Ratchaphruek",2010
+133,134,"brt","Sathon - Ratchaphruek",2010
+135,136,"commuter_rail","Dark Red Line",2022
+136,137,"commuter_rail","Dark Red Line",2022
+137,138,"commuter_rail","Dark Red Line",2022
+138,139,"commuter_rail","Dark Red Line",2022
+139,140,"commuter_rail","Dark Red Line",2022
+140,141,"commuter_rail","Dark Red Line",2022
+141,142,"commuter_rail","Dark Red Line",2022
+142,143,"commuter_rail","Dark Red Line",2022
+143,144,"commuter_rail","Dark Red Line",2022
+220,221,"commuter_rail","Light Red Line",2022
+221,222,"commuter_rail","Light Red Line",2022
+145,146,"heavy_rail","Orange Line",2025
+146,147,"heavy_rail","Orange Line",2025
+147,148,"heavy_rail","Orange Line",2025
+148,149,"heavy_rail","Orange Line",2025
+149,150,"heavy_rail","Orange Line",2025
+150,151,"heavy_rail","Orange Line",2025
+151,152,"heavy_rail","Orange Line",2025
+152,153,"heavy_rail","Orange Line",2025
+153,154,"heavy_rail","Orange Line",2025
+154,155,"heavy_rail","Orange Line",2025
+155,156,"heavy_rail","Orange Line",2025
+156,157,"heavy_rail","Orange Line",2025
+157,158,"heavy_rail","Orange Line",2025
+158,159,"heavy_rail","Orange Line",2025
+159,160,"heavy_rail","Orange Line",2025
+160,161,"heavy_rail","Orange Line",2025
+185,186,"people_mover","Pink Line",2022
+186,187,"people_mover","Pink Line",2022
+187,188,"people_mover","Pink Line",2022
+188,189,"people_mover","Pink Line",2022
+189,190,"people_mover","Pink Line",2022
+190,191,"people_mover","Pink Line",2022
+191,192,"people_mover","Pink Line",2022
+192,193,"people_mover","Pink Line",2022
+193,194,"people_mover","Pink Line",2022
+194,195,"people_mover","Pink Line",2022
+195,196,"people_mover","Pink Line",2022
+196,197,"people_mover","Pink Line",2022
+197,198,"people_mover","Pink Line",2022
+198,199,"people_mover","Pink Line",2022
+199,200,"people_mover","Pink Line",2022
+200,201,"people_mover","Pink Line",2022
+201,202,"people_mover","Pink Line",2022
+202,203,"people_mover","Pink Line",2022
+203,204,"people_mover","Pink Line",2022
+204,205,"people_mover","Pink Line",2022
+205,206,"people_mover","Pink Line",2022
+206,207,"people_mover","Pink Line",2022
+207,208,"people_mover","Pink Line",2022
+208,209,"people_mover","Pink Line",2022
+209,210,"people_mover","Pink Line",2022
+210,211,"people_mover","Pink Line",2022
+211,212,"people_mover","Pink Line",2022
+212,213,"people_mover","Pink Line",2022
+213,214,"people_mover","Pink Line",2022
+162,163,"people_mover","Yellow Line",2022
+163,164,"people_mover","Yellow Line",2022
+164,165,"people_mover","Yellow Line",2022
+165,166,"people_mover","Yellow Line",2022
+166,167,"people_mover","Yellow Line",2022
+167,168,"people_mover","Yellow Line",2022
+168,169,"people_mover","Yellow Line",2022
+169,170,"people_mover","Yellow Line",2022
+170,171,"people_mover","Yellow Line",2022
+171,172,"people_mover","Yellow Line",2022
+172,173,"people_mover","Yellow Line",2022
+173,174,"people_mover","Yellow Line",2022
+174,175,"people_mover","Yellow Line",2022
+175,176,"people_mover","Yellow Line",2022
+176,177,"people_mover","Yellow Line",2022
+177,178,"people_mover","Yellow Line",2022
+178,179,"people_mover","Yellow Line",2022
+179,180,"people_mover","Yellow Line",2022
+180,181,"people_mover","Yellow Line",2022
+181,182,"people_mover","Yellow Line",2022
+182,183,"people_mover","Yellow Line",2022
+183,184,"people_mover","Yellow Line",2022
+217,218,"people_mover","Gold Line",2020
+218,219,"people_mover","Gold Line",2020

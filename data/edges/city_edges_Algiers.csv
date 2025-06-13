@@ -1,0 +1,45 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,2,"heavy_rail","1",2011
+2,3,"heavy_rail","1",2011
+3,4,"heavy_rail","1",2011
+4,5,"heavy_rail","1",2011
+5,6,"heavy_rail","1",2011
+6,7,"heavy_rail","1",2011
+7,8,"heavy_rail","1",2011
+8,9,"heavy_rail","1",2011
+9,10,"heavy_rail","1",2011
+10,11,"heavy_rail","1",2018
+11,12,"heavy_rail","1",2018
+12,13,"heavy_rail","1",2011
+13,14,"heavy_rail","1",2015
+14,15,"heavy_rail","1",2015
+15,16,"heavy_rail","1",2015
+16,17,"heavy_rail","1",2015
+17,18,"heavy_rail","1",2018
+18,19,"heavy_rail","1",2018
+19,20,"heavy_rail","1",NA
+20,21,"heavy_rail","1",NA
+21,22,"heavy_rail","1",NA
+22,23,"heavy_rail","1",NA
+23,24,"heavy_rail","1",NA
+24,25,"heavy_rail","1",NA
+25,26,"heavy_rail","1",NA
+26,27,"heavy_rail","1",NA
+27,28,"heavy_rail","1",NA
+28,29,"heavy_rail","1",NA
+29,30,"heavy_rail","1",NA
+30,31,"heavy_rail","1",NA
+31,32,"heavy_rail","1",NA
+32,33,"heavy_rail","1",NA
+34,36,"commuter_rail","Alger - El Affroun",1862
+36,40,"commuter_rail","Alger - El Affroun",1862
+34,36,"commuter_rail","Alger - Thénia",1862
+36,40,"commuter_rail","Alger - Thénia",1862
+40,44,"commuter_rail","Alger - Thénia",1862
+44,46,"commuter_rail","Alger - Thénia",1879
+46,49,"commuter_rail","Alger - Thénia",1879
+36,40,"commuter_rail","Alger - Zéralda",1862
+36,40,"commuter_rail","Alger - Aéroport Houari-Boumediene",1862
+40,44,"commuter_rail","Alger - Aéroport Houari-Boumediene",1862
+44,46,"commuter_rail","Alger - Aéroport Houari-Boumediene",1879
+46,48,"commuter_rail","Alger - Aéroport Houari-Boumediene",1879

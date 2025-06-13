@@ -1,0 +1,137 @@
+"nodeID_from","nodeID_to","mode","line","year"
+2,4,"heavy_rail","Line 1",1987
+4,7,"heavy_rail","Line 1",1987
+7,8,"heavy_rail","Line 1",1987
+8,53,"heavy_rail","Line 1",1987
+53,54,"heavy_rail","Line 1",1987
+54,55,"heavy_rail","Line 1",1987
+55,56,"heavy_rail","Line 1",1987
+56,57,"heavy_rail","Line 1",1987
+57,58,"heavy_rail","Line 1",1987
+58,59,"heavy_rail","Line 1",1987
+59,60,"heavy_rail","Line 1",1987
+60,61,"heavy_rail","Line 1",1987
+61,62,"heavy_rail","Line 1",1987
+62,63,"heavy_rail","Line 1",1987
+63,64,"heavy_rail","Line 1",1987
+64,65,"heavy_rail","Line 1",1987
+65,66,"heavy_rail","Line 1",1987
+66,67,"heavy_rail","Line 1",1987
+67,68,"heavy_rail","Line 1",1987
+68,69,"heavy_rail","Line 1",1987
+69,70,"heavy_rail","Line 1",1987
+70,71,"heavy_rail","Line 1",1987
+71,72,"heavy_rail","Line 1",1987
+72,73,"heavy_rail","Line 1",1987
+73,74,"heavy_rail","Line 1",1987
+74,75,"heavy_rail","Line 1",1987
+75,76,"heavy_rail","Line 1",1987
+76,77,"heavy_rail","Line 1",1987
+77,78,"heavy_rail","Line 1",1987
+78,79,"heavy_rail","Line 1",1987
+79,80,"heavy_rail","Line 1",1987
+80,81,"heavy_rail","Line 1",1987
+81,82,"heavy_rail","Line 1",1987
+82,83,"heavy_rail","Line 1",1987
+2,5,"heavy_rail","Line 2",1987
+5,8,"heavy_rail","Line 2",1996
+8,10,"heavy_rail","Line 2",1987
+10,11,"heavy_rail","Line 2",1996
+11,12,"heavy_rail","Line 2",1996
+12,13,"heavy_rail","Line 2",1996
+13,14,"heavy_rail","Line 2",1996
+14,15,"heavy_rail","Line 2",1996
+15,16,"heavy_rail","Line 2",1996
+16,17,"heavy_rail","Line 2",1996
+17,18,"heavy_rail","Line 2",1996
+18,84,"heavy_rail","Line 2",1996
+84,85,"heavy_rail","Line 2",1996
+85,1,"heavy_rail","Line 2",1996
+1,87,"heavy_rail","Line 2",1996
+87,88,"heavy_rail","Line 2",1996
+88,89,"heavy_rail","Line 2",1996
+89,90,"heavy_rail","Line 2",1996
+90,91,"heavy_rail","Line 2",1996
+1,5,"heavy_rail","Line 3",1996
+5,19,"heavy_rail","Line 3",1996
+19,20,"heavy_rail","Line 3",2022
+20,21,"heavy_rail","Line 3",2022
+21,22,"heavy_rail","Line 3",2022
+22,35,"heavy_rail","Line 3",2012
+35,36,"heavy_rail","Line 3",2012
+36,37,"heavy_rail","Line 3",2012
+37,38,"heavy_rail","Line 3",2012
+38,39,"heavy_rail","Line 3",2012
+39,40,"heavy_rail","Line 3",2012
+40,41,"heavy_rail","Line 3",2012
+41,42,"heavy_rail","Line 3",2012
+42,43,"heavy_rail","Line 3",2012
+43,44,"heavy_rail","Line 3",2012
+44,45,"heavy_rail","Line 3",2012
+45,46,"heavy_rail","Line 3",2012
+46,48,"heavy_rail","Line 3",2012
+48,49,"heavy_rail","Line 3",2012
+49,50,"heavy_rail","Line 3",2012
+50,51,"heavy_rail","Line 3",2012
+51,52,"heavy_rail","Line 3",2012
+52,92,"heavy_rail","Line 3",2012
+92,93,"heavy_rail","Line 3",2024
+93,94,"heavy_rail","Line 3",2024
+94,95,"heavy_rail","Line 3",2024
+95,97,"heavy_rail","Line 3",2024
+97,98,"heavy_rail","Line 3",2024
+98,99,"heavy_rail","Line 3",2024
+99,100,"heavy_rail","Line 3",2024
+100,101,"heavy_rail","Line 3",2024
+101,102,"heavy_rail","Line 3",2024
+102,4,"heavy_rail","Line 3",2024
+23,24,"commuter_rail","Line 1",2022
+24,25,"commuter_rail","Line 1",2022
+25,26,"commuter_rail","Line 1",2022
+26,27,"commuter_rail","Line 1",2022
+27,28,"commuter_rail","Line 1",2022
+28,29,"commuter_rail","Line 1",2022
+29,30,"commuter_rail","Line 1",2022
+30,31,"commuter_rail","Line 1",2022
+31,32,"commuter_rail","Line 1",2022
+32,33,"commuter_rail","Line 1",2022
+33,34,"commuter_rail","Line 1",2022
+34,96,"commuter_rail","Line 1",2022
+46,118,"light_rail","New Administrative Capital Monorail",2012
+118,119,"light_rail","New Administrative Capital Monorail",2023
+119,120,"light_rail","New Administrative Capital Monorail",2023
+120,121,"light_rail","New Administrative Capital Monorail",2023
+121,122,"light_rail","New Administrative Capital Monorail",2023
+122,123,"light_rail","New Administrative Capital Monorail",2023
+123,124,"light_rail","New Administrative Capital Monorail",2023
+124,125,"light_rail","New Administrative Capital Monorail",2023
+125,126,"light_rail","New Administrative Capital Monorail",2023
+126,127,"light_rail","New Administrative Capital Monorail",2023
+127,128,"light_rail","New Administrative Capital Monorail",2023
+128,129,"light_rail","New Administrative Capital Monorail",2023
+129,130,"light_rail","New Administrative Capital Monorail",2023
+130,131,"light_rail","New Administrative Capital Monorail",2023
+131,132,"light_rail","New Administrative Capital Monorail",2023
+133,134,"light_rail","6th of October City Monorail",2023
+134,135,"light_rail","6th of October City Monorail",2023
+135,136,"light_rail","6th of October City Monorail",2023
+136,137,"light_rail","6th of October City Monorail",2023
+137,138,"light_rail","6th of October City Monorail",2023
+138,139,"light_rail","6th of October City Monorail",2023
+139,140,"light_rail","6th of October City Monorail",2023
+140,141,"light_rail","6th of October City Monorail",2023
+141,142,"light_rail","6th of October City Monorail",2023
+103,104,"heavy_rail","Line 4",2026
+104,105,"heavy_rail","Line 4",2026
+105,106,"heavy_rail","Line 4",2026
+106,107,"heavy_rail","Line 4",2026
+107,108,"heavy_rail","Line 4",2026
+108,109,"heavy_rail","Line 4",2026
+109,110,"heavy_rail","Line 4",2026
+110,111,"heavy_rail","Line 4",2026
+111,112,"heavy_rail","Line 4",2026
+112,113,"heavy_rail","Line 4",2026
+113,114,"heavy_rail","Line 4",2026
+114,115,"heavy_rail","Line 4",2026
+115,116,"heavy_rail","Line 4",2026
+116,117,"heavy_rail","Line 4",2026

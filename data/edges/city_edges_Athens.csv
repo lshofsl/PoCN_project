@@ -1,0 +1,280 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,2,"heavy_rail","Γραμμή 1",1928
+2,3,"heavy_rail","Γραμμή 1",1989
+3,4,"heavy_rail","Γραμμή 1",1954
+4,5,"heavy_rail","Γραμμή 1",1948
+5,6,"heavy_rail","Γραμμή 1",1949
+6,7,"heavy_rail","Γραμμή 1",1956
+7,8,"heavy_rail","Γραμμή 1",1956
+8,9,"heavy_rail","Γραμμή 1",1961
+9,10,"heavy_rail","Γραμμή 1",1956
+10,11,"heavy_rail","Γραμμή 1",1956
+11,12,"heavy_rail","Γραμμή 1",1956
+12,13,"heavy_rail","Γραμμή 1",1956
+13,14,"heavy_rail","Γραμμή 1",1982
+14,15,"heavy_rail","Γραμμή 1",2004
+15,16,"heavy_rail","Γραμμή 1",1957
+16,17,"heavy_rail","Γραμμή 1",1989
+17,18,"heavy_rail","Γραμμή 1",1957
+18,24,"heavy_rail","Γραμμή 1",1957
+24,25,"heavy_rail","Γραμμή 1",1869
+25,26,"heavy_rail","Γραμμή 1",1895
+26,27,"heavy_rail","Γραμμή 1",1870
+27,28,"heavy_rail","Γραμμή 1",1880
+28,29,"heavy_rail","Γραμμή 1",1895
+19,20,"heavy_rail","Γραμμή 2",2000
+20,21,"heavy_rail","Γραμμή 2",2000
+21,22,"heavy_rail","Γραμμή 2",2000
+22,23,"heavy_rail","Γραμμή 2",2000
+23,29,"heavy_rail","Γραμμή 2",2000
+29,30,"heavy_rail","Γραμμή 2",1930
+30,31,"heavy_rail","Γραμμή 2",2000
+31,32,"heavy_rail","Γραμμή 2",2000
+32,33,"heavy_rail","Γραμμή 2",2000
+33,34,"heavy_rail","Γραμμή 2",2000
+34,35,"heavy_rail","Γραμμή 2",2000
+35,36,"heavy_rail","Γραμμή 2",2004
+36,37,"heavy_rail","Γραμμή 2",2004
+37,38,"heavy_rail","Γραμμή 2",2013
+38,39,"heavy_rail","Γραμμή 2",2013
+39,40,"heavy_rail","Γραμμή 2",2013
+40,41,"heavy_rail","Γραμμή 2",2013
+41,42,"heavy_rail","Γραμμή 2",2013
+42,5,"heavy_rail","Γραμμή 2",2013
+19,44,"heavy_rail","Γραμμή 3",2000
+44,45,"heavy_rail","Γραμμή 3",2000
+45,46,"heavy_rail","Γραμμή 3",2000
+46,47,"heavy_rail","Γραμμή 3",2000
+47,48,"heavy_rail","Γραμμή 3",2000
+48,49,"heavy_rail","Γραμμή 3",2000
+49,50,"heavy_rail","Γραμμή 3",2004
+50,51,"heavy_rail","Γραμμή 3",2004
+51,52,"heavy_rail","Γραμμή 3",2004
+52,53,"heavy_rail","Γραμμή 3",2010
+53,54,"heavy_rail","Γραμμή 3",2009
+54,55,"heavy_rail","Γραμμή 3",2010
+55,56,"heavy_rail","Γραμμή 3",2007
+56,57,"heavy_rail","Γραμμή 3",2007
+57,58,"heavy_rail","Γραμμή 3",2007
+58,59,"heavy_rail","Γραμμή 3",2013
+59,60,"heavy_rail","Γραμμή 3",2020
+60,61,"heavy_rail","Γραμμή 3",2020
+61,62,"heavy_rail","Γραμμή 3",2020
+62,63,"heavy_rail","Γραμμή 3",2022
+63,24,"heavy_rail","Γραμμή 3",2022
+24,28,"heavy_rail","Γραμμή 3",1869
+28,67,"heavy_rail","Γραμμή 3",1895
+67,68,"heavy_rail","Γραμμή 3",2004
+68,69,"heavy_rail","Γραμμή 3",2004
+69,126,"heavy_rail","Γραμμή 3",2004
+76,78,"light_rail","Γραμμή 3",2004
+78,80,"light_rail","Γραμμή 3",2004
+80,82,"light_rail","Γραμμή 3",2004
+82,96,"light_rail","Γραμμή 3",2004
+96,98,"light_rail","Γραμμή 3",2004
+98,100,"light_rail","Γραμμή 3",2004
+100,102,"light_rail","Γραμμή 3",2004
+102,104,"light_rail","Γραμμή 3",2004
+104,106,"light_rail","Γραμμή 3",2004
+106,108,"light_rail","Γραμμή 3",2004
+108,110,"light_rail","Γραμμή 3",2004
+110,128,"light_rail","Γραμμή 3",2004
+128,131,"light_rail","Γραμμή 3",2004
+131,133,"light_rail","Γραμμή 3",2004
+133,135,"light_rail","Γραμμή 3",2004
+135,137,"light_rail","Γραμμή 3",2004
+137,139,"light_rail","Γραμμή 3",2004
+139,141,"light_rail","Γραμμή 3",2004
+141,143,"light_rail","Γραμμή 3",2004
+143,145,"light_rail","Γραμμή 3",2004
+NA,130,"light_rail","Γραμμή 3",NA
+70,72,"light_rail","Γραμμή 4",2004
+72,74,"light_rail","Γραμμή 4",2004
+74,76,"light_rail","Γραμμή 4",2004
+76,78,"light_rail","Γραμμή 4",2004
+78,84,"light_rail","Γραμμή 4",2004
+84,86,"light_rail","Γραμμή 4",2004
+86,88,"light_rail","Γραμμή 4",2004
+88,90,"light_rail","Γραμμή 4",2004
+90,92,"light_rail","Γραμμή 4",2004
+92,94,"light_rail","Γραμμή 4",2004
+70,72,"light_rail","Γραμμή 5",2004
+72,74,"light_rail","Γραμμή 5",2004
+74,80,"light_rail","Γραμμή 5",2004
+80,82,"light_rail","Γραμμή 5",2004
+82,84,"light_rail","Γραμμή 5",2004
+84,86,"light_rail","Γραμμή 5",2004
+86,88,"light_rail","Γραμμή 5",2004
+88,90,"light_rail","Γραμμή 5",2004
+90,92,"light_rail","Γραμμή 5",2004
+92,94,"light_rail","Γραμμή 5",2004
+94,96,"light_rail","Γραμμή 5",2004
+96,98,"light_rail","Γραμμή 5",2004
+98,100,"light_rail","Γραμμή 5",2004
+100,102,"light_rail","Γραμμή 5",2004
+102,104,"light_rail","Γραμμή 5",2004
+104,106,"light_rail","Γραμμή 5",2004
+106,108,"light_rail","Γραμμή 5",2004
+108,110,"light_rail","Γραμμή 5",2004
+110,128,"light_rail","Γραμμή 5",2004
+128,130,"light_rail","Γραμμή 5",2004
+130,131,"light_rail","Γραμμή 5",2004
+131,133,"light_rail","Γραμμή 5",2004
+133,135,"light_rail","Γραμμή 5",2004
+135,137,"light_rail","Γραμμή 5",2004
+137,139,"light_rail","Γραμμή 5",2004
+139,141,"light_rail","Γραμμή 5",2004
+141,143,"light_rail","Γραμμή 5",2004
+143,145,"light_rail","Γραμμή 5",2004
+112,113,"heavy_rail","Γραμμή 4",999999
+113,114,"heavy_rail","Γραμμή 4",999999
+114,115,"heavy_rail","Γραμμή 4",999999
+115,116,"heavy_rail","Γραμμή 4",999999
+116,117,"heavy_rail","Γραμμή 4",999999
+117,118,"heavy_rail","Γραμμή 4",999999
+118,119,"heavy_rail","Γραμμή 4",999999
+119,120,"heavy_rail","Γραμμή 4",999999
+120,121,"heavy_rail","Γραμμή 4",999999
+121,122,"heavy_rail","Γραμμή 4",999999
+122,123,"heavy_rail","Γραμμή 4",999999
+123,124,"heavy_rail","Γραμμή 4",999999
+124,125,"heavy_rail","Γραμμή 4",999999
+125,126,"heavy_rail","Γραμμή 4",999999
+26,24,"commuter_rail","Σιδηρόδρομος Αθηνών - Πειραιώς (Σ.Α.Π.)",1870
+24,27,"commuter_rail","Σιδηρόδρομος Αθηνών - Πειραιώς (Σ.Α.Π.)",1869
+27,28,"commuter_rail","Σιδηρόδρομος Αθηνών - Πειραιώς (Σ.Α.Π.)",1880
+28,25,"commuter_rail","Σιδηρόδρομος Αθηνών - Πειραιώς (Σ.Α.Π.)",1895
+151,152,"commuter_rail","Σιδηρόδρομοι Αττικής (Σ.Α.)",1885
+152,153,"commuter_rail","Σιδηρόδρομοι Αττικής (Σ.Α.)",1885
+153,154,"commuter_rail","Σιδηρόδρομοι Αττικής (Σ.Α.)",1885
+154,155,"commuter_rail","Σιδηρόδρομοι Αττικής (Σ.Α.)",1885
+155,156,"commuter_rail","Σιδηρόδρομοι Αττικής (Σ.Α.)",1885
+156,157,"commuter_rail","Σιδηρόδρομοι Αττικής (Σ.Α.)",1885
+157,158,"commuter_rail","Σιδηρόδρομοι Αττικής (Σ.Α.)",1885
+158,159,"commuter_rail","Σιδηρόδρομοι Αττικής (Σ.Α.)",1889
+159,160,"commuter_rail","Σιδηρόδρομοι Αττικής (Σ.Α.)",1889
+164,172,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",2011
+172,174,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1983
+174,176,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1983
+176,178,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",2005
+178,180,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",2005
+180,220,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",2005
+220,222,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1884
+222,224,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1884
+224,226,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1884
+226,228,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1884
+228,232,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1884
+232,234,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1884
+234,236,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1884
+236,238,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1884
+238,240,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1884
+240,242,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1885
+NA,166,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",NA
+166,167,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1904
+167,168,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1904
+168,169,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1904
+169,170,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1904
+170,171,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1904
+NA,182,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",NA
+182,183,"inter_city_rail","Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train",1904
+161,162,"commuter_rail","Προαστιακός / Suburban Railway",2010
+162,163,"commuter_rail","Προαστιακός / Suburban Railway",2014
+163,164,"commuter_rail","Προαστιακός / Suburban Railway",2014
+164,166,"commuter_rail","Προαστιακός / Suburban Railway",2011
+166,167,"commuter_rail","Προαστιακός / Suburban Railway",1904
+167,168,"commuter_rail","Προαστιακός / Suburban Railway",1904
+168,169,"commuter_rail","Προαστιακός / Suburban Railway",1904
+169,170,"commuter_rail","Προαστιακός / Suburban Railway",1904
+170,171,"commuter_rail","Προαστιακός / Suburban Railway",1904
+171,172,"commuter_rail","Προαστιακός / Suburban Railway",1904
+172,174,"commuter_rail","Προαστιακός / Suburban Railway",1983
+174,176,"commuter_rail","Προαστιακός / Suburban Railway",1983
+176,178,"commuter_rail","Προαστιακός / Suburban Railway",2005
+178,180,"commuter_rail","Προαστιακός / Suburban Railway",2005
+180,182,"commuter_rail","Προαστιακός / Suburban Railway",2005
+182,183,"commuter_rail","Προαστιακός / Suburban Railway",1904
+183,184,"commuter_rail","Προαστιακός / Suburban Railway",1904
+184,185,"commuter_rail","Προαστιακός / Suburban Railway",2007
+185,186,"commuter_rail","Προαστιακός / Suburban Railway",2007
+186,187,"commuter_rail","Προαστιακός / Suburban Railway",2014
+187,188,"commuter_rail","Προαστιακός / Suburban Railway",2007
+188,51,"commuter_rail","Προαστιακός / Suburban Railway",2007
+51,190,"commuter_rail","Προαστιακός / Suburban Railway",2004
+190,191,"commuter_rail","Προαστιακός / Suburban Railway",2004
+191,192,"commuter_rail","Προαστιακός / Suburban Railway",2007
+192,14,"commuter_rail","Προαστιακός / Suburban Railway",2004
+14,67,"commuter_rail","Προαστιακός / Suburban Railway",2004
+67,68,"commuter_rail","Προαστιακός / Suburban Railway",2004
+68,69,"commuter_rail","Προαστιακός / Suburban Railway",2004
+69,197,"commuter_rail","Προαστιακός / Suburban Railway",2004
+197,198,"commuter_rail","Προαστιακός / Suburban Railway",2004
+198,199,"commuter_rail","Προαστιακός / Suburban Railway",2010
+199,200,"commuter_rail","Προαστιακός / Suburban Railway",2018
+200,201,"commuter_rail","Προαστιακός / Suburban Railway",2006
+201,202,"commuter_rail","Προαστιακός / Suburban Railway",2006
+202,203,"commuter_rail","Προαστιακός / Suburban Railway",2006
+203,204,"commuter_rail","Προαστιακός / Suburban Railway",2005
+204,205,"commuter_rail","Προαστιακός / Suburban Railway",2005
+205,206,"commuter_rail","Προαστιακός / Suburban Railway",2005
+206,207,"commuter_rail","Προαστιακός / Suburban Railway",2005
+207,208,"commuter_rail","Προαστιακός / Suburban Railway",2005
+208,209,"commuter_rail","Προαστιακός / Suburban Railway",2007
+209,210,"commuter_rail","Προαστιακός / Suburban Railway",2007
+210,211,"commuter_rail","Προαστιακός / Suburban Railway",999999
+211,212,"commuter_rail","Προαστιακός / Suburban Railway",2020
+212,213,"commuter_rail","Προαστιακός / Suburban Railway",2020
+213,214,"commuter_rail","Προαστιακός / Suburban Railway",2020
+214,215,"commuter_rail","Προαστιακός / Suburban Railway",2020
+215,216,"commuter_rail","Προαστιακός / Suburban Railway",2020
+216,218,"commuter_rail","Προαστιακός / Suburban Railway",2020
+218,219,"commuter_rail","Προαστιακός / Suburban Railway",2020
+NA,166,"inter_city_rail","Σιδηρόδρομος Πειραιώς - Δεμερλή - Συνόρων (Σ.Π.Δ.Σ.)",NA
+166,167,"inter_city_rail","Σιδηρόδρομος Πειραιώς - Δεμερλή - Συνόρων (Σ.Π.Δ.Σ.)",1904
+167,168,"inter_city_rail","Σιδηρόδρομος Πειραιώς - Δεμερλή - Συνόρων (Σ.Π.Δ.Σ.)",1904
+168,169,"inter_city_rail","Σιδηρόδρομος Πειραιώς - Δεμερλή - Συνόρων (Σ.Π.Δ.Σ.)",1904
+169,170,"inter_city_rail","Σιδηρόδρομος Πειραιώς - Δεμερλή - Συνόρων (Σ.Π.Δ.Σ.)",1904
+170,171,"inter_city_rail","Σιδηρόδρομος Πειραιώς - Δεμερλή - Συνόρων (Σ.Π.Δ.Σ.)",1904
+NA,182,"inter_city_rail","Σιδηρόδρομος Πειραιώς - Δεμερλή - Συνόρων (Σ.Π.Δ.Σ.)",NA
+182,183,"inter_city_rail","Σιδηρόδρομος Πειραιώς - Δεμερλή - Συνόρων (Σ.Π.Δ.Σ.)",1904
+220,222,"inter_city_rail","Σιδηρόδρομοι Πειραιώς - Αθηνών - Πελοποννήσου (Σ.Π.Α.Π.)",1884
+222,224,"inter_city_rail","Σιδηρόδρομοι Πειραιώς - Αθηνών - Πελοποννήσου (Σ.Π.Α.Π.)",1884
+224,226,"inter_city_rail","Σιδηρόδρομοι Πειραιώς - Αθηνών - Πελοποννήσου (Σ.Π.Α.Π.)",1884
+226,228,"inter_city_rail","Σιδηρόδρομοι Πειραιώς - Αθηνών - Πελοποννήσου (Σ.Π.Α.Π.)",1884
+228,230,"inter_city_rail","Σιδηρόδρομοι Πειραιώς - Αθηνών - Πελοποννήσου (Σ.Π.Α.Π.)",1884
+230,232,"inter_city_rail","Σιδηρόδρομοι Πειραιώς - Αθηνών - Πελοποννήσου (Σ.Π.Α.Π.)",1884
+232,234,"inter_city_rail","Σιδηρόδρομοι Πειραιώς - Αθηνών - Πελοποννήσου (Σ.Π.Α.Π.)",1884
+234,236,"inter_city_rail","Σιδηρόδρομοι Πειραιώς - Αθηνών - Πελοποννήσου (Σ.Π.Α.Π.)",1884
+236,238,"inter_city_rail","Σιδηρόδρομοι Πειραιώς - Αθηνών - Πελοποννήσου (Σ.Π.Α.Π.)",1884
+238,240,"inter_city_rail","Σιδηρόδρομοι Πειραιώς - Αθηνών - Πελοποννήσου (Σ.Π.Α.Π.)",1884
+240,242,"inter_city_rail","Σιδηρόδρομοι Πειραιώς - Αθηνών - Πελοποννήσου (Σ.Π.Α.Π.)",1885
+80,82,"light_rail","Γραμμή 6",2004
+82,84,"light_rail","Γραμμή 6",2004
+84,86,"light_rail","Γραμμή 6",2004
+86,88,"light_rail","Γραμμή 6",2004
+88,90,"light_rail","Γραμμή 6",2004
+90,92,"light_rail","Γραμμή 6",2004
+92,94,"light_rail","Γραμμή 6",2004
+NA,70,"light_rail","Γραμμή 6",NA
+70,72,"light_rail","Γραμμή 6",2004
+72,74,"light_rail","Γραμμή 6",2004
+NA,78,"light_rail","Γραμμή 7",NA
+NA,80,"light_rail","Γραμμή 7",NA
+80,82,"light_rail","Γραμμή 7",2004
+82,96,"light_rail","Γραμμή 7",2004
+96,128,"light_rail","Γραμμή 7",2004
+128,98,"light_rail","Γραμμή 7",2004
+98,100,"light_rail","Γραμμή 7",2004
+100,102,"light_rail","Γραμμή 7",2004
+102,104,"light_rail","Γραμμή 7",2004
+104,106,"light_rail","Γραμμή 7",2004
+106,108,"light_rail","Γραμμή 7",2004
+108,110,"light_rail","Γραμμή 7",2004
+110,130,"light_rail","Γραμμή 7",2004
+130,131,"light_rail","Γραμμή 7",2004
+131,133,"light_rail","Γραμμή 7",2004
+133,135,"light_rail","Γραμμή 7",2004
+135,137,"light_rail","Γραμμή 7",2004
+137,139,"light_rail","Γραμμή 7",2004
+139,141,"light_rail","Γραμμή 7",2004
+141,143,"light_rail","Γραμμή 7",2004
+143,145,"light_rail","Γραμμή 7",2004

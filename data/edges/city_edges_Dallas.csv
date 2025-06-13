@@ -1,0 +1,30 @@
+"nodeID_from","nodeID_to","mode","line","year"
+26,27,"light_rail","Orange Line",2012
+27,28,"light_rail","Orange Line",2012
+28,29,"light_rail","Orange Line",2012
+29,30,"light_rail","Orange Line",2012
+30,31,"light_rail","Orange Line",2014
+14,16,"commuter_rail","Trinity Railway Express",2001
+16,18,"commuter_rail","Trinity Railway Express",2001
+18,19,"commuter_rail","Trinity Railway Express",2000
+19,20,"commuter_rail","Trinity Railway Express",2000
+20,21,"commuter_rail","Trinity Railway Express",2000
+21,22,"commuter_rail","Trinity Railway Express",2000
+22,23,"commuter_rail","Trinity Railway Express",1996
+23,24,"commuter_rail","Trinity Railway Express",1996
+24,25,"commuter_rail","Trinity Railway Express",1996
+7,8,"commuter_rail","TEXRail",2019
+8,9,"commuter_rail","TEXRail",2019
+9,10,"commuter_rail","TEXRail",2019
+10,11,"commuter_rail","TEXRail",2019
+11,12,"commuter_rail","TEXRail",2019
+12,13,"commuter_rail","TEXRail",2019
+13,14,"commuter_rail","TEXRail",2019
+14,16,"commuter_rail","TEXRail",2001
+1,2,"commuter_rail","A-train",2011
+2,3,"commuter_rail","A-train",2011
+3,4,"commuter_rail","A-train",2011
+4,5,"commuter_rail","A-train",2011
+5,6,"commuter_rail","A-train",2011
+32,33,"inter_city_rail","Fort Worth-Dallas",1902
+33,14,"inter_city_rail","Fort Worth-Dallas",1916

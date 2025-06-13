@@ -1,0 +1,8 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,5,"light_rail","L4",2019
+5,9,"light_rail","L4",2007
+1,5,"light_rail","L1",2019
+5,9,"light_rail","L1",2007
+5,9,"light_rail","L2",2007
+1,5,"light_rail","L3",2019
+5,9,"light_rail","L3",2007
