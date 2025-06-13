@@ -1,0 +1,271 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,2,"heavy_rail","North South Line",1987
+2,3,"heavy_rail","North South Line",1987
+3,4,"heavy_rail","North South Line",1987
+4,5,"heavy_rail","North South Line",1987
+5,6,"heavy_rail","North South Line",1987
+6,7,"heavy_rail","North South Line",1987
+7,8,"heavy_rail","North South Line",1987
+8,9,"heavy_rail","North South Line",1987
+9,10,"heavy_rail","North South Line",1987
+10,11,"heavy_rail","North South Line",1987
+11,12,"heavy_rail","North South Line",1987
+12,13,"heavy_rail","North South Line",1987
+13,14,"heavy_rail","North South Line",1989
+14,15,"heavy_rail","North South Line",1989
+15,16,"heavy_rail","North South Line",1990
+16,17,"heavy_rail","North South Line",2014
+17,18,"heavy_rail","North South Line",1996
+18,19,"heavy_rail","North South Line",1996
+19,20,"heavy_rail","North South Line",1996
+20,21,"heavy_rail","North South Line",1996
+21,22,"heavy_rail","North South Line",1996
+22,23,"heavy_rail","North South Line",1996
+23,239,"heavy_rail","North South Line",2020
+239,49,"heavy_rail","North South Line",1990
+49,242,"heavy_rail","North South Line",1990
+242,244,"heavy_rail","North South Line",1990
+24,25,"heavy_rail","East West Line",1987
+25,26,"heavy_rail","East West Line",1987
+26,27,"heavy_rail","East West Line",1987
+27,28,"heavy_rail","East West Line",1989
+28,29,"heavy_rail","East West Line",1988
+29,30,"heavy_rail","East West Line",1988
+30,31,"heavy_rail","East West Line",1988
+31,32,"heavy_rail","East West Line",1988
+32,33,"heavy_rail","East West Line",1988
+33,34,"heavy_rail","East West Line",2001
+34,35,"heavy_rail","East West Line",1988
+35,36,"heavy_rail","East West Line",1990
+36,37,"heavy_rail","East West Line",1990
+37,38,"heavy_rail","East West Line",1990
+38,39,"heavy_rail","East West Line",1990
+39,40,"heavy_rail","East West Line",1990
+40,41,"heavy_rail","East West Line",1990
+41,42,"heavy_rail","East West Line",1990
+42,43,"heavy_rail","East West Line",1990
+43,44,"heavy_rail","East West Line",1990
+44,45,"heavy_rail","East West Line",1988
+45,46,"heavy_rail","East West Line",1988
+46,47,"heavy_rail","East West Line",1988
+47,48,"heavy_rail","East West Line",1990
+48,50,"heavy_rail","East West Line",1990
+50,51,"heavy_rail","East West Line",1990
+51,52,"heavy_rail","East West Line",2001
+52,53,"heavy_rail","East West Line",2002
+53,54,"heavy_rail","East West Line",1990
+54,55,"heavy_rail","East West Line",2009
+55,56,"heavy_rail","East West Line",2009
+56,57,"heavy_rail","East West Line",2017
+57,58,"heavy_rail","East West Line",2017
+58,59,"heavy_rail","East West Line",2017
+60,61,"heavy_rail","Circle Line",2010
+61,62,"heavy_rail","Circle Line",2010
+62,63,"heavy_rail","Circle Line",2010
+63,64,"heavy_rail","Circle Line",2010
+64,65,"heavy_rail","Circle Line",2010
+65,66,"heavy_rail","Circle Line",2010
+66,67,"heavy_rail","Circle Line",2010
+67,68,"heavy_rail","Circle Line",2010
+68,69,"heavy_rail","Circle Line",2010
+69,70,"heavy_rail","Circle Line",2010
+70,71,"heavy_rail","Circle Line",2010
+71,72,"heavy_rail","Circle Line",2009
+72,73,"heavy_rail","Circle Line",2009
+73,74,"heavy_rail","Circle Line",2009
+74,75,"heavy_rail","Circle Line",2009
+75,76,"heavy_rail","Circle Line",2009
+76,77,"heavy_rail","Circle Line",2011
+77,78,"heavy_rail","Circle Line",2011
+78,79,"heavy_rail","Circle Line",2011
+79,80,"heavy_rail","Circle Line",2011
+80,81,"heavy_rail","Circle Line",2011
+81,82,"heavy_rail","Circle Line",2011
+82,83,"heavy_rail","Circle Line",2011
+83,84,"heavy_rail","Circle Line",2011
+84,85,"heavy_rail","Circle Line",2011
+85,86,"heavy_rail","Circle Line",2011
+86,87,"heavy_rail","Circle Line",2011
+87,88,"heavy_rail","Circle Line",2011
+88,89,"heavy_rail","Circle Line",2012
+89,220,"heavy_rail","Circle Line",2012
+220,221,"heavy_rail","Circle Line",2026
+221,222,"heavy_rail","Circle Line",2026
+90,91,"heavy_rail","North East Line",2003
+91,92,"heavy_rail","North East Line",2003
+92,93,"heavy_rail","North East Line",2006
+93,94,"heavy_rail","North East Line",2003
+94,95,"heavy_rail","North East Line",2003
+95,96,"heavy_rail","North East Line",2003
+96,97,"heavy_rail","North East Line",2011
+97,98,"heavy_rail","North East Line",2003
+98,99,"heavy_rail","North East Line",2003
+99,100,"heavy_rail","North East Line",2003
+100,101,"heavy_rail","North East Line",2003
+101,102,"heavy_rail","North East Line",2003
+102,103,"heavy_rail","North East Line",2003
+103,104,"heavy_rail","North East Line",2003
+104,105,"heavy_rail","North East Line",2003
+105,232,"heavy_rail","North East Line",2003
+161,162,"heavy_rail","Downtown Line",2013
+162,163,"heavy_rail","Downtown Line",2013
+163,164,"heavy_rail","Downtown Line",2013
+164,165,"heavy_rail","Downtown Line",2013
+165,166,"heavy_rail","Downtown Line",2013
+166,167,"heavy_rail","Downtown Line",2013
+167,168,"heavy_rail","Downtown Line",2015
+168,169,"heavy_rail","Downtown Line",2015
+169,170,"heavy_rail","Downtown Line",2015
+170,171,"heavy_rail","Downtown Line",2015
+171,172,"heavy_rail","Downtown Line",2015
+172,173,"heavy_rail","Downtown Line",2015
+173,174,"heavy_rail","Downtown Line",2015
+174,175,"heavy_rail","Downtown Line",2015
+175,176,"heavy_rail","Downtown Line",2015
+176,177,"heavy_rail","Downtown Line",2025
+177,178,"heavy_rail","Downtown Line",2015
+178,179,"heavy_rail","Downtown Line",2015
+179,180,"heavy_rail","Downtown Line",2015
+180,181,"heavy_rail","Downtown Line",2017
+181,182,"heavy_rail","Downtown Line",2017
+182,183,"heavy_rail","Downtown Line",2017
+183,184,"heavy_rail","Downtown Line",2017
+184,185,"heavy_rail","Downtown Line",2017
+185,186,"heavy_rail","Downtown Line",2017
+186,187,"heavy_rail","Downtown Line",2017
+187,188,"heavy_rail","Downtown Line",2017
+188,189,"heavy_rail","Downtown Line",2017
+189,190,"heavy_rail","Downtown Line",2017
+190,191,"heavy_rail","Downtown Line",2017
+191,192,"heavy_rail","Downtown Line",2017
+192,193,"heavy_rail","Downtown Line",2017
+193,194,"heavy_rail","Downtown Line",2017
+194,195,"heavy_rail","Downtown Line",2017
+195,196,"heavy_rail","Downtown Line",2017
+196,197,"heavy_rail","Downtown Line",2025
+198,199,"heavy_rail","Thomson-East Coast Line",2020
+199,200,"heavy_rail","Thomson-East Coast Line",2020
+200,201,"heavy_rail","Thomson-East Coast Line",2020
+201,202,"heavy_rail","Thomson-East Coast Line",2021
+202,203,"heavy_rail","Thomson-East Coast Line",2021
+203,204,"heavy_rail","Thomson-East Coast Line",2021
+204,205,"heavy_rail","Thomson-East Coast Line",2021
+205,206,"heavy_rail","Thomson-East Coast Line",2021
+206,207,"heavy_rail","Thomson-East Coast Line",2021
+207,208,"heavy_rail","Thomson-East Coast Line",2027
+208,209,"heavy_rail","Thomson-East Coast Line",2023
+209,210,"heavy_rail","Thomson-East Coast Line",2023
+210,211,"heavy_rail","Thomson-East Coast Line",2023
+211,212,"heavy_rail","Thomson-East Coast Line",2023
+212,213,"heavy_rail","Thomson-East Coast Line",2023
+213,214,"heavy_rail","Thomson-East Coast Line",2023
+214,215,"heavy_rail","Thomson-East Coast Line",2023
+215,216,"heavy_rail","Thomson-East Coast Line",2023
+216,217,"heavy_rail","Thomson-East Coast Line",2023
+217,218,"heavy_rail","Thomson-East Coast Line",2023
+218,219,"heavy_rail","Thomson-East Coast Line",2027
+219,223,"heavy_rail","Thomson-East Coast Line",2023
+223,224,"heavy_rail","Thomson-East Coast Line",2024
+224,225,"heavy_rail","Thomson-East Coast Line",2027
+225,226,"heavy_rail","Thomson-East Coast Line",2024
+226,227,"heavy_rail","Thomson-East Coast Line",2024
+227,228,"heavy_rail","Thomson-East Coast Line",2024
+228,229,"heavy_rail","Thomson-East Coast Line",2024
+229,230,"heavy_rail","Thomson-East Coast Line",2024
+230,231,"heavy_rail","Thomson-East Coast Line",2024
+231,238,"heavy_rail","Thomson-East Coast Line",2025
+135,136,"light_rail","Punggol LRT",2005
+136,137,"light_rail","Punggol LRT",2005
+137,138,"light_rail","Punggol LRT",2005
+138,139,"light_rail","Punggol LRT",2005
+139,140,"light_rail","Punggol LRT",2005
+140,141,"light_rail","Punggol LRT",2005
+141,142,"light_rail","Punggol LRT",2007
+142,143,"light_rail","Punggol LRT",2011
+143,144,"light_rail","Punggol LRT",2016
+144,145,"light_rail","Punggol LRT",9999
+145,146,"light_rail","Punggol LRT",2016
+146,147,"light_rail","Punggol LRT",2017
+147,148,"light_rail","Punggol LRT",2014
+148,149,"light_rail","Punggol LRT",2014
+121,122,"light_rail","Sengkang LRT",2003
+122,123,"light_rail","Sengkang LRT",2003
+123,124,"light_rail","Sengkang LRT",2003
+124,125,"light_rail","Sengkang LRT",2003
+125,126,"light_rail","Sengkang LRT",2003
+126,127,"light_rail","Sengkang LRT",2003
+127,128,"light_rail","Sengkang LRT",2013
+128,129,"light_rail","Sengkang LRT",2007
+129,130,"light_rail","Sengkang LRT",2015
+130,131,"light_rail","Sengkang LRT",2003
+131,132,"light_rail","Sengkang LRT",2003
+132,133,"light_rail","Sengkang LRT",2003
+133,134,"light_rail","Sengkang LRT",2003
+106,107,"light_rail","Bukit Panjang LRT",1999
+107,108,"light_rail","Bukit Panjang LRT",1999
+108,109,"light_rail","Bukit Panjang LRT",1999
+109,110,"light_rail","Bukit Panjang LRT",1999
+110,111,"light_rail","Bukit Panjang LRT",1999
+111,112,"light_rail","Bukit Panjang LRT",1999
+112,113,"light_rail","Bukit Panjang LRT",1999
+113,114,"light_rail","Bukit Panjang LRT",1999
+114,115,"light_rail","Bukit Panjang LRT",1999
+115,116,"light_rail","Bukit Panjang LRT",1999
+116,117,"light_rail","Bukit Panjang LRT",1999
+117,118,"light_rail","Bukit Panjang LRT",1999
+118,119,"light_rail","Bukit Panjang LRT",1999
+119,120,"light_rail","Bukit Panjang LRT",1999
+49,239,"heavy_rail","Branch Line",1990
+239,242,"heavy_rail","Branch Line",1990
+242,244,"heavy_rail","Branch Line",1990
+150,151,"people_mover","Changi Airport Skytrain",2007
+151,152,"people_mover","Changi Airport Skytrain",1990
+152,153,"people_mover","Changi Airport Skytrain",2007
+153,154,"people_mover","Changi Airport Skytrain",1990
+154,155,"people_mover","Changi Airport Skytrain",2007
+155,156,"people_mover","Changi Airport Skytrain",2007
+157,158,"people_mover","Sentosa Express",2007
+158,159,"people_mover","Sentosa Express",2010
+159,160,"people_mover","Sentosa Express",2007
+233,234,"inter_city_rail","Shuttle Tebrau",1998
+235,236,"inter_city_rail","North-South Line",1932
+236,237,"inter_city_rail","North-South Line",1932
+246,247,"heavy_rail","Jurong Region Line",2027
+247,248,"heavy_rail","Jurong Region Line",2027
+248,249,"heavy_rail","Jurong Region Line",2027
+249,250,"heavy_rail","Jurong Region Line",2027
+250,251,"heavy_rail","Jurong Region Line",2027
+251,252,"heavy_rail","Jurong Region Line",2027
+252,253,"heavy_rail","Jurong Region Line",2027
+253,254,"heavy_rail","Jurong Region Line",2027
+254,255,"heavy_rail","Jurong Region Line",2029
+255,256,"heavy_rail","Jurong Region Line",2029
+256,257,"heavy_rail","Jurong Region Line",2029
+257,258,"heavy_rail","Jurong Region Line",2029
+258,259,"heavy_rail","Jurong Region Line",2027
+259,260,"heavy_rail","Jurong Region Line",2027
+260,261,"heavy_rail","Jurong Region Line",2029
+261,262,"heavy_rail","Jurong Region Line",2029
+262,263,"heavy_rail","Jurong Region Line",2028
+263,264,"heavy_rail","Jurong Region Line",2028
+264,265,"heavy_rail","Jurong Region Line",2028
+265,266,"heavy_rail","Jurong Region Line",2028
+266,267,"heavy_rail","Jurong Region Line",2028
+267,268,"heavy_rail","Jurong Region Line",2028
+268,281,"heavy_rail","Jurong Region Line",2028
+269,270,"heavy_rail","Cross Island Line",2030
+270,271,"heavy_rail","Cross Island Line",2030
+271,272,"heavy_rail","Cross Island Line",2030
+272,273,"heavy_rail","Cross Island Line",2032
+273,274,"heavy_rail","Cross Island Line",2030
+274,275,"heavy_rail","Cross Island Line",2030
+275,276,"heavy_rail","Cross Island Line",2030
+276,277,"heavy_rail","Cross Island Line",2030
+277,278,"heavy_rail","Cross Island Line",2030
+278,279,"heavy_rail","Cross Island Line",2030
+279,280,"heavy_rail","Cross Island Line",2030
+280,282,"heavy_rail","Cross Island Line",2030
+282,283,"heavy_rail","Cross Island Line",2032
+283,284,"heavy_rail","Cross Island Line",2032
+284,285,"heavy_rail","Cross Island Line",2032
+285,286,"heavy_rail","Cross Island Line",NA

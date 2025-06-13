@@ -1,0 +1,234 @@
+"nodeID_from","nodeID_to","mode","line","year"
+105,119,"heavy_rail","Linha 1 • Azul (CMSP)",1978
+119,141,"heavy_rail","Linha 1 • Azul (CMSP)",1974
+141,121,"heavy_rail","Linha 1 • Azul (CMSP)",1975
+121,144,"heavy_rail","Linha 1 • Azul (CMSP)",1975
+144,145,"heavy_rail","Linha 1 • Azul (CMSP)",1975
+145,147,"heavy_rail","Linha 1 • Azul (CMSP)",1975
+147,148,"heavy_rail","Linha 1 • Azul (CMSP)",1974
+148,135,"heavy_rail","Linha 1 • Azul (CMSP)",1975
+135,152,"heavy_rail","Linha 1 • Azul (CMSP)",1975
+152,156,"heavy_rail","Linha 1 • Azul (CMSP)",1974
+156,157,"heavy_rail","Linha 1 • Azul (CMSP)",1975
+157,158,"heavy_rail","Linha 1 • Azul (CMSP)",1998
+158,159,"heavy_rail","Linha 1 • Azul (CMSP)",1998
+159,160,"heavy_rail","Linha 1 • Azul (CMSP)",1975
+160,164,"heavy_rail","Linha 1 • Azul (CMSP)",1998
+164,134,"heavy_rail","Linha 1 • Azul (CMSP)",1975
+134,168,"heavy_rail","Linha 1 • Azul (CMSP)",1975
+168,170,"heavy_rail","Linha 1 • Azul (CMSP)",1975
+170,172,"heavy_rail","Linha 1 • Azul (CMSP)",1974
+172,175,"heavy_rail","Linha 1 • Azul (CMSP)",1975
+175,176,"heavy_rail","Linha 1 • Azul (CMSP)",1974
+176,178,"heavy_rail","Linha 1 • Azul (CMSP)",1974
+100,121,"heavy_rail","Linha 2 • Verde (CMSP)",2007
+121,122,"heavy_rail","Linha 2 • Verde (CMSP)",1975
+122,134,"heavy_rail","Linha 2 • Verde (CMSP)",2014
+134,142,"heavy_rail","Linha 2 • Verde (CMSP)",1975
+142,150,"heavy_rail","Linha 2 • Verde (CMSP)",1998
+150,151,"heavy_rail","Linha 2 • Verde (CMSP)",2006
+151,120,"heavy_rail","Linha 2 • Verde (CMSP)",1998
+120,133,"heavy_rail","Linha 2 • Verde (CMSP)",2006
+133,155,"heavy_rail","Linha 2 • Verde (CMSP)",2010
+155,167,"heavy_rail","Linha 2 • Verde (CMSP)",2010
+167,169,"heavy_rail","Linha 2 • Verde (CMSP)",1991
+169,171,"heavy_rail","Linha 2 • Verde (CMSP)",1991
+171,173,"heavy_rail","Linha 2 • Verde (CMSP)",1991
+65,105,"heavy_rail","Linha 3 • Vermelha (CMSP)",1920
+105,109,"heavy_rail","Linha 3 • Vermelha (CMSP)",1978
+109,111,"heavy_rail","Linha 3 • Vermelha (CMSP)",1892
+111,188,"heavy_rail","Linha 3 • Vermelha (CMSP)",1934
+188,190,"heavy_rail","Linha 3 • Vermelha (CMSP)",1979
+190,191,"heavy_rail","Linha 3 • Vermelha (CMSP)",1980
+191,192,"heavy_rail","Linha 3 • Vermelha (CMSP)",1981
+192,126,"heavy_rail","Linha 3 • Vermelha (CMSP)",1983
+126,194,"heavy_rail","Linha 3 • Vermelha (CMSP)",1982
+194,195,"heavy_rail","Linha 3 • Vermelha (CMSP)",1983
+195,112,"heavy_rail","Linha 3 • Vermelha (CMSP)",1988
+112,222,"heavy_rail","Linha 3 • Vermelha (CMSP)",1988
+222,247,"heavy_rail","Linha 3 • Vermelha (CMSP)",1988
+247,248,"heavy_rail","Linha 3 • Vermelha (CMSP)",1921
+248,249,"heavy_rail","Linha 3 • Vermelha (CMSP)",1948
+249,250,"heavy_rail","Linha 3 • Vermelha (CMSP)",1921
+250,251,"heavy_rail","Linha 3 • Vermelha (CMSP)",1894
+13,35,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",2017
+35,36,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",2018
+36,37,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",2018
+37,38,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",2018
+38,44,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",2018
+44,46,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",2017
+46,118,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",2017
+118,119,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",999999
+119,120,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",1974
+120,220,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",2006
+220,138,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",2002
+138,231,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",2002
+231,252,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",2002
+252,256,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",2002
+256,258,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",2014
+258,259,"heavy_rail","Linha 5 • Lilás (ViaMobilidade)",2002
+7,9,"heavy_rail","Linha 15 • Prata (CMSP)",2019
+9,14,"heavy_rail","Linha 15 • Prata (CMSP)",2018
+14,18,"heavy_rail","Linha 15 • Prata (CMSP)",2019
+18,22,"heavy_rail","Linha 15 • Prata (CMSP)",2019
+22,25,"heavy_rail","Linha 15 • Prata (CMSP)",2018
+25,27,"heavy_rail","Linha 15 • Prata (CMSP)",2019
+27,28,"heavy_rail","Linha 15 • Prata (CMSP)",2018
+28,122,"heavy_rail","Linha 15 • Prata (CMSP)",2018
+122,162,"heavy_rail","Linha 15 • Prata (CMSP)",2014
+5,10,"heavy_rail","Linha 4 • Amarela (ViaQuatro)",2021
+10,12,"heavy_rail","Linha 4 • Amarela (ViaQuatro)",2018
+12,16,"heavy_rail","Linha 4 • Amarela (ViaQuatro)",2018
+16,104,"heavy_rail","Linha 4 • Amarela (ViaQuatro)",2018
+104,126,"heavy_rail","Linha 4 • Amarela (ViaQuatro)",1957
+126,135,"heavy_rail","Linha 4 • Amarela (ViaQuatro)",1982
+135,163,"heavy_rail","Linha 4 • Amarela (ViaQuatro)",1975
+163,165,"heavy_rail","Linha 4 • Amarela (ViaQuatro)",2010
+165,233,"heavy_rail","Linha 4 • Amarela (ViaQuatro)",2010
+233,255,"heavy_rail","Linha 4 • Amarela (ViaQuatro)",2011
+116,117,"heavy_rail","Linha 7 • Rubi (CPTM)",1908
+117,124,"heavy_rail","Linha 7 • Rubi (CPTM)",1867
+124,125,"heavy_rail","Linha 7 • Rubi (CPTM)",1891
+125,146,"heavy_rail","Linha 7 • Rubi (CPTM)",1881
+146,174,"heavy_rail","Linha 7 • Rubi (CPTM)",1885
+174,115,"heavy_rail","Linha 7 • Rubi (CPTM)",1960
+115,179,"heavy_rail","Linha 7 • Rubi (CPTM)",1867
+179,180,"heavy_rail","Linha 7 • Rubi (CPTM)",1888
+180,181,"heavy_rail","Linha 7 • Rubi (CPTM)",1891
+181,182,"heavy_rail","Linha 7 • Rubi (CPTM)",1899
+182,183,"heavy_rail","Linha 7 • Rubi (CPTM)",1955
+183,184,"heavy_rail","Linha 7 • Rubi (CPTM)",2013
+184,185,"heavy_rail","Linha 7 • Rubi (CPTM)",1867
+185,186,"heavy_rail","Linha 7 • Rubi (CPTM)",1955
+186,187,"heavy_rail","Linha 7 • Rubi (CPTM)",1883
+187,189,"heavy_rail","Linha 7 • Rubi (CPTM)",1867
+189,109,"heavy_rail","Linha 7 • Rubi (CPTM)",1867
+101,109,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1875
+109,197,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1892
+197,198,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1940
+198,199,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1931
+199,107,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1958
+107,201,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1919
+201,202,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1946
+202,203,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1951
+203,204,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1921
+204,205,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1951
+205,206,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1941
+206,207,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1938
+207,208,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1966
+208,209,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1925
+209,210,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1955
+210,211,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1951
+211,212,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1975
+212,106,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1922
+106,214,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1892
+214,215,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1929
+215,216,"heavy_rail","Linha 8 • Diamante (ViaMobilidade)",1875
+1,2,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",NA
+2,59,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",NA
+59,106,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",1960
+106,107,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",1892
+107,138,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",1919
+138,218,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",2002
+218,223,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",1981
+223,224,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",1992
+224,226,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",2000
+226,228,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",1957
+228,232,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",2000
+232,234,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",2000
+234,240,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",1981
+240,241,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",1957
+241,242,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",1960
+242,104,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",1970
+104,244,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",1957
+244,245,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",1960
+245,246,"heavy_rail","Linha 9 • Esmeralda (ViaMobilidade)",1957
+114,133,"heavy_rail","Linha 10 • Turquesa (CPTM)",1875
+133,217,"heavy_rail","Linha 10 • Turquesa (CPTM)",2010
+217,221,"heavy_rail","Linha 10 • Turquesa (CPTM)",1883
+221,229,"heavy_rail","Linha 10 • Turquesa (CPTM)",1886
+229,230,"heavy_rail","Linha 10 • Turquesa (CPTM)",1867
+230,235,"heavy_rail","Linha 10 • Turquesa (CPTM)",1867
+235,236,"heavy_rail","Linha 10 • Turquesa (CPTM)",1885
+236,237,"heavy_rail","Linha 10 • Turquesa (CPTM)",1907
+237,238,"heavy_rail","Linha 10 • Turquesa (CPTM)",1883
+238,239,"heavy_rail","Linha 10 • Turquesa (CPTM)",1920
+239,253,"heavy_rail","Linha 10 • Turquesa (CPTM)",1867
+253,254,"heavy_rail","Linha 10 • Turquesa (CPTM)",1952
+108,109,"heavy_rail","Linha 11 • Coral (CPTM)",2000
+109,111,"heavy_rail","Linha 11 • Coral (CPTM)",1892
+111,112,"heavy_rail","Linha 11 • Coral (CPTM)",1934
+112,113,"heavy_rail","Linha 11 • Coral (CPTM)",1988
+113,114,"heavy_rail","Linha 11 • Coral (CPTM)",2000
+114,115,"heavy_rail","Linha 11 • Coral (CPTM)",1875
+115,227,"heavy_rail","Linha 11 • Coral (CPTM)",1867
+227,257,"heavy_rail","Linha 11 • Coral (CPTM)",1914
+257,260,"heavy_rail","Linha 11 • Coral (CPTM)",1914
+260,261,"heavy_rail","Linha 11 • Coral (CPTM)",1875
+261,110,"heavy_rail","Linha 11 • Coral (CPTM)",1976
+110,263,"heavy_rail","Linha 11 • Coral (CPTM)",1875
+263,131,"heavy_rail","Linha 11 • Coral (CPTM)",1875
+102,103,"heavy_rail","Linha 12 • Safira (CPTM)",1926
+103,110,"heavy_rail","Linha 12 • Safira (CPTM)",2008
+110,114,"heavy_rail","Linha 12 • Safira (CPTM)",1875
+114,131,"heavy_rail","Linha 12 • Safira (CPTM)",1875
+131,111,"heavy_rail","Linha 12 • Safira (CPTM)",1926
+32,34,"heavy_rail","Linha 17 • Ouro (ViaMobilidade)",NA
+34,40,"heavy_rail","Linha 17 • Ouro (ViaMobilidade)",NA
+40,42,"heavy_rail","Linha 17 • Ouro (ViaMobilidade)",NA
+42,48,"heavy_rail","Linha 17 • Ouro (ViaMobilidade)",NA
+48,50,"heavy_rail","Linha 17 • Ouro (ViaMobilidade)",NA
+50,52,"heavy_rail","Linha 17 • Ouro (ViaMobilidade)",999999
+52,118,"heavy_rail","Linha 17 • Ouro (ViaMobilidade)",NA
+8,11,"heavy_rail","Linha 6 • Laranja (MoveSP)",NA
+11,17,"heavy_rail","Linha 6 • Laranja (MoveSP)",NA
+17,20,"heavy_rail","Linha 6 • Laranja (MoveSP)",NA
+20,21,"heavy_rail","Linha 6 • Laranja (MoveSP)",NA
+21,29,"heavy_rail","Linha 6 • Laranja (MoveSP)",NA
+29,30,"heavy_rail","Linha 6 • Laranja (MoveSP)",NA
+30,31,"heavy_rail","Linha 6 • Laranja (MoveSP)",NA
+31,33,"heavy_rail","Linha 6 • Laranja (MoveSP)",NA
+33,39,"heavy_rail","Linha 6 • Laranja (MoveSP)",999999
+39,41,"heavy_rail","Linha 6 • Laranja (MoveSP)",NA
+41,43,"heavy_rail","Linha 6 • Laranja (MoveSP)",NA
+43,45,"heavy_rail","Linha 6 • Laranja (MoveSP)",NA
+45,47,"heavy_rail","Linha 6 • Laranja (MoveSP)",NA
+47,49,"heavy_rail","Linha 6 • Laranja (MoveSP)",999999
+3,4,"heavy_rail","Linha 13 • Jade (CPTM)",2018
+4,6,"heavy_rail","Linha 13 • Jade (CPTM)",2018
+51,53,"light_rail","Trem dos Imigrantes (ABPF)",1898
+26,55,"light_rail","Trem de Guararema (ABPF)",1914
+19,23,"light_rail","Estrada de Ferro Perus-Pirapora (IFPPC)",2008
+23,24,"light_rail","Estrada de Ferro Perus-Pirapora (IFPPC)",1914
+24,54,"light_rail","Estrada de Ferro Perus-Pirapora (IFPPC)",1914
+68,69,"brt","Expresso Tiradentes (SPTrans)",2007
+69,70,"brt","Expresso Tiradentes (SPTrans)",2007
+70,71,"brt","Expresso Tiradentes (SPTrans)",2007
+71,72,"brt","Expresso Tiradentes (SPTrans)",2007
+72,73,"brt","Expresso Tiradentes (SPTrans)",2007
+73,74,"brt","Expresso Tiradentes (SPTrans)",2007
+74,75,"brt","Expresso Tiradentes (SPTrans)",2007
+75,76,"brt","Expresso Tiradentes (SPTrans)",2009
+76,122,"brt","Expresso Tiradentes (SPTrans)",2007
+56,60,"bus","Linha A • Corredor ABD (Metra)",1990
+60,61,"bus","Linha A • Corredor ABD (Metra)",1988
+61,62,"bus","Linha A • Corredor ABD (Metra)",1988
+62,63,"bus","Linha A • Corredor ABD (Metra)",1988
+63,64,"bus","Linha A • Corredor ABD (Metra)",1990
+64,66,"bus","Linha A • Corredor ABD (Metra)",1990
+66,67,"bus","Linha A • Corredor ABD (Metra)",1988
+57,58,"bus","Linha B • Diadema-Berrini (Metra)",2010
+78,79,"bus","Linha C • Guarulhos-Tucuruvi (EMTU)",2012
+79,80,"bus","Linha C • Guarulhos-Tucuruvi (EMTU)",2012
+81,82,"bus","Linha D • Itapevi-Butantã (EMTU)",2012
+82,88,"bus","Linha D • Itapevi-Butantã (EMTU)",2012
+88,89,"bus","Linha D • Itapevi-Butantã (EMTU)",2017
+89,94,"bus","Linha D • Itapevi-Butantã (EMTU)",NA
+87,92,"bus","Pirituba-Lapa-Centro (SPTrans)",2003
+92,98,"bus","Pirituba-Lapa-Centro (SPTrans)",2003
+86,99,"bus","Inajar-Rio Branco-Centro (SPTrans)",1991
+84,96,"bus","Jd. Ângela-Guarapiranga-Santo Amaro (SPTrans)",2004
+96,97,"bus","Jd. Ângela-Guarapiranga-Santo Amaro (SPTrans)",2004
+83,90,"bus","Parelheiros-Rio Bonito-Santo Amaro (SPTrans)",2004
+90,95,"bus","Parelheiros-Rio Bonito-Santo Amaro (SPTrans)",2004
+85,91,"bus","Itapecerica-João Dias-Centro (SPTrans)",2000

@@ -1,0 +1,54 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,2,"default","Yellow",1980
+2,3,"default","Yellow",1980
+3,5,"default","Yellow",1980
+5,7,"default","Yellow",1980
+7,8,"default","Yellow",1981
+8,9,"default","Yellow",1981
+9,10,"default","Yellow",1981
+10,19,"default","Yellow",1981
+19,21,"default","Yellow",1980
+21,23,"default","Yellow",1980
+23,24,"default","Yellow",1981
+24,25,"default","Yellow",1981
+25,26,"default","Yellow",1981
+26,30,"default","Yellow",1981
+30,35,"default","Yellow",1981
+35,37,"default","Yellow",1980
+37,39,"default","Yellow",1980
+39,40,"default","Yellow",1981
+40,41,"default","Yellow",1981
+41,42,"default","Yellow",1981
+42,45,"default","Yellow",1981
+45,50,"default","Yellow",1981
+50,51,"default","Yellow",1986
+51,52,"default","Yellow",1980
+52,53,"default","Yellow",1980
+53,54,"default","Yellow",1980
+54,55,"default","Yellow",1980
+55,56,"default","Yellow",1980
+56,57,"default","Yellow",1980
+4,6,"default","Green",1981
+6,11,"default","Green",1981
+11,12,"default","Green",1981
+12,13,"default","Green",1991
+13,17,"default","Green",1981
+17,18,"default","Green",2002
+18,20,"default","Green",2002
+20,22,"default","Green",1981
+22,27,"default","Green",1981
+27,28,"default","Green",1981
+28,29,"default","Green",1981
+29,33,"default","Green",1991
+33,34,"default","Green",2002
+34,36,"default","Green",2002
+36,38,"default","Green",1981
+38,43,"default","Green",1981
+43,44,"default","Green",1985
+44,46,"default","Green",1981
+46,48,"default","Green",1981
+48,49,"default","Green",2002
+14,31,"default","East Coast Main Line",1850
+15,16,"default","Other National Rail",1909
+16,32,"default","Other National Rail",1879
+32,47,"default","Other National Rail",1987

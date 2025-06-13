@@ -1,0 +1,347 @@
+"nodeID_from","nodeID_to","mode","line","year"
+10,11,"tram","2 St. Charles",1835
+11,12,"tram","2 St. Charles",1835
+12,13,"tram","2 St. Charles",1835
+13,14,"tram","2 St. Charles",1835
+14,15,"tram","2 St. Charles",1835
+15,16,"tram","2 St. Charles",1835
+16,17,"tram","2 St. Charles",1835
+17,18,"tram","2 St. Charles",1835
+18,19,"tram","2 St. Charles",1835
+19,20,"tram","2 St. Charles",1835
+20,21,"tram","2 St. Charles",1835
+21,22,"tram","2 St. Charles",1835
+22,23,"tram","2 St. Charles",1835
+23,24,"tram","2 St. Charles",1835
+24,25,"tram","2 St. Charles",1835
+25,26,"tram","2 St. Charles",1835
+26,27,"tram","2 St. Charles",1835
+27,28,"tram","2 St. Charles",1835
+28,29,"tram","2 St. Charles",1835
+29,30,"tram","2 St. Charles",1835
+30,31,"tram","2 St. Charles",1835
+31,32,"tram","2 St. Charles",1835
+32,33,"tram","2 St. Charles",1835
+33,34,"tram","2 St. Charles",1835
+34,35,"tram","2 St. Charles",1835
+35,36,"tram","2 St. Charles",1835
+36,37,"tram","2 St. Charles",1835
+37,38,"tram","2 St. Charles",1835
+38,39,"tram","2 St. Charles",1835
+39,40,"tram","2 St. Charles",1835
+40,41,"tram","2 St. Charles",1835
+41,42,"tram","2 St. Charles",1835
+42,43,"tram","2 St. Charles",1835
+43,44,"tram","2 St. Charles",1835
+44,45,"tram","2 St. Charles",1835
+45,46,"tram","2 St. Charles",1835
+46,47,"tram","2 St. Charles",1835
+47,48,"tram","2 St. Charles",1835
+48,49,"tram","2 St. Charles",1835
+49,50,"tram","2 St. Charles",1835
+50,51,"tram","2 St. Charles",1835
+51,52,"tram","2 St. Charles",1835
+52,53,"tram","2 St. Charles",1835
+53,54,"tram","2 St. Charles",1835
+54,55,"tram","2 St. Charles",1835
+55,56,"tram","2 St. Charles",1835
+56,57,"tram","2 St. Charles",1835
+57,58,"tram","2 St. Charles",1835
+58,59,"tram","2 St. Charles",1835
+59,60,"tram","2 St. Charles",1835
+60,61,"tram","2 St. Charles",1835
+61,62,"tram","2 St. Charles",1835
+62,63,"tram","2 St. Charles",1835
+63,64,"tram","2 St. Charles",1893
+64,65,"tram","2 St. Charles",1893
+65,66,"tram","2 St. Charles",1893
+66,67,"tram","2 St. Charles",1893
+67,68,"tram","2 St. Charles",1893
+68,69,"tram","2 St. Charles",1900
+69,70,"tram","2 St. Charles",1900
+70,71,"tram","2 St. Charles",1900
+71,72,"tram","2 St. Charles",1900
+72,76,"tram","2 St. Charles",1900
+76,77,"tram","2 St. Charles",1900
+77,78,"tram","2 St. Charles",1900
+78,79,"tram","2 St. Charles",1900
+79,80,"tram","2 St. Charles",1900
+80,81,"tram","2 St. Charles",1900
+81,253,"tram","2 St. Charles",2020
+253,254,"tram","2 St. Charles",2022
+254,105,"tram","2 St. Charles",2022
+105,106,"tram","2 St. Charles",2020
+106,107,"tram","2 St. Charles",2020
+107,108,"tram","2 St. Charles",2020
+108,109,"tram","2 St. Charles",2020
+81,83,"tram","14 Tulane",2020
+83,84,"tram","14 Tulane",2020
+84,85,"tram","14 Tulane",2020
+85,86,"tram","14 Tulane",2022
+86,87,"tram","14 Tulane",2020
+87,88,"tram","14 Tulane",2020
+88,89,"tram","14 Tulane",2020
+89,250,"tram","14 Tulane",2013
+250,170,"tram","14 Tulane",2022
+170,171,"tram","14 Tulane",2022
+171,301,"tram","14 Tulane",2022
+301,302,"tram","14 Tulane",2022
+302,309,"tram","14 Tulane",2022
+309,310,"tram","14 Tulane",2022
+114,115,"tram","7 Louisiana",2020
+115,116,"tram","7 Louisiana",2020
+116,117,"tram","7 Louisiana",2020
+117,36,"tram","7 Louisiana",2020
+36,139,"tram","7 Louisiana",1835
+139,155,"tram","7 Louisiana",2022
+155,156,"tram","7 Louisiana",2022
+156,157,"tram","7 Louisiana",2022
+157,158,"tram","7 Louisiana",2022
+158,159,"tram","7 Louisiana",2022
+159,160,"tram","7 Louisiana",2022
+160,161,"tram","7 Louisiana",2022
+161,162,"tram","7 Louisiana",2022
+162,163,"tram","7 Louisiana",2022
+163,164,"tram","7 Louisiana",2022
+164,165,"tram","7 Louisiana",2022
+165,166,"tram","7 Louisiana",2022
+166,167,"tram","7 Louisiana",2022
+167,80,"tram","7 Louisiana",2022
+80,169,"tram","7 Louisiana",1900
+169,170,"tram","7 Louisiana",2022
+170,171,"tram","7 Louisiana",2022
+73,90,"tram","10 Canal",2004
+90,92,"tram","10 Canal",2020
+92,94,"tram","10 Canal",2020
+94,96,"tram","10 Canal",2020
+96,98,"tram","10 Canal",2020
+98,100,"tram","10 Canal",1900
+100,102,"tram","10 Canal",1900
+102,103,"tram","10 Canal",1900
+103,104,"tram","10 Canal",1900
+104,299,"tram","10 Canal",1900
+299,303,"tram","10 Canal",2022
+303,305,"tram","10 Canal",2022
+305,307,"tram","10 Canal",2022
+307,339,"tram","10 Canal",2022
+73,90,"tram","11 North Carrollton",2004
+90,92,"tram","11 North Carrollton",2020
+92,94,"tram","11 North Carrollton",2020
+94,96,"tram","11 North Carrollton",2020
+96,98,"tram","11 North Carrollton",2020
+98,100,"tram","11 North Carrollton",1900
+100,105,"tram","11 North Carrollton",1900
+105,106,"tram","11 North Carrollton",2020
+106,107,"tram","11 North Carrollton",2020
+107,108,"tram","11 North Carrollton",2020
+108,109,"tram","11 North Carrollton",2020
+109,299,"tram","11 North Carrollton",2020
+299,303,"tram","11 North Carrollton",2022
+303,305,"tram","11 North Carrollton",2022
+305,307,"tram","11 North Carrollton",2022
+307,339,"tram","11 North Carrollton",2022
+NA,47,"tram","5 Jefferson",NA
+NA,182,"tram","5 Jefferson",NA
+NA,84,"tram","5 Jefferson",NA
+NA,98,"tram","5 Jefferson",NA
+1,2,"tram","1 Riverfront",1988
+2,3,"tram","1 Riverfront",1988
+3,4,"tram","1 Riverfront",1988
+4,5,"tram","1 Riverfront",1988
+5,6,"tram","1 Riverfront",1988
+6,7,"tram","1 Riverfront",1988
+7,8,"tram","1 Riverfront",1988
+8,9,"tram","1 Riverfront",1988
+9,114,"tram","1 Riverfront",1988
+NA,278,"tram","1 Riverfront",NA
+110,111,"tram","8 Napoleon",2020
+111,112,"tram","8 Napoleon",2020
+112,113,"tram","8 Napoleon",2020
+113,41,"tram","8 Napoleon",2020
+41,122,"tram","8 Napoleon",1835
+122,123,"tram","8 Napoleon",2022
+123,125,"tram","8 Napoleon",2022
+125,127,"tram","8 Napoleon",2022
+127,129,"tram","8 Napoleon",2022
+129,131,"tram","8 Napoleon",2022
+131,132,"tram","8 Napoleon",NA
+132,133,"tram","8 Napoleon",2022
+133,134,"tram","8 Napoleon",2022
+134,135,"tram","8 Napoleon",2022
+135,136,"tram","8 Napoleon",2022
+136,137,"tram","8 Napoleon",2022
+203,204,"tram","13 Esplanade",2022
+204,205,"tram","13 Esplanade",2016
+205,1,"tram","13 Esplanade",2022
+1,206,"tram","13 Esplanade",1988
+206,198,"tram","13 Esplanade",2022
+198,285,"tram","13 Esplanade",2022
+285,286,"tram","13 Esplanade",2022
+286,287,"tram","13 Esplanade",2022
+287,148,"tram","13 Esplanade",2022
+148,289,"tram","13 Esplanade",2022
+289,290,"tram","13 Esplanade",2022
+290,291,"tram","13 Esplanade",NA
+291,292,"tram","13 Esplanade",2022
+292,109,"tram","13 Esplanade",2022
+73,260,"tram","3 Loyola",2004
+260,261,"tram","3 Loyola",2020
+261,262,"tram","3 Loyola",2020
+262,30,"tram","3 Loyola",2020
+30,264,"tram","3 Loyola",1835
+264,265,"tram","3 Loyola",2000
+265,266,"tram","3 Loyola",2000
+266,89,"tram","3 Loyola",2000
+89,268,"tram","3 Loyola",2013
+268,269,"tram","3 Loyola",2016
+269,204,"tram","3 Loyola",2016
+204,271,"tram","3 Loyola",2016
+271,211,"tram","3 Loyola",2016
+211,273,"tram","3 Loyola",2022
+273,274,"tram","3 Loyola",2022
+274,275,"tram","3 Loyola",2022
+275,276,"tram","3 Loyola",2022
+276,277,"tram","3 Loyola",2022
+277,278,"tram","3 Loyola",2020
+278,343,"tram","3 Loyola",2020
+86,94,"tram","12 Broad",2020
+94,123,"tram","12 Broad",2020
+123,125,"tram","12 Broad",2022
+125,127,"tram","12 Broad",2022
+127,129,"tram","12 Broad",2022
+129,138,"tram","12 Broad",2022
+138,139,"tram","12 Broad",2022
+139,141,"tram","12 Broad",2022
+141,142,"tram","12 Broad",NA
+142,143,"tram","12 Broad",2022
+143,144,"tram","12 Broad",2022
+144,145,"tram","12 Broad",2022
+145,146,"tram","12 Broad",2022
+146,147,"tram","12 Broad",2022
+147,148,"tram","12 Broad",2022
+148,149,"tram","12 Broad",2022
+149,150,"tram","12 Broad",2022
+150,151,"tram","12 Broad",2022
+151,152,"tram","12 Broad",2022
+152,153,"tram","12 Broad",2022
+153,154,"tram","12 Broad",2022
+172,173,"tram","6 Claiborne",2022
+173,174,"tram","6 Claiborne",2022
+174,175,"tram","6 Claiborne",2022
+175,72,"tram","6 Claiborne",2022
+72,177,"tram","6 Claiborne",1900
+177,178,"tram","6 Claiborne",2022
+178,179,"tram","6 Claiborne",2022
+179,180,"tram","6 Claiborne",2022
+180,181,"tram","6 Claiborne",2022
+181,182,"tram","6 Claiborne",2022
+182,183,"tram","6 Claiborne",2022
+183,137,"tram","6 Claiborne",2022
+137,185,"tram","6 Claiborne",2022
+185,159,"tram","6 Claiborne",2022
+159,187,"tram","6 Claiborne",2022
+187,188,"tram","6 Claiborne",2022
+188,189,"tram","6 Claiborne",2022
+189,190,"tram","6 Claiborne",2022
+190,191,"tram","6 Claiborne",2022
+191,88,"tram","6 Claiborne",2022
+88,90,"tram","6 Claiborne",2020
+90,194,"tram","6 Claiborne",2020
+194,195,"tram","6 Claiborne",2022
+195,196,"tram","6 Claiborne",2022
+196,197,"tram","6 Claiborne",2022
+197,198,"tram","6 Claiborne",2022
+198,200,"tram","6 Claiborne",2022
+200,202,"tram","6 Claiborne",2022
+202,295,"tram","6 Claiborne",2022
+295,296,"tram","6 Claiborne",2022
+296,297,"tram","6 Claiborne",2022
+297,298,"tram","6 Claiborne",2022
+198,200,"tram","15 St. Bernard",2022
+200,203,"tram","15 St. Bernard",2022
+203,204,"tram","15 St. Bernard",2022
+204,205,"tram","15 St. Bernard",2016
+205,206,"tram","15 St. Bernard",2022
+206,1,"tram","15 St. Bernard",2022
+1,232,"tram","15 St. Bernard",1988
+232,233,"tram","15 St. Bernard",2022
+233,234,"tram","15 St. Bernard",2022
+234,151,"tram","15 St. Bernard",2022
+151,236,"tram","15 St. Bernard",2022
+236,237,"tram","15 St. Bernard",2022
+237,238,"tram","15 St. Bernard",2022
+238,239,"tram","15 St. Bernard",2022
+239,240,"tram","15 St. Bernard",2022
+240,241,"tram","15 St. Bernard",2022
+241,242,"tram","15 St. Bernard",2022
+242,243,"tram","15 St. Bernard",2022
+243,244,"tram","15 St. Bernard",2022
+244,245,"tram","15 St. Bernard",2022
+245,246,"tram","15 St. Bernard",2022
+246,247,"tram","15 St. Bernard",2022
+247,248,"tram","15 St. Bernard",2022
+248,249,"tram","15 St. Bernard",2022
+1,209,"tram","17 Elysian Fields",1988
+209,210,"tram","17 Elysian Fields",2022
+210,211,"tram","17 Elysian Fields",2022
+211,212,"tram","17 Elysian Fields",2022
+212,213,"tram","17 Elysian Fields",2022
+213,214,"tram","17 Elysian Fields",2022
+214,215,"tram","17 Elysian Fields",2022
+215,216,"tram","17 Elysian Fields",2022
+216,217,"tram","17 Elysian Fields",2022
+217,218,"tram","17 Elysian Fields",2022
+218,219,"tram","17 Elysian Fields",2022
+219,220,"tram","17 Elysian Fields",2022
+220,221,"tram","17 Elysian Fields",2022
+221,222,"tram","17 Elysian Fields",2022
+222,223,"tram","17 Elysian Fields",2022
+223,224,"tram","17 Elysian Fields",2022
+224,225,"tram","17 Elysian Fields",2022
+225,226,"tram","17 Elysian Fields",2022
+226,227,"tram","17 Elysian Fields",2022
+227,228,"tram","17 Elysian Fields",2022
+228,229,"tram","17 Elysian Fields",2022
+229,230,"tram","17 Elysian Fields",2022
+230,231,"tram","17 Elysian Fields",2022
+311,287,"tram","24 Gentilly",2022
+287,313,"tram","24 Gentilly",2022
+313,149,"tram","24 Gentilly",2022
+149,315,"tram","24 Gentilly",2022
+315,316,"tram","24 Gentilly",2022
+316,317,"tram","24 Gentilly",2022
+317,318,"tram","24 Gentilly",2022
+318,237,"tram","24 Gentilly",2022
+237,320,"tram","24 Gentilly",2022
+320,321,"tram","24 Gentilly",2022
+321,322,"tram","24 Gentilly",2022
+322,323,"tram","24 Gentilly",2022
+323,324,"tram","24 Gentilly",2022
+324,325,"tram","24 Gentilly",2022
+325,221,"tram","24 Gentilly",2022
+221,327,"tram","24 Gentilly",2022
+327,328,"tram","24 Gentilly",2022
+328,329,"tram","24 Gentilly",2022
+329,330,"tram","24 Gentilly",2022
+330,331,"tram","24 Gentilly",2022
+331,332,"tram","24 Gentilly",2022
+332,333,"tram","24 Gentilly",2022
+333,334,"tram","24 Gentilly",2022
+334,335,"tram","24 Gentilly",2022
+335,336,"tram","24 Gentilly",2022
+336,337,"tram","24 Gentilly",2022
+337,338,"tram","24 Gentilly",2022
+NA,57,"tram","27 Broadway",NA
+NA,178,"tram","27 Broadway",NA
+341,342,"tram","31 MLK",2022
+342,343,"tram","31 MLK",2022
+343,345,"tram","31 MLK",2022
+345,346,"tram","31 MLK",2022
+346,347,"tram","31 MLK",2022
+347,348,"tram","31 MLK",2022
+348,189,"tram","31 MLK",2022
+189,350,"tram","31 MLK",2022
+350,351,"tram","31 MLK",2022
+NA,141,"tram","31 MLK",NA
+NA,164,"tram","31 MLK",NA
+NA,78,"tram","31 MLK",NA

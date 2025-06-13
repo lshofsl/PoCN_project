@@ -1,0 +1,275 @@
+"nodeID_from","nodeID_to","mode","line","year"
+10,11,"light_rail","Red Line",1984
+11,12,"light_rail","Red Line",1984
+12,13,"light_rail","Red Line",1984
+13,14,"light_rail","Red Line",1984
+14,15,"light_rail","Red Line",2012
+15,16,"light_rail","Red Line",2012
+16,17,"light_rail","Red Line",2001
+17,18,"light_rail","Red Line",1985
+18,19,"light_rail","Red Line",1904
+19,20,"light_rail","Red Line",1987
+20,21,"light_rail","Red Line",1987
+21,22,"light_rail","Red Line",1987
+22,23,"light_rail","Red Line",1987
+23,24,"light_rail","Red Line",1987
+24,25,"light_rail","Red Line",1987
+25,26,"light_rail","Red Line",1987
+26,27,"light_rail","Red Line",1987
+27,28,"light_rail","Red Line",1987
+28,29,"light_rail","Red Line",1987
+29,30,"light_rail","Red Line",1987
+30,31,"light_rail","Red Line",1987
+31,32,"light_rail","Red Line",1987
+32,33,"light_rail","Red Line",1987
+33,34,"light_rail","Red Line",1984
+34,35,"light_rail","Red Line",2004
+35,36,"light_rail","Red Line",1984
+36,37,"light_rail","Red Line",1984
+37,38,"light_rail","Red Line",1984
+38,39,"light_rail","Red Line",1984
+39,40,"light_rail","Red Line",1984
+40,41,"light_rail","Red Line",1984
+41,42,"light_rail","Red Line",1984
+42,43,"light_rail","Red Line",1984
+43,44,"light_rail","Red Line",1984
+15,14,"light_rail","Silver Line",2012
+14,12,"light_rail","Silver Line",2012
+12,11,"light_rail","Silver Line",1984
+11,10,"light_rail","Silver Line",1984
+10,16,"light_rail","Silver Line",1984
+16,17,"light_rail","Silver Line",2001
+17,18,"light_rail","Silver Line",1985
+18,54,"light_rail","Silver Line",1904
+54,55,"light_rail","Silver Line",2004
+55,56,"light_rail","Silver Line",2004
+56,57,"light_rail","Silver Line",2004
+57,58,"light_rail","Silver Line",2004
+58,59,"light_rail","Silver Line",2004
+59,60,"light_rail","Silver Line",2004
+60,61,"light_rail","Silver Line",2004
+61,35,"light_rail","Silver Line",2004
+35,36,"light_rail","Silver Line",1984
+36,37,"light_rail","Silver Line",1984
+37,91,"light_rail","Silver Line",1984
+91,93,"light_rail","Silver Line",2004
+93,95,"light_rail","Silver Line",2004
+95,97,"light_rail","Silver Line",2004
+97,99,"light_rail","Silver Line",2004
+99,101,"light_rail","Silver Line",2004
+101,103,"light_rail","Silver Line",2004
+103,105,"light_rail","Silver Line",2004
+105,107,"light_rail","Silver Line",2004
+107,109,"light_rail","Silver Line",2004
+109,111,"light_rail","Silver Line",2004
+111,113,"light_rail","Silver Line",2004
+12,11,"light_rail","Blue Line",1984
+11,14,"light_rail","Blue Line",1984
+14,15,"light_rail","Blue Line",2012
+15,10,"light_rail","Blue Line",2012
+10,13,"light_rail","Blue Line",1984
+13,16,"light_rail","Blue Line",1984
+16,17,"light_rail","Blue Line",2001
+17,18,"light_rail","Blue Line",1985
+18,54,"light_rail","Blue Line",1904
+54,55,"light_rail","Blue Line",2004
+55,56,"light_rail","Blue Line",2004
+56,57,"light_rail","Blue Line",2004
+57,58,"light_rail","Blue Line",2004
+58,59,"light_rail","Blue Line",2004
+59,60,"light_rail","Blue Line",2004
+60,61,"light_rail","Blue Line",2004
+61,44,"light_rail","Blue Line",2004
+44,35,"light_rail","Blue Line",1984
+35,36,"light_rail","Blue Line",1984
+36,37,"light_rail","Blue Line",1984
+37,38,"light_rail","Blue Line",1984
+38,39,"light_rail","Blue Line",1984
+39,43,"light_rail","Blue Line",1984
+43,40,"light_rail","Blue Line",1984
+40,41,"light_rail","Blue Line",1984
+41,42,"light_rail","Blue Line",1984
+42,91,"light_rail","Blue Line",1984
+91,93,"light_rail","Blue Line",2004
+93,95,"light_rail","Blue Line",2004
+95,97,"light_rail","Blue Line",2004
+97,99,"light_rail","Blue Line",2004
+99,101,"light_rail","Blue Line",2004
+101,103,"light_rail","Blue Line",2004
+103,105,"light_rail","Blue Line",2004
+105,107,"light_rail","Blue Line",2004
+107,109,"light_rail","Blue Line",2004
+109,111,"light_rail","Blue Line",2004
+111,113,"light_rail","Blue Line",2004
+113,115,"light_rail","Blue Line",2004
+115,116,"light_rail","Blue Line",2004
+116,117,"light_rail","Blue Line",2004
+117,118,"light_rail","Blue Line",2004
+3,4,"people_mover","Monongahela Incline",1870
+1,2,"people_mover","Duquesne Incline",1877
+5,6,"commuter_rail","PATrain",1957
+6,7,"commuter_rail","PATrain",1975
+7,8,"commuter_rail","PATrain",1975
+8,9,"commuter_rail","PATrain",1980
+17,18,"brt","South Busway",1985
+18,19,"brt","South Busway",1904
+19,20,"brt","South Busway",1987
+20,123,"brt","South Busway",1987
+123,124,"brt","South Busway",1977
+124,125,"brt","South Busway",1977
+125,57,"brt","South Busway",1977
+57,127,"brt","South Busway",2004
+127,128,"brt","South Busway",1977
+128,129,"brt","South Busway",1977
+129,130,"brt","South Busway",1977
+137,138,"brt","Martin Luther King Jr. East Busway",1983
+138,139,"brt","Martin Luther King Jr. East Busway",1983
+139,140,"brt","Martin Luther King Jr. East Busway",1983
+140,141,"brt","Martin Luther King Jr. East Busway",1983
+141,142,"brt","Martin Luther King Jr. East Busway",1983
+142,143,"brt","Martin Luther King Jr. East Busway",1983
+143,144,"brt","Martin Luther King Jr. East Busway",1983
+131,132,"brt","West Busway",2000
+132,133,"brt","West Busway",2000
+133,134,"brt","West Busway",2000
+134,135,"brt","West Busway",2000
+135,136,"brt","West Busway",2000
+12,11,"light_rail","Brown Line",1984
+11,10,"light_rail","Brown Line",1984
+10,16,"light_rail","Brown Line",1984
+16,18,"light_rail","Brown Line",2001
+18,150,"light_rail","Brown Line",1904
+150,151,"light_rail","Brown Line",1984
+151,152,"light_rail","Brown Line",1984
+152,153,"light_rail","Brown Line",1984
+153,154,"light_rail","Brown Line",1984
+154,155,"light_rail","Brown Line",1984
+155,156,"light_rail","Brown Line",1984
+156,157,"light_rail","Brown Line",1984
+157,158,"light_rail","Brown Line",1984
+158,159,"light_rail","Brown Line",1984
+160,161,"people_mover","Knoxville Incline",1890
+162,163,"people_mover","Mount Oliver Incline",1872
+164,165,"people_mover","Penn Incline",1884
+166,167,"people_mover","Castle Shannon Incline",1890
+168,169,"people_mover","St. Clair Incline",1888
+170,171,"people_mover","Nunnery Hill Incline",1888
+172,173,"people_mover","Castle Shannon Incline No. 2",1892
+174,175,"people_mover","Clifton Incline",1889
+177,178,"people_mover","Troy Hill Incline",1887
+179,180,"commuter_rail","Pittsburgh & Lake Erie Railroad",1875
+180,181,"commuter_rail","Pittsburgh & Lake Erie Railroad",1892
+181,182,"commuter_rail","Pittsburgh & Lake Erie Railroad",1879
+182,183,"commuter_rail","Pittsburgh & Lake Erie Railroad",1879
+183,184,"commuter_rail","Pittsburgh & Lake Erie Railroad",1879
+184,185,"commuter_rail","Pittsburgh & Lake Erie Railroad",1879
+185,186,"commuter_rail","Pittsburgh & Lake Erie Railroad",1879
+186,187,"commuter_rail","Pittsburgh & Lake Erie Railroad",1879
+187,188,"commuter_rail","Pittsburgh & Lake Erie Railroad",1879
+189,190,"inter_city_rail","Charleroi line",1903
+190,191,"inter_city_rail","Charleroi line",1903
+191,192,"inter_city_rail","Charleroi line",1903
+192,193,"inter_city_rail","Charleroi line",1903
+193,194,"inter_city_rail","Charleroi line",1903
+194,195,"inter_city_rail","Charleroi line",1903
+195,196,"inter_city_rail","Charleroi line",1903
+196,197,"inter_city_rail","Charleroi line",1903
+197,198,"inter_city_rail","Charleroi line",1903
+198,199,"inter_city_rail","Charleroi line",1903
+199,200,"inter_city_rail","Charleroi line",1903
+200,201,"inter_city_rail","Charleroi line",1903
+201,202,"inter_city_rail","Charleroi line",1903
+202,203,"inter_city_rail","Charleroi line",1903
+203,204,"inter_city_rail","Charleroi line",1903
+204,205,"inter_city_rail","Charleroi line",1903
+205,206,"inter_city_rail","Charleroi line",1903
+206,207,"inter_city_rail","Charleroi line",1903
+207,208,"inter_city_rail","Charleroi line",1903
+208,209,"inter_city_rail","Charleroi line",1903
+209,211,"inter_city_rail","Charleroi line",1903
+211,213,"inter_city_rail","Charleroi line",1900
+213,215,"inter_city_rail","Charleroi line",1900
+215,217,"inter_city_rail","Charleroi line",1900
+217,219,"inter_city_rail","Charleroi line",1900
+219,221,"inter_city_rail","Charleroi line",1900
+221,223,"inter_city_rail","Charleroi line",1900
+223,225,"inter_city_rail","Charleroi line",1900
+225,227,"inter_city_rail","Charleroi line",1900
+227,229,"inter_city_rail","Charleroi line",1900
+229,231,"inter_city_rail","Charleroi line",1900
+231,233,"inter_city_rail","Charleroi line",1900
+233,235,"inter_city_rail","Charleroi line",1900
+235,237,"inter_city_rail","Charleroi line",1900
+237,239,"inter_city_rail","Charleroi line",1901
+239,241,"inter_city_rail","Charleroi line",1901
+241,243,"inter_city_rail","Charleroi line",1901
+243,245,"inter_city_rail","Charleroi line",1901
+245,247,"inter_city_rail","Charleroi line",1901
+247,249,"inter_city_rail","Charleroi line",1901
+249,250,"inter_city_rail","Charleroi line",1902
+250,251,"inter_city_rail","Charleroi line",1902
+251,252,"inter_city_rail","Charleroi line",1902
+252,253,"inter_city_rail","Charleroi line",1902
+253,254,"inter_city_rail","Charleroi line",1902
+254,255,"inter_city_rail","Charleroi line",1902
+255,256,"inter_city_rail","Charleroi line",1902
+256,257,"inter_city_rail","Charleroi line",1902
+257,258,"inter_city_rail","Charleroi line",1902
+258,259,"inter_city_rail","Charleroi line",1902
+259,260,"inter_city_rail","Charleroi line",1902
+260,261,"inter_city_rail","Charleroi line",1902
+261,262,"inter_city_rail","Charleroi line",1902
+262,263,"inter_city_rail","Charleroi line",1902
+263,264,"inter_city_rail","Charleroi line",1902
+264,265,"inter_city_rail","Charleroi line",1902
+265,266,"inter_city_rail","Charleroi line",1902
+266,267,"inter_city_rail","Charleroi line",1902
+267,268,"inter_city_rail","Charleroi line",1902
+268,269,"inter_city_rail","Charleroi line",1902
+269,270,"inter_city_rail","Charleroi line",1902
+270,271,"inter_city_rail","Charleroi line",1902
+271,272,"inter_city_rail","Charleroi line",1902
+272,273,"inter_city_rail","Charleroi line",1910
+273,274,"inter_city_rail","Charleroi line",1910
+274,275,"inter_city_rail","Charleroi line",1910
+275,276,"inter_city_rail","Charleroi line",1910
+276,277,"inter_city_rail","Charleroi line",1910
+277,278,"inter_city_rail","Charleroi line",1910
+278,279,"inter_city_rail","Charleroi line",1910
+279,280,"inter_city_rail","Charleroi line",1910
+280,281,"inter_city_rail","Charleroi line",1910
+281,282,"inter_city_rail","Charleroi line",1910
+282,283,"inter_city_rail","Charleroi line",1911
+283,284,"inter_city_rail","Charleroi line",1911
+284,285,"inter_city_rail","Charleroi line",1911
+285,286,"inter_city_rail","Charleroi line",1911
+286,288,"inter_city_rail","Charleroi line",1906
+288,290,"inter_city_rail","Charleroi line",1906
+290,292,"inter_city_rail","Charleroi line",1906
+292,294,"inter_city_rail","Charleroi line",1906
+294,296,"inter_city_rail","Charleroi line",1906
+209,211,"tram","Monogahela Street Railway",1903
+211,213,"tram","Monogahela Street Railway",1900
+213,215,"tram","Monogahela Street Railway",1900
+215,217,"tram","Monogahela Street Railway",1900
+217,219,"tram","Monogahela Street Railway",1900
+219,221,"tram","Monogahela Street Railway",1900
+221,223,"tram","Monogahela Street Railway",1900
+223,225,"tram","Monogahela Street Railway",1900
+225,227,"tram","Monogahela Street Railway",1900
+227,229,"tram","Monogahela Street Railway",1900
+229,231,"tram","Monogahela Street Railway",1900
+231,233,"tram","Monogahela Street Railway",1900
+233,235,"tram","Monogahela Street Railway",1900
+235,237,"tram","Monogahela Street Railway",1900
+237,239,"tram","Monogahela Street Railway",1901
+239,241,"tram","Monogahela Street Railway",1901
+241,243,"tram","Monogahela Street Railway",1901
+243,245,"tram","Monogahela Street Railway",1901
+245,247,"tram","Monogahela Street Railway",1901
+286,288,"tram","West Shore Electric Street Railway",1906
+288,290,"tram","West Shore Electric Street Railway",1906
+290,292,"tram","West Shore Electric Street Railway",1906
+292,294,"tram","West Shore Electric Street Railway",1906
+294,296,"tram","West Shore Electric Street Railway",1906
+NA,11,"brt","Downtown - Uptown - Oakland - East End BRT",NA

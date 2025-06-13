@@ -1,0 +1,17 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,5,"default","Linha 1",2015
+5,6,"default","Linha 1",2014
+6,7,"default","Linha 1",2015
+7,11,"default","Linha 1",2015
+11,13,"default","Linha 1",2014
+13,18,"default","Linha 1",2014
+2,3,"default","Linha 2",2016
+3,4,"default","Linha 2",2016
+4,8,"default","Linha 2",2017
+8,9,"default","Linha 2",2017
+9,10,"default","Linha 2",2017
+10,11,"default","Linha 2",2017
+11,14,"default","Linha 2",2014
+14,15,"default","Linha 2",2017
+15,16,"default","Linha 2",2017
+16,17,"default","Linha 2",2017

@@ -1,0 +1,251 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,3,"light_rail","Ligne 1",2019
+3,4,"light_rail","Ligne 1",1989
+4,5,"light_rail","Ligne 1",1985
+5,6,"light_rail","Ligne 1",2012
+6,7,"light_rail","Ligne 1",2012
+7,8,"light_rail","Ligne 1",1985
+8,9,"light_rail","Ligne 1",1985
+9,10,"light_rail","Ligne 1",1989
+10,11,"light_rail","Ligne 1",1985
+11,12,"light_rail","Ligne 1",1989
+12,13,"light_rail","Ligne 1",1985
+13,14,"light_rail","Ligne 1",1985
+14,15,"light_rail","Ligne 1",1985
+15,16,"light_rail","Ligne 1",1985
+16,17,"light_rail","Ligne 1",1985
+17,18,"light_rail","Ligne 1",1985
+18,19,"light_rail","Ligne 1",1985
+19,20,"light_rail","Ligne 1",1985
+20,21,"light_rail","Ligne 1",1985
+21,22,"light_rail","Ligne 1",0
+22,23,"light_rail","Ligne 1",1989
+23,24,"light_rail","Ligne 1",1985
+24,25,"light_rail","Ligne 1",1985
+25,26,"light_rail","Ligne 1",2012
+26,27,"light_rail","Ligne 1",2012
+27,28,"light_rail","Ligne 1",1985
+28,29,"light_rail","Ligne 1",1985
+29,30,"light_rail","Ligne 1",1985
+30,31,"light_rail","Ligne 1",1985
+31,32,"light_rail","Ligne 1",1989
+32,33,"light_rail","Ligne 1",1985
+33,34,"light_rail","Ligne 1",1985
+34,35,"light_rail","Ligne 1",1985
+35,36,"light_rail","Ligne 1",1985
+36,37,"light_rail","Ligne 1",1985
+37,38,"light_rail","Ligne 1",1985
+38,39,"light_rail","Ligne 1",1985
+39,40,"light_rail","Ligne 1",1985
+40,41,"light_rail","Ligne 1",1985
+41,42,"light_rail","Ligne 1",1985
+42,43,"light_rail","Ligne 1",2000
+43,44,"light_rail","Ligne 1",1985
+44,45,"light_rail","Ligne 1",1985
+45,46,"light_rail","Ligne 1",2000
+46,47,"light_rail","Ligne 1",1985
+47,48,"light_rail","Ligne 1",1985
+48,49,"light_rail","Ligne 1",2000
+49,50,"light_rail","Ligne 1",1985
+50,51,"light_rail","Ligne 1",2000
+51,52,"light_rail","Ligne 1",1985
+52,54,"light_rail","Ligne 1",2000
+54,55,"light_rail","Ligne 1",1985
+55,56,"light_rail","Ligne 1",2000
+56,57,"light_rail","Ligne 1",1985
+57,58,"light_rail","Ligne 1",2000
+58,59,"light_rail","Ligne 1",2000
+59,60,"light_rail","Ligne 1",2000
+60,61,"light_rail","Ligne 1",2000
+61,63,"light_rail","Ligne 1",2000
+63,64,"light_rail","Ligne 1",2000
+64,68,"light_rail","Ligne 1",2000
+68,69,"light_rail","Ligne 1",2000
+69,70,"light_rail","Ligne 1",2000
+70,71,"light_rail","Ligne 1",2000
+71,72,"light_rail","Ligne 1",2000
+72,73,"light_rail","Ligne 1",2000
+73,75,"light_rail","Ligne 1",2000
+75,76,"light_rail","Ligne 1",2000
+76,79,"light_rail","Ligne 1",2000
+79,162,"light_rail","Ligne 1",2000
+162,221,"light_rail","Ligne 1",1985
+221,222,"light_rail","Ligne 1",1985
+222,223,"light_rail","Ligne 1",1985
+223,224,"light_rail","Ligne 1",1985
+53,62,"light_rail","Ligne 2",1994
+62,65,"light_rail","Ligne 2",1994
+65,66,"light_rail","Ligne 2",1992
+66,67,"light_rail","Ligne 2",1992
+67,74,"light_rail","Ligne 2",1994
+74,77,"light_rail","Ligne 2",1992
+77,78,"light_rail","Ligne 2",1992
+78,80,"light_rail","Ligne 2",1994
+80,81,"light_rail","Ligne 2",1994
+81,82,"light_rail","Ligne 2",1994
+82,83,"light_rail","Ligne 2",1994
+83,84,"light_rail","Ligne 2",1994
+84,85,"light_rail","Ligne 2",1994
+85,86,"light_rail","Ligne 2",1994
+86,87,"light_rail","Ligne 2",1994
+87,88,"light_rail","Ligne 2",1994
+88,89,"light_rail","Ligne 2",1994
+89,90,"light_rail","Ligne 2",1994
+90,91,"light_rail","Ligne 2",1994
+91,92,"light_rail","Ligne 2",1994
+92,93,"light_rail","Ligne 2",1994
+93,94,"light_rail","Ligne 2",1994
+94,95,"light_rail","Ligne 2",1994
+95,96,"light_rail","Ligne 2",1994
+96,97,"light_rail","Ligne 2",1994
+97,98,"light_rail","Ligne 2",1994
+98,99,"light_rail","Ligne 2",1994
+99,100,"light_rail","Ligne 2",1994
+100,101,"light_rail","Ligne 2",1994
+101,102,"light_rail","Ligne 2",1994
+102,103,"light_rail","Ligne 2",1994
+103,104,"light_rail","Ligne 2",1994
+104,105,"light_rail","Ligne 2",1994
+105,138,"light_rail","Ligne 2",1994
+138,144,"light_rail","Ligne 2",2007
+144,145,"light_rail","Ligne 2",2007
+145,147,"light_rail","Ligne 2",1994
+147,150,"light_rail","Ligne 2",2007
+150,151,"light_rail","Ligne 2",1992
+151,152,"light_rail","Ligne 2",1992
+152,153,"light_rail","Ligne 2",1992
+153,154,"light_rail","Ligne 2",1992
+154,155,"light_rail","Ligne 2",1992
+155,158,"light_rail","Ligne 2",1994
+158,163,"light_rail","Ligne 2",1992
+163,164,"light_rail","Ligne 2",1992
+164,165,"light_rail","Ligne 2",1992
+165,166,"light_rail","Ligne 2",1992
+166,167,"light_rail","Ligne 2",1992
+167,168,"light_rail","Ligne 2",1992
+168,169,"light_rail","Ligne 2",1992
+169,171,"light_rail","Ligne 2",1992
+171,173,"light_rail","Ligne 2",1994
+173,228,"light_rail","Ligne 2",1994
+228,229,"light_rail","Ligne 2",1994
+229,236,"light_rail","Ligne 2",1994
+236,238,"light_rail","Ligne 2",1994
+238,255,"light_rail","Ligne 2",1994
+106,107,"light_rail","Ligne 3",2000
+107,108,"light_rail","Ligne 3",2009
+108,109,"light_rail","Ligne 3",2000
+109,110,"light_rail","Ligne 3",2000
+110,111,"light_rail","Ligne 3",2000
+111,112,"light_rail","Ligne 3",2000
+112,113,"light_rail","Ligne 3",2000
+113,114,"light_rail","Ligne 3",2000
+114,115,"light_rail","Ligne 3",2000
+115,116,"light_rail","Ligne 3",2000
+116,117,"light_rail","Ligne 3",2009
+117,118,"light_rail","Ligne 3",2009
+118,119,"light_rail","Ligne 3",2009
+119,120,"light_rail","Ligne 3",2009
+120,121,"light_rail","Ligne 3",2000
+121,122,"light_rail","Ligne 3",2009
+122,123,"light_rail","Ligne 3",2000
+123,124,"light_rail","Ligne 3",2000
+124,125,"light_rail","Ligne 3",2000
+125,126,"light_rail","Ligne 3",2000
+126,127,"light_rail","Ligne 3",2000
+127,128,"light_rail","Ligne 3",2000
+128,129,"light_rail","Ligne 3",2000
+129,130,"light_rail","Ligne 3",2000
+130,131,"light_rail","Ligne 3",2009
+131,132,"light_rail","Ligne 3",2000
+132,133,"light_rail","Ligne 3",2009
+133,134,"light_rail","Ligne 3",2009
+134,135,"light_rail","Ligne 3",2009
+135,136,"light_rail","Ligne 3",2009
+136,137,"light_rail","Ligne 3",2000
+137,139,"light_rail","Ligne 3",2009
+139,141,"light_rail","Ligne 3",2007
+141,143,"light_rail","Ligne 3",2007
+143,146,"light_rail","Ligne 3",2007
+146,156,"light_rail","Ligne 3",2007
+156,157,"light_rail","Ligne 3",2007
+157,159,"light_rail","Ligne 3",2007
+159,160,"light_rail","Ligne 3",2007
+160,161,"light_rail","Ligne 3",2000
+161,170,"light_rail","Ligne 3",2007
+170,172,"light_rail","Ligne 3",2007
+172,225,"light_rail","Ligne 3",2007
+225,226,"light_rail","Ligne 3",2007
+226,227,"light_rail","Ligne 3",2007
+227,230,"light_rail","Ligne 3",2007
+230,231,"light_rail","Ligne 3",2007
+231,232,"light_rail","Ligne 3",2000
+232,234,"light_rail","Ligne 3",2007
+234,235,"light_rail","Ligne 3",2007
+235,237,"light_rail","Ligne 3",2007
+237,253,"light_rail","Ligne 3",2007
+253,254,"light_rail","Ligne 3",2000
+233,239,"brt","Ligne 4",2006
+239,240,"brt","Ligne 4",2006
+240,241,"brt","Ligne 4",2006
+241,242,"brt","Ligne 4",2006
+242,243,"brt","Ligne 4",2006
+243,244,"brt","Ligne 4",2006
+244,245,"brt","Ligne 4",2006
+245,246,"brt","Ligne 4",2006
+246,247,"brt","Ligne 4",2006
+247,248,"brt","Ligne 4",2006
+248,249,"brt","Ligne 4",2006
+249,250,"brt","Ligne 4",2006
+250,251,"brt","Ligne 4",2006
+251,252,"brt","Ligne 4",2006
+175,257,"default","Passeur Erdre",1997
+174,256,"default","N1",2005
+176,178,"default","N3",2007
+178,179,"default","N3",2005
+179,180,"default","N3",2005
+180,258,"default","N3",2005
+258,260,"default","N3",2006
+140,142,"default","C1",0
+142,148,"default","C1",0
+148,149,"default","C1",0
+2,177,"default","Doulon - Gare Maritime",1879
+177,181,"default","Doulon - Gare Maritime",1879
+181,182,"default","Doulon - Gare Maritime",1879
+182,183,"default","Doulon - Gare Maritime",1880
+183,259,"default","Doulon - Gare Maritime",1879
+259,263,"default","Doulon - Gare Maritime",1879
+184,187,"default","N2",2020
+187,189,"default","Trentemoult aval - Bas Chantenay",2020
+184,186,"default","Parc des Chantiers - Gare maritime - Hangar à bananes - Arbre aux hérons - Trentemoult Roquios",2020
+207,208,"commuter_rail","Nantes - Clisson",2011
+208,209,"commuter_rail","Nantes - Clisson",2011
+209,210,"commuter_rail","Nantes - Clisson",2011
+210,211,"commuter_rail","Nantes - Clisson",2011
+211,212,"commuter_rail","Nantes - Clisson",2011
+212,213,"commuter_rail","Nantes - Clisson",2011
+213,214,"commuter_rail","Nantes - Clisson",2011
+214,215,"commuter_rail","Nantes - Clisson",2011
+215,216,"commuter_rail","Nantes - Clisson",2011
+216,217,"commuter_rail","Nantes - Clisson",2011
+217,218,"commuter_rail","Nantes - Clisson",2011
+218,219,"commuter_rail","Nantes - Clisson",2011
+219,220,"commuter_rail","Nantes - Clisson",2011
+191,192,"commuter_rail","Nantes - Châteaubriant",2014
+192,193,"commuter_rail","Nantes - Châteaubriant",2014
+193,194,"commuter_rail","Nantes - Châteaubriant",2014
+194,195,"commuter_rail","Nantes - Châteaubriant",2014
+195,196,"commuter_rail","Nantes - Châteaubriant",2014
+196,197,"commuter_rail","Nantes - Châteaubriant",2014
+197,198,"commuter_rail","Nantes - Châteaubriant",2014
+198,199,"commuter_rail","Nantes - Châteaubriant",2014
+199,200,"commuter_rail","Nantes - Châteaubriant",2014
+200,201,"commuter_rail","Nantes - Châteaubriant",2014
+201,202,"commuter_rail","Nantes - Châteaubriant",2014
+202,203,"commuter_rail","Nantes - Châteaubriant",2014
+203,204,"commuter_rail","Nantes - Châteaubriant",2014
+204,205,"commuter_rail","Nantes - Châteaubriant",2014
+205,206,"commuter_rail","Nantes - Châteaubriant",2014
+264,265,"brt","Ligne 5",2020
+265,266,"brt","Ligne 5",2020
+266,267,"brt","Ligne 5",2020
+267,268,"brt","Ligne 5",2020

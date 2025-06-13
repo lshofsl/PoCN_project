@@ -1,0 +1,382 @@
+"nodeID_from","nodeID_to","mode","line","year"
+57,58,"heavy_rail","Línea 4A",2006
+58,59,"heavy_rail","Línea 4A",2006
+59,60,"heavy_rail","Línea 4A",2006
+60,43,"heavy_rail","Línea 4A",2006
+43,172,"heavy_rail","Línea 4A",2006
+20,23,"heavy_rail","Línea 1 ",1975
+23,28,"heavy_rail","Línea 1 ",1980
+28,29,"heavy_rail","Línea 1 ",1975
+29,30,"heavy_rail","Línea 1 ",1977
+30,34,"heavy_rail","Línea 1 ",1980
+34,37,"heavy_rail","Línea 1 ",1975
+37,38,"heavy_rail","Línea 1 ",1975
+38,45,"heavy_rail","Línea 1 ",1977
+45,47,"heavy_rail","Línea 1 ",1980
+47,50,"heavy_rail","Línea 1 ",1980
+50,53,"heavy_rail","Línea 1 ",1977
+53,56,"heavy_rail","Línea 1 ",1980
+56,62,"heavy_rail","Línea 1 ",1977
+62,65,"heavy_rail","Línea 1 ",1975
+65,66,"heavy_rail","Línea 1 ",1977
+66,67,"heavy_rail","Línea 1 ",2010
+67,68,"heavy_rail","Línea 1 ",1975
+68,69,"heavy_rail","Línea 1 ",1975
+69,70,"heavy_rail","Línea 1 ",1975
+70,71,"heavy_rail","Línea 1 ",1975
+71,72,"heavy_rail","Línea 1 ",1975
+72,73,"heavy_rail","Línea 1 ",1975
+73,74,"heavy_rail","Línea 1 ",2010
+74,75,"heavy_rail","Línea 1 ",1980
+75,76,"heavy_rail","Línea 1 ",2010
+76,135,"heavy_rail","Línea 1 ",1980
+19,26,"heavy_rail","Línea 2",2023
+26,27,"heavy_rail","Línea 2",2004
+27,33,"heavy_rail","Línea 2",2004
+33,40,"heavy_rail","Línea 2",2005
+40,42,"heavy_rail","Línea 2",2006
+42,46,"heavy_rail","Línea 2",2004
+46,48,"heavy_rail","Línea 2",2005
+48,51,"heavy_rail","Línea 2",2006
+51,52,"heavy_rail","Línea 2",2023
+52,55,"heavy_rail","Línea 2",1978
+55,61,"heavy_rail","Línea 2",1978
+61,63,"heavy_rail","Línea 2",1978
+63,78,"heavy_rail","Línea 2",2023
+78,80,"heavy_rail","Línea 2",1978
+80,81,"heavy_rail","Línea 2",2023
+81,82,"heavy_rail","Línea 2",1978
+82,83,"heavy_rail","Línea 2",1978
+83,84,"heavy_rail","Línea 2",1978
+84,85,"heavy_rail","Línea 2",1978
+85,86,"heavy_rail","Línea 2",1986
+86,87,"heavy_rail","Línea 2",1978
+87,88,"heavy_rail","Línea 2",1978
+88,94,"heavy_rail","Línea 2",2006
+94,135,"heavy_rail","Línea 2",1987
+135,172,"heavy_rail","Línea 2",1975
+1,32,"heavy_rail","Línea 4",2005
+32,35,"heavy_rail","Línea 4",2005
+35,43,"heavy_rail","Línea 4",2009
+43,98,"heavy_rail","Línea 4",2006
+98,100,"heavy_rail","Línea 4",2005
+100,101,"heavy_rail","Línea 4",2005
+101,103,"heavy_rail","Línea 4",2005
+103,110,"heavy_rail","Línea 4",2005
+110,119,"heavy_rail","Línea 4",2005
+119,120,"heavy_rail","Línea 4",2006
+120,121,"heavy_rail","Línea 4",2006
+121,123,"heavy_rail","Línea 4",2006
+123,125,"heavy_rail","Línea 4",2005
+125,128,"heavy_rail","Línea 4",2005
+128,129,"heavy_rail","Línea 4",2005
+129,134,"heavy_rail","Línea 4",2005
+134,137,"heavy_rail","Línea 4",2005
+137,138,"heavy_rail","Línea 4",2005
+138,146,"heavy_rail","Línea 4",2005
+146,147,"heavy_rail","Línea 4",2006
+147,153,"heavy_rail","Línea 4",2005
+153,154,"heavy_rail","Línea 4",2005
+22,24,"heavy_rail","Línea 5",1997
+24,25,"heavy_rail","Línea 5",1997
+25,31,"heavy_rail","Línea 5",1997
+31,36,"heavy_rail","Línea 5",1997
+36,39,"heavy_rail","Línea 5",1997
+39,41,"heavy_rail","Línea 5",1997
+41,49,"heavy_rail","Línea 5",1997
+49,77,"heavy_rail","Línea 5",2011
+77,79,"heavy_rail","Línea 5",1997
+79,90,"heavy_rail","Línea 5",1997
+90,102,"heavy_rail","Línea 5",1997
+102,104,"heavy_rail","Línea 5",2000
+104,108,"heavy_rail","Línea 5",2000
+108,109,"heavy_rail","Línea 5",1997
+109,113,"heavy_rail","Línea 5",2010
+113,114,"heavy_rail","Línea 5",2011
+114,117,"heavy_rail","Línea 5",2011
+117,118,"heavy_rail","Línea 5",2011
+118,139,"heavy_rail","Línea 5",2011
+139,141,"heavy_rail","Línea 5",2004
+141,144,"heavy_rail","Línea 5",2004
+144,145,"heavy_rail","Línea 5",2010
+145,148,"heavy_rail","Línea 5",2010
+148,149,"heavy_rail","Línea 5",2010
+149,155,"heavy_rail","Línea 5",2010
+155,157,"heavy_rail","Línea 5",2011
+NA,147,"heavy_rail","Línea 5",NA
+147,85,"heavy_rail","Línea 5",2005
+95,96,"heavy_rail","Línea 3",2019
+96,97,"heavy_rail","Línea 3",2019
+97,99,"heavy_rail","Línea 3",2019
+99,106,"heavy_rail","Línea 3",2019
+106,107,"heavy_rail","Línea 3",2019
+107,111,"heavy_rail","Línea 3",2019
+111,112,"heavy_rail","Línea 3",2019
+112,115,"heavy_rail","Línea 3",2019
+115,116,"heavy_rail","Línea 3",2022
+116,122,"heavy_rail","Línea 3",2019
+122,124,"heavy_rail","Línea 3",2019
+124,126,"heavy_rail","Línea 3",2019
+126,127,"heavy_rail","Línea 3",2019
+127,140,"heavy_rail","Línea 3",2022
+140,142,"heavy_rail","Línea 3",2019
+142,158,"heavy_rail","Línea 3",2022
+158,160,"heavy_rail","Línea 3",2019
+160,163,"heavy_rail","Línea 3",2019
+163,171,"heavy_rail","Línea 3",2019
+171,134,"heavy_rail","Línea 3",2017
+21,44,"heavy_rail","Línea 6",2017
+44,54,"heavy_rail","Línea 6",2017
+54,64,"heavy_rail","Línea 6",2017
+64,93,"heavy_rail","Línea 6",2017
+93,136,"heavy_rail","Línea 6",2017
+136,150,"heavy_rail","Línea 6",2017
+150,156,"heavy_rail","Línea 6",2017
+156,171,"heavy_rail","Línea 6",2017
+171,326,"heavy_rail","Línea 6",2017
+326,2,"heavy_rail","Línea 6",2027
+165,166,"heavy_rail","Metrotrén Nos",2017
+166,167,"heavy_rail","Metrotrén Nos",2017
+167,168,"heavy_rail","Metrotrén Nos",2017
+168,169,"heavy_rail","Metrotrén Nos",2017
+169,170,"heavy_rail","Metrotrén Nos",2017
+170,179,"heavy_rail","Metrotrén Nos",2017
+179,180,"heavy_rail","Metrotrén Nos",2017
+180,328,"heavy_rail","Metrotrén Nos",NA
+328,361,"heavy_rail","Metrotrén Nos",NA
+91,105,"tram","FFCC Llano del Maipo",1895
+105,130,"tram","FFCC Llano del Maipo",1895
+130,131,"tram","FFCC Llano del Maipo",1895
+131,143,"tram","FFCC Llano del Maipo",1895
+143,151,"tram","FFCC Llano del Maipo",1895
+151,152,"tram","FFCC Llano del Maipo",1895
+152,159,"tram","FFCC Llano del Maipo",1895
+159,161,"tram","FFCC Llano del Maipo",1895
+161,173,"tram","FFCC Llano del Maipo",1895
+89,92,"tram","FFCC Yungay-Barrancas",1911
+92,132,"tram","FFCC Yungay-Barrancas",1903
+132,133,"tram","FFCC Yungay-Barrancas",1903
+133,162,"tram","FFCC Yungay-Barrancas",1903
+162,164,"tram","FFCC Yungay-Barrancas",1903
+336,337,"commuter_rail","Santiago / San Bernardo",NA
+337,338,"commuter_rail","Santiago / San Bernardo",NA
+338,339,"commuter_rail","Santiago / San Bernardo",1965
+339,340,"commuter_rail","Santiago / San Bernardo",NA
+340,341,"commuter_rail","Santiago / San Bernardo",NA
+341,342,"commuter_rail","Santiago / San Bernardo",NA
+342,343,"commuter_rail","Santiago / San Bernardo",NA
+343,344,"commuter_rail","Santiago / San Bernardo",NA
+344,345,"commuter_rail","Santiago / San Bernardo",NA
+345,346,"commuter_rail","Santiago / San Bernardo",NA
+346,180,"commuter_rail","Santiago / San Bernardo",NA
+180,349,"commuter_rail","Santiago / San Bernardo",NA
+349,361,"commuter_rail","Santiago / San Bernardo",NA
+174,175,"inter_city_rail","Mapocho / Puerto",1863
+175,176,"inter_city_rail","Mapocho / Puerto",NA
+176,177,"inter_city_rail","Mapocho / Puerto",NA
+177,178,"inter_city_rail","Mapocho / Puerto",NA
+178,336,"inter_city_rail","Mapocho / Puerto",NA
+336,337,"inter_city_rail","Mapocho / Puerto",NA
+337,356,"inter_city_rail","Mapocho / Puerto",NA
+356,353,"inter_city_rail","Mapocho / Puerto",NA
+16,17,"heavy_rail","Línea 7",2027
+17,18,"heavy_rail","Línea 7",2027
+18,181,"heavy_rail","Línea 7",2027
+181,271,"heavy_rail","Línea 7",2027
+271,272,"heavy_rail","Línea 7",2027
+272,273,"heavy_rail","Línea 7",2027
+273,274,"heavy_rail","Línea 7",2027
+274,275,"heavy_rail","Línea 7",2027
+275,276,"heavy_rail","Línea 7",2027
+276,277,"heavy_rail","Línea 7",2027
+277,278,"heavy_rail","Línea 7",2025
+278,279,"heavy_rail","Línea 7",2027
+279,280,"heavy_rail","Línea 7",2027
+280,281,"heavy_rail","Línea 7",2027
+281,282,"heavy_rail","Línea 7",2027
+282,283,"heavy_rail","Línea 7",2027
+283,284,"heavy_rail","Línea 7",2027
+284,325,"heavy_rail","Línea 7",2027
+325,327,"heavy_rail","Línea 7",2027
+2,3,"commuter_rail","Metrotrén Melipilla",2023
+3,4,"commuter_rail","Metrotrén Melipilla",2023
+4,5,"commuter_rail","Metrotrén Melipilla",2023
+5,6,"commuter_rail","Metrotrén Melipilla",2023
+6,7,"commuter_rail","Metrotrén Melipilla",2023
+7,8,"commuter_rail","Metrotrén Melipilla",2023
+8,9,"commuter_rail","Metrotrén Melipilla",2023
+9,10,"commuter_rail","Metrotrén Melipilla",2023
+10,11,"commuter_rail","Metrotrén Melipilla",2023
+11,361,"commuter_rail","Metrotrén Melipilla",2023
+328,330,"commuter_rail","Metrotrén Rancagua",NA
+330,331,"commuter_rail","Metrotrén Rancagua",NA
+331,332,"commuter_rail","Metrotrén Rancagua",NA
+332,333,"commuter_rail","Metrotrén Rancagua",NA
+333,334,"commuter_rail","Metrotrén Rancagua",NA
+334,335,"commuter_rail","Metrotrén Rancagua",NA
+335,180,"commuter_rail","Metrotrén Rancagua",NA
+180,361,"commuter_rail","Metrotrén Rancagua",NA
+361,374,"commuter_rail","Metrotrén Rancagua",NA
+374,375,"commuter_rail","Metrotrén Rancagua",NA
+375,376,"commuter_rail","Metrotrén Rancagua",NA
+376,377,"commuter_rail","Metrotrén Rancagua",NA
+183,184,"tram","FFCC Santiago-Ñuñoa",1893
+184,185,"tram","FFCC Santiago-Ñuñoa",1893
+185,186,"tram","FFCC Santiago-Ñuñoa",1893
+209,210,"brt","Grecia",2006
+210,211,"brt","Grecia",2006
+211,212,"brt","Grecia",2008
+212,213,"brt","Grecia",2009
+213,214,"brt","Grecia",2013
+214,215,"brt","Grecia",2008
+215,216,"brt","Grecia",2013
+216,217,"brt","Grecia",2008
+217,218,"brt","Grecia",2008
+218,219,"brt","Grecia",2008
+219,220,"brt","Grecia",2008
+220,221,"brt","Grecia",2008
+221,237,"brt","Grecia",2008
+237,238,"brt","Grecia",1995
+238,239,"brt","Grecia",1995
+239,240,"brt","Grecia",1995
+240,241,"brt","Grecia",1995
+241,242,"brt","Grecia",1995
+242,310,"brt","Grecia",1995
+310,311,"brt","Grecia",2009
+311,312,"brt","Grecia",2009
+243,244,"brt","Santa Rosa",2008
+244,245,"brt","Santa Rosa",2008
+245,246,"brt","Santa Rosa",2008
+246,247,"brt","Santa Rosa",2008
+247,248,"brt","Santa Rosa",2008
+248,249,"brt","Santa Rosa",2008
+249,250,"brt","Santa Rosa",2008
+250,251,"brt","Santa Rosa",2008
+251,252,"brt","Santa Rosa",2008
+252,253,"brt","Santa Rosa",2008
+253,254,"brt","Santa Rosa",2008
+254,289,"brt","Santa Rosa",2008
+289,290,"brt","Santa Rosa",2009
+290,291,"brt","Santa Rosa",2009
+291,292,"brt","Santa Rosa",2009
+292,293,"brt","Santa Rosa",2009
+293,294,"brt","Santa Rosa",2009
+294,295,"brt","Santa Rosa",2009
+295,296,"brt","Santa Rosa",2009
+296,297,"brt","Santa Rosa",2009
+297,298,"brt","Santa Rosa",2009
+298,299,"brt","Santa Rosa",2009
+299,300,"brt","Santa Rosa",2009
+300,301,"brt","Santa Rosa",2009
+301,302,"brt","Santa Rosa",2009
+302,303,"brt","Santa Rosa",2009
+303,304,"brt","Santa Rosa",2009
+304,305,"brt","Santa Rosa",2009
+305,306,"brt","Santa Rosa",2009
+306,307,"brt","Santa Rosa",2009
+307,308,"brt","Santa Rosa",2009
+308,309,"brt","Santa Rosa",2009
+314,315,"brt","Vicuña Mackenna",2009
+315,316,"brt","Vicuña Mackenna",2017
+316,317,"brt","Vicuña Mackenna",2009
+317,318,"brt","Vicuña Mackenna",2009
+318,319,"brt","Vicuña Mackenna",2017
+319,320,"brt","Vicuña Mackenna",2017
+320,321,"brt","Vicuña Mackenna",2017
+187,188,"brt","Departamental",2013
+188,189,"brt","Departamental",2013
+189,190,"brt","Departamental",2013
+190,191,"brt","Departamental",2013
+191,192,"brt","Departamental",2013
+192,193,"brt","Departamental",2013
+193,194,"brt","Departamental",2013
+194,198,"brt","Departamental",2013
+198,199,"brt","Departamental",2013
+199,200,"brt","Departamental",2013
+200,201,"brt","Departamental",2013
+201,202,"brt","Departamental",2013
+202,203,"brt","Departamental",2013
+203,204,"brt","Departamental",2013
+204,205,"brt","Departamental",2013
+205,206,"brt","Departamental",2013
+206,207,"brt","Departamental",2013
+207,208,"brt","Departamental",2013
+208,267,"brt","Departamental",2013
+267,269,"brt","Departamental",2008
+269,270,"brt","Departamental",2013
+255,256,"brt","Pajaritos",2005
+256,257,"brt","Pajaritos",2005
+257,258,"brt","Pajaritos",2005
+258,259,"brt","Pajaritos",2005
+259,260,"brt","Pajaritos",2005
+260,261,"brt","Pajaritos",2005
+261,262,"brt","Pajaritos",2005
+262,263,"brt","Pajaritos",2005
+263,264,"brt","Pajaritos",2005
+264,265,"brt","Pajaritos",2005
+265,285,"brt","Pajaritos",2005
+285,286,"brt","Pajaritos",2010
+286,287,"brt","Pajaritos",2010
+287,288,"brt","Pajaritos",2010
+12,13,"brt","Las Rejas",2007
+13,14,"brt","Las Rejas",2007
+14,15,"brt","Las Rejas",2014
+15,313,"brt","Las Rejas",2014
+313,322,"brt","Las Rejas",2007
+322,323,"brt","Las Rejas",2007
+323,324,"brt","Las Rejas",2007
+222,223,"brt","Anillo Intermedio",2008
+223,224,"brt","Anillo Intermedio",2008
+224,225,"brt","Anillo Intermedio",2008
+225,226,"brt","Anillo Intermedio",2008
+226,227,"brt","Anillo Intermedio",2008
+227,228,"brt","Anillo Intermedio",2008
+228,229,"brt","Anillo Intermedio",2009
+229,230,"brt","Anillo Intermedio",2009
+230,231,"brt","Anillo Intermedio",2009
+231,232,"brt","Anillo Intermedio",2009
+232,233,"brt","Anillo Intermedio",2009
+233,234,"brt","Anillo Intermedio",2015
+234,235,"brt","Anillo Intermedio",2015
+235,236,"brt","Anillo Intermedio",2015
+NA,147,"brt","Anillo Intermedio",NA
+266,394,"brt","Camino a Rinconada",2018
+394,395,"brt","Camino a Rinconada",2018
+395,396,"brt","Camino a Rinconada",2018
+396,397,"brt","Camino a Rinconada",2018
+397,398,"brt","Camino a Rinconada",2018
+398,399,"brt","Camino a Rinconada",2018
+399,400,"brt","Camino a Rinconada",2018
+195,196,"brt","Pedro Aguirre Cerda",2008
+196,197,"brt","Pedro Aguirre Cerda",2008
+197,267,"brt","Pedro Aguirre Cerda",2008
+267,378,"brt","Pedro Aguirre Cerda",2008
+378,379,"brt","Pedro Aguirre Cerda",2008
+379,380,"brt","Pedro Aguirre Cerda",2008
+380,382,"brt","Pedro Aguirre Cerda",2008
+382,383,"brt","Pedro Aguirre Cerda",2008
+383,384,"brt","Pedro Aguirre Cerda",2007
+384,385,"brt","Pedro Aguirre Cerda",2008
+385,386,"brt","Pedro Aguirre Cerda",2007
+386,387,"brt","Pedro Aguirre Cerda",2009
+387,388,"brt","Pedro Aguirre Cerda",2009
+388,389,"brt","Pedro Aguirre Cerda",2009
+389,390,"brt","Pedro Aguirre Cerda",2009
+390,391,"brt","Pedro Aguirre Cerda",2009
+391,392,"brt","Pedro Aguirre Cerda",2009
+392,393,"brt","Pedro Aguirre Cerda",2009
+352,353,"commuter_rail","Metrotrén Batuco",2025
+353,354,"commuter_rail","Metrotrén Batuco",NA
+354,355,"commuter_rail","Metrotrén Batuco",NA
+355,356,"commuter_rail","Metrotrén Batuco",NA
+356,357,"commuter_rail","Metrotrén Batuco",NA
+357,358,"commuter_rail","Metrotrén Batuco",NA
+358,178,"commuter_rail","Metrotrén Batuco",NA
+350,351,"commuter_rail","Alameda / Ñuñoa",NA
+351,361,"commuter_rail","Alameda / Ñuñoa",NA
+361,175,"commuter_rail","Metrotrén Tiltil",NA
+175,356,"commuter_rail","Metrotrén Tiltil",NA
+356,353,"commuter_rail","Metrotrén Tiltil",NA
+353,176,"commuter_rail","Metrotrén Tiltil",NA
+176,177,"commuter_rail","Metrotrén Tiltil",NA
+177,178,"commuter_rail","Metrotrén Tiltil",NA

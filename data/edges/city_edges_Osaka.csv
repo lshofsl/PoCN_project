@@ -1,0 +1,1228 @@
+"nodeID_from","nodeID_to","mode","line","year"
+47,48,"heavy_rail","Midosuji Line",1933
+48,49,"heavy_rail","Midosuji Line",1933
+49,50,"heavy_rail","Midosuji Line",1933
+50,51,"heavy_rail","Midosuji Line",1935
+51,52,"heavy_rail","Midosuji Line",1938
+52,53,"heavy_rail","Midosuji Line",1938
+53,54,"heavy_rail","Midosuji Line",1951
+54,55,"heavy_rail","Midosuji Line",1952
+55,56,"heavy_rail","Midosuji Line",1960
+56,57,"heavy_rail","Midosuji Line",1964
+57,58,"heavy_rail","Midosuji Line",1964
+58,59,"heavy_rail","Midosuji Line",1970
+59,60,"heavy_rail","Midosuji Line",1987
+60,62,"heavy_rail","Midosuji Line",1987
+62,63,"heavy_rail","Midosuji Line",1933
+63,64,"heavy_rail","Midosuji Line",1938
+64,65,"heavy_rail","Midosuji Line",1960
+65,66,"heavy_rail","Midosuji Line",1964
+66,67,"heavy_rail","Midosuji Line",1970
+653,654,"heavy_rail","Tanimachi Line",1967
+654,655,"heavy_rail","Tanimachi Line",1967
+655,656,"heavy_rail","Tanimachi Line",1968
+656,657,"heavy_rail","Tanimachi Line",1974
+657,658,"heavy_rail","Tanimachi Line",1977
+658,659,"heavy_rail","Tanimachi Line",1980
+659,660,"heavy_rail","Tanimachi Line",1980
+660,773,"heavy_rail","Tanimachi Line",1983
+773,774,"heavy_rail","Tanimachi Line",1977
+774,775,"heavy_rail","Tanimachi Line",1977
+775,776,"heavy_rail","Tanimachi Line",1977
+776,843,"heavy_rail","Tanimachi Line",1977
+843,844,"heavy_rail","Tanimachi Line",1969
+844,845,"heavy_rail","Tanimachi Line",1974
+845,846,"heavy_rail","Tanimachi Line",1967
+846,847,"heavy_rail","Tanimachi Line",1967
+847,848,"heavy_rail","Tanimachi Line",1968
+848,849,"heavy_rail","Tanimachi Line",1968
+849,850,"heavy_rail","Tanimachi Line",1968
+850,851,"heavy_rail","Tanimachi Line",1980
+851,852,"heavy_rail","Tanimachi Line",1980
+852,853,"heavy_rail","Tanimachi Line",1980
+853,854,"heavy_rail","Tanimachi Line",1980
+854,855,"heavy_rail","Tanimachi Line",1980
+855,856,"heavy_rail","Tanimachi Line",1980
+61,68,"heavy_rail","Yotsubashi Line",1958
+68,69,"heavy_rail","Yotsubashi Line",1942
+69,70,"heavy_rail","Yotsubashi Line",1956
+70,71,"heavy_rail","Yotsubashi Line",1942
+71,72,"heavy_rail","Yotsubashi Line",1965
+72,73,"heavy_rail","Yotsubashi Line",1965
+73,74,"heavy_rail","Yotsubashi Line",1965
+74,75,"heavy_rail","Yotsubashi Line",1965
+75,652,"heavy_rail","Yotsubashi Line",1965
+652,932,"heavy_rail","Yotsubashi Line",1972
+644,645,"heavy_rail","Chuo Line",1961
+645,646,"heavy_rail","Chuo Line",1961
+646,647,"heavy_rail","Chuo Line",1964
+647,648,"heavy_rail","Chuo Line",1967
+648,649,"heavy_rail","Chuo Line",1967
+649,650,"heavy_rail","Chuo Line",1968
+650,651,"heavy_rail","Chuo Line",1985
+651,767,"heavy_rail","Chuo Line",1997
+767,768,"heavy_rail","Chuo Line",1961
+768,769,"heavy_rail","Chuo Line",1964
+769,770,"heavy_rail","Chuo Line",1964
+770,771,"heavy_rail","Chuo Line",1969
+771,772,"heavy_rail","Chuo Line",1968
+37,39,"heavy_rail","Sennichimae Line",2009
+39,661,"heavy_rail","Sennichimae Line",2009
+661,662,"heavy_rail","Sennichimae Line",1969
+662,663,"heavy_rail","Sennichimae Line",1969
+663,664,"heavy_rail","Sennichimae Line",1969
+664,665,"heavy_rail","Sennichimae Line",1969
+665,857,"heavy_rail","Sennichimae Line",1981
+857,858,"heavy_rail","Sennichimae Line",1969
+858,859,"heavy_rail","Sennichimae Line",1969
+859,860,"heavy_rail","Sennichimae Line",1969
+860,861,"heavy_rail","Sennichimae Line",1970
+861,862,"heavy_rail","Sennichimae Line",1969
+862,863,"heavy_rail","Sennichimae Line",1969
+863,864,"heavy_rail","Sennichimae Line",1969
+864,865,"heavy_rail","Sennichimae Line",1981
+666,667,"heavy_rail","Sakaisuji Line",1969
+667,668,"heavy_rail","Sakaisuji Line",1969
+668,905,"heavy_rail","Sakaisuji Line",1993
+905,906,"heavy_rail","Sakaisuji Line",1969
+906,907,"heavy_rail","Sakaisuji Line",1969
+907,908,"heavy_rail","Sakaisuji Line",1969
+908,909,"heavy_rail","Sakaisuji Line",1969
+909,910,"heavy_rail","Sakaisuji Line",1969
+910,911,"heavy_rail","Sakaisuji Line",1969
+757,758,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1990
+758,759,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1990
+759,760,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1997
+760,761,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1996
+761,1005,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1997
+1005,1006,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1997
+1006,1007,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1997
+1007,1008,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1997
+1008,1009,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1996
+1009,1010,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1996
+1010,1011,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1996
+1011,1012,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1996
+1012,1013,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1996
+1013,1014,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1996
+1014,1015,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1990
+1015,1016,"heavy_rail","Nagahori Tsurumi-ryokuchi Line",1990
+762,763,"heavy_rail","Imazatosuji Line",2006
+763,1017,"heavy_rail","Imazatosuji Line",2006
+1017,1018,"heavy_rail","Imazatosuji Line",2006
+1018,1019,"heavy_rail","Imazatosuji Line",2006
+1019,1020,"heavy_rail","Imazatosuji Line",2006
+1020,1021,"heavy_rail","Imazatosuji Line",2006
+1021,1022,"heavy_rail","Imazatosuji Line",2006
+1022,1023,"heavy_rail","Imazatosuji Line",2006
+1023,1024,"heavy_rail","Imazatosuji Line",2006
+1024,1025,"heavy_rail","Imazatosuji Line",2006
+393,394,"people_mover","Nanko Port Town Line",1997
+394,395,"people_mover","Nanko Port Town Line",1981
+395,396,"people_mover","Nanko Port Town Line",1981
+396,397,"people_mover","Nanko Port Town Line",1981
+397,398,"people_mover","Nanko Port Town Line",1981
+398,399,"people_mover","Nanko Port Town Line",1981
+399,764,"people_mover","Nanko Port Town Line",1981
+764,765,"people_mover","Nanko Port Town Line",1981
+765,766,"people_mover","Nanko Port Town Line",1981
+82,83,"heavy_rail","Osaka Loop Line",1961
+83,250,"heavy_rail","Osaka Loop Line",1961
+250,365,"heavy_rail","Osaka Loop Line",1961
+365,367,"heavy_rail","Osaka Loop Line",1961
+367,368,"heavy_rail","Osaka Loop Line",1961
+368,369,"heavy_rail","Osaka Loop Line",1961
+369,370,"heavy_rail","Osaka Loop Line",1961
+370,371,"heavy_rail","Osaka Loop Line",1966
+371,373,"heavy_rail","Osaka Loop Line",1961
+373,377,"heavy_rail","Osaka Loop Line",1966
+377,379,"heavy_rail","Osaka Loop Line",1961
+379,381,"heavy_rail","Osaka Loop Line",1961
+381,383,"heavy_rail","Osaka Loop Line",1961
+383,385,"heavy_rail","Osaka Loop Line",1961
+385,386,"heavy_rail","Osaka Loop Line",1961
+386,389,"heavy_rail","Osaka Loop Line",1983
+389,391,"heavy_rail","Osaka Loop Line",1961
+247,248,"heavy_rail","Katamachi Line",1895
+248,251,"heavy_rail","Katamachi Line",1895
+251,252,"heavy_rail","Katamachi Line",1913
+252,453,"heavy_rail","Katamachi Line",1898
+453,454,"heavy_rail","Katamachi Line",1933
+454,456,"heavy_rail","Katamachi Line",1895
+456,457,"heavy_rail","Katamachi Line",1895
+457,458,"heavy_rail","Katamachi Line",1912
+458,459,"heavy_rail","Katamachi Line",1895
+459,460,"heavy_rail","Katamachi Line",1899
+460,461,"heavy_rail","Katamachi Line",1953
+461,462,"heavy_rail","Katamachi Line",1979
+462,463,"heavy_rail","Katamachi Line",1898
+463,464,"heavy_rail","Katamachi Line",1935
+464,465,"heavy_rail","Katamachi Line",1898
+465,466,"heavy_rail","Katamachi Line",1979
+466,467,"heavy_rail","Katamachi Line",1898
+467,468,"heavy_rail","Katamachi Line",1989
+468,469,"heavy_rail","Katamachi Line",1952
+469,470,"heavy_rail","Katamachi Line",1898
+470,471,"heavy_rail","Katamachi Line",1986
+471,472,"heavy_rail","Katamachi Line",1952
+472,473,"heavy_rail","Katamachi Line",1952
+473,474,"heavy_rail","Katamachi Line",1898
+318,319,"heavy_rail","Yamatoji Line",1889
+319,321,"heavy_rail","Yamatoji Line",1889
+321,322,"heavy_rail","Yamatoji Line",1890
+322,323,"heavy_rail","Yamatoji Line",1890
+323,324,"heavy_rail","Yamatoji Line",1890
+324,372,"heavy_rail","Yamatoji Line",1891
+372,374,"heavy_rail","Yamatoji Line",1899
+374,375,"heavy_rail","Yamatoji Line",1972
+375,404,"heavy_rail","Yamatoji Line",1889
+404,405,"heavy_rail","Yamatoji Line",1989
+405,406,"heavy_rail","Yamatoji Line",1889
+406,407,"heavy_rail","Yamatoji Line",1909
+407,408,"heavy_rail","Yamatoji Line",1910
+408,409,"heavy_rail","Yamatoji Line",1889
+409,410,"heavy_rail","Yamatoji Line",1909
+410,411,"heavy_rail","Yamatoji Line",1985
+411,412,"heavy_rail","Yamatoji Line",1927
+412,413,"heavy_rail","Yamatoji Line",1980
+413,414,"heavy_rail","Yamatoji Line",1890
+414,415,"heavy_rail","Yamatoji Line",1920
+415,636,"heavy_rail","Yamatoji Line",1890
+636,637,"heavy_rail","Yamatoji Line",1907
+637,638,"heavy_rail","Yamatoji Line",1985
+80,81,"heavy_rail","Sakurajima Line",1898
+81,331,"heavy_rail","Sakurajima Line",1898
+331,332,"heavy_rail","Sakurajima Line",1898
+332,364,"heavy_rail","Sakurajima Line",1910
+364,366,"heavy_rail","Sakurajima Line",1898
+366,392,"heavy_rail","Sakurajima Line",1898
+433,447,"heavy_rail","Tozai Line",1997
+447,448,"heavy_rail","Tozai Line",1997
+448,449,"heavy_rail","Tozai Line",1997
+449,450,"heavy_rail","Tozai Line",1997
+450,451,"heavy_rail","Tozai Line",1997
+451,452,"heavy_rail","Tozai Line",1997
+320,325,"heavy_rail","Hanwa Line",1929
+325,326,"heavy_rail","Hanwa Line",1929
+326,503,"heavy_rail","Hanwa Line",1930
+503,504,"heavy_rail","Hanwa Line",1931
+504,505,"heavy_rail","Hanwa Line",1929
+505,506,"heavy_rail","Hanwa Line",1938
+506,507,"heavy_rail","Hanwa Line",1929
+507,508,"heavy_rail","Hanwa Line",1930
+508,509,"heavy_rail","Hanwa Line",1929
+509,510,"heavy_rail","Hanwa Line",1937
+510,511,"heavy_rail","Hanwa Line",1932
+511,512,"heavy_rail","Hanwa Line",1942
+512,513,"heavy_rail","Hanwa Line",1929
+513,514,"heavy_rail","Hanwa Line",1929
+514,515,"heavy_rail","Hanwa Line",1960
+515,516,"heavy_rail","Hanwa Line",1929
+516,517,"heavy_rail","Hanwa Line",1940
+517,518,"heavy_rail","Hanwa Line",1932
+518,519,"heavy_rail","Hanwa Line",1929
+519,520,"heavy_rail","Hanwa Line",1930
+520,521,"heavy_rail","Hanwa Line",1984
+521,522,"heavy_rail","Hanwa Line",1930
+522,523,"heavy_rail","Hanwa Line",1934
+523,524,"heavy_rail","Hanwa Line",1930
+524,525,"heavy_rail","Hanwa Line",1939
+525,526,"heavy_rail","Hanwa Line",1930
+526,527,"heavy_rail","Hanwa Line",1930
+527,528,"heavy_rail","Hanwa Line",1930
+528,529,"heavy_rail","Hanwa Line",1930
+529,530,"heavy_rail","Hanwa Line",1930
+530,531,"heavy_rail","Hanwa Line",1963
+531,532,"heavy_rail","Hanwa Line",1930
+532,533,"heavy_rail","Hanwa Line",1930
+533,534,"heavy_rail","Hanwa Line",1930
+77,78,"heavy_rail","Kyoto Line",1876
+78,487,"heavy_rail","Kyoto Line",1877
+487,488,"heavy_rail","Kyoto Line",1964
+488,489,"heavy_rail","Kyoto Line",1940
+489,490,"heavy_rail","Kyoto Line",1876
+490,491,"heavy_rail","Kyoto Line",1947
+491,492,"heavy_rail","Kyoto Line",1938
+492,493,"heavy_rail","Kyoto Line",1876
+493,494,"heavy_rail","Kyoto Line",1924
+494,495,"heavy_rail","Kyoto Line",2018
+495,496,"heavy_rail","Kyoto Line",1876
+496,497,"heavy_rail","Kyoto Line",2008
+497,498,"heavy_rail","Kyoto Line",1876
+498,499,"heavy_rail","Kyoto Line",1931
+499,500,"heavy_rail","Kyoto Line",1876
+500,501,"heavy_rail","Kyoto Line",2008
+501,502,"heavy_rail","Kyoto Line",1938
+134,135,"heavy_rail","Fukuchiyama Line",1898
+135,253,"heavy_rail","Fukuchiyama Line",1899
+253,254,"heavy_rail","Fukuchiyama Line",1893
+254,255,"heavy_rail","Fukuchiyama Line",1897
+255,535,"heavy_rail","Fukuchiyama Line",1893
+535,536,"heavy_rail","Fukuchiyama Line",1894
+536,537,"heavy_rail","Fukuchiyama Line",1981
+537,538,"heavy_rail","Fukuchiyama Line",1893
+538,539,"heavy_rail","Fukuchiyama Line",1944
+539,1109,"heavy_rail","Fukuchiyama Line",1897
+1109,1110,"heavy_rail","Fukuchiyama Line",1899
+1110,1325,"heavy_rail","Fukuchiyama Line",1899
+1325,1326,"heavy_rail","Fukuchiyama Line",1986
+1326,1327,"heavy_rail","Fukuchiyama Line",1899
+1327,1328,"heavy_rail","Fukuchiyama Line",1986
+1328,1329,"heavy_rail","Fukuchiyama Line",1899
+1329,1330,"heavy_rail","Fukuchiyama Line",1899
+1330,1331,"heavy_rail","Fukuchiyama Line",1899
+1331,1332,"heavy_rail","Fukuchiyama Line",1958
+1332,1333,"heavy_rail","Fukuchiyama Line",1899
+693,696,"heavy_rail","Nara Line",1921
+696,697,"heavy_rail","Nara Line",1921
+697,698,"heavy_rail","Nara Line",1997
+698,699,"heavy_rail","Nara Line",1992
+699,700,"heavy_rail","Nara Line",1896
+700,701,"heavy_rail","Nara Line",1961
+701,702,"heavy_rail","Nara Line",1896
+702,703,"heavy_rail","Nara Line",2001
+703,704,"heavy_rail","Nara Line",1896
+704,705,"heavy_rail","Nara Line",1958
+705,706,"heavy_rail","Nara Line",1896
+706,707,"heavy_rail","Nara Line",1926
+707,708,"heavy_rail","Nara Line",1955
+708,709,"heavy_rail","Nara Line",1896
+709,710,"heavy_rail","Nara Line",1902
+710,637,"heavy_rail","Nara Line",1896
+637,778,"heavy_rail","Nara Line",1985
+778,779,"heavy_rail","Nara Line",1895
+779,866,"heavy_rail","Nara Line",1921
+866,867,"heavy_rail","Nara Line",1895
+867,868,"heavy_rail","Nara Line",1896
+76,79,"heavy_rail","Kobe Line",1874
+79,431,"heavy_rail","Kobe Line",1874
+431,432,"heavy_rail","Kobe Line",1934
+432,434,"heavy_rail","Kobe Line",1874
+434,435,"heavy_rail","Kobe Line",1934
+435,436,"heavy_rail","Kobe Line",1934
+436,437,"heavy_rail","Kobe Line",1874
+437,438,"heavy_rail","Kobe Line",2007
+438,439,"heavy_rail","Kobe Line",1913
+439,440,"heavy_rail","Kobe Line",1996
+440,441,"heavy_rail","Kobe Line",1935
+441,442,"heavy_rail","Kobe Line",1874
+442,443,"heavy_rail","Kobe Line",1934
+443,444,"heavy_rail","Kobe Line",2016
+444,445,"heavy_rail","Kobe Line",1917
+445,446,"heavy_rail","Kobe Line",1874
+446,558,"heavy_rail","Kobe Line",1905
+558,559,"heavy_rail","Kobe Line",1888
+559,560,"heavy_rail","Kobe Line",1888
+560,1111,"heavy_rail","Kobe Line",1888
+1111,1112,"heavy_rail","Kobe Line",1954
+1112,1113,"heavy_rail","Kobe Line",1900
+1113,1114,"heavy_rail","Kobe Line",2008
+1114,1115,"heavy_rail","Kobe Line",1888
+1115,1116,"heavy_rail","Kobe Line",1896
+1116,1117,"heavy_rail","Kobe Line",1888
+1117,1118,"heavy_rail","Kobe Line",1896
+1118,1119,"heavy_rail","Kobe Line",1968
+1119,1120,"heavy_rail","Kobe Line",1944
+1120,1121,"heavy_rail","Kobe Line",1888
+1121,1122,"heavy_rail","Kobe Line",1961
+1122,1123,"heavy_rail","Kobe Line",1888
+1123,1124,"heavy_rail","Kobe Line",1961
+1124,1125,"heavy_rail","Kobe Line",1888
+1125,1126,"heavy_rail","Kobe Line",1900
+1126,1127,"heavy_rail","Kobe Line",1888
+1127,1128,"heavy_rail","Kobe Line",2005
+1128,1129,"heavy_rail","Kobe Line",1900
+84,85,"heavy_rail","Joto Line",1895
+85,249,"heavy_rail","Joto Line",1895
+249,376,"heavy_rail","Joto Line",1895
+376,378,"heavy_rail","Joto Line",1932
+378,380,"heavy_rail","Joto Line",1895
+380,382,"heavy_rail","Joto Line",1932
+382,384,"heavy_rail","Joto Line",1895
+384,387,"heavy_rail","Joto Line",1932
+387,388,"heavy_rail","Joto Line",1895
+388,390,"heavy_rail","Joto Line",1898
+455,475,"heavy_rail","Osaka Higashi Line",2008
+475,476,"heavy_rail","Osaka Higashi Line",2008
+476,477,"heavy_rail","Osaka Higashi Line",2008
+477,478,"heavy_rail","Osaka Higashi Line",2008
+478,479,"heavy_rail","Osaka Higashi Line",2008
+479,480,"heavy_rail","Osaka Higashi Line",2018
+480,481,"heavy_rail","Osaka Higashi Line",2008
+136,293,"heavy_rail","Osaka Line",1930
+293,294,"heavy_rail","Osaka Line",1914
+294,295,"heavy_rail","Osaka Line",1914
+295,296,"heavy_rail","Osaka Line",1926
+296,297,"heavy_rail","Osaka Line",1924
+297,298,"heavy_rail","Osaka Line",1925
+298,299,"heavy_rail","Osaka Line",1925
+299,300,"heavy_rail","Osaka Line",1925
+300,301,"heavy_rail","Osaka Line",1925
+301,302,"heavy_rail","Osaka Line",1927
+302,303,"heavy_rail","Osaka Line",1927
+303,304,"heavy_rail","Osaka Line",1927
+304,305,"heavy_rail","Osaka Line",1927
+305,306,"heavy_rail","Osaka Line",1927
+306,307,"heavy_rail","Osaka Line",1927
+307,308,"heavy_rail","Osaka Line",1927
+308,309,"heavy_rail","Osaka Line",1927
+309,310,"heavy_rail","Osaka Line",1925
+310,311,"heavy_rail","Osaka Line",1925
+311,312,"heavy_rail","Osaka Line",1929
+312,313,"heavy_rail","Osaka Line",1929
+313,314,"heavy_rail","Osaka Line",1929
+314,327,"heavy_rail","Osaka Line",1944
+327,328,"heavy_rail","Osaka Line",1914
+328,329,"heavy_rail","Osaka Line",1914
+329,330,"heavy_rail","Osaka Line",1924
+330,482,"heavy_rail","Osaka Line",1925
+482,483,"heavy_rail","Osaka Line",1991
+483,484,"heavy_rail","Osaka Line",1927
+484,485,"heavy_rail","Osaka Line",1925
+485,486,"heavy_rail","Osaka Line",1925
+486,1297,"heavy_rail","Osaka Line",1929
+1297,1298,"heavy_rail","Osaka Line",1930
+1298,1299,"heavy_rail","Osaka Line",1930
+1299,1300,"heavy_rail","Osaka Line",1930
+1300,1301,"heavy_rail","Osaka Line",1930
+1301,1302,"heavy_rail","Osaka Line",1930
+1302,1303,"heavy_rail","Osaka Line",1964
+1303,1304,"heavy_rail","Osaka Line",1930
+1304,1305,"heavy_rail","Osaka Line",1930
+1305,1306,"heavy_rail","Osaka Line",1930
+1306,1307,"heavy_rail","Osaka Line",1930
+1307,1308,"heavy_rail","Osaka Line",1930
+1308,1309,"heavy_rail","Osaka Line",1930
+1309,1310,"heavy_rail","Osaka Line",1930
+1310,1311,"heavy_rail","Osaka Line",1930
+1311,1312,"heavy_rail","Osaka Line",1930
+416,417,"heavy_rail","Nara Line",1938
+417,418,"heavy_rail","Nara Line",1914
+418,419,"heavy_rail","Nara Line",1936
+419,420,"heavy_rail","Nara Line",1914
+420,421,"heavy_rail","Nara Line",1915
+421,422,"heavy_rail","Nara Line",1929
+422,423,"heavy_rail","Nara Line",1914
+423,424,"heavy_rail","Nara Line",1914
+424,425,"heavy_rail","Nara Line",1920
+425,426,"heavy_rail","Nara Line",1914
+426,427,"heavy_rail","Nara Line",1914
+427,428,"heavy_rail","Nara Line",1968
+428,429,"heavy_rail","Nara Line",1914
+429,430,"heavy_rail","Nara Line",1942
+430,540,"heavy_rail","Nara Line",1923
+540,541,"heavy_rail","Nara Line",1914
+541,553,"heavy_rail","Nara Line",1914
+553,554,"heavy_rail","Nara Line",1914
+94,95,"heavy_rail","Kyoto Line",1928
+95,96,"heavy_rail","Kyoto Line",1928
+96,97,"heavy_rail","Kyoto Line",1940
+97,98,"heavy_rail","Kyoto Line",1928
+98,99,"heavy_rail","Kyoto Line",1928
+99,100,"heavy_rail","Kyoto Line",1928
+100,101,"heavy_rail","Kyoto Line",1928
+101,102,"heavy_rail","Kyoto Line",1979
+102,103,"heavy_rail","Kyoto Line",1928
+103,104,"heavy_rail","Kyoto Line",1928
+104,105,"heavy_rail","Kyoto Line",1928
+105,106,"heavy_rail","Kyoto Line",1928
+106,107,"heavy_rail","Kyoto Line",1928
+107,108,"heavy_rail","Kyoto Line",1928
+108,109,"heavy_rail","Kyoto Line",1928
+109,110,"heavy_rail","Kyoto Line",1954
+110,111,"heavy_rail","Kyoto Line",1928
+111,112,"heavy_rail","Kyoto Line",1993
+112,113,"heavy_rail","Kyoto Line",1928
+113,114,"heavy_rail","Kyoto Line",1928
+114,115,"heavy_rail","Kyoto Line",1994
+115,116,"heavy_rail","Kyoto Line",1928
+116,117,"heavy_rail","Kyoto Line",1972
+117,542,"heavy_rail","Kyoto Line",1928
+542,543,"heavy_rail","Kyoto Line",1928
+544,545,"heavy_rail","Minami Osaka Line",1898
+545,546,"heavy_rail","Minami Osaka Line",1898
+546,547,"heavy_rail","Minami Osaka Line",1922
+547,548,"heavy_rail","Minami Osaka Line",1923
+548,568,"heavy_rail","Minami Osaka Line",1929
+568,569,"heavy_rail","Minami Osaka Line",1923
+569,570,"heavy_rail","Minami Osaka Line",1923
+570,571,"heavy_rail","Minami Osaka Line",1931
+571,572,"heavy_rail","Minami Osaka Line",1923
+572,573,"heavy_rail","Minami Osaka Line",1923
+573,574,"heavy_rail","Minami Osaka Line",1923
+574,575,"heavy_rail","Minami Osaka Line",1932
+575,576,"heavy_rail","Minami Osaka Line",1922
+576,577,"heavy_rail","Minami Osaka Line",1924
+577,578,"heavy_rail","Minami Osaka Line",1922
+578,579,"heavy_rail","Minami Osaka Line",1922
+579,580,"heavy_rail","Minami Osaka Line",1924
+580,581,"heavy_rail","Minami Osaka Line",1929
+581,582,"heavy_rail","Minami Osaka Line",1929
+582,583,"heavy_rail","Minami Osaka Line",1929
+583,584,"heavy_rail","Minami Osaka Line",1929
+584,585,"heavy_rail","Minami Osaka Line",1929
+585,586,"heavy_rail","Minami Osaka Line",1929
+586,587,"heavy_rail","Minami Osaka Line",1929
+587,588,"heavy_rail","Minami Osaka Line",1929
+588,589,"heavy_rail","Minami Osaka Line",1929
+589,590,"heavy_rail","Minami Osaka Line",1929
+549,550,"heavy_rail","Domyoji Line",1898
+550,607,"heavy_rail","Domyoji Line",1898
+224,225,"heavy_rail","Kashihara Line",1921
+225,226,"heavy_rail","Kashihara Line",1921
+226,227,"heavy_rail","Kashihara Line",1921
+227,228,"heavy_rail","Kashihara Line",1922
+228,229,"heavy_rail","Kashihara Line",1979
+229,230,"heavy_rail","Kashihara Line",1923
+230,231,"heavy_rail","Kashihara Line",1923
+231,232,"heavy_rail","Kashihara Line",1923
+232,233,"heavy_rail","Kashihara Line",1923
+233,234,"heavy_rail","Kashihara Line",1923
+234,235,"heavy_rail","Kashihara Line",1923
+235,236,"heavy_rail","Kashihara Line",1923
+236,551,"heavy_rail","Kashihara Line",1923
+551,552,"heavy_rail","Kashihara Line",1921
+552,610,"heavy_rail","Kashihara Line",1921
+610,611,"heavy_rail","Kashihara Line",1922
+669,670,"heavy_rail","Nankai Main Line",1885
+670,671,"heavy_rail","Nankai Main Line",1885
+671,672,"heavy_rail","Nankai Main Line",1888
+672,673,"heavy_rail","Nankai Main Line",1897
+673,674,"heavy_rail","Nankai Main Line",1903
+674,886,"heavy_rail","Nankai Main Line",1898
+886,887,"heavy_rail","Nankai Main Line",1907
+887,888,"heavy_rail","Nankai Main Line",1966
+888,889,"heavy_rail","Nankai Main Line",1907
+889,890,"heavy_rail","Nankai Main Line",1885
+890,891,"heavy_rail","Nankai Main Line",1908
+891,892,"heavy_rail","Nankai Main Line",1917
+892,893,"heavy_rail","Nankai Main Line",1885
+893,894,"heavy_rail","Nankai Main Line",1907
+894,895,"heavy_rail","Nankai Main Line",1917
+895,896,"heavy_rail","Nankai Main Line",1907
+896,897,"heavy_rail","Nankai Main Line",1919
+897,898,"heavy_rail","Nankai Main Line",1907
+898,899,"heavy_rail","Nankai Main Line",1897
+899,900,"heavy_rail","Nankai Main Line",1912
+900,901,"heavy_rail","Nankai Main Line",1901
+901,902,"heavy_rail","Nankai Main Line",1957
+902,903,"heavy_rail","Nankai Main Line",1914
+903,904,"heavy_rail","Nankai Main Line",1897
+904,912,"heavy_rail","Nankai Main Line",1925
+912,913,"heavy_rail","Nankai Main Line",1914
+913,914,"heavy_rail","Nankai Main Line",1937
+914,915,"heavy_rail","Nankai Main Line",1897
+915,916,"heavy_rail","Nankai Main Line",1914
+916,917,"heavy_rail","Nankai Main Line",1914
+917,918,"heavy_rail","Nankai Main Line",1936
+918,919,"heavy_rail","Nankai Main Line",1919
+919,920,"heavy_rail","Nankai Main Line",1952
+920,921,"heavy_rail","Nankai Main Line",1897
+921,922,"heavy_rail","Nankai Main Line",1942
+922,923,"heavy_rail","Nankai Main Line",1915
+923,924,"heavy_rail","Nankai Main Line",1915
+924,925,"heavy_rail","Nankai Main Line",1897
+925,926,"heavy_rail","Nankai Main Line",1919
+926,927,"heavy_rail","Nankai Main Line",1898
+927,928,"heavy_rail","Nankai Main Line",1906
+928,929,"heavy_rail","Nankai Main Line",1938
+929,930,"heavy_rail","Nankai Main Line",1915
+930,931,"heavy_rail","Nankai Main Line",2012
+178,256,"heavy_rail","Koya Line",1912
+256,257,"heavy_rail","Koya Line",1934
+257,258,"heavy_rail","Koya Line",1900
+258,259,"heavy_rail","Koya Line",1907
+259,260,"heavy_rail","Koya Line",1915
+260,261,"heavy_rail","Koya Line",1942
+261,262,"heavy_rail","Koya Line",1900
+262,263,"heavy_rail","Koya Line",1964
+263,264,"heavy_rail","Koya Line",1898
+264,265,"heavy_rail","Koya Line",1912
+265,266,"heavy_rail","Koya Line",1914
+266,267,"heavy_rail","Koya Line",1898
+267,268,"heavy_rail","Koya Line",1917
+268,269,"heavy_rail","Koya Line",1937
+269,270,"heavy_rail","Koya Line",1898
+270,271,"heavy_rail","Koya Line",1938
+271,272,"heavy_rail","Koya Line",1984
+272,273,"heavy_rail","Koya Line",1915
+273,274,"heavy_rail","Koya Line",1915
+274,275,"heavy_rail","Koya Line",1915
+275,276,"heavy_rail","Koya Line",1981
+276,277,"heavy_rail","Koya Line",1915
+277,278,"heavy_rail","Koya Line",1925
+278,279,"heavy_rail","Koya Line",1924
+279,280,"heavy_rail","Koya Line",1924
+280,281,"heavy_rail","Koya Line",1925
+281,282,"heavy_rail","Koya Line",1928
+282,283,"heavy_rail","Koya Line",1928
+283,284,"heavy_rail","Koya Line",1928
+284,285,"heavy_rail","Koya Line",1928
+285,675,"heavy_rail","Koya Line",1942
+675,678,"heavy_rail","Koya Line",1900
+678,679,"heavy_rail","Koya Line",1914
+679,680,"heavy_rail","Koya Line",1915
+680,712,"heavy_rail","Koya Line",1929
+712,713,"heavy_rail","Koya Line",1898
+286,287,"heavy_rail","Shiomibashi Line",1915
+287,288,"heavy_rail","Shiomibashi Line",1913
+288,289,"heavy_rail","Shiomibashi Line",1900
+289,676,"heavy_rail","Shiomibashi Line",1912
+676,677,"heavy_rail","Shiomibashi Line",1900
+1,2,"heavy_rail","Takashinohama Line",1918
+2,3,"heavy_rail","Takashinohama Line",1919
+166,167,"heavy_rail","Airport Line",1994
+167,168,"heavy_rail","Airport Line",1994
+4,5,"heavy_rail","Tanagawa Line",1944
+5,813,"heavy_rail","Tanagawa Line",1944
+813,814,"heavy_rail","Tanagawa Line",1944
+6,7,"heavy_rail","Kada Line",1912
+7,805,"heavy_rail","Kada Line",1912
+805,806,"heavy_rail","Kada Line",1930
+806,807,"heavy_rail","Kada Line",1912
+807,808,"heavy_rail","Kada Line",1912
+808,809,"heavy_rail","Kada Line",1930
+809,810,"heavy_rail","Kada Line",1912
+8,9,"heavy_rail","Wakayamako Line",1956
+9,10,"heavy_rail","Wakayamako Line",1971
+716,717,"heavy_rail","Ikoma Line",1927
+717,718,"heavy_rail","Ikoma Line",1928
+718,719,"heavy_rail","Ikoma Line",1980
+719,720,"heavy_rail","Ikoma Line",1927
+720,721,"heavy_rail","Ikoma Line",1926
+721,722,"heavy_rail","Ikoma Line",1926
+722,723,"heavy_rail","Ikoma Line",1951
+723,875,"heavy_rail","Ikoma Line",1926
+875,876,"heavy_rail","Ikoma Line",1922
+876,877,"heavy_rail","Ikoma Line",1922
+877,878,"heavy_rail","Ikoma Line",1926
+169,170,"heavy_rail","Tenri Line",1915
+170,171,"heavy_rail","Tenri Line",1915
+171,172,"heavy_rail","Tenri Line",1915
+172,1079,"heavy_rail","Tenri Line",1915
+1079,1080,"heavy_rail","Tenri Line",1915
+737,738,"heavy_rail","Tawaramoto Line",1918
+738,739,"heavy_rail","Tawaramoto Line",1932
+739,740,"heavy_rail","Tawaramoto Line",1918
+740,741,"heavy_rail","Tawaramoto Line",1918
+741,742,"heavy_rail","Tawaramoto Line",1983
+742,879,"heavy_rail","Tawaramoto Line",1918
+879,880,"heavy_rail","Tawaramoto Line",1918
+880,881,"heavy_rail","Tawaramoto Line",1918
+608,609,"heavy_rail","Nagano Line",1898
+609,612,"heavy_rail","Nagano Line",1904
+612,613,"heavy_rail","Nagano Line",1911
+613,614,"heavy_rail","Nagano Line",1902
+614,681,"heavy_rail","Nagano Line",1911
+681,682,"heavy_rail","Nagano Line",1898
+682,683,"heavy_rail","Nagano Line",1898
+591,592,"heavy_rail","Gose Line",1930
+592,593,"heavy_rail","Gose Line",1930
+593,594,"heavy_rail","Gose Line",1930
+684,685,"heavy_rail","Hagoromo Line",1929
+694,695,"heavy_rail","Biwako Line",1910
+695,743,"heavy_rail","Biwako Line",1879
+743,744,"heavy_rail","Biwako Line",1921
+744,745,"heavy_rail","Biwako Line",1921
+745,746,"heavy_rail","Biwako Line",1880
+746,747,"heavy_rail","Biwako Line",1903
+747,748,"heavy_rail","Biwako Line",1969
+748,749,"heavy_rail","Biwako Line",1994
+749,750,"heavy_rail","Biwako Line",1889
+750,751,"heavy_rail","Biwako Line",1991
+751,752,"heavy_rail","Biwako Line",1912
+752,753,"heavy_rail","Biwako Line",1891
+753,754,"heavy_rail","Biwako Line",1921
+754,755,"heavy_rail","Biwako Line",1889
+755,756,"heavy_rail","Biwako Line",1914
+756,777,"heavy_rail","Biwako Line",1889
+777,780,"heavy_rail","Biwako Line",1879
+780,781,"heavy_rail","Biwako Line",1920
+781,782,"heavy_rail","Biwako Line",1896
+782,783,"heavy_rail","Biwako Line",1981
+783,957,"heavy_rail","Biwako Line",1889
+23,24,"heavy_rail","Sakurai Line",1898
+24,25,"heavy_rail","Sakurai Line",1898
+25,26,"heavy_rail","Sakurai Line",1898
+26,27,"heavy_rail","Sakurai Line",1914
+27,28,"heavy_rail","Sakurai Line",1898
+28,29,"heavy_rail","Sakurai Line",1955
+29,30,"heavy_rail","Sakurai Line",1898
+30,31,"heavy_rail","Sakurai Line",1913
+31,32,"heavy_rail","Sakurai Line",1893
+32,869,"heavy_rail","Sakurai Line",1913
+869,870,"heavy_rail","Sakurai Line",1893
+870,871,"heavy_rail","Sakurai Line",1893
+871,872,"heavy_rail","Sakurai Line",1898
+873,874,"heavy_rail","Wakayama Line",1891
+874,882,"heavy_rail","Wakayama Line",1891
+882,883,"heavy_rail","Wakayama Line",1896
+883,884,"heavy_rail","Wakayama Line",1898
+884,885,"heavy_rail","Wakayama Line",1898
+885,1049,"heavy_rail","Wakayama Line",1898
+1049,1050,"heavy_rail","Wakayama Line",1955
+1050,1051,"heavy_rail","Wakayama Line",1955
+1051,1052,"heavy_rail","Wakayama Line",1891
+1052,1053,"heavy_rail","Wakayama Line",2004
+1053,1054,"heavy_rail","Wakayama Line",1896
+1054,1055,"heavy_rail","Wakayama Line",1896
+1055,1056,"heavy_rail","Wakayama Line",1989
+1056,1057,"heavy_rail","Wakayama Line",1896
+1057,1058,"heavy_rail","Wakayama Line",1898
+1058,1059,"heavy_rail","Wakayama Line",1902
+1059,1060,"heavy_rail","Wakayama Line",1898
+1060,1061,"heavy_rail","Wakayama Line",1968
+1061,1062,"heavy_rail","Wakayama Line",1952
+1062,1063,"heavy_rail","Wakayama Line",1901
+1063,1064,"heavy_rail","Wakayama Line",1957
+1064,1065,"heavy_rail","Wakayama Line",1900
+1065,1066,"heavy_rail","Wakayama Line",1952
+1066,1067,"heavy_rail","Wakayama Line",1900
+1067,1068,"heavy_rail","Wakayama Line",1952
+1068,1069,"heavy_rail","Wakayama Line",1901
+1069,1070,"heavy_rail","Wakayama Line",1900
+1070,1071,"heavy_rail","Wakayama Line",1903
+1071,1072,"heavy_rail","Wakayama Line",1900
+1072,1073,"heavy_rail","Wakayama Line",1938
+1073,1074,"heavy_rail","Wakayama Line",1901
+1074,1075,"heavy_rail","Wakayama Line",1898
+1075,1076,"heavy_rail","Wakayama Line",1938
+1076,1077,"heavy_rail","Wakayama Line",1899
+1077,1078,"heavy_rail","Wakayama Line",1952
+163,164,"heavy_rail","Mizuma Line",1925
+164,165,"heavy_rail","Mizuma Line",1926
+173,174,"heavy_rail","Semboku Rapid Railway Line",1971
+174,175,"heavy_rail","Semboku Rapid Railway Line",1973
+175,176,"heavy_rail","Semboku Rapid Railway Line",1977
+176,177,"heavy_rail","Semboku Rapid Railway Line",1995
+177,179,"heavy_rail","Semboku Rapid Railway Line",1971
+180,181,"heavy_rail","Keihanna Line",1986
+181,182,"heavy_rail","Keihanna Line",2006
+182,237,"heavy_rail","Keihanna Line",1986
+237,238,"heavy_rail","Keihanna Line",1986
+238,239,"heavy_rail","Keihanna Line",1986
+239,240,"heavy_rail","Keihanna Line",1986
+240,241,"heavy_rail","Keihanna Line",2006
+183,184,"heavy_rail","Shigi Line",1930
+184,736,"heavy_rail","Shigi Line",1930
+595,596,"heavy_rail","Yoshino Line",1912
+596,597,"heavy_rail","Yoshino Line",1928
+597,1091,"heavy_rail","Yoshino Line",1923
+1091,1092,"heavy_rail","Yoshino Line",1923
+1092,1093,"heavy_rail","Yoshino Line",1929
+1093,1094,"heavy_rail","Yoshino Line",1923
+1094,1095,"heavy_rail","Yoshino Line",1923
+1095,1096,"heavy_rail","Yoshino Line",1923
+1096,1097,"heavy_rail","Yoshino Line",1912
+1097,1098,"heavy_rail","Yoshino Line",1924
+1098,1099,"heavy_rail","Yoshino Line",1924
+1099,1100,"heavy_rail","Yoshino Line",1929
+1100,1101,"heavy_rail","Yoshino Line",1912
+1101,1102,"heavy_rail","Yoshino Line",1927
+1102,1103,"heavy_rail","Yoshino Line",1928
+185,186,"heavy_rail","Keihan Main Line",1910
+186,187,"heavy_rail","Keihan Main Line",1963
+187,188,"heavy_rail","Keihan Main Line",1910
+188,189,"heavy_rail","Keihan Main Line",1963
+189,190,"heavy_rail","Keihan Main Line",1910
+190,191,"heavy_rail","Keihan Main Line",1910
+191,192,"heavy_rail","Keihan Main Line",1931
+192,193,"heavy_rail","Keihan Main Line",1931
+193,194,"heavy_rail","Keihan Main Line",1910
+194,195,"heavy_rail","Keihan Main Line",1931
+195,196,"heavy_rail","Keihan Main Line",1932
+196,197,"heavy_rail","Keihan Main Line",1910
+197,198,"heavy_rail","Keihan Main Line",1975
+198,199,"heavy_rail","Keihan Main Line",1971
+199,200,"heavy_rail","Keihan Main Line",1910
+200,201,"heavy_rail","Keihan Main Line",1932
+201,202,"heavy_rail","Keihan Main Line",1910
+202,203,"heavy_rail","Keihan Main Line",1910
+203,204,"heavy_rail","Keihan Main Line",1910
+204,205,"heavy_rail","Keihan Main Line",1910
+205,206,"heavy_rail","Keihan Main Line",1910
+206,207,"heavy_rail","Keihan Main Line",1910
+207,208,"heavy_rail","Keihan Main Line",1929
+208,209,"heavy_rail","Keihan Main Line",1910
+209,210,"heavy_rail","Keihan Main Line",1910
+210,211,"heavy_rail","Keihan Main Line",1910
+211,212,"heavy_rail","Keihan Main Line",1910
+212,213,"heavy_rail","Keihan Main Line",1910
+213,214,"heavy_rail","Keihan Main Line",1910
+214,215,"heavy_rail","Keihan Main Line",1910
+215,216,"heavy_rail","Keihan Main Line",1910
+216,217,"heavy_rail","Keihan Main Line",1910
+217,218,"heavy_rail","Keihan Main Line",1910
+218,219,"heavy_rail","Keihan Main Line",1910
+219,220,"heavy_rail","Keihan Main Line",1910
+220,221,"heavy_rail","Keihan Main Line",1910
+221,222,"heavy_rail","Keihan Main Line",1910
+222,223,"heavy_rail","Keihan Main Line",1913
+223,292,"heavy_rail","Keihan Main Line",1915
+555,556,"heavy_rail","Oto Line",1989
+556,557,"heavy_rail","Oto Line",1989
+290,291,"heavy_rail","Nakanoshima Line",2008
+315,316,"heavy_rail","Katano Line",1929
+316,724,"heavy_rail","Katano Line",1929
+724,725,"heavy_rail","Katano Line",1940
+725,726,"heavy_rail","Katano Line",1938
+726,727,"heavy_rail","Katano Line",1929
+727,728,"heavy_rail","Katano Line",1929
+728,729,"heavy_rail","Katano Line",1929
+317,333,"heavy_rail","Uji Line",1913
+333,730,"heavy_rail","Uji Line",1913
+730,731,"heavy_rail","Uji Line",1913
+731,732,"heavy_rail","Uji Line",1913
+732,733,"heavy_rail","Uji Line",1913
+733,734,"heavy_rail","Uji Line",1913
+734,735,"heavy_rail","Uji Line",1913
+242,337,"heavy_rail","Hankyu Kyoto Main Line",1925
+337,343,"heavy_rail","Hankyu Kyoto Main Line",1921
+343,348,"heavy_rail","Hankyu Kyoto Main Line",1921
+348,349,"heavy_rail","Hankyu Kyoto Main Line",1921
+349,598,"heavy_rail","Hankyu Kyoto Main Line",1928
+598,599,"heavy_rail","Hankyu Kyoto Main Line",1931
+599,933,"heavy_rail","Hankyu Kyoto Main Line",1963
+933,934,"heavy_rail","Hankyu Kyoto Main Line",1921
+934,935,"heavy_rail","Hankyu Kyoto Main Line",1921
+935,936,"heavy_rail","Hankyu Kyoto Main Line",1928
+936,937,"heavy_rail","Hankyu Kyoto Main Line",1928
+937,938,"heavy_rail","Hankyu Kyoto Main Line",1928
+938,939,"heavy_rail","Hankyu Kyoto Main Line",2010
+939,940,"heavy_rail","Hankyu Kyoto Main Line",1970
+940,941,"heavy_rail","Hankyu Kyoto Main Line",1928
+941,942,"heavy_rail","Hankyu Kyoto Main Line",1936
+942,943,"heavy_rail","Hankyu Kyoto Main Line",1928
+943,944,"heavy_rail","Hankyu Kyoto Main Line",1928
+944,945,"heavy_rail","Hankyu Kyoto Main Line",1939
+945,946,"heavy_rail","Hankyu Kyoto Main Line",1939
+946,947,"heavy_rail","Hankyu Kyoto Main Line",1928
+947,948,"heavy_rail","Hankyu Kyoto Main Line",2013
+948,949,"heavy_rail","Hankyu Kyoto Main Line",1928
+949,950,"heavy_rail","Hankyu Kyoto Main Line",1928
+950,951,"heavy_rail","Hankyu Kyoto Main Line",1928
+951,952,"heavy_rail","Hankyu Kyoto Main Line",2003
+952,953,"heavy_rail","Hankyu Kyoto Main Line",1928
+953,954,"heavy_rail","Hankyu Kyoto Main Line",1928
+245,350,"heavy_rail","Senri Line",1925
+350,351,"heavy_rail","Senri Line",1921
+351,352,"heavy_rail","Senri Line",1921
+352,400,"heavy_rail","Senri Line",1925
+400,401,"heavy_rail","Senri Line",1963
+600,601,"heavy_rail","Arashiyama Line",1928
+601,784,"heavy_rail","Arashiyama Line",1928
+784,785,"heavy_rail","Arashiyama Line",1928
+242,335,"heavy_rail","Hankyu Kobe Main Line",1925
+335,337,"heavy_rail","Hankyu Kobe Main Line",1920
+337,341,"heavy_rail","Hankyu Kobe Main Line",1921
+341,343,"heavy_rail","Hankyu Kobe Main Line",1920
+343,347,"heavy_rail","Hankyu Kobe Main Line",1921
+347,362,"heavy_rail","Hankyu Kobe Main Line",1920
+362,363,"heavy_rail","Hankyu Kobe Main Line",1920
+363,561,"heavy_rail","Hankyu Kobe Main Line",1936
+561,562,"heavy_rail","Hankyu Kobe Main Line",1920
+562,615,"heavy_rail","Hankyu Kobe Main Line",1937
+615,627,"heavy_rail","Hankyu Kobe Main Line",1936
+627,628,"heavy_rail","Hankyu Kobe Main Line",1920
+628,629,"heavy_rail","Hankyu Kobe Main Line",1920
+629,630,"heavy_rail","Hankyu Kobe Main Line",1920
+630,631,"heavy_rail","Hankyu Kobe Main Line",1920
+631,632,"heavy_rail","Hankyu Kobe Main Line",1920
+632,633,"heavy_rail","Hankyu Kobe Main Line",1920
+633,634,"heavy_rail","Hankyu Kobe Main Line",1920
+13,14,"heavy_rail","Imazu Line",1921
+14,15,"heavy_rail","Imazu Line",1926
+15,991,"heavy_rail","Imazu Line",1926
+991,992,"heavy_rail","Imazu Line",1927
+992,993,"heavy_rail","Imazu Line",1921
+993,994,"heavy_rail","Imazu Line",1922
+994,995,"heavy_rail","Imazu Line",1923
+995,996,"heavy_rail","Imazu Line",1921
+996,997,"heavy_rail","Imazu Line",1921
+11,12,"heavy_rail","Itami Line",1920
+12,989,"heavy_rail","Itami Line",1920
+989,990,"heavy_rail","Itami Line",1921
+16,17,"heavy_rail","Koyo Line",1924
+17,998,"heavy_rail","Koyo Line",1924
+20,242,"heavy_rail","Hankyu Takarazuka Main Line",1910
+242,334,"heavy_rail","Hankyu Takarazuka Main Line",1925
+334,335,"heavy_rail","Hankyu Takarazuka Main Line",1910
+335,337,"heavy_rail","Hankyu Takarazuka Main Line",1920
+337,340,"heavy_rail","Hankyu Takarazuka Main Line",1921
+340,341,"heavy_rail","Hankyu Takarazuka Main Line",1910
+341,343,"heavy_rail","Hankyu Takarazuka Main Line",1920
+343,346,"heavy_rail","Hankyu Takarazuka Main Line",1921
+346,786,"heavy_rail","Hankyu Takarazuka Main Line",1910
+786,787,"heavy_rail","Hankyu Takarazuka Main Line",1910
+787,788,"heavy_rail","Hankyu Takarazuka Main Line",1951
+788,789,"heavy_rail","Hankyu Takarazuka Main Line",1910
+789,790,"heavy_rail","Hankyu Takarazuka Main Line",1912
+790,791,"heavy_rail","Hankyu Takarazuka Main Line",1910
+791,792,"heavy_rail","Hankyu Takarazuka Main Line",1913
+792,793,"heavy_rail","Hankyu Takarazuka Main Line",1910
+793,794,"heavy_rail","Hankyu Takarazuka Main Line",1910
+794,795,"heavy_rail","Hankyu Takarazuka Main Line",1913
+795,796,"heavy_rail","Hankyu Takarazuka Main Line",1961
+796,797,"heavy_rail","Hankyu Takarazuka Main Line",1910
+797,798,"heavy_rail","Hankyu Takarazuka Main Line",1910
+798,799,"heavy_rail","Hankyu Takarazuka Main Line",1914
+18,19,"heavy_rail","Mino Line",1910
+19,1104,"heavy_rail","Mino Line",1910
+1104,1105,"heavy_rail","Mino Line",1910
+402,403,"heavy_rail","Hanshin Main Line",1905
+403,616,"heavy_rail","Hanshin Main Line",1906
+616,617,"heavy_rail","Hanshin Main Line",1905
+617,622,"heavy_rail","Hanshin Main Line",1905
+622,642,"heavy_rail","Hanshin Main Line",1968
+642,643,"heavy_rail","Hanshin Main Line",1905
+643,818,"heavy_rail","Hanshin Main Line",1905
+818,819,"heavy_rail","Hanshin Main Line",1905
+819,820,"heavy_rail","Hanshin Main Line",1905
+820,821,"heavy_rail","Hanshin Main Line",1921
+821,822,"heavy_rail","Hanshin Main Line",1905
+822,823,"heavy_rail","Hanshin Main Line",1905
+823,824,"heavy_rail","Hanshin Main Line",1905
+824,825,"heavy_rail","Hanshin Main Line",1905
+825,826,"heavy_rail","Hanshin Main Line",1952
+826,827,"heavy_rail","Hanshin Main Line",1905
+827,828,"heavy_rail","Hanshin Main Line",1905
+828,829,"heavy_rail","Hanshin Main Line",1924
+829,830,"heavy_rail","Hanshin Main Line",1905
+830,831,"heavy_rail","Hanshin Main Line",1926
+831,832,"heavy_rail","Hanshin Main Line",1905
+832,833,"heavy_rail","Hanshin Main Line",1907
+833,834,"heavy_rail","Hanshin Main Line",1905
+834,835,"heavy_rail","Hanshin Main Line",1905
+835,836,"heavy_rail","Hanshin Main Line",1905
+836,837,"heavy_rail","Hanshin Main Line",1905
+837,838,"heavy_rail","Hanshin Main Line",1905
+838,839,"heavy_rail","Hanshin Main Line",1905
+839,840,"heavy_rail","Hanshin Main Line",1905
+840,841,"heavy_rail","Hanshin Main Line",1905
+841,842,"heavy_rail","Hanshin Main Line",1905
+842,978,"heavy_rail","Hanshin Main Line",1905
+978,979,"heavy_rail","Hanshin Main Line",1927
+979,980,"heavy_rail","Hanshin Main Line",1905
+33,34,"heavy_rail","Namba Line",1924
+34,35,"heavy_rail","Namba Line",1924
+35,36,"heavy_rail","Namba Line",1924
+36,37,"heavy_rail","Namba Line",1964
+37,39,"heavy_rail","Namba Line",2009
+39,981,"heavy_rail","Namba Line",2009
+981,982,"heavy_rail","Namba Line",1924
+982,983,"heavy_rail","Namba Line",2009
+983,984,"heavy_rail","Namba Line",2009
+41,42,"heavy_rail","Mukogawa Line",1943
+42,43,"heavy_rail","Mukogawa Line",1943
+43,44,"heavy_rail","Mukogawa Line",1944
+563,564,"heavy_rail","Sagano Line",1897
+564,565,"heavy_rail","Sagano Line",1899
+565,566,"heavy_rail","Sagano Line",1899
+566,567,"heavy_rail","Sagano Line",1899
+567,800,"heavy_rail","Sagano Line",1899
+800,801,"heavy_rail","Sagano Line",1897
+801,802,"heavy_rail","Sagano Line",1897
+802,803,"heavy_rail","Sagano Line",2000
+803,804,"heavy_rail","Sagano Line",1898
+602,603,"heavy_rail","Karasuma Line",1981
+603,604,"heavy_rail","Karasuma Line",1981
+604,605,"heavy_rail","Karasuma Line",1988
+605,606,"heavy_rail","Karasuma Line",1990
+606,968,"heavy_rail","Karasuma Line",1997
+968,969,"heavy_rail","Karasuma Line",1988
+969,970,"heavy_rail","Karasuma Line",1988
+970,971,"heavy_rail","Karasuma Line",1988
+971,972,"heavy_rail","Karasuma Line",1981
+972,973,"heavy_rail","Karasuma Line",1981
+973,974,"heavy_rail","Karasuma Line",1981
+974,975,"heavy_rail","Karasuma Line",1981
+975,976,"heavy_rail","Karasuma Line",1981
+976,977,"heavy_rail","Karasuma Line",1981
+121,122,"heavy_rail","Tozai Line",2004
+122,123,"heavy_rail","Tozai Line",1997
+123,124,"heavy_rail","Tozai Line",1997
+124,125,"heavy_rail","Tozai Line",1997
+125,126,"heavy_rail","Tozai Line",1997
+126,127,"heavy_rail","Tozai Line",1997
+127,128,"heavy_rail","Tozai Line",1997
+128,129,"heavy_rail","Tozai Line",1997
+129,130,"heavy_rail","Tozai Line",1997
+130,131,"heavy_rail","Tozai Line",1997
+131,132,"heavy_rail","Tozai Line",1997
+132,133,"heavy_rail","Tozai Line",1997
+133,688,"heavy_rail","Tozai Line",2008
+688,689,"heavy_rail","Tozai Line",1997
+689,690,"heavy_rail","Tozai Line",2004
+690,691,"heavy_rail","Tozai Line",1997
+686,687,"light_rail","Keishin Line",1912
+687,692,"light_rail","Keishin Line",1912
+692,1282,"light_rail","Keishin Line",1925
+1282,1283,"light_rail","Keishin Line",1912
+1283,1284,"light_rail","Keishin Line",1912
+1284,1285,"light_rail","Keishin Line",1912
+1285,1286,"light_rail","Keishin Line",1912
+1286,1287,"light_rail","Keishin Line",1912
+1287,1288,"light_rail","Keishin Line",1912
+1288,1289,"light_rail","Keishin Line",1936
+158,159,"light_rail","Ishiyama Sakamoto Line",1913
+159,160,"light_rail","Ishiyama Sakamoto Line",1913
+160,161,"light_rail","Ishiyama Sakamoto Line",1922
+161,162,"light_rail","Ishiyama Sakamoto Line",1914
+162,1244,"light_rail","Ishiyama Sakamoto Line",1927
+1244,1245,"light_rail","Ishiyama Sakamoto Line",1914
+1245,1246,"light_rail","Ishiyama Sakamoto Line",1914
+1246,1247,"light_rail","Ishiyama Sakamoto Line",1914
+1247,1248,"light_rail","Ishiyama Sakamoto Line",1913
+1248,1249,"light_rail","Ishiyama Sakamoto Line",1913
+1249,1250,"light_rail","Ishiyama Sakamoto Line",1913
+1250,1251,"light_rail","Ishiyama Sakamoto Line",1913
+1251,1252,"light_rail","Ishiyama Sakamoto Line",1913
+1252,1253,"light_rail","Ishiyama Sakamoto Line",1913
+1253,1254,"light_rail","Ishiyama Sakamoto Line",1927
+1254,1255,"light_rail","Ishiyama Sakamoto Line",1946
+1255,1256,"light_rail","Ishiyama Sakamoto Line",1927
+1256,1257,"light_rail","Ishiyama Sakamoto Line",1927
+1257,1258,"light_rail","Ishiyama Sakamoto Line",1927
+1258,1259,"light_rail","Ishiyama Sakamoto Line",1927
+955,956,"high_speed_rail","Tokaido Shinkansen",1964
+956,958,"high_speed_rail","Tokaido Shinkansen",1964
+626,959,"high_speed_rail","Sanyo Shinkansen",1972
+959,960,"high_speed_rail","Sanyo Shinkansen",1972
+21,22,"heavy_rail","Eizan Main Line",1925
+22,140,"heavy_rail","Eizan Main Line",1925
+140,141,"heavy_rail","Eizan Main Line",1925
+141,142,"heavy_rail","Eizan Main Line",1925
+142,143,"heavy_rail","Eizan Main Line",1925
+143,1003,"heavy_rail","Eizan Main Line",1925
+1003,1004,"heavy_rail","Eizan Main Line",1925
+118,119,"heavy_rail","Kurama Line",1928
+119,120,"heavy_rail","Kurama Line",1929
+120,144,"heavy_rail","Kurama Line",1928
+144,145,"heavy_rail","Kurama Line",1928
+145,146,"heavy_rail","Kurama Line",1928
+146,147,"heavy_rail","Kurama Line",1928
+147,148,"heavy_rail","Kurama Line",1989
+148,149,"heavy_rail","Kurama Line",1928
+149,150,"heavy_rail","Kurama Line",1929
+45,46,"people_mover","Main Line",1990
+46,86,"people_mover","Main Line",1990
+86,87,"people_mover","Main Line",1994
+87,88,"people_mover","Main Line",1997
+88,89,"people_mover","Main Line",1997
+90,91,"people_mover","Saito Line",1998
+92,93,"heavy_rail","Namboku Line",1970
+93,985,"heavy_rail","Namboku Line",1970
+985,986,"heavy_rail","Namboku Line",1970
+986,987,"heavy_rail","Namboku Line",1975
+987,988,"heavy_rail","Namboku Line",2020
+354,355,"heavy_rail","Seishin-Yamate Line",1977
+355,356,"heavy_rail","Seishin-Yamate Line",1977
+356,357,"heavy_rail","Seishin-Yamate Line",1983
+357,358,"heavy_rail","Seishin-Yamate Line",1985
+358,359,"heavy_rail","Seishin-Yamate Line",1985
+359,1026,"heavy_rail","Seishin-Yamate Line",1987
+1026,1027,"heavy_rail","Seishin-Yamate Line",1985
+1027,1028,"heavy_rail","Seishin-Yamate Line",1985
+1028,1029,"heavy_rail","Seishin-Yamate Line",1983
+1029,1030,"heavy_rail","Seishin-Yamate Line",1983
+1030,1031,"heavy_rail","Seishin-Yamate Line",1983
+1031,1032,"heavy_rail","Seishin-Yamate Line",1977
+1032,1033,"heavy_rail","Seishin-Yamate Line",1977
+1033,1034,"heavy_rail","Seishin-Yamate Line",1985
+1034,1035,"heavy_rail","Seishin-Yamate Line",1987
+246,353,"heavy_rail","Kaigan Line",2001
+353,1041,"heavy_rail","Kaigan Line",2001
+1041,1042,"heavy_rail","Kaigan Line",2001
+1042,1043,"heavy_rail","Kaigan Line",2001
+1043,1044,"heavy_rail","Kaigan Line",2001
+1044,1045,"heavy_rail","Kaigan Line",2001
+1045,1046,"heavy_rail","Kaigan Line",2001
+1046,1047,"heavy_rail","Kaigan Line",2001
+1047,1048,"heavy_rail","Kaigan Line",2001
+618,620,"heavy_rail","Kobe Kosoku Line",1968
+620,1040,"heavy_rail","Kobe Kosoku Line",1968
+618,620,"heavy_rail","Kobe Kosoku Line",1968
+620,1036,"heavy_rail","Kobe Kosoku Line",1968
+1036,1037,"heavy_rail","Kobe Kosoku Line",1968
+1037,1038,"heavy_rail","Kobe Kosoku Line",1968
+1038,1039,"heavy_rail","Kobe Kosoku Line",1968
+623,624,"heavy_rail","Sanyo Electric Railway Main Line",1910
+624,625,"heavy_rail","Sanyo Electric Railway Main Line",1910
+625,635,"heavy_rail","Sanyo Electric Railway Main Line",1910
+635,714,"heavy_rail","Sanyo Electric Railway Main Line",1923
+714,715,"heavy_rail","Sanyo Electric Railway Main Line",1913
+715,1130,"heavy_rail","Sanyo Electric Railway Main Line",1917
+1130,1131,"heavy_rail","Sanyo Electric Railway Main Line",1910
+1131,1132,"heavy_rail","Sanyo Electric Railway Main Line",1910
+1132,1133,"heavy_rail","Sanyo Electric Railway Main Line",1910
+1133,1134,"heavy_rail","Sanyo Electric Railway Main Line",1910
+1134,1135,"heavy_rail","Sanyo Electric Railway Main Line",1947
+1135,1136,"heavy_rail","Sanyo Electric Railway Main Line",1917
+1136,1137,"heavy_rail","Sanyo Electric Railway Main Line",1917
+1137,1138,"heavy_rail","Sanyo Electric Railway Main Line",1917
+1138,1139,"heavy_rail","Sanyo Electric Railway Main Line",1964
+1139,1140,"heavy_rail","Sanyo Electric Railway Main Line",1917
+1140,1141,"heavy_rail","Sanyo Electric Railway Main Line",1917
+1141,1142,"heavy_rail","Sanyo Electric Railway Main Line",1917
+1142,1143,"heavy_rail","Sanyo Electric Railway Main Line",1917
+1143,1144,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1144,1145,"heavy_rail","Sanyo Electric Railway Main Line",1941
+1145,1146,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1146,1147,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1147,1148,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1148,1149,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1149,1150,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1150,1151,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1151,1152,"heavy_rail","Sanyo Electric Railway Main Line",2004
+1152,1153,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1153,1154,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1154,1155,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1155,1156,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1156,1157,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1157,1158,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1158,1159,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1159,1160,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1160,1161,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1161,1162,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1162,1163,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1163,1164,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1164,1165,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1165,1166,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1166,1167,"heavy_rail","Sanyo Electric Railway Main Line",1923
+1167,1168,"heavy_rail","Sanyo Electric Railway Main Line",1958
+1168,1169,"heavy_rail","Sanyo Electric Railway Main Line",1910
+1169,1170,"heavy_rail","Sanyo Electric Railway Main Line",1912
+360,361,"heavy_rail","Arima Line",1928
+361,1171,"heavy_rail","Arima Line",1928
+1171,1172,"heavy_rail","Arima Line",1928
+1172,1173,"heavy_rail","Arima Line",1928
+1173,1174,"heavy_rail","Arima Line",1928
+1174,1175,"heavy_rail","Arima Line",1928
+1175,1176,"heavy_rail","Arima Line",1970
+1176,1177,"heavy_rail","Arima Line",1935
+1177,1178,"heavy_rail","Arima Line",1928
+1178,1179,"heavy_rail","Arima Line",1928
+1179,1180,"heavy_rail","Arima Line",1965
+1180,1181,"heavy_rail","Arima Line",1928
+1181,1182,"heavy_rail","Arima Line",1928
+1182,1184,"heavy_rail","Arima Line",1966
+1184,1198,"heavy_rail","Arima Line",1928
+811,812,"heavy_rail","Sanda Line",1928
+812,1199,"heavy_rail","Sanda Line",1928
+1199,1200,"heavy_rail","Sanda Line",1928
+1200,1201,"heavy_rail","Sanda Line",1928
+1201,1202,"heavy_rail","Sanda Line",1928
+1202,1203,"heavy_rail","Sanda Line",1928
+1203,1204,"heavy_rail","Sanda Line",1928
+1204,1205,"heavy_rail","Sanda Line",1928
+1205,1206,"heavy_rail","Sanda Line",1928
+815,816,"heavy_rail","Koen-Toshi Line",1991
+816,817,"heavy_rail","Koen-Toshi Line",1996
+817,1207,"heavy_rail","Koen-Toshi Line",1991
+152,153,"heavy_rail","Ao Line",1936
+153,154,"heavy_rail","Ao Line",1936
+154,155,"heavy_rail","Ao Line",1937
+155,156,"heavy_rail","Ao Line",1938
+156,157,"heavy_rail","Ao Line",1951
+157,1183,"heavy_rail","Ao Line",1952
+1183,1185,"heavy_rail","Ao Line",1937
+1185,1186,"heavy_rail","Ao Line",1970
+1186,1187,"heavy_rail","Ao Line",1936
+1187,1188,"heavy_rail","Ao Line",1937
+1188,1189,"heavy_rail","Ao Line",1937
+1189,1190,"heavy_rail","Ao Line",1937
+1190,1191,"heavy_rail","Ao Line",1936
+1191,1192,"heavy_rail","Ao Line",1950
+1192,1193,"heavy_rail","Ao Line",1937
+1193,1194,"heavy_rail","Ao Line",1937
+1194,1195,"heavy_rail","Ao Line",1951
+1195,1196,"heavy_rail","Ao Line",1951
+1196,1197,"heavy_rail","Ao Line",1951
+961,962,"heavy_rail","Wadamisaki Line",1890
+963,964,"heavy_rail","Myoken Line",1913
+964,965,"heavy_rail","Myoken Line",1913
+965,1271,"heavy_rail","Myoken Line",1923
+1271,1272,"heavy_rail","Myoken Line",1913
+1272,1273,"heavy_rail","Myoken Line",1913
+1273,1274,"heavy_rail","Myoken Line",1953
+1274,1275,"heavy_rail","Myoken Line",1913
+1275,1276,"heavy_rail","Myoken Line",1913
+1276,1277,"heavy_rail","Myoken Line",1913
+1277,1278,"heavy_rail","Myoken Line",1923
+1278,1279,"heavy_rail","Myoken Line",1923
+1279,1280,"heavy_rail","Myoken Line",1923
+1280,1281,"heavy_rail","Myoken Line",1978
+966,967,"heavy_rail","Nissei Line",1978
+137,138,"heavy_rail","Kansai Line",1897
+138,139,"heavy_rail","Kansai Line",1890
+139,151,"heavy_rail","Kansai Line",1897
+151,999,"heavy_rail","Kansai Line",1890
+999,1000,"heavy_rail","Kansai Line",1898
+639,640,"heavy_rail","Kusatsu Line",1889
+640,641,"heavy_rail","Kusatsu Line",1889
+1001,1002,"heavy_rail","Kosei Line",1974
+1088,1089,"heavy_rail","Kisei Line",1903
+1089,1090,"heavy_rail","Kisei Line",1903
+1081,1082,"heavy_rail","Kishigawa Line",1916
+1082,1083,"heavy_rail","Kishigawa Line",1917
+1083,1084,"heavy_rail","Kishigawa Line",1916
+1084,1085,"heavy_rail","Kishigawa Line",1917
+1085,1086,"heavy_rail","Kishigawa Line",1916
+1086,1087,"heavy_rail","Kishigawa Line",1924
+1106,1107,"heavy_rail","Iga Line",1922
+1107,1108,"heavy_rail","Iga Line",1922
+1210,1211,"light_rail","Hankai Line",1911
+1211,1212,"light_rail","Hankai Line",1911
+1212,1213,"light_rail","Hankai Line",1912
+1208,1209,"light_rail","Uemachi Line",1910
+1214,1215,"light_rail","Arashiyama Line",1910
+1215,1260,"light_rail","Arashiyama Line",1910
+1260,1261,"light_rail","Arashiyama Line",1910
+1261,1262,"light_rail","Arashiyama Line",1910
+1262,1263,"light_rail","Arashiyama Line",1910
+1263,1264,"light_rail","Arashiyama Line",2008
+1264,1265,"light_rail","Arashiyama Line",1910
+1265,1266,"light_rail","Arashiyama Line",1910
+1266,1267,"light_rail","Arashiyama Line",1926
+1267,1268,"light_rail","Arashiyama Line",1910
+1268,1269,"light_rail","Arashiyama Line",1910
+1269,1270,"light_rail","Arashiyama Line",1956
+1216,1217,"light_rail","Kitano Line",1925
+1217,1218,"light_rail","Kitano Line",1925
+1218,1219,"light_rail","Kitano Line",1926
+1219,1220,"light_rail","Kitano Line",1925
+1220,1221,"light_rail","Kitano Line",1925
+1221,1222,"light_rail","Kitano Line",1925
+1222,1223,"light_rail","Kitano Line",1925
+1223,1224,"light_rail","Kitano Line",1925
+1224,1225,"light_rail","Kitano Line",1925
+1225,1226,"light_rail","Kitano Line",1926
+1226,1227,"light_rail","Kitano Line",1926
+1228,1229,"heavy_rail","Kakogawa Line",1913
+1229,1230,"heavy_rail","Kakogawa Line",1913
+1230,1290,"heavy_rail","Kakogawa Line",1924
+1290,1291,"heavy_rail","Kakogawa Line",1913
+1291,1292,"heavy_rail","Kakogawa Line",1913
+1292,1293,"heavy_rail","Kakogawa Line",1913
+1293,1294,"heavy_rail","Kakogawa Line",1913
+1294,1295,"heavy_rail","Kakogawa Line",1913
+1295,1313,"heavy_rail","Kakogawa Line",1913
+1313,1314,"heavy_rail","Kakogawa Line",1913
+1314,1315,"heavy_rail","Kakogawa Line",1913
+1315,1316,"heavy_rail","Kakogawa Line",1913
+1316,1317,"heavy_rail","Kakogawa Line",1913
+1317,1318,"heavy_rail","Kakogawa Line",1913
+1318,1319,"heavy_rail","Kakogawa Line",1925
+1319,1320,"heavy_rail","Kakogawa Line",1924
+1320,1321,"heavy_rail","Kakogawa Line",1985
+1321,1322,"heavy_rail","Kakogawa Line",1924
+1322,1323,"heavy_rail","Kakogawa Line",1924
+1323,1324,"heavy_rail","Kakogawa Line",1924
+1240,1241,"heavy_rail","Taga Line",1914
+1234,1235,"heavy_rail","Ohmi Railway Main Line",1898
+1235,1236,"heavy_rail","Ohmi Railway Main Line",1898
+1236,1237,"heavy_rail","Ohmi Railway Main Line",1898
+1237,1238,"heavy_rail","Ohmi Railway Main Line",1900
+1238,1239,"heavy_rail","Ohmi Railway Main Line",1931
+1231,1232,"heavy_rail","Yokaichi Line",1913
+1232,1233,"heavy_rail","Yokaichi Line",1913
+1242,1243,"heavy_rail","Shigaraki Line",1933

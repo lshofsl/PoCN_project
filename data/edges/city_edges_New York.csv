@@ -1,0 +1,1881 @@
+"nodeID_from","nodeID_to","mode","line","year"
+97,98,"heavy_rail","1",1904
+98,99,"heavy_rail","1",1904
+99,100,"heavy_rail","1",1904
+100,101,"heavy_rail","1",1904
+101,102,"heavy_rail","1",1904
+102,103,"heavy_rail","1",1904
+103,104,"heavy_rail","1",1904
+104,152,"heavy_rail","1",1918
+152,153,"heavy_rail","1",1918
+153,154,"heavy_rail","1",1918
+154,155,"heavy_rail","1",1904
+155,156,"heavy_rail","1",1904
+156,169,"heavy_rail","1",1904
+169,915,"heavy_rail","1",1918
+915,1025,"heavy_rail","1",1917
+1025,1053,"heavy_rail","1",1917
+1053,1055,"heavy_rail","1",1918
+1055,1057,"heavy_rail","1",1918
+1057,1067,"heavy_rail","1",1918
+1067,1139,"heavy_rail","1",1918
+1139,1144,"heavy_rail","1",1918
+1144,919,"heavy_rail","1",1918
+919,1233,"heavy_rail","1",1918
+1233,1235,"heavy_rail","1",1904
+1235,879,"heavy_rail","1",1904
+879,1245,"heavy_rail","1",1904
+1245,1247,"heavy_rail","1",1904
+1247,1271,"heavy_rail","1",1904
+1271,1273,"heavy_rail","1",1908
+1273,1275,"heavy_rail","1",1908
+1275,1278,"heavy_rail","1",1908
+1278,1280,"heavy_rail","1",1907
+1280,1282,"heavy_rail","1",1906
+1282,1284,"heavy_rail","1",1907
+1284,1286,"heavy_rail","1",1907
+1286,1288,"heavy_rail","1",1906
+1288,1290,"heavy_rail","1",1911
+1290,1292,"heavy_rail","1",1906
+395,396,"heavy_rail","9th Avenue Elevated",1918
+396,397,"heavy_rail","9th Avenue Elevated",1879
+397,398,"heavy_rail","9th Avenue Elevated",1918
+398,399,"heavy_rail","9th Avenue Elevated",1917
+399,400,"heavy_rail","9th Avenue Elevated",1879
+400,401,"heavy_rail","9th Avenue Elevated",1879
+401,402,"heavy_rail","9th Avenue Elevated",1879
+402,403,"heavy_rail","9th Avenue Elevated",1879
+403,404,"heavy_rail","9th Avenue Elevated",1879
+404,405,"heavy_rail","9th Avenue Elevated",1879
+405,406,"heavy_rail","9th Avenue Elevated",1903
+406,407,"heavy_rail","9th Avenue Elevated",1879
+407,408,"heavy_rail","9th Avenue Elevated",1879
+408,409,"heavy_rail","9th Avenue Elevated",1879
+409,410,"heavy_rail","9th Avenue Elevated",1879
+410,411,"heavy_rail","9th Avenue Elevated",1879
+411,412,"heavy_rail","9th Avenue Elevated",1879
+412,413,"heavy_rail","9th Avenue Elevated",1879
+413,414,"heavy_rail","9th Avenue Elevated",1879
+414,415,"heavy_rail","9th Avenue Elevated",1876
+415,416,"heavy_rail","9th Avenue Elevated",1878
+416,417,"heavy_rail","9th Avenue Elevated",1876
+417,418,"heavy_rail","9th Avenue Elevated",1875
+418,419,"heavy_rail","9th Avenue Elevated",1873
+419,420,"heavy_rail","9th Avenue Elevated",1873
+420,421,"heavy_rail","9th Avenue Elevated",1868
+421,422,"heavy_rail","9th Avenue Elevated",1873
+422,423,"heavy_rail","9th Avenue Elevated",1873
+423,424,"heavy_rail","9th Avenue Elevated",1868
+424,425,"heavy_rail","9th Avenue Elevated",1872
+425,426,"heavy_rail","9th Avenue Elevated",1875
+426,427,"heavy_rail","9th Avenue Elevated",1873
+427,428,"heavy_rail","9th Avenue Elevated",1873
+428,429,"heavy_rail","9th Avenue Elevated",1872
+429,430,"heavy_rail","9th Avenue Elevated",1873
+430,431,"heavy_rail","9th Avenue Elevated",1873
+431,432,"heavy_rail","9th Avenue Elevated",1870
+432,433,"heavy_rail","9th Avenue Elevated",1870
+433,434,"heavy_rail","9th Avenue Elevated",1868
+434,435,"heavy_rail","9th Avenue Elevated",1874
+435,436,"heavy_rail","9th Avenue Elevated",1874
+436,437,"heavy_rail","9th Avenue Elevated",1872
+437,438,"heavy_rail","9th Avenue Elevated",1880
+438,457,"heavy_rail","9th Avenue Elevated",1877
+439,440,"heavy_rail","6th Avenue Elevated",1881
+440,441,"heavy_rail","6th Avenue Elevated",1881
+441,442,"heavy_rail","6th Avenue Elevated",1881
+442,443,"heavy_rail","6th Avenue Elevated",1881
+443,444,"heavy_rail","6th Avenue Elevated",1881
+444,445,"heavy_rail","6th Avenue Elevated",1881
+445,446,"heavy_rail","6th Avenue Elevated",1881
+446,447,"heavy_rail","6th Avenue Elevated",1881
+447,448,"heavy_rail","6th Avenue Elevated",1881
+448,449,"heavy_rail","6th Avenue Elevated",1881
+449,450,"heavy_rail","6th Avenue Elevated",1881
+450,451,"heavy_rail","6th Avenue Elevated",1881
+451,452,"heavy_rail","6th Avenue Elevated",1881
+452,453,"heavy_rail","6th Avenue Elevated",1881
+453,454,"heavy_rail","6th Avenue Elevated",1881
+454,455,"heavy_rail","6th Avenue Elevated",1881
+455,456,"heavy_rail","6th Avenue Elevated",1881
+438,459,"heavy_rail","3rd Avenue Elevated",1877
+459,458,"heavy_rail","3rd Avenue Elevated",1879
+458,490,"heavy_rail","3rd Avenue Elevated",1878
+490,491,"heavy_rail","3rd Avenue Elevated",1878
+491,492,"heavy_rail","3rd Avenue Elevated",1878
+492,493,"heavy_rail","3rd Avenue Elevated",1878
+493,494,"heavy_rail","3rd Avenue Elevated",1878
+494,495,"heavy_rail","3rd Avenue Elevated",1878
+495,496,"heavy_rail","3rd Avenue Elevated",1878
+496,497,"heavy_rail","3rd Avenue Elevated",1878
+497,521,"heavy_rail","3rd Avenue Elevated",1878
+521,522,"heavy_rail","3rd Avenue Elevated",1878
+522,523,"heavy_rail","3rd Avenue Elevated",1878
+523,524,"heavy_rail","3rd Avenue Elevated",1878
+524,525,"heavy_rail","3rd Avenue Elevated",1878
+525,526,"heavy_rail","3rd Avenue Elevated",1880
+526,529,"heavy_rail","3rd Avenue Elevated",1880
+529,549,"heavy_rail","3rd Avenue Elevated",1904
+549,550,"heavy_rail","3rd Avenue Elevated",1886
+550,551,"heavy_rail","3rd Avenue Elevated",1886
+551,552,"heavy_rail","3rd Avenue Elevated",1887
+552,553,"heavy_rail","3rd Avenue Elevated",1886
+553,554,"heavy_rail","3rd Avenue Elevated",1902
+554,555,"heavy_rail","3rd Avenue Elevated",1878
+555,556,"heavy_rail","3rd Avenue Elevated",1878
+556,557,"heavy_rail","3rd Avenue Elevated",1878
+557,558,"heavy_rail","3rd Avenue Elevated",1878
+558,559,"heavy_rail","3rd Avenue Elevated",1878
+559,560,"heavy_rail","3rd Avenue Elevated",1878
+560,561,"heavy_rail","3rd Avenue Elevated",1878
+561,562,"heavy_rail","3rd Avenue Elevated",1878
+562,563,"heavy_rail","3rd Avenue Elevated",1878
+563,564,"heavy_rail","3rd Avenue Elevated",1878
+564,565,"heavy_rail","3rd Avenue Elevated",1878
+565,566,"heavy_rail","3rd Avenue Elevated",1878
+566,567,"heavy_rail","3rd Avenue Elevated",1878
+567,568,"heavy_rail","3rd Avenue Elevated",1878
+568,633,"heavy_rail","3rd Avenue Elevated",1878
+633,634,"heavy_rail","3rd Avenue Elevated",1888
+634,635,"heavy_rail","3rd Avenue Elevated",1920
+635,636,"heavy_rail","3rd Avenue Elevated",1887
+636,637,"heavy_rail","3rd Avenue Elevated",1887
+637,638,"heavy_rail","3rd Avenue Elevated",1887
+638,545,"heavy_rail","3rd Avenue Elevated",1888
+545,544,"heavy_rail","3rd Avenue Elevated",1904
+544,543,"heavy_rail","3rd Avenue Elevated",1910
+543,542,"heavy_rail","3rd Avenue Elevated",1904
+NA,548,"heavy_rail","3rd Avenue Elevated",NA
+569,570,"commuter_rail","Mainline",1912
+570,571,"commuter_rail","Mainline",1912
+571,572,"commuter_rail","Mainline",1912
+572,573,"commuter_rail","Mainline",1912
+573,574,"commuter_rail","Mainline",1912
+574,575,"commuter_rail","Mainline",1912
+575,576,"commuter_rail","Mainline",1912
+576,577,"commuter_rail","Mainline",1912
+577,578,"commuter_rail","Mainline",1912
+578,579,"commuter_rail","Mainline",1912
+579,580,"commuter_rail","Mainline",1912
+580,581,"commuter_rail","Mainline",1912
+581,582,"commuter_rail","Mainline",1912
+582,583,"commuter_rail","Mainline",1912
+583,585,"commuter_rail","Mainline",1912
+585,586,"commuter_rail","Mainline",1912
+586,587,"commuter_rail","Mainline",1912
+587,588,"commuter_rail","Mainline",1912
+588,589,"commuter_rail","Mainline",1929
+589,590,"commuter_rail","Mainline",1914
+590,591,"commuter_rail","Mainline",1912
+591,628,"commuter_rail","Mainline",1912
+569,570,"commuter_rail","Port Chester",1912
+570,571,"commuter_rail","Port Chester",1912
+571,572,"commuter_rail","Port Chester",1912
+572,573,"commuter_rail","Port Chester",1912
+573,574,"commuter_rail","Port Chester",1912
+574,575,"commuter_rail","Port Chester",1912
+575,576,"commuter_rail","Port Chester",1912
+576,577,"commuter_rail","Port Chester",1912
+577,578,"commuter_rail","Port Chester",1912
+578,579,"commuter_rail","Port Chester",1912
+579,580,"commuter_rail","Port Chester",1912
+580,581,"commuter_rail","Port Chester",1912
+581,582,"commuter_rail","Port Chester",1912
+582,583,"commuter_rail","Port Chester",1912
+583,608,"commuter_rail","Port Chester",1912
+608,609,"commuter_rail","Port Chester",1912
+609,610,"commuter_rail","Port Chester",1912
+610,611,"commuter_rail","Port Chester",1912
+611,612,"commuter_rail","Port Chester",1921
+612,614,"commuter_rail","Port Chester",1921
+614,615,"commuter_rail","Port Chester",1926
+615,628,"commuter_rail","Port Chester",1927
+618,619,"commuter_rail","Harlem River",1872
+619,620,"commuter_rail","Harlem River",1872
+620,621,"commuter_rail","Harlem River",1872
+621,622,"commuter_rail","Harlem River",1872
+622,623,"commuter_rail","Harlem River",1872
+623,624,"commuter_rail","Harlem River",1872
+624,625,"commuter_rail","Harlem River",1872
+625,626,"commuter_rail","Harlem River",1872
+626,627,"commuter_rail","Harlem River",1872
+458,459,"heavy_rail","2nd Avenue Elevated",1878
+459,460,"heavy_rail","2nd Avenue Elevated",1879
+460,461,"heavy_rail","2nd Avenue Elevated",1880
+461,462,"heavy_rail","2nd Avenue Elevated",1880
+462,463,"heavy_rail","2nd Avenue Elevated",1880
+463,464,"heavy_rail","2nd Avenue Elevated",1880
+464,465,"heavy_rail","2nd Avenue Elevated",1880
+465,466,"heavy_rail","2nd Avenue Elevated",1880
+466,467,"heavy_rail","2nd Avenue Elevated",1880
+467,468,"heavy_rail","2nd Avenue Elevated",1880
+468,469,"heavy_rail","2nd Avenue Elevated",1880
+469,470,"heavy_rail","2nd Avenue Elevated",1880
+470,471,"heavy_rail","2nd Avenue Elevated",1880
+471,472,"heavy_rail","2nd Avenue Elevated",1880
+472,473,"heavy_rail","2nd Avenue Elevated",1880
+473,474,"heavy_rail","2nd Avenue Elevated",1880
+474,475,"heavy_rail","2nd Avenue Elevated",1880
+475,476,"heavy_rail","2nd Avenue Elevated",1880
+476,477,"heavy_rail","2nd Avenue Elevated",1880
+477,478,"heavy_rail","2nd Avenue Elevated",1880
+478,479,"heavy_rail","2nd Avenue Elevated",1885
+479,480,"heavy_rail","2nd Avenue Elevated",1880
+480,481,"heavy_rail","2nd Avenue Elevated",1880
+481,482,"heavy_rail","2nd Avenue Elevated",1880
+482,513,"heavy_rail","2nd Avenue Elevated",1885
+909,910,"heavy_rail","W (2001-2010)",1919
+910,911,"heavy_rail","W (2001-2010)",1919
+911,912,"heavy_rail","W (2001-2010)",1919
+912,913,"heavy_rail","W (2001-2010)",1919
+913,818,"heavy_rail","W (2001-2010)",1917
+818,819,"heavy_rail","W (2001-2010)",1916
+819,820,"heavy_rail","W (2001-2010)",1916
+820,821,"heavy_rail","W (2001-2010)",1916
+821,822,"heavy_rail","W (2001-2010)",1916
+NA,960,"heavy_rail","W (2001-2010)",NA
+960,961,"heavy_rail","W (2001-2010)",1918
+961,963,"heavy_rail","W (2001-2010)",1917
+963,962,"heavy_rail","W (2001-2010)",1917
+962,970,"heavy_rail","W (2001-2010)",1917
+970,972,"heavy_rail","W (2001-2010)",1918
+972,971,"heavy_rail","W (2001-2010)",1918
+971,975,"heavy_rail","W (2001-2010)",1918
+975,1017,"heavy_rail","W (2001-2010)",1918
+1017,1019,"heavy_rail","W (2001-2010)",1917
+1019,1018,"heavy_rail","W (2001-2010)",1917
+1018,1022,"heavy_rail","W (2001-2010)",1917
+1022,1020,"heavy_rail","W (2001-2010)",1917
+1020,1021,"heavy_rail","W (2001-2010)",1917
+1021,959,"heavy_rail","W (2001-2010)",1917
+959,958,"heavy_rail","W (2001-2010)",1918
+958,966,"heavy_rail","W (2001-2010)",1918
+966,112,"heavy_rail","W (2001-2010)",1918
+112,90,"heavy_rail","W (2001-2010)",1920
+90,89,"heavy_rail","W (2001-2010)",1924
+89,88,"heavy_rail","W (2001-2010)",1915
+88,85,"heavy_rail","W (2001-2010)",1915
+85,86,"heavy_rail","W (2001-2010)",1915
+86,87,"heavy_rail","W (2001-2010)",1915
+NA,813,"heavy_rail","W (2001-2010)",NA
+813,823,"heavy_rail","W (2001-2010)",1915
+823,815,"heavy_rail","W (2001-2010)",1916
+815,816,"heavy_rail","W (2001-2010)",1916
+816,817,"heavy_rail","W (2001-2010)",1916
+817,814,"heavy_rail","W (2001-2010)",1916
+814,513,"heavy_rail","W (2001-2010)",1916
+503,504,"heavy_rail","7",1928
+504,505,"heavy_rail","7",1928
+505,506,"heavy_rail","7",1925
+506,507,"heavy_rail","7",1917
+507,508,"heavy_rail","7",1917
+508,509,"heavy_rail","7",1917
+509,510,"heavy_rail","7",1917
+510,511,"heavy_rail","7",1917
+511,512,"heavy_rail","7",1917
+512,513,"heavy_rail","7",1917
+513,514,"heavy_rail","7",1916
+514,515,"heavy_rail","7",1916
+515,516,"heavy_rail","7",1916
+516,517,"heavy_rail","7",1915
+517,518,"heavy_rail","7",1926
+518,531,"heavy_rail","7",1915
+NA,3,"heavy_rail","7",NA
+486,498,"heavy_rail","4",1917
+498,499,"heavy_rail","4",1917
+499,500,"heavy_rail","4",1917
+500,501,"heavy_rail","4",1918
+501,502,"heavy_rail","4",1918
+502,520,"heavy_rail","4",1918
+520,527,"heavy_rail","4",1918
+527,528,"heavy_rail","4",1917
+528,530,"heavy_rail","4",1917
+530,882,"heavy_rail","4",1917
+882,869,"heavy_rail","4",1918
+869,875,"heavy_rail","4",1904
+875,923,"heavy_rail","4",1904
+923,925,"heavy_rail","4",1905
+925,927,"heavy_rail","4",1905
+927,929,"heavy_rail","4",1905
+929,933,"heavy_rail","4",1918
+933,981,"heavy_rail","4",1918
+981,1028,"heavy_rail","4",1908
+1028,1113,"heavy_rail","4",1908
+1113,1117,"heavy_rail","4",1920
+1117,1313,"heavy_rail","4",1920
+1313,1253,"heavy_rail","4",1905
+229,230,"heavy_rail","2",1917
+230,534,"heavy_rail","2",1917
+534,535,"heavy_rail","2",1917
+535,539,"heavy_rail","2",1917
+539,540,"heavy_rail","2",1917
+540,541,"heavy_rail","2",1904
+541,542,"heavy_rail","2",1904
+542,543,"heavy_rail","2",1904
+543,544,"heavy_rail","2",1904
+544,545,"heavy_rail","2",1910
+545,529,"heavy_rail","2",1904
+529,547,"heavy_rail","2",1904
+547,548,"heavy_rail","2",1905
+548,879,"heavy_rail","2",1887
+879,519,"heavy_rail","2",1904
+519,881,"heavy_rail","2",1904
+881,915,"heavy_rail","2",1904
+915,919,"heavy_rail","2",1917
+919,156,"heavy_rail","2",1918
+156,936,"heavy_rail","2",1904
+936,938,"heavy_rail","2",1918
+938,940,"heavy_rail","2",1918
+940,981,"heavy_rail","2",1918
+981,985,"heavy_rail","2",1908
+985,986,"heavy_rail","2",1908
+986,1025,"heavy_rail","2",1919
+1025,1028,"heavy_rail","2",1917
+1028,1115,"heavy_rail","2",1908
+1115,1117,"heavy_rail","2",1920
+1117,1067,"heavy_rail","2",1920
+1067,1265,"heavy_rail","2",1918
+1265,1267,"heavy_rail","2",1917
+1267,1269,"heavy_rail","2",1917
+1269,1298,"heavy_rail","2",1917
+1298,1303,"heavy_rail","2",1904
+519,915,"heavy_rail","3",1904
+915,919,"heavy_rail","3",1917
+919,156,"heavy_rail","3",1918
+156,936,"heavy_rail","3",1904
+936,938,"heavy_rail","3",1918
+938,940,"heavy_rail","3",1918
+940,981,"heavy_rail","3",1918
+981,986,"heavy_rail","3",1908
+986,985,"heavy_rail","3",1919
+985,1025,"heavy_rail","3",1908
+1025,1111,"heavy_rail","3",1917
+1111,1112,"heavy_rail","3",1920
+1112,1113,"heavy_rail","3",1920
+1113,1115,"heavy_rail","3",1920
+1115,1117,"heavy_rail","3",1920
+1117,1067,"heavy_rail","3",1920
+1067,879,"heavy_rail","3",1918
+879,881,"heavy_rail","3",1904
+881,1298,"heavy_rail","3",1904
+1298,1300,"heavy_rail","3",1904
+1300,1294,"heavy_rail","3",1968
+1294,1303,"heavy_rail","3",1904
+NA,1028,"heavy_rail","3",NA
+536,537,"heavy_rail","5",1941
+537,538,"heavy_rail","5",1941
+538,670,"heavy_rail","5",1941
+670,671,"heavy_rail","5",1941
+671,539,"heavy_rail","5",1941
+539,882,"heavy_rail","5",1917
+882,520,"heavy_rail","5",1918
+520,869,"heavy_rail","5",1918
+869,875,"heavy_rail","5",1904
+875,923,"heavy_rail","5",1904
+923,925,"heavy_rail","5",1905
+925,927,"heavy_rail","5",1905
+927,929,"heavy_rail","5",1905
+929,933,"heavy_rail","5",1918
+933,981,"heavy_rail","5",1918
+981,1028,"heavy_rail","5",1908
+1028,1117,"heavy_rail","5",1908
+1117,1313,"heavy_rail","5",1920
+1313,1253,"heavy_rail","5",1905
+616,617,"heavy_rail","6",1920
+617,630,"heavy_rail","6",1920
+630,631,"heavy_rail","6",1920
+631,632,"heavy_rail","6",1920
+632,663,"heavy_rail","6",1920
+663,665,"heavy_rail","6",1918
+665,666,"heavy_rail","6",1919
+666,669,"heavy_rail","6",1919
+669,742,"heavy_rail","6",1920
+742,871,"heavy_rail","6",1920
+871,873,"heavy_rail","6",1904
+873,882,"heavy_rail","6",1904
+882,885,"heavy_rail","6",1918
+885,865,"heavy_rail","6",1918
+865,866,"heavy_rail","6",1904
+866,867,"heavy_rail","6",1904
+867,869,"heavy_rail","6",1904
+869,870,"heavy_rail","6",1904
+870,875,"heavy_rail","6",1904
+875,876,"heavy_rail","6",1904
+876,929,"heavy_rail","6",1904
+929,932,"heavy_rail","6",1918
+932,933,"heavy_rail","6",1918
+933,923,"heavy_rail","6",1918
+923,925,"heavy_rail","6",1905
+925,927,"heavy_rail","6",1905
+927,1313,"heavy_rail","6",1905
+1313,1250,"heavy_rail","6",1905
+1250,1251,"heavy_rail","6",1918
+1251,1252,"heavy_rail","6",1918
+1252,1253,"heavy_rail","6",1918
+1253,1254,"heavy_rail","6",1918
+1254,1332,"heavy_rail","6",1918
+NA,1256,"heavy_rail","6",NA
+NA,1260,"heavy_rail","6",NA
+1260,1261,"heavy_rail","6",1920
+1261,1262,"heavy_rail","6",1920
+639,640,"commuter_rail","Putnam",1881
+640,641,"commuter_rail","Putnam",1881
+641,642,"commuter_rail","Putnam",1881
+642,643,"commuter_rail","Putnam",1881
+643,644,"commuter_rail","Putnam",1881
+644,645,"commuter_rail","Putnam",1881
+645,646,"commuter_rail","Putnam",1881
+646,647,"commuter_rail","Putnam",1881
+647,648,"commuter_rail","Putnam",1881
+648,649,"commuter_rail","Putnam",1881
+649,650,"commuter_rail","Putnam",1881
+650,651,"commuter_rail","Putnam",1881
+651,652,"commuter_rail","Putnam",1881
+652,653,"commuter_rail","Putnam",1881
+653,673,"commuter_rail","Putnam",1881
+673,674,"commuter_rail","Putnam",1881
+674,675,"commuter_rail","Putnam",1881
+675,676,"commuter_rail","Putnam",1881
+676,677,"commuter_rail","Putnam",1881
+677,678,"commuter_rail","Putnam",1881
+678,679,"commuter_rail","Putnam",1881
+679,680,"commuter_rail","Putnam",1881
+680,724,"commuter_rail","Putnam",1881
+724,725,"commuter_rail","Putnam",1881
+725,726,"commuter_rail","Putnam",1881
+726,727,"commuter_rail","Putnam",1881
+727,728,"commuter_rail","Putnam",1881
+728,729,"commuter_rail","Putnam",1881
+729,730,"commuter_rail","Putnam",1881
+730,731,"commuter_rail","Putnam",1881
+731,732,"commuter_rail","Putnam",1881
+732,733,"commuter_rail","Putnam",1881
+733,734,"commuter_rail","Putnam",1881
+734,735,"commuter_rail","Putnam",1881
+654,655,"commuter_rail","Yonkers",1881
+655,656,"commuter_rail","Yonkers",1881
+656,657,"commuter_rail","Yonkers",1881
+657,658,"commuter_rail","Yonkers",1881
+681,682,"commuter_rail","Harlem (Electric)",1844
+682,683,"commuter_rail","Harlem (Electric)",1844
+683,684,"commuter_rail","Harlem (Electric)",1844
+684,685,"commuter_rail","Harlem (Electric)",1972
+685,686,"commuter_rail","Harlem (Electric)",1890
+686,687,"commuter_rail","Harlem (Electric)",1842
+687,688,"commuter_rail","Harlem (Electric)",1842
+688,689,"commuter_rail","Harlem (Electric)",1842
+689,690,"commuter_rail","Harlem (Electric)",1890
+690,691,"commuter_rail","Harlem (Electric)",1842
+691,368,"commuter_rail","Harlem (Electric)",1844
+368,369,"commuter_rail","Harlem (Electric)",1837
+369,695,"commuter_rail","Harlem (Electric)",1871
+695,696,"commuter_rail","Harlem (Electric)",1981
+696,697,"commuter_rail","Harlem (Electric)",1847
+697,698,"commuter_rail","Harlem (Electric)",1847
+698,699,"commuter_rail","Harlem (Electric)",1858
+699,700,"commuter_rail","Harlem (Electric)",1897
+700,701,"commuter_rail","Harlem (Electric)",1848
+701,702,"commuter_rail","Harlem (Electric)",1847
+702,703,"commuter_rail","Harlem (Electric)",1847
+703,704,"commuter_rail","Harlem (Electric)",1902
+704,705,"commuter_rail","Harlem (Electric)",1847
+705,759,"commuter_rail","Harlem (Electric)",1847
+759,758,"commuter_rail","Harlem (Electric)",1891
+NA,749,"commuter_rail","Harlem (Electric)",NA
+749,750,"commuter_rail","Harlem (Electric)",1844
+NA,756,"commuter_rail","Harlem (Electric)",NA
+662,664,"commuter_rail","Harlem",1876
+664,667,"commuter_rail","Harlem",1869
+667,668,"commuter_rail","Harlem",1848
+668,368,"commuter_rail","Harlem",1848
+368,706,"commuter_rail","Harlem",1837
+706,686,"commuter_rail","Harlem",1858
+686,708,"commuter_rail","Harlem",1842
+708,687,"commuter_rail","Harlem",1858
+687,710,"commuter_rail","Harlem",1842
+710,704,"commuter_rail","Harlem",1898
+704,703,"commuter_rail","Harlem",1847
+703,702,"commuter_rail","Harlem",1902
+702,701,"commuter_rail","Harlem",1847
+701,699,"commuter_rail","Harlem",1847
+699,697,"commuter_rail","Harlem",1897
+697,696,"commuter_rail","Harlem",1847
+696,700,"commuter_rail","Harlem",1847
+700,719,"commuter_rail","Harlem",1848
+719,720,"commuter_rail","Harlem",1848
+720,721,"commuter_rail","Harlem",1848
+721,722,"commuter_rail","Harlem",1930
+722,723,"commuter_rail","Harlem",1857
+723,681,"commuter_rail","Harlem",1852
+681,749,"commuter_rail","Harlem",1844
+749,750,"commuter_rail","Harlem",1844
+750,688,"commuter_rail","Harlem",1844
+688,689,"commuter_rail","Harlem",1842
+689,369,"commuter_rail","Harlem",1890
+369,690,"commuter_rail","Harlem",1871
+690,691,"commuter_rail","Harlem",1842
+691,756,"commuter_rail","Harlem",1844
+756,705,"commuter_rail","Harlem",1844
+705,758,"commuter_rail","Harlem",1847
+758,759,"commuter_rail","Harlem",1847
+759,1143,"commuter_rail","Harlem",1891
+1143,1164,"commuter_rail","Harlem",1848
+1164,1161,"commuter_rail","Harlem",1889
+NA,682,"commuter_rail","Harlem",NA
+682,683,"commuter_rail","Harlem",1844
+683,685,"commuter_rail","Harlem",1844
+685,698,"commuter_rail","Harlem",1890
+688,744,"commuter_rail","New Haven",1842
+744,745,"commuter_rail","New Haven",1848
+745,368,"commuter_rail","New Haven",1893
+368,369,"commuter_rail","New Haven",1837
+369,1147,"commuter_rail","New Haven",1871
+1147,1148,"commuter_rail","New Haven",2002
+1148,1149,"commuter_rail","New Haven",1848
+1149,1151,"commuter_rail","New Haven",2013
+1151,1152,"commuter_rail","New Haven",1848
+1152,1153,"commuter_rail","New Haven",1848
+1153,1154,"commuter_rail","New Haven",1848
+1154,1155,"commuter_rail","New Haven",2011
+1155,1156,"commuter_rail","New Haven",1848
+1156,1157,"commuter_rail","New Haven",1884
+761,762,"heavy_rail","Lexington Avenue Elevated",1885
+762,763,"heavy_rail","Lexington Avenue Elevated",1885
+763,764,"heavy_rail","Lexington Avenue Elevated",1885
+764,765,"heavy_rail","Lexington Avenue Elevated",1885
+765,766,"heavy_rail","Lexington Avenue Elevated",1885
+766,767,"heavy_rail","Lexington Avenue Elevated",1885
+767,768,"heavy_rail","Lexington Avenue Elevated",1912
+768,769,"heavy_rail","Lexington Avenue Elevated",1885
+769,770,"heavy_rail","Lexington Avenue Elevated",1885
+770,771,"heavy_rail","Lexington Avenue Elevated",1885
+771,772,"heavy_rail","Lexington Avenue Elevated",1885
+772,773,"heavy_rail","Lexington Avenue Elevated",1885
+773,774,"heavy_rail","Lexington Avenue Elevated",1885
+760,786,"heavy_rail","Myrtle Avenue",1888
+786,787,"heavy_rail","Myrtle Avenue",1889
+787,788,"heavy_rail","Myrtle Avenue",1889
+788,789,"heavy_rail","Myrtle Avenue",1889
+789,790,"heavy_rail","Myrtle Avenue",1888
+790,791,"heavy_rail","Myrtle Avenue",1888
+791,792,"heavy_rail","Myrtle Avenue",1888
+792,793,"heavy_rail","Myrtle Avenue",1888
+793,794,"heavy_rail","Myrtle Avenue",1888
+794,824,"heavy_rail","Myrtle Avenue",1888
+824,1337,"heavy_rail","Myrtle Avenue",1888
+1337,1336,"heavy_rail","Myrtle Avenue",1889
+NA,1009,"heavy_rail","Myrtle Avenue",NA
+1009,1010,"heavy_rail","Myrtle Avenue",1889
+1010,1011,"heavy_rail","Myrtle Avenue",1915
+1011,1012,"heavy_rail","Myrtle Avenue",1915
+1012,1013,"heavy_rail","Myrtle Avenue",1915
+1013,1014,"heavy_rail","Myrtle Avenue",1889
+775,776,"heavy_rail","Z",1918
+776,777,"heavy_rail","Z",1917
+777,778,"heavy_rail","Z",1917
+778,779,"heavy_rail","Z",1917
+779,780,"heavy_rail","Z",1893
+780,781,"heavy_rail","Z",1893
+781,782,"heavy_rail","Z",1885
+782,783,"heavy_rail","Z",1885
+783,784,"heavy_rail","Z",1885
+784,785,"heavy_rail","Z",1888
+785,77,"heavy_rail","Z",1888
+77,192,"heavy_rail","Z",1908
+192,193,"heavy_rail","Z",1988
+NA,1093,"heavy_rail","Z",NA
+1093,1095,"heavy_rail","Z",1885
+795,796,"heavy_rail","5th Avenue Elevated",1889
+796,797,"heavy_rail","5th Avenue Elevated",1893
+797,798,"heavy_rail","5th Avenue Elevated",1888
+798,799,"heavy_rail","5th Avenue Elevated",1889
+799,800,"heavy_rail","5th Avenue Elevated",1889
+800,801,"heavy_rail","5th Avenue Elevated",1889
+801,802,"heavy_rail","5th Avenue Elevated",1889
+802,803,"heavy_rail","5th Avenue Elevated",1889
+803,804,"heavy_rail","5th Avenue Elevated",1889
+804,805,"heavy_rail","5th Avenue Elevated",1889
+805,806,"heavy_rail","5th Avenue Elevated",1889
+806,807,"heavy_rail","5th Avenue Elevated",1893
+807,808,"heavy_rail","5th Avenue Elevated",1893
+808,809,"heavy_rail","5th Avenue Elevated",1893
+813,814,"heavy_rail","D",1915
+814,815,"heavy_rail","D",1916
+815,816,"heavy_rail","D",1916
+816,817,"heavy_rail","D",1916
+817,818,"heavy_rail","D",1916
+818,819,"heavy_rail","D",1916
+819,820,"heavy_rail","D",1916
+820,821,"heavy_rail","D",1916
+821,822,"heavy_rail","D",1916
+822,823,"heavy_rail","D",1916
+823,186,"heavy_rail","D",1916
+186,836,"heavy_rail","D",1933
+836,837,"heavy_rail","D",1933
+837,838,"heavy_rail","D",1933
+838,839,"heavy_rail","D",1933
+839,840,"heavy_rail","D",1933
+840,187,"heavy_rail","D",1933
+187,188,"heavy_rail","D",1933
+188,189,"heavy_rail","D",1933
+189,190,"heavy_rail","D",1933
+190,845,"heavy_rail","D",1933
+845,181,"heavy_rail","D",1933
+181,942,"heavy_rail","D",1932
+942,945,"heavy_rail","D",1936
+945,990,"heavy_rail","D",1940
+990,993,"heavy_rail","D",1940
+993,216,"heavy_rail","D",1940
+216,1006,"heavy_rail","D",1936
+1006,1023,"heavy_rail","D",1933
+1023,88,"heavy_rail","D",1967
+88,89,"heavy_rail","D",1915
+93,94,"heavy_rail","Culver",1919
+NA,823,"heavy_rail","Culver",NA
+942,945,"heavy_rail","M",1936
+945,988,"heavy_rail","M",1940
+988,215,"heavy_rail","M",1940
+215,990,"heavy_rail","M",1940
+990,993,"heavy_rail","M",1940
+993,216,"heavy_rail","M",1940
+216,1003,"heavy_rail","M",1936
+1003,1009,"heavy_rail","M",1933
+1009,1010,"heavy_rail","M",1889
+1010,1011,"heavy_rail","M",1915
+1011,1012,"heavy_rail","M",1915
+1012,1013,"heavy_rail","M",1915
+1013,1014,"heavy_rail","M",1889
+1014,77,"heavy_rail","M",1889
+77,1097,"heavy_rail","M",1908
+1097,784,"heavy_rail","M",1888
+784,1101,"heavy_rail","M",1888
+1101,785,"heavy_rail","M",1888
+785,1105,"heavy_rail","M",1888
+91,92,"heavy_rail","Q",1920
+92,147,"heavy_rail","Q",1920
+147,148,"heavy_rail","Q",1878
+148,149,"heavy_rail","Q",1902
+149,150,"heavy_rail","Q",1899
+150,157,"heavy_rail","Q",1878
+157,158,"heavy_rail","Q",1878
+158,159,"heavy_rail","Q",1878
+159,160,"heavy_rail","Q",1898
+160,161,"heavy_rail","Q",1917
+161,162,"heavy_rail","Q",1878
+162,163,"heavy_rail","Q",1878
+163,164,"heavy_rail","Q",1907
+164,165,"heavy_rail","Q",1896
+165,812,"heavy_rail","Q",1919
+812,963,"heavy_rail","Q",1878
+963,913,"heavy_rail","Q",1917
+913,972,"heavy_rail","Q",1917
+972,975,"heavy_rail","Q",1918
+975,89,"heavy_rail","Q",1918
+NA,214,"heavy_rail","Q",NA
+214,1208,"heavy_rail","Q",1989
+1208,1207,"heavy_rail","Q",2017
+1207,1206,"heavy_rail","Q",2017
+1206,910,"heavy_rail","Q",2017
+810,811,"heavy_rail","Fulton Street",1888
+811,115,"heavy_rail","Fulton Street",1888
+115,1041,"heavy_rail","Fulton Street",1937
+1041,1042,"heavy_rail","Fulton Street",1936
+1042,1043,"heavy_rail","Fulton Street",1936
+1043,1044,"heavy_rail","Fulton Street",1936
+NA,1074,"heavy_rail","Fulton Street",NA
+1074,1075,"heavy_rail","Fulton Street",1936
+1075,1076,"heavy_rail","Fulton Street",1936
+NA,1078,"heavy_rail","Fulton Street",NA
+NA,1079,"heavy_rail","Fulton Street",NA
+NA,1080,"heavy_rail","Fulton Street",NA
+1080,1082,"heavy_rail","Fulton Street",1946
+1082,1083,"heavy_rail","Fulton Street",1948
+1083,1084,"heavy_rail","Fulton Street",1948
+1084,1086,"heavy_rail","Fulton Street",1948
+825,826,"heavy_rail","S (Franklin Avenue Shuttle)",1928
+76,176,"heavy_rail","C",1933
+176,177,"heavy_rail","C",1932
+177,178,"heavy_rail","C",1932
+178,179,"heavy_rail","C",1932
+179,180,"heavy_rail","C",1932
+180,181,"heavy_rail","C",1932
+181,182,"heavy_rail","C",1932
+182,183,"heavy_rail","C",1932
+183,184,"heavy_rail","C",1932
+184,185,"heavy_rail","C",1932
+185,999,"heavy_rail","C",1932
+999,115,"heavy_rail","C",1933
+115,1041,"heavy_rail","C",1937
+1041,1042,"heavy_rail","C",1936
+1042,1043,"heavy_rail","C",1936
+1043,1044,"heavy_rail","C",1936
+1044,1074,"heavy_rail","C",1936
+1074,1075,"heavy_rail","C",1936
+1075,1076,"heavy_rail","C",1936
+1076,1080,"heavy_rail","C",1936
+1080,1082,"heavy_rail","C",1946
+1082,1083,"heavy_rail","C",1948
+1083,1084,"heavy_rail","C",1948
+1084,1086,"heavy_rail","C",1948
+NA,887,"heavy_rail","C",NA
+887,888,"heavy_rail","C",1932
+888,950,"heavy_rail","C",1932
+950,952,"heavy_rail","C",1932
+NA,956,"heavy_rail","C",NA
+956,957,"heavy_rail","C",1932
+77,78,"heavy_rail","J",1908
+78,79,"heavy_rail","J",1913
+79,80,"heavy_rail","J",1931
+80,779,"heavy_rail","J",1931
+779,780,"heavy_rail","J",1893
+780,1089,"heavy_rail","J",1893
+1089,781,"heavy_rail","J",1893
+781,782,"heavy_rail","J",1885
+782,783,"heavy_rail","J",1885
+783,1093,"heavy_rail","J",1885
+1093,1094,"heavy_rail","J",1885
+1094,1095,"heavy_rail","J",1885
+1095,1096,"heavy_rail","J",1885
+1096,1097,"heavy_rail","J",1888
+1097,784,"heavy_rail","J",1888
+784,1101,"heavy_rail","J",1888
+1101,785,"heavy_rail","J",1888
+785,1105,"heavy_rail","J",1888
+1105,192,"heavy_rail","J",1888
+192,193,"heavy_rail","J",1988
+193,775,"heavy_rail","J",1988
+775,1127,"heavy_rail","J",1918
+1127,776,"heavy_rail","J",1917
+776,777,"heavy_rail","J",1917
+777,1130,"heavy_rail","J",1917
+1130,778,"heavy_rail","J",1917
+778,1132,"heavy_rail","J",1917
+105,106,"heavy_rail","G",1933
+106,107,"heavy_rail","G",1933
+107,108,"heavy_rail","G",1933
+108,109,"heavy_rail","G",1937
+109,110,"heavy_rail","G",1937
+110,111,"heavy_rail","G",1937
+111,113,"heavy_rail","G",1937
+113,114,"heavy_rail","G",1937
+114,115,"heavy_rail","G",1937
+115,1031,"heavy_rail","G",1937
+1031,1033,"heavy_rail","G",1933
+1033,1035,"heavy_rail","G",1933
+1035,1037,"heavy_rail","G",1933
+1037,1058,"heavy_rail","G",1933
+1058,1060,"heavy_rail","G",1933
+1060,1062,"heavy_rail","G",1933
+1062,1064,"heavy_rail","G",1933
+81,82,"heavy_rail","R",1925
+82,83,"heavy_rail","R",1916
+83,84,"heavy_rail","R",1916
+84,85,"heavy_rail","R",1916
+85,86,"heavy_rail","R",1915
+86,87,"heavy_rail","R",1915
+87,88,"heavy_rail","R",1915
+88,89,"heavy_rail","R",1915
+89,90,"heavy_rail","R",1915
+90,112,"heavy_rail","R",1924
+112,958,"heavy_rail","R",1920
+958,959,"heavy_rail","R",1918
+959,960,"heavy_rail","R",1918
+960,961,"heavy_rail","R",1918
+961,962,"heavy_rail","R",1917
+962,963,"heavy_rail","R",1917
+963,966,"heavy_rail","R",1917
+966,913,"heavy_rail","R",1918
+913,970,"heavy_rail","R",1917
+970,971,"heavy_rail","R",1918
+971,972,"heavy_rail","R",1918
+972,911,"heavy_rail","R",1918
+911,912,"heavy_rail","R",1919
+912,1002,"heavy_rail","R",1919
+1002,1003,"heavy_rail","R",1933
+1003,1068,"heavy_rail","R",1933
+1068,1069,"heavy_rail","R",1936
+1069,1070,"heavy_rail","R",1936
+1070,1071,"heavy_rail","R",1936
+1071,1072,"heavy_rail","R",1933
+1072,1073,"heavy_rail","R",1933
+1073,5,"heavy_rail","R",1933
+NA,1,"heavy_rail","R",NA
+NA,813,"heavy_rail","R",NA
+NA,1134,"heavy_rail","R",NA
+1134,975,"heavy_rail","R",1915
+975,909,"heavy_rail","R",1918
+909,910,"heavy_rail","R",1919
+95,96,"heavy_rail","S (42nd Street Shuttle)",1904
+126,127,"heavy_rail","L",1924
+127,128,"heavy_rail","L",1906
+128,129,"heavy_rail","L",1906
+129,130,"heavy_rail","L",1906
+NA,1009,"heavy_rail","L",NA
+132,143,"heavy_rail","A",1869
+143,144,"heavy_rail","A",1956
+144,145,"heavy_rail","A",1956
+145,146,"heavy_rail","A",1956
+146,834,"heavy_rail","A",1956
+834,181,"heavy_rail","A",1932
+181,183,"heavy_rail","A",1932
+183,950,"heavy_rail","A",1932
+950,185,"heavy_rail","A",1932
+185,956,"heavy_rail","A",1932
+956,957,"heavy_rail","A",1932
+957,76,"heavy_rail","A",1933
+76,999,"heavy_rail","A",1933
+999,115,"heavy_rail","A",1933
+115,1076,"heavy_rail","A",1937
+1076,1078,"heavy_rail","A",1936
+1078,1079,"heavy_rail","A",1915
+1079,1080,"heavy_rail","A",1915
+1080,1084,"heavy_rail","A",1946
+NA,1044,"heavy_rail","A",NA
+166,167,"heavy_rail","N",1915
+167,168,"heavy_rail","N",1915
+168,170,"heavy_rail","N",1915
+170,171,"heavy_rail","N",1915
+171,172,"heavy_rail","N",1915
+172,173,"heavy_rail","N",1915
+173,174,"heavy_rail","N",1915
+174,175,"heavy_rail","N",1915
+175,963,"heavy_rail","N",1915
+963,913,"heavy_rail","N",1917
+913,972,"heavy_rail","N",1917
+972,975,"heavy_rail","N",1918
+975,911,"heavy_rail","N",1918
+911,912,"heavy_rail","N",1919
+912,1017,"heavy_rail","N",1919
+1017,1018,"heavy_rail","N",1917
+1018,1019,"heavy_rail","N",1917
+1019,1020,"heavy_rail","N",1917
+1020,1021,"heavy_rail","N",1917
+1021,1022,"heavy_rail","N",1917
+1022,88,"heavy_rail","N",1917
+88,813,"heavy_rail","N",1915
+813,1134,"heavy_rail","N",1915
+1134,89,"heavy_rail","N",1915
+89,958,"heavy_rail","N",1915
+958,959,"heavy_rail","N",1918
+959,960,"heavy_rail","N",1918
+960,112,"heavy_rail","N",1918
+112,90,"heavy_rail","N",1920
+90,966,"heavy_rail","N",1924
+966,513,"heavy_rail","N",1918
+513,909,"heavy_rail","N",1916
+909,910,"heavy_rail","N",1919
+186,187,"heavy_rail","B",1933
+187,188,"heavy_rail","B",1933
+188,189,"heavy_rail","B",1933
+189,190,"heavy_rail","B",1933
+190,887,"heavy_rail","B",1933
+887,888,"heavy_rail","B",1932
+888,176,"heavy_rail","B",1932
+176,177,"heavy_rail","B",1932
+177,178,"heavy_rail","B",1932
+178,179,"heavy_rail","B",1932
+179,180,"heavy_rail","B",1932
+180,181,"heavy_rail","B",1932
+181,942,"heavy_rail","B",1932
+942,990,"heavy_rail","B",1936
+990,216,"heavy_rail","B",1940
+216,1006,"heavy_rail","B",1936
+1006,1023,"heavy_rail","B",1933
+1023,89,"heavy_rail","B",1967
+89,91,"heavy_rail","B",1915
+91,92,"heavy_rail","B",1920
+92,157,"heavy_rail","B",1920
+157,812,"heavy_rail","B",1878
+812,161,"heavy_rail","B",1878
+161,147,"heavy_rail","B",1878
+147,150,"heavy_rail","B",1878
+150,993,"heavy_rail","B",1878
+993,945,"heavy_rail","B",1940
+NA,836,"heavy_rail","B",NA
+836,837,"heavy_rail","B",1933
+837,838,"heavy_rail","B",1933
+838,839,"heavy_rail","B",1933
+839,840,"heavy_rail","B",1933
+1,5,"heavy_rail","F",1933
+5,7,"heavy_rail","F",1936
+7,9,"heavy_rail","F",1936
+9,12,"heavy_rail","F",1936
+12,14,"heavy_rail","F",1937
+14,16,"heavy_rail","F",1937
+16,18,"heavy_rail","F",1937
+18,69,"heavy_rail","F",1937
+69,211,"heavy_rail","F",1950
+211,212,"heavy_rail","F",1968
+212,213,"heavy_rail","F",1989
+213,214,"heavy_rail","F",1989
+214,215,"heavy_rail","F",1989
+215,216,"heavy_rail","F",1940
+216,217,"heavy_rail","F",1936
+217,218,"heavy_rail","F",1936
+218,219,"heavy_rail","F",1936
+219,220,"heavy_rail","F",1936
+220,999,"heavy_rail","F",1936
+999,1031,"heavy_rail","F",1933
+1031,1033,"heavy_rail","F",1933
+1033,1035,"heavy_rail","F",1933
+1035,1037,"heavy_rail","F",1933
+1037,1058,"heavy_rail","F",1933
+1058,1060,"heavy_rail","F",1933
+1060,1062,"heavy_rail","F",1933
+1062,1064,"heavy_rail","F",1933
+1064,988,"heavy_rail","F",1933
+988,990,"heavy_rail","F",1940
+990,993,"heavy_rail","F",1940
+993,945,"heavy_rail","F",1940
+NA,165,"heavy_rail","F",NA
+165,942,"heavy_rail","F",1919
+191,192,"heavy_rail","E",1988
+192,193,"heavy_rail","E",1988
+193,182,"heavy_rail","E",1988
+182,183,"heavy_rail","E",1932
+183,950,"heavy_rail","E",1932
+950,952,"heavy_rail","E",1932
+952,184,"heavy_rail","E",1932
+184,185,"heavy_rail","E",1932
+185,1003,"heavy_rail","E",1932
+1003,1006,"heavy_rail","E",1933
+NA,12,"heavy_rail","E",NA
+12,9,"heavy_rail","E",1937
+9,7,"heavy_rail","E",1936
+7,5,"heavy_rail","E",1936
+5,1,"heavy_rail","E",1936
+221,222,"light_rail","City Subway",1937
+222,223,"light_rail","City Subway",1935
+223,224,"light_rail","City Subway",1935
+224,225,"light_rail","City Subway",1940
+225,226,"light_rail","City Subway",1935
+226,227,"light_rail","City Subway",2002
+227,358,"light_rail","City Subway",2002
+358,359,"light_rail","City Subway",1935
+359,360,"light_rail","City Subway",1935
+360,361,"light_rail","City Subway",1935
+361,362,"light_rail","City Subway",1935
+362,363,"light_rail","City Subway",1935
+363,364,"light_rail","City Subway",1935
+240,242,"commuter_rail","Hempstead",1870
+242,373,"commuter_rail","Hempstead",1911
+373,376,"commuter_rail","Hempstead",1873
+376,484,"commuter_rail","Hempstead",1873
+484,584,"commuter_rail","Hempstead",1907
+584,1199,"commuter_rail","Hempstead",1873
+1199,1200,"commuter_rail","Hempstead",1881
+239,243,"commuter_rail","West Hempstead",1869
+243,244,"commuter_rail","West Hempstead",1929
+244,247,"commuter_rail","West Hempstead",1909
+247,283,"commuter_rail","West Hempstead",1928
+283,285,"commuter_rail","West Hempstead",1924
+285,231,"commuter_rail","West Hempstead",1893
+238,234,"commuter_rail","Long Beach",1897
+234,237,"commuter_rail","Long Beach",1880
+237,239,"commuter_rail","Long Beach",1898
+239,264,"commuter_rail","Long Beach",1869
+264,266,"commuter_rail","Long Beach",1880
+266,1193,"commuter_rail","Long Beach",1898
+1193,1195,"commuter_rail","Long Beach",1871
+1195,1197,"commuter_rail","Long Beach",1907
+NA,1191,"commuter_rail","Long Beach",NA
+42,46,"commuter_rail","Port Washington",1886
+46,50,"commuter_rail","Port Washington",1866
+50,36,"commuter_rail","Port Washington",1866
+36,35,"commuter_rail","Port Washington",1854
+35,39,"commuter_rail","Port Washington",1889
+39,41,"commuter_rail","Port Washington",1866
+41,54,"commuter_rail","Port Washington",1901
+54,57,"commuter_rail","Port Washington",1870
+57,58,"commuter_rail","Port Washington",1899
+58,59,"commuter_rail","Port Washington",1909
+59,60,"commuter_rail","Port Washington",1898
+60,369,"commuter_rail","Port Washington",1939
+10,2,"commuter_rail","Oyster Bay",1866
+2,8,"commuter_rail","Oyster Bay",1865
+8,13,"commuter_rail","Oyster Bay",1865
+13,15,"commuter_rail","Oyster Bay",1867
+15,17,"commuter_rail","Oyster Bay",1867
+17,4,"commuter_rail","Oyster Bay",1869
+4,6,"commuter_rail","Oyster Bay",1875
+6,19,"commuter_rail","Oyster Bay",1880
+19,20,"commuter_rail","Oyster Bay",1895
+20,21,"commuter_rail","Oyster Bay",1889
+21,1176,"commuter_rail","Oyster Bay",1889
+1176,1177,"commuter_rail","Oyster Bay",1837
+NA,1175,"commuter_rail","Oyster Bay",NA
+232,120,"commuter_rail","Montauk",1871
+120,121,"commuter_rail","Montauk",1867
+121,277,"commuter_rail","Montauk",1867
+277,278,"commuter_rail","Montauk",1867
+278,279,"commuter_rail","Montauk",1867
+279,280,"commuter_rail","Montauk",1867
+280,281,"commuter_rail","Montauk",1868
+281,286,"commuter_rail","Montauk",1869
+286,287,"commuter_rail","Montauk",1868
+287,288,"commuter_rail","Montauk",1868
+288,289,"commuter_rail","Montauk",1897
+289,290,"commuter_rail","Montauk",1868
+290,291,"commuter_rail","Montauk",1900
+291,292,"commuter_rail","Montauk",1869
+292,293,"commuter_rail","Montauk",1870
+293,294,"commuter_rail","Montauk",1881
+294,295,"commuter_rail","Montauk",1960
+295,296,"commuter_rail","Montauk",1882
+296,659,"commuter_rail","Montauk",1897
+659,848,"commuter_rail","Montauk",1873
+848,850,"commuter_rail","Montauk",1870
+850,854,"commuter_rail","Montauk",1871
+854,856,"commuter_rail","Montauk",1871
+856,858,"commuter_rail","Montauk",1870
+858,860,"commuter_rail","Montauk",1895
+860,862,"commuter_rail","Montauk",1895
+862,1174,"commuter_rail","Montauk",1895
+1174,1175,"commuter_rail","Montauk",1837
+NA,123,"commuter_rail","Montauk",NA
+297,298,"heavy_rail","Mainline",1886
+298,299,"heavy_rail","Mainline",1884
+299,300,"heavy_rail","Mainline",1860
+300,301,"heavy_rail","Mainline",1884
+301,302,"heavy_rail","Mainline",1886
+302,303,"heavy_rail","Mainline",1937
+303,304,"heavy_rail","Mainline",1860
+304,305,"heavy_rail","Mainline",1937
+305,306,"heavy_rail","Mainline",1860
+306,307,"heavy_rail","Mainline",1860
+307,308,"heavy_rail","Mainline",1860
+308,309,"heavy_rail","Mainline",1900
+309,310,"heavy_rail","Mainline",1860
+310,311,"heavy_rail","Mainline",1860
+311,312,"heavy_rail","Mainline",1860
+312,313,"heavy_rail","Mainline",1860
+313,314,"heavy_rail","Mainline",1860
+314,315,"heavy_rail","Mainline",1860
+315,316,"heavy_rail","Mainline",1860
+316,317,"heavy_rail","Mainline",1924
+317,318,"heavy_rail","Mainline",2017
+318,319,"heavy_rail","Mainline",1910
+320,321,"heavy_rail","North Shore",1906
+321,322,"heavy_rail","North Shore",1890
+322,323,"heavy_rail","North Shore",1937
+323,324,"heavy_rail","North Shore",1886
+324,325,"heavy_rail","North Shore",1937
+325,326,"heavy_rail","North Shore",1886
+326,327,"heavy_rail","North Shore",1886
+327,328,"heavy_rail","North Shore",1886
+328,329,"heavy_rail","North Shore",1886
+329,330,"heavy_rail","North Shore",1886
+330,331,"heavy_rail","North Shore",1886
+331,332,"heavy_rail","North Shore",1886
+333,334,"light_rail","Broad Street",2006
+334,335,"light_rail","Broad Street",2006
+335,336,"light_rail","Broad Street",2006
+336,337,"light_rail","Broad Street",2006
+339,340,"light_rail","Hoboken-8th Street",2000
+340,341,"light_rail","Hoboken-8th Street",2000
+341,342,"light_rail","Hoboken-8th Street",2000
+342,343,"light_rail","Hoboken-8th Street",2000
+343,344,"light_rail","Hoboken-8th Street",2000
+344,345,"light_rail","Hoboken-8th Street",2000
+345,346,"light_rail","Hoboken-8th Street",2000
+346,347,"light_rail","Hoboken-8th Street",2000
+347,351,"light_rail","Hoboken-8th Street",2000
+351,352,"light_rail","Hoboken-8th Street",2003
+352,353,"light_rail","Hoboken-8th Street",2011
+353,354,"light_rail","Hoboken-8th Street",2000
+354,355,"light_rail","Hoboken-8th Street",2000
+355,356,"light_rail","Hoboken-8th Street",2000
+348,349,"light_rail","Tonelle-West Side",2000
+349,350,"light_rail","Tonelle-West Side",2000
+NA,353,"light_rail","Tonelle-West Side",NA
+353,354,"light_rail","Tonelle-West Side",2000
+354,355,"light_rail","Tonelle-West Side",2000
+355,339,"light_rail","Tonelle-West Side",2000
+339,340,"light_rail","Tonelle-West Side",2000
+340,341,"light_rail","Tonelle-West Side",2000
+341,342,"light_rail","Tonelle-West Side",2000
+342,343,"light_rail","Tonelle-West Side",2000
+367,368,"commuter_rail","Hudson",2009
+368,369,"commuter_rail","Hudson",1837
+369,378,"commuter_rail","Hudson",1871
+378,379,"commuter_rail","Hudson",1983
+379,380,"commuter_rail","Hudson",1871
+380,381,"commuter_rail","Hudson",1871
+381,382,"commuter_rail","Hudson",1906
+382,383,"commuter_rail","Hudson",1849
+383,384,"commuter_rail","Hudson",1899
+384,385,"commuter_rail","Hudson",1849
+385,386,"commuter_rail","Hudson",1849
+386,387,"commuter_rail","Hudson",1860
+387,388,"commuter_rail","Hudson",1849
+388,389,"commuter_rail","Hudson",1874
+389,390,"commuter_rail","Hudson",1900
+390,391,"commuter_rail","Hudson",1849
+391,392,"commuter_rail","Hudson",1849
+392,393,"commuter_rail","Hudson",1849
+393,394,"commuter_rail","Hudson",1849
+832,833,"ferry","Staten Island Ferry",1903
+NA,356,"light_rail","Tonelle-Hoboken",NA
+990,215,"heavy_rail","V",1940
+215,988,"heavy_rail","V",1940
+988,942,"heavy_rail","V",1940
+942,216,"heavy_rail","V",1936
+216,220,"heavy_rail","V",1936
+NA,1003,"heavy_rail","V",NA
+1003,945,"heavy_rail","V",1933
+945,993,"heavy_rail","V",1940
+1137,1141,"commuter_rail","Harlem (Diesel)",1991
+1141,722,"commuter_rail","Harlem (Diesel)",2000
+722,719,"commuter_rail","Harlem (Diesel)",1857
+719,720,"commuter_rail","Harlem (Diesel)",1848
+720,721,"commuter_rail","Harlem (Diesel)",1848
+721,1161,"commuter_rail","Harlem (Diesel)",1930
+1150,628,"commuter_rail","Mainline",1848
+628,1148,"commuter_rail","Mainline",1848
+1148,1151,"commuter_rail","Mainline",1848
+1151,1152,"commuter_rail","Mainline",1848
+1152,1153,"commuter_rail","Mainline",1848
+1153,1155,"commuter_rail","Mainline",1848
+1155,1156,"commuter_rail","Mainline",1848
+231,1178,"commuter_rail","Babylon",1898
+1178,120,"commuter_rail","Babylon",1899
+120,1180,"commuter_rail","Babylon",1867
+1180,121,"commuter_rail","Babylon",1869
+121,1182,"commuter_rail","Babylon",1867
+1182,1183,"commuter_rail","Babylon",1933
+1183,123,"commuter_rail","Babylon",1902
+123,125,"commuter_rail","Babylon",1868
+125,277,"commuter_rail","Babylon",1867
+277,1187,"commuter_rail","Babylon",1867
+1187,278,"commuter_rail","Babylon",1867
+278,1189,"commuter_rail","Babylon",1867
+1189,279,"commuter_rail","Babylon",1867
+279,1191,"commuter_rail","Babylon",1867
+1191,239,"commuter_rail","Babylon",1867
+239,1193,"commuter_rail","Babylon",1869
+1193,1195,"commuter_rail","Babylon",1871
+1195,1197,"commuter_rail","Babylon",1907
+3,503,"heavy_rail","<7>",1917
+503,504,"heavy_rail","<7>",1928
+504,513,"heavy_rail","<7>",1928
+513,514,"heavy_rail","<7>",1916
+514,515,"heavy_rail","<7>",1916
+515,531,"heavy_rail","<7>",1916
+531,517,"heavy_rail","<7>",1878
+517,518,"heavy_rail","<7>",1926
+NA,507,"heavy_rail","<7>",NA
+NA,516,"heavy_rail","<7>",NA
+1204,1205,"heavy_rail","T",2027
+1205,1206,"heavy_rail","T",2027
+1206,1207,"heavy_rail","T",2017
+1207,1208,"heavy_rail","T",2017
+1208,1209,"heavy_rail","T",2017
+1209,1210,"heavy_rail","T",2027
+1210,1211,"heavy_rail","T",2027
+1211,1212,"heavy_rail","T",2027
+1212,1213,"heavy_rail","T",2027
+1213,1214,"heavy_rail","T",2027
+1214,1215,"heavy_rail","T",2027
+1215,1216,"heavy_rail","T",2027
+865,866,"heavy_rail","<6>",1904
+866,867,"heavy_rail","<6>",1904
+867,869,"heavy_rail","<6>",1904
+869,870,"heavy_rail","<6>",1904
+870,871,"heavy_rail","<6>",1904
+871,873,"heavy_rail","<6>",1904
+873,875,"heavy_rail","<6>",1904
+875,876,"heavy_rail","<6>",1904
+876,882,"heavy_rail","<6>",1904
+882,885,"heavy_rail","<6>",1918
+885,1250,"heavy_rail","<6>",1918
+1250,1251,"heavy_rail","<6>",1918
+1251,1252,"heavy_rail","<6>",1918
+1252,1253,"heavy_rail","<6>",1918
+1253,1254,"heavy_rail","<6>",1918
+1254,663,"heavy_rail","<6>",1918
+663,1256,"heavy_rail","<6>",1918
+1256,742,"heavy_rail","<6>",1919
+742,617,"heavy_rail","<6>",1920
+617,630,"heavy_rail","<6>",1920
+630,1260,"heavy_rail","<6>",1920
+1260,1261,"heavy_rail","<6>",1920
+1261,1262,"heavy_rail","<6>",1920
+1262,632,"heavy_rail","<6>",1920
+632,1332,"heavy_rail","<6>",1920
+1332,929,"heavy_rail","<6>",1918
+929,932,"heavy_rail","<6>",1918
+932,933,"heavy_rail","<6>",1918
+1014,1013,"heavy_rail","MJ",1889
+1013,1336,"heavy_rail","MJ",1889
+1336,1337,"heavy_rail","MJ",1889
+1337,786,"heavy_rail","MJ",1889
+786,787,"heavy_rail","MJ",1889
+787,789,"heavy_rail","MJ",1889
+789,792,"heavy_rail","MJ",1888
+792,791,"heavy_rail","MJ",1888
+791,794,"heavy_rail","MJ",1888
+794,793,"heavy_rail","MJ",1888
+793,1012,"heavy_rail","MJ",1888
+1012,1011,"heavy_rail","MJ",1915
+1011,1010,"heavy_rail","MJ",1915
+1010,1009,"heavy_rail","MJ",1915
+NA,788,"heavy_rail","MJ",NA
+788,790,"heavy_rail","MJ",1889
+827,828,"commuter_rail","Ronkonkoma",1844
+828,829,"commuter_rail","Ronkonkoma",1844
+NA,1174,"commuter_rail","Ronkonkoma",NA
+1174,1175,"commuter_rail","Ronkonkoma",1837
+NA,369,"commuter_rail","Ronkonkoma",NA
+NA,1175,"commuter_rail","Port Jefferson",NA
+62,63,"commuter_rail","Far Rockaway",1869
+63,70,"commuter_rail","Far Rockaway",1869
+70,73,"commuter_rail","Far Rockaway",1869
+73,116,"commuter_rail","Far Rockaway",1869
+116,68,"commuter_rail","Far Rockaway",1928
+68,61,"commuter_rail","Far Rockaway",1958
+61,1195,"commuter_rail","Far Rockaway",1905
+NA,239,"commuter_rail","Far Rockaway",NA
+239,1193,"commuter_rail","Far Rockaway",1869
+1193,1197,"commuter_rail","Far Rockaway",1871
+961,963,"heavy_rail","W (2016-)",1917
+963,962,"heavy_rail","W (2016-)",1917
+962,970,"heavy_rail","W (2016-)",1917
+970,972,"heavy_rail","W (2016-)",1918
+972,971,"heavy_rail","W (2016-)",1918
+971,975,"heavy_rail","W (2016-)",1918
+975,909,"heavy_rail","W (2016-)",1918
+909,910,"heavy_rail","W (2016-)",1919
+910,911,"heavy_rail","W (2016-)",1919
+911,1017,"heavy_rail","W (2016-)",1919
+1017,1019,"heavy_rail","W (2016-)",1917
+1019,1018,"heavy_rail","W (2016-)",1917
+1018,1022,"heavy_rail","W (2016-)",1917
+1022,1020,"heavy_rail","W (2016-)",1917
+1020,1021,"heavy_rail","W (2016-)",1917
+1021,912,"heavy_rail","W (2016-)",1917
+912,913,"heavy_rail","W (2016-)",1919
+913,960,"heavy_rail","W (2016-)",1917
+960,959,"heavy_rail","W (2016-)",1918
+959,958,"heavy_rail","W (2016-)",1918
+958,966,"heavy_rail","W (2016-)",1918
+966,513,"heavy_rail","W (2016-)",1918
+NA,749,"commuter_rail","Harlem Line",NA
+749,750,"commuter_rail","Harlem Line",1844
+NA,756,"commuter_rail","Harlem Line",NA
+756,681,"commuter_rail","Harlem Line",1844
+681,682,"commuter_rail","Harlem Line",1844
+682,683,"commuter_rail","Harlem Line",1844
+683,684,"commuter_rail","Harlem Line",1844
+684,685,"commuter_rail","Harlem Line",1972
+685,1164,"commuter_rail","Harlem Line",1890
+1164,686,"commuter_rail","Harlem Line",1889
+686,687,"commuter_rail","Harlem Line",1842
+687,688,"commuter_rail","Harlem Line",1842
+688,689,"commuter_rail","Harlem Line",1842
+689,690,"commuter_rail","Harlem Line",1890
+690,691,"commuter_rail","Harlem Line",1842
+691,368,"commuter_rail","Harlem Line",1844
+368,369,"commuter_rail","Harlem Line",1837
+369,719,"commuter_rail","Harlem Line",1871
+719,720,"commuter_rail","Harlem Line",1848
+720,721,"commuter_rail","Harlem Line",1848
+NA,1161,"commuter_rail","Harlem Line",NA
+1161,695,"commuter_rail","Harlem Line",1848
+695,696,"commuter_rail","Harlem Line",1981
+696,697,"commuter_rail","Harlem Line",1847
+697,698,"commuter_rail","Harlem Line",1847
+698,699,"commuter_rail","Harlem Line",1858
+699,700,"commuter_rail","Harlem Line",1897
+700,701,"commuter_rail","Harlem Line",1848
+701,702,"commuter_rail","Harlem Line",1847
+702,703,"commuter_rail","Harlem Line",1847
+703,704,"commuter_rail","Harlem Line",1902
+704,759,"commuter_rail","Harlem Line",1847
+759,758,"commuter_rail","Harlem Line",1891
+758,705,"commuter_rail","Harlem Line",1847
+688,745,"commuter_rail","New Haven Line",1842
+NA,744,"commuter_rail","New Haven Line",NA
+NA,368,"commuter_rail","New Haven Line",NA
+368,369,"commuter_rail","New Haven Line",1837
+369,1148,"commuter_rail","New Haven Line",1871
+1148,1151,"commuter_rail","New Haven Line",1848
+1151,1152,"commuter_rail","New Haven Line",1848
+1152,1153,"commuter_rail","New Haven Line",1848
+1153,1155,"commuter_rail","New Haven Line",1848
+1155,1156,"commuter_rail","New Haven Line",1848
+NA,379,"commuter_rail","Hudson Line",NA
+379,380,"commuter_rail","Hudson Line",1871
+380,381,"commuter_rail","Hudson Line",1871
+NA,382,"commuter_rail","Hudson Line",NA
+382,383,"commuter_rail","Hudson Line",1849
+383,384,"commuter_rail","Hudson Line",1899
+NA,385,"commuter_rail","Hudson Line",NA
+385,386,"commuter_rail","Hudson Line",1849
+386,387,"commuter_rail","Hudson Line",1860
+NA,388,"commuter_rail","Hudson Line",NA
+388,389,"commuter_rail","Hudson Line",1874
+389,390,"commuter_rail","Hudson Line",1900
+390,391,"commuter_rail","Hudson Line",1849
+391,392,"commuter_rail","Hudson Line",1849
+392,393,"commuter_rail","Hudson Line",1849
+393,368,"commuter_rail","Hudson Line",1849
+368,369,"commuter_rail","Hudson Line",1837
+681,749,"commuter_rail","Harlem",1844
+749,750,"commuter_rail","Harlem",1844
+NA,682,"commuter_rail","Harlem",NA
+682,683,"commuter_rail","Harlem",1844
+683,684,"commuter_rail","Harlem",1844
+684,685,"commuter_rail","Harlem",1972
+685,1164,"commuter_rail","Harlem",1890
+1164,368,"commuter_rail","Harlem",1889
+368,706,"commuter_rail","Harlem",1837
+706,686,"commuter_rail","Harlem",1858
+686,708,"commuter_rail","Harlem",1842
+708,687,"commuter_rail","Harlem",1858
+687,710,"commuter_rail","Harlem",1842
+710,688,"commuter_rail","Harlem",1898
+688,689,"commuter_rail","Harlem",1842
+689,369,"commuter_rail","Harlem",1890
+369,690,"commuter_rail","Harlem",1871
+690,691,"commuter_rail","Harlem",1842
+691,756,"commuter_rail","Harlem",1844
+756,705,"commuter_rail","Harlem",1844
+705,758,"commuter_rail","Harlem",1847
+758,759,"commuter_rail","Harlem",1847
+759,704,"commuter_rail","Harlem",1891
+704,703,"commuter_rail","Harlem",1847
+703,702,"commuter_rail","Harlem",1902
+702,701,"commuter_rail","Harlem",1847
+701,699,"commuter_rail","Harlem",1847
+699,698,"commuter_rail","Harlem",1897
+698,697,"commuter_rail","Harlem",1858
+697,696,"commuter_rail","Harlem",1847
+696,700,"commuter_rail","Harlem",1847
+700,719,"commuter_rail","Harlem",1848
+719,720,"commuter_rail","Harlem",1848
+720,721,"commuter_rail","Harlem",1848
+NA,1161,"commuter_rail","Harlem",NA
+1161,722,"commuter_rail","Harlem",1848
+722,723,"commuter_rail","Harlem",1857
+NA,389,"commuter_rail","Hudson",NA
+389,388,"commuter_rail","Hudson",1900
+NA,368,"commuter_rail","Hudson",NA
+NA,380,"commuter_rail","Hudson",NA
+380,379,"commuter_rail","Hudson",1871
+379,381,"commuter_rail","Hudson",1871
+NA,382,"commuter_rail","Hudson",NA
+382,383,"commuter_rail","Hudson",1849
+383,384,"commuter_rail","Hudson",1899
+NA,706,"commuter_rail","Hudson",NA
+706,369,"commuter_rail","Hudson",1858
+NA,389,"commuter_rail","Hudson",NA
+389,388,"commuter_rail","Hudson",1900
+388,368,"commuter_rail","Hudson",1874
+NA,380,"commuter_rail","Hudson",NA
+380,379,"commuter_rail","Hudson",1871
+379,381,"commuter_rail","Hudson",1871
+NA,382,"commuter_rail","Hudson",NA
+382,383,"commuter_rail","Hudson",1849
+383,384,"commuter_rail","Hudson",1899
+NA,706,"commuter_rail","Hudson",NA
+706,369,"commuter_rail","Hudson",1858
+28,140,"commuter_rail","City Terminal Zone",1910
+2,4,"commuter_rail","Long Island Rail Road",1865
+4,6,"commuter_rail","Long Island Rail Road",1875
+6,8,"commuter_rail","Long Island Rail Road",1880
+8,10,"commuter_rail","Long Island Rail Road",1865
+10,13,"commuter_rail","Long Island Rail Road",1866
+13,15,"commuter_rail","Long Island Rail Road",1867
+15,17,"commuter_rail","Long Island Rail Road",1867
+17,19,"commuter_rail","Long Island Rail Road",1869
+19,20,"commuter_rail","Long Island Rail Road",1895
+20,21,"commuter_rail","Long Island Rail Road",1889
+21,22,"commuter_rail","Long Island Rail Road",1889
+22,25,"commuter_rail","Long Island Rail Road",1855
+25,28,"commuter_rail","Long Island Rail Road",1854
+28,35,"commuter_rail","Long Island Rail Road",1910
+35,36,"commuter_rail","Long Island Rail Road",1889
+36,39,"commuter_rail","Long Island Rail Road",1854
+39,41,"commuter_rail","Long Island Rail Road",1866
+41,42,"commuter_rail","Long Island Rail Road",1901
+42,46,"commuter_rail","Long Island Rail Road",1886
+46,50,"commuter_rail","Long Island Rail Road",1866
+50,54,"commuter_rail","Long Island Rail Road",1866
+54,57,"commuter_rail","Long Island Rail Road",1870
+57,58,"commuter_rail","Long Island Rail Road",1899
+58,59,"commuter_rail","Long Island Rail Road",1909
+59,60,"commuter_rail","Long Island Rail Road",1898
+60,61,"commuter_rail","Long Island Rail Road",1939
+61,62,"commuter_rail","Long Island Rail Road",1905
+62,63,"commuter_rail","Long Island Rail Road",1869
+63,68,"commuter_rail","Long Island Rail Road",1869
+68,70,"commuter_rail","Long Island Rail Road",1958
+70,116,"commuter_rail","Long Island Rail Road",1869
+116,73,"commuter_rail","Long Island Rail Road",1928
+73,121,"commuter_rail","Long Island Rail Road",1869
+121,123,"commuter_rail","Long Island Rail Road",1867
+123,125,"commuter_rail","Long Island Rail Road",1868
+125,133,"commuter_rail","Long Island Rail Road",1867
+133,134,"commuter_rail","Long Island Rail Road",1928
+134,135,"commuter_rail","Long Island Rail Road",1910
+135,136,"commuter_rail","Long Island Rail Road",1884
+136,137,"commuter_rail","Long Island Rail Road",1911
+137,138,"commuter_rail","Long Island Rail Road",1882
+138,139,"commuter_rail","Long Island Rail Road",1927
+139,132,"commuter_rail","Long Island Rail Road",1913
+132,140,"commuter_rail","Long Island Rail Road",1869
+140,195,"commuter_rail","Long Island Rail Road",1869
+195,196,"commuter_rail","Long Island Rail Road",1880
+196,197,"commuter_rail","Long Island Rail Road",1880
+197,198,"commuter_rail","Long Island Rail Road",1903
+198,199,"commuter_rail","Long Island Rail Road",1880
+199,200,"commuter_rail","Long Island Rail Road",1882
+200,201,"commuter_rail","Long Island Rail Road",1880
+201,202,"commuter_rail","Long Island Rail Road",1888
+202,203,"commuter_rail","Long Island Rail Road",1888
+203,204,"commuter_rail","Long Island Rail Road",1898
+204,205,"commuter_rail","Long Island Rail Road",1919
+205,206,"commuter_rail","Long Island Rail Road",1899
+206,207,"commuter_rail","Long Island Rail Road",1883
+207,208,"commuter_rail","Long Island Rail Road",1888
+208,209,"commuter_rail","Long Island Rail Road",1892
+209,210,"commuter_rail","Long Island Rail Road",1922
+210,228,"commuter_rail","Long Island Rail Road",1895
+228,231,"commuter_rail","Long Island Rail Road",1928
+231,232,"commuter_rail","Long Island Rail Road",1898
+232,234,"commuter_rail","Long Island Rail Road",1871
+234,235,"commuter_rail","Long Island Rail Road",1880
+235,236,"commuter_rail","Long Island Rail Road",1898
+236,237,"commuter_rail","Long Island Rail Road",1888
+237,238,"commuter_rail","Long Island Rail Road",1898
+238,250,"commuter_rail","Long Island Rail Road",1897
+250,264,"commuter_rail","Long Island Rail Road",1898
+264,266,"commuter_rail","Long Island Rail Road",1880
+266,242,"commuter_rail","Long Island Rail Road",1898
+242,243,"commuter_rail","Long Island Rail Road",1911
+243,244,"commuter_rail","Long Island Rail Road",1929
+244,283,"commuter_rail","Long Island Rail Road",1909
+283,285,"commuter_rail","Long Island Rail Road",1924
+285,247,"commuter_rail","Long Island Rail Road",1893
+247,365,"commuter_rail","Long Island Rail Road",1928
+365,366,"commuter_rail","Long Island Rail Road",1870
+366,370,"commuter_rail","Long Island Rail Road",1870
+370,371,"commuter_rail","Long Island Rail Road",1870
+371,372,"commuter_rail","Long Island Rail Road",1870
+372,373,"commuter_rail","Long Island Rail Road",1839
+373,376,"commuter_rail","Long Island Rail Road",1873
+376,484,"commuter_rail","Long Island Rail Road",1873
+484,584,"commuter_rail","Long Island Rail Road",1907
+584,659,"commuter_rail","Long Island Rail Road",1873
+659,736,"commuter_rail","Long Island Rail Road",1873
+736,738,"commuter_rail","Long Island Rail Road",1873
+738,740,"commuter_rail","Long Island Rail Road",1873
+740,741,"commuter_rail","Long Island Rail Road",1867
+741,846,"commuter_rail","Long Island Rail Road",1854
+846,847,"commuter_rail","Long Island Rail Road",1870
+847,848,"commuter_rail","Long Island Rail Road",1906
+848,850,"commuter_rail","Long Island Rail Road",1870
+850,852,"commuter_rail","Long Island Rail Road",1871
+852,853,"commuter_rail","Long Island Rail Road",1887
+853,854,"commuter_rail","Long Island Rail Road",1907
+854,856,"commuter_rail","Long Island Rail Road",1871
+856,858,"commuter_rail","Long Island Rail Road",1870
+858,860,"commuter_rail","Long Island Rail Road",1895
+860,862,"commuter_rail","Long Island Rail Road",1895
+862,864,"commuter_rail","Long Island Rail Road",1895
+864,1191,"commuter_rail","Long Island Rail Road",1898
+1191,278,"commuter_rail","Long Island Rail Road",1867
+278,1189,"commuter_rail","Long Island Rail Road",1867
+1189,279,"commuter_rail","Long Island Rail Road",1867
+279,1187,"commuter_rail","Long Island Rail Road",1867
+1187,1180,"commuter_rail","Long Island Rail Road",1867
+1180,120,"commuter_rail","Long Island Rail Road",1869
+120,277,"commuter_rail","Long Island Rail Road",1867
+277,1174,"commuter_rail","Long Island Rail Road",1867
+NA,1175,"commuter_rail","Long Island Rail Road",NA
+1175,1176,"commuter_rail","Long Island Rail Road",1837
+NA,1177,"commuter_rail","Long Island Rail Road",NA
+1177,828,"commuter_rail","Long Island Rail Road",1845
+828,827,"commuter_rail","Long Island Rail Road",1844
+NA,829,"commuter_rail","Long Island Rail Road",NA
+NA,1178,"commuter_rail","Long Island Rail Road",NA
+1178,1182,"commuter_rail","Long Island Rail Road",1899
+1182,1183,"commuter_rail","Long Island Rail Road",1933
+1183,239,"commuter_rail","Long Island Rail Road",1902
+239,1193,"commuter_rail","Long Island Rail Road",1869
+NA,1195,"commuter_rail","Long Island Rail Road",NA
+1195,1197,"commuter_rail","Long Island Rail Road",1907
+NA,286,"commuter_rail","Long Island Rail Road",NA
+286,240,"commuter_rail","Long Island Rail Road",1868
+NA,287,"commuter_rail","Long Island Rail Road",NA
+287,1199,"commuter_rail","Long Island Rail Road",1868
+1199,1200,"commuter_rail","Long Island Rail Road",1881
+NA,289,"commuter_rail","Long Island Rail Road",NA
+289,280,"commuter_rail","Long Island Rail Road",1868
+280,291,"commuter_rail","Long Island Rail Road",1868
+291,288,"commuter_rail","Long Island Rail Road",1869
+288,281,"commuter_rail","Long Island Rail Road",1897
+281,295,"commuter_rail","Long Island Rail Road",1869
+NA,290,"commuter_rail","Long Island Rail Road",NA
+NA,293,"commuter_rail","Long Island Rail Road",NA
+293,292,"commuter_rail","Long Island Rail Road",1881
+292,296,"commuter_rail","Long Island Rail Road",1870
+296,294,"commuter_rail","Long Island Rail Road",1897
+373,376,"commuter_rail","Central Railroad of Long Island",1873
+376,584,"commuter_rail","Central Railroad of Long Island",1873
+584,659,"commuter_rail","Central Railroad of Long Island",1873
+659,736,"commuter_rail","Central Railroad of Long Island",1873
+736,738,"commuter_rail","Central Railroad of Long Island",1873
+62,63,"commuter_rail","South Side Railroad of Long Island",1869
+63,70,"commuter_rail","South Side Railroad of Long Island",1869
+70,73,"commuter_rail","South Side Railroad of Long Island",1869
+73,120,"commuter_rail","South Side Railroad of Long Island",1869
+120,121,"commuter_rail","South Side Railroad of Long Island",1867
+121,123,"commuter_rail","South Side Railroad of Long Island",1867
+123,125,"commuter_rail","South Side Railroad of Long Island",1868
+125,132,"commuter_rail","South Side Railroad of Long Island",1867
+132,140,"commuter_rail","South Side Railroad of Long Island",1869
+140,1191,"commuter_rail","South Side Railroad of Long Island",1869
+1191,278,"commuter_rail","South Side Railroad of Long Island",1867
+278,279,"commuter_rail","South Side Railroad of Long Island",1867
+279,1187,"commuter_rail","South Side Railroad of Long Island",1867
+1187,1180,"commuter_rail","South Side Railroad of Long Island",1867
+1180,277,"commuter_rail","South Side Railroad of Long Island",1869
+277,239,"commuter_rail","South Side Railroad of Long Island",1867
+239,1193,"commuter_rail","South Side Railroad of Long Island",1869
+NA,1197,"commuter_rail","South Side Railroad of Long Island",NA
+NA,1189,"commuter_rail","South Side Railroad of Long Island",NA
+1189,286,"commuter_rail","South Side Railroad of Long Island",1867
+286,287,"commuter_rail","South Side Railroad of Long Island",1868
+287,289,"commuter_rail","South Side Railroad of Long Island",1868
+289,280,"commuter_rail","South Side Railroad of Long Island",1868
+280,291,"commuter_rail","South Side Railroad of Long Island",1868
+291,281,"commuter_rail","South Side Railroad of Long Island",1869
+22,25,"commuter_rail","Flushing and North Side Railroad",1855
+25,36,"commuter_rail","Flushing and North Side Railroad",1854
+36,42,"commuter_rail","Flushing and North Side Railroad",1854
+42,46,"commuter_rail","Flushing and North Side Railroad",1886
+46,50,"commuter_rail","Flushing and North Side Railroad",1866
+50,54,"commuter_rail","Flushing and North Side Railroad",1866
+54,39,"commuter_rail","Flushing and North Side Railroad",1870
+22,25,"commuter_rail","New York and Flushing Railroad",1855
+25,36,"commuter_rail","New York and Flushing Railroad",1854
+36,39,"commuter_rail","New York and Flushing Railroad",1854
+39,42,"commuter_rail","New York and Flushing Railroad",1866
+42,46,"commuter_rail","New York and Flushing Railroad",1886
+46,50,"commuter_rail","New York and Flushing Railroad",1866
+865,866,"heavy_rail","Lexington Avenue",1904
+866,867,"heavy_rail","Lexington Avenue",1904
+867,868,"heavy_rail","Lexington Avenue",1904
+868,869,"heavy_rail","Lexington Avenue",1904
+869,870,"heavy_rail","Lexington Avenue",1904
+870,871,"heavy_rail","Lexington Avenue",1904
+871,873,"heavy_rail","Lexington Avenue",1904
+873,875,"heavy_rail","Lexington Avenue",1904
+875,876,"heavy_rail","Lexington Avenue",1904
+876,95,"heavy_rail","Lexington Avenue",1904
+95,1306,"heavy_rail","Lexington Avenue",1904
+1306,923,"heavy_rail","Lexington Avenue",1904
+923,925,"heavy_rail","Lexington Avenue",1905
+925,927,"heavy_rail","Lexington Avenue",1905
+927,1313,"heavy_rail","Lexington Avenue",1905
+1313,1317,"heavy_rail","Lexington Avenue",1905
+1317,882,"heavy_rail","Lexington Avenue",1904
+882,885,"heavy_rail","Lexington Avenue",1918
+885,1250,"heavy_rail","Lexington Avenue",1918
+1250,1251,"heavy_rail","Lexington Avenue",1918
+1251,1252,"heavy_rail","Lexington Avenue",1918
+1252,1253,"heavy_rail","Lexington Avenue",1918
+1253,1254,"heavy_rail","Lexington Avenue",1918
+1254,1332,"heavy_rail","Lexington Avenue",1918
+1332,929,"heavy_rail","Lexington Avenue",1918
+929,932,"heavy_rail","Lexington Avenue",1918
+932,933,"heavy_rail","Lexington Avenue",1918
+96,915,"heavy_rail","Broadway-Seventh Avenue",1904
+915,1025,"heavy_rail","Broadway-Seventh Avenue",1917
+1025,1053,"heavy_rail","Broadway-Seventh Avenue",1917
+1053,1055,"heavy_rail","Broadway-Seventh Avenue",1918
+1055,1057,"heavy_rail","Broadway-Seventh Avenue",1918
+1057,1067,"heavy_rail","Broadway-Seventh Avenue",1918
+1067,1139,"heavy_rail","Broadway-Seventh Avenue",1918
+1139,1144,"heavy_rail","Broadway-Seventh Avenue",1918
+1144,152,"heavy_rail","Broadway-Seventh Avenue",1918
+152,153,"heavy_rail","Broadway-Seventh Avenue",1918
+153,919,"heavy_rail","Broadway-Seventh Avenue",1918
+919,97,"heavy_rail","Broadway-Seventh Avenue",1918
+97,154,"heavy_rail","Broadway-Seventh Avenue",1904
+154,155,"heavy_rail","Broadway-Seventh Avenue",1904
+155,156,"heavy_rail","Broadway-Seventh Avenue",1904
+156,98,"heavy_rail","Broadway-Seventh Avenue",1904
+98,1233,"heavy_rail","Broadway-Seventh Avenue",1904
+1233,1235,"heavy_rail","Broadway-Seventh Avenue",1904
+1235,879,"heavy_rail","Broadway-Seventh Avenue",1904
+879,99,"heavy_rail","Broadway-Seventh Avenue",1904
+99,100,"heavy_rail","Broadway-Seventh Avenue",1904
+100,101,"heavy_rail","Broadway-Seventh Avenue",1904
+101,102,"heavy_rail","Broadway-Seventh Avenue",1904
+102,103,"heavy_rail","Broadway-Seventh Avenue",1904
+103,1245,"heavy_rail","Broadway-Seventh Avenue",1904
+1245,1247,"heavy_rail","Broadway-Seventh Avenue",1904
+1247,1271,"heavy_rail","Broadway-Seventh Avenue",1904
+1271,1273,"heavy_rail","Broadway-Seventh Avenue",1908
+1273,1275,"heavy_rail","Broadway-Seventh Avenue",1908
+1275,1277,"heavy_rail","Broadway-Seventh Avenue",1908
+1277,1278,"heavy_rail","Broadway-Seventh Avenue",1907
+1278,1280,"heavy_rail","Broadway-Seventh Avenue",1907
+1280,1282,"heavy_rail","Broadway-Seventh Avenue",1906
+1282,1284,"heavy_rail","Broadway-Seventh Avenue",1907
+1284,1286,"heavy_rail","Broadway-Seventh Avenue",1907
+1286,1288,"heavy_rail","Broadway-Seventh Avenue",1906
+1288,1290,"heavy_rail","Broadway-Seventh Avenue",1911
+1290,1292,"heavy_rail","Broadway-Seventh Avenue",1906
+1292,104,"heavy_rail","Broadway-Seventh Avenue",1906
+104,169,"heavy_rail","Broadway-Seventh Avenue",1918
+NA,936,"heavy_rail","Broadway-Seventh Avenue",NA
+936,938,"heavy_rail","Broadway-Seventh Avenue",1918
+938,940,"heavy_rail","Broadway-Seventh Avenue",1918
+940,986,"heavy_rail","Broadway-Seventh Avenue",1918
+986,981,"heavy_rail","Broadway-Seventh Avenue",1919
+96,95,"heavy_rail","42nd Street",1904
+503,504,"heavy_rail","Flushing",1928
+504,505,"heavy_rail","Flushing",1928
+505,506,"heavy_rail","Flushing",1925
+506,507,"heavy_rail","Flushing",1917
+507,508,"heavy_rail","Flushing",1917
+NA,509,"heavy_rail","Flushing",NA
+509,510,"heavy_rail","Flushing",1917
+510,511,"heavy_rail","Flushing",1917
+511,512,"heavy_rail","Flushing",1917
+512,513,"heavy_rail","Flushing",1917
+513,514,"heavy_rail","Flushing",1916
+514,515,"heavy_rail","Flushing",1916
+515,516,"heavy_rail","Flushing",1916
+516,531,"heavy_rail","Flushing",1915
+531,517,"heavy_rail","Flushing",1878
+517,518,"heavy_rail","Flushing",1926
+1294,519,"heavy_rail","Lenox Avenue",1904
+519,881,"heavy_rail","Lenox Avenue",1904
+881,1298,"heavy_rail","Lenox Avenue",1904
+1298,1303,"heavy_rail","Lenox Avenue",1904
+520,527,"heavy_rail","Jerome Avenue",1918
+527,486,"heavy_rail","Jerome Avenue",1917
+486,498,"heavy_rail","Jerome Avenue",1917
+498,499,"heavy_rail","Jerome Avenue",1917
+NA,528,"heavy_rail","Jerome Avenue",NA
+528,530,"heavy_rail","Jerome Avenue",1917
+NA,500,"heavy_rail","Jerome Avenue",NA
+500,501,"heavy_rail","Jerome Avenue",1918
+501,502,"heavy_rail","Jerome Avenue",1918
+663,665,"heavy_rail","Pelham",1918
+665,666,"heavy_rail","Pelham",1919
+NA,1256,"heavy_rail","Pelham",NA
+NA,616,"heavy_rail","Pelham",NA
+616,742,"heavy_rail","Pelham",1920
+742,617,"heavy_rail","Pelham",1920
+617,630,"heavy_rail","Pelham",1920
+630,1260,"heavy_rail","Pelham",1920
+1260,1261,"heavy_rail","Pelham",1920
+1261,1262,"heavy_rail","Pelham",1920
+1262,631,"heavy_rail","Pelham",1920
+631,669,"heavy_rail","Pelham",1920
+669,632,"heavy_rail","Pelham",1920
+NA,1115,"heavy_rail","Eastern Parkway",NA
+1115,1117,"heavy_rail","Eastern Parkway",1920
+1117,981,"heavy_rail","Eastern Parkway",1920
+981,985,"heavy_rail","Eastern Parkway",1908
+985,1028,"heavy_rail","Eastern Parkway",1908
+229,230,"heavy_rail","White Plains Road",1917
+230,534,"heavy_rail","White Plains Road",1917
+534,535,"heavy_rail","White Plains Road",1917
+535,1265,"heavy_rail","White Plains Road",1917
+1265,1267,"heavy_rail","White Plains Road",1917
+1267,1269,"heavy_rail","White Plains Road",1917
+NA,539,"heavy_rail","White Plains Road",NA
+NA,540,"heavy_rail","White Plains Road",NA
+540,541,"heavy_rail","White Plains Road",1904
+541,542,"heavy_rail","White Plains Road",1904
+542,543,"heavy_rail","White Plains Road",1904
+543,544,"heavy_rail","White Plains Road",1904
+544,545,"heavy_rail","White Plains Road",1910
+545,529,"heavy_rail","White Plains Road",1904
+529,547,"heavy_rail","White Plains Road",1904
+547,548,"heavy_rail","White Plains Road",1905
+536,537,"heavy_rail","Dyre Avenue",1941
+537,538,"heavy_rail","Dyre Avenue",1941
+538,670,"heavy_rail","Dyre Avenue",1941
+670,671,"heavy_rail","Dyre Avenue",1941
+NA,834,"heavy_rail","Eighth Avenue",NA
+NA,887,"heavy_rail","Eighth Avenue",NA
+887,888,"heavy_rail","Eighth Avenue",1932
+888,176,"heavy_rail","Eighth Avenue",1932
+176,177,"heavy_rail","Eighth Avenue",1932
+177,178,"heavy_rail","Eighth Avenue",1932
+178,179,"heavy_rail","Eighth Avenue",1932
+179,180,"heavy_rail","Eighth Avenue",1932
+180,181,"heavy_rail","Eighth Avenue",1932
+181,182,"heavy_rail","Eighth Avenue",1932
+182,183,"heavy_rail","Eighth Avenue",1932
+183,950,"heavy_rail","Eighth Avenue",1932
+950,952,"heavy_rail","Eighth Avenue",1932
+NA,184,"heavy_rail","Eighth Avenue",NA
+184,185,"heavy_rail","Eighth Avenue",1932
+185,956,"heavy_rail","Eighth Avenue",1932
+956,957,"heavy_rail","Eighth Avenue",1932
+957,76,"heavy_rail","Eighth Avenue",1933
+76,999,"heavy_rail","Eighth Avenue",1933
+942,988,"heavy_rail","Sixth Avenue",1936
+988,215,"heavy_rail","Sixth Avenue",1940
+215,990,"heavy_rail","Sixth Avenue",1940
+990,993,"heavy_rail","Sixth Avenue",1940
+993,945,"heavy_rail","Sixth Avenue",1940
+945,216,"heavy_rail","Sixth Avenue",1940
+216,217,"heavy_rail","Sixth Avenue",1936
+217,218,"heavy_rail","Sixth Avenue",1936
+218,219,"heavy_rail","Sixth Avenue",1936
+219,220,"heavy_rail","Sixth Avenue",1936
+220,999,"heavy_rail","Sixth Avenue",1936
+999,1023,"heavy_rail","Sixth Avenue",1933
+NA,1037,"heavy_rail","Culver",NA
+1037,1060,"heavy_rail","Culver",1933
+1060,1035,"heavy_rail","Culver",1933
+1035,1033,"heavy_rail","Culver",1933
+1033,1031,"heavy_rail","Culver",1933
+1031,1062,"heavy_rail","Culver",1933
+1062,1058,"heavy_rail","Culver",1933
+1058,1064,"heavy_rail","Culver",1933
+1064,999,"heavy_rail","Culver",1933
+186,836,"heavy_rail","Concourse",1933
+836,837,"heavy_rail","Concourse",1933
+837,838,"heavy_rail","Concourse",1933
+838,839,"heavy_rail","Concourse",1933
+839,840,"heavy_rail","Concourse",1933
+840,187,"heavy_rail","Concourse",1933
+187,188,"heavy_rail","Concourse",1933
+188,189,"heavy_rail","Concourse",1933
+189,190,"heavy_rail","Concourse",1933
+190,845,"heavy_rail","Concourse",1933
+NA,143,"heavy_rail","Rockaway",NA
+NA,144,"heavy_rail","Rockaway",NA
+144,145,"heavy_rail","Rockaway",1956
+NA,146,"heavy_rail","Rockaway",NA
+NA,126,"heavy_rail","Canarsie",NA
+NA,1009,"heavy_rail","Canarsie",NA
+NA,127,"heavy_rail","Canarsie",NA
+127,128,"heavy_rail","Canarsie",1906
+128,129,"heavy_rail","Canarsie",1906
+129,130,"heavy_rail","Canarsie",1906
+157,158,"heavy_rail","Brighton",1878
+158,159,"heavy_rail","Brighton",1878
+159,812,"heavy_rail","Brighton",1898
+812,160,"heavy_rail","Brighton",1878
+160,161,"heavy_rail","Brighton",1917
+161,162,"heavy_rail","Brighton",1878
+162,163,"heavy_rail","Brighton",1878
+163,164,"heavy_rail","Brighton",1907
+164,147,"heavy_rail","Brighton",1896
+147,148,"heavy_rail","Brighton",1878
+148,149,"heavy_rail","Brighton",1902
+149,150,"heavy_rail","Brighton",1899
+NA,165,"heavy_rail","Brighton",NA
+NA,89,"heavy_rail","Brighton",NA
+89,91,"heavy_rail","Brighton",1915
+91,92,"heavy_rail","Brighton",1920
+NA,1006,"heavy_rail","Queens Boulevard",NA
+NA,826,"heavy_rail","Franklin Avenue",NA
+105,106,"heavy_rail","Crosstown",1933
+106,107,"heavy_rail","Crosstown",1933
+NA,108,"heavy_rail","Crosstown",NA
+108,109,"heavy_rail","Crosstown",1937
+109,110,"heavy_rail","Crosstown",1937
+110,111,"heavy_rail","Crosstown",1937
+NA,113,"heavy_rail","Crosstown",NA
+113,114,"heavy_rail","Crosstown",1937
+NA,115,"heavy_rail","Crosstown",NA
+NA,1078,"heavy_rail","Fulton Street Elevated",NA
+NA,1079,"heavy_rail","Fulton Street Elevated",NA
+NA,775,"heavy_rail","Jamaica",NA
+775,1127,"heavy_rail","Jamaica",1918
+1127,776,"heavy_rail","Jamaica",1917
+776,777,"heavy_rail","Jamaica",1917
+777,1130,"heavy_rail","Jamaica",1917
+1130,778,"heavy_rail","Jamaica",1917
+778,1132,"heavy_rail","Jamaica",1917
+1132,779,"heavy_rail","Jamaica",1893
+779,780,"heavy_rail","Jamaica",1893
+780,1089,"heavy_rail","Jamaica",1893
+1089,781,"heavy_rail","Jamaica",1893
+781,782,"heavy_rail","Jamaica",1885
+782,783,"heavy_rail","Jamaica",1885
+783,1093,"heavy_rail","Jamaica",1885
+1093,1094,"heavy_rail","Jamaica",1885
+1094,1095,"heavy_rail","Jamaica",1885
+NA,1096,"heavy_rail","Jamaica",NA
+1096,1097,"heavy_rail","Jamaica",1888
+1097,784,"heavy_rail","Jamaica",1888
+NA,1101,"heavy_rail","Jamaica",NA
+1101,785,"heavy_rail","Jamaica",1888
+785,1105,"heavy_rail","Jamaica",1888
+77,78,"heavy_rail","Nassau Street",1908
+NA,79,"heavy_rail","Nassau Street",NA
+79,80,"heavy_rail","Nassau Street",1931
+170,166,"heavy_rail","Sea Beach",1915
+166,171,"heavy_rail","Sea Beach",1915
+171,172,"heavy_rail","Sea Beach",1915
+172,173,"heavy_rail","Sea Beach",1915
+173,174,"heavy_rail","Sea Beach",1915
+174,167,"heavy_rail","Sea Beach",1915
+167,168,"heavy_rail","Sea Beach",1915
+168,175,"heavy_rail","Sea Beach",1915
+81,82,"heavy_rail","Fourth Avenue",1925
+82,83,"heavy_rail","Fourth Avenue",1916
+83,84,"heavy_rail","Fourth Avenue",1916
+84,85,"heavy_rail","Fourth Avenue",1916
+85,86,"heavy_rail","Fourth Avenue",1915
+86,87,"heavy_rail","Fourth Avenue",1915
+NA,813,"heavy_rail","Fourth Avenue",NA
+NA,1134,"heavy_rail","Fourth Avenue",NA
+1134,88,"heavy_rail","Fourth Avenue",1915
+88,89,"heavy_rail","Fourth Avenue",1915
+89,960,"heavy_rail","Fourth Avenue",1915
+960,112,"heavy_rail","Fourth Avenue",1918
+112,90,"heavy_rail","Fourth Avenue",1920
+1017,1018,"heavy_rail","Astoria",1917
+1018,1019,"heavy_rail","Astoria",1917
+1019,1020,"heavy_rail","Astoria",1917
+1020,1021,"heavy_rail","Astoria",1917
+1021,513,"heavy_rail","Astoria",1917
+513,1022,"heavy_rail","Astoria",1916
+958,959,"heavy_rail","Broadway",1918
+959,960,"heavy_rail","Broadway",1918
+960,961,"heavy_rail","Broadway",1918
+961,962,"heavy_rail","Broadway",1917
+962,963,"heavy_rail","Broadway",1917
+963,966,"heavy_rail","Broadway",1917
+966,913,"heavy_rail","Broadway",1918
+913,970,"heavy_rail","Broadway",1917
+970,971,"heavy_rail","Broadway",1918
+971,972,"heavy_rail","Broadway",1918
+972,975,"heavy_rail","Broadway",1918
+975,909,"heavy_rail","Broadway",1918
+909,910,"heavy_rail","Broadway",1919
+910,911,"heavy_rail","Broadway",1919
+911,912,"heavy_rail","Broadway",1919
+814,815,"heavy_rail","West End",1916
+815,816,"heavy_rail","West End",1916
+816,817,"heavy_rail","West End",1916
+817,818,"heavy_rail","West End",1916
+818,819,"heavy_rail","West End",1916
+819,820,"heavy_rail","West End",1916
+820,821,"heavy_rail","West End",1916
+821,822,"heavy_rail","West End",1916
+NA,823,"heavy_rail","West End",NA
+NA,93,"heavy_rail","SS (Culver Shuttle)",NA
+93,94,"heavy_rail","SS (Culver Shuttle)",1919
+94,823,"heavy_rail","SS (Culver Shuttle)",1919
+633,634,"heavy_rail","8",1888
+634,635,"heavy_rail","8",1920
+635,636,"heavy_rail","8",1887
+636,637,"heavy_rail","8",1887
+637,638,"heavy_rail","8",1887
+NA,548,"heavy_rail","8",NA
+71,72,"tram","BQX",2025

@@ -1,0 +1,161 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,2,"light_rail","MAX Blue Line",1986
+2,3,"light_rail","MAX Blue Line",1986
+3,4,"light_rail","MAX Blue Line",1986
+4,5,"light_rail","MAX Blue Line",1986
+5,6,"light_rail","MAX Blue Line",1990
+6,7,"light_rail","MAX Blue Line",1990
+7,8,"light_rail","MAX Blue Line",1986
+8,9,"light_rail","MAX Blue Line",1986
+9,10,"light_rail","MAX Blue Line",1986
+10,11,"light_rail","MAX Blue Line",1986
+11,12,"light_rail","MAX Blue Line",1986
+12,13,"light_rail","MAX Blue Line",1986
+13,14,"light_rail","MAX Blue Line",1990
+14,15,"light_rail","MAX Blue Line",1986
+15,16,"light_rail","MAX Blue Line",1986
+16,17,"light_rail","MAX Blue Line",1986
+17,18,"light_rail","MAX Blue Line",1986
+18,19,"light_rail","MAX Blue Line",1986
+19,20,"light_rail","MAX Blue Line",1986
+20,21,"light_rail","MAX Blue Line",1986
+21,22,"light_rail","MAX Blue Line",1986
+22,23,"light_rail","MAX Blue Line",1986
+23,24,"light_rail","MAX Blue Line",1986
+24,25,"light_rail","MAX Blue Line",1986
+25,26,"light_rail","MAX Blue Line",1986
+26,27,"light_rail","MAX Blue Line",1986
+27,28,"light_rail","MAX Blue Line",1986
+28,29,"light_rail","MAX Blue Line",2010
+29,30,"light_rail","MAX Blue Line",1986
+30,31,"light_rail","MAX Blue Line",1986
+31,32,"light_rail","MAX Blue Line",1986
+32,33,"light_rail","MAX Blue Line",1997
+33,34,"light_rail","MAX Blue Line",1997
+34,35,"light_rail","MAX Blue Line",1998
+35,36,"light_rail","MAX Blue Line",1998
+36,37,"light_rail","MAX Blue Line",1998
+37,38,"light_rail","MAX Blue Line",1998
+38,39,"light_rail","MAX Blue Line",1998
+39,40,"light_rail","MAX Blue Line",1998
+40,41,"light_rail","MAX Blue Line",1998
+41,42,"light_rail","MAX Blue Line",1998
+42,43,"light_rail","MAX Blue Line",1998
+43,44,"light_rail","MAX Blue Line",1998
+44,45,"light_rail","MAX Blue Line",1998
+45,46,"light_rail","MAX Blue Line",1998
+46,47,"light_rail","MAX Blue Line",1998
+47,48,"light_rail","MAX Blue Line",1998
+48,49,"light_rail","MAX Blue Line",1998
+49,50,"light_rail","MAX Blue Line",1998
+50,51,"light_rail","MAX Blue Line",1998
+37,36,"light_rail","MAX Red Line",1998
+36,35,"light_rail","MAX Red Line",1998
+35,34,"light_rail","MAX Red Line",1998
+34,33,"light_rail","MAX Red Line",1998
+33,32,"light_rail","MAX Red Line",1997
+32,1,"light_rail","MAX Red Line",1997
+1,2,"light_rail","MAX Red Line",1986
+2,3,"light_rail","MAX Red Line",1986
+3,4,"light_rail","MAX Red Line",1986
+4,6,"light_rail","MAX Red Line",1986
+6,5,"light_rail","MAX Red Line",1990
+5,8,"light_rail","MAX Red Line",1990
+8,7,"light_rail","MAX Red Line",1986
+7,9,"light_rail","MAX Red Line",1986
+9,10,"light_rail","MAX Red Line",1986
+10,11,"light_rail","MAX Red Line",1986
+11,12,"light_rail","MAX Red Line",1986
+12,13,"light_rail","MAX Red Line",1986
+13,14,"light_rail","MAX Red Line",1990
+14,15,"light_rail","MAX Red Line",1986
+15,16,"light_rail","MAX Red Line",1986
+16,17,"light_rail","MAX Red Line",1986
+17,18,"light_rail","MAX Red Line",1986
+18,19,"light_rail","MAX Red Line",1986
+19,77,"light_rail","MAX Red Line",1986
+77,78,"light_rail","MAX Red Line",2001
+78,79,"light_rail","MAX Red Line",2007
+79,80,"light_rail","MAX Red Line",2001
+81,82,"light_rail","MAX Yellow Line",2004
+82,83,"light_rail","MAX Yellow Line",2004
+83,84,"light_rail","MAX Yellow Line",2004
+84,85,"light_rail","MAX Yellow Line",2004
+85,86,"light_rail","MAX Yellow Line",2004
+86,87,"light_rail","MAX Yellow Line",2004
+87,88,"light_rail","MAX Yellow Line",2004
+88,89,"light_rail","MAX Yellow Line",2004
+89,90,"light_rail","MAX Yellow Line",2004
+91,92,"light_rail","MAX Green Line",2009
+92,93,"light_rail","MAX Green Line",2009
+93,94,"light_rail","MAX Green Line",2009
+94,95,"light_rail","MAX Green Line",2009
+95,96,"light_rail","MAX Green Line",2009
+96,97,"light_rail","MAX Green Line",2009
+97,98,"light_rail","MAX Green Line",2009
+101,102,"light_rail","MAX Orange Line",2015
+102,103,"light_rail","MAX Orange Line",2015
+103,104,"light_rail","MAX Orange Line",2015
+104,105,"light_rail","MAX Orange Line",2015
+105,106,"light_rail","MAX Orange Line",2015
+106,107,"light_rail","MAX Orange Line",2015
+107,108,"light_rail","MAX Orange Line",2015
+108,109,"light_rail","MAX Orange Line",2015
+109,110,"light_rail","MAX Orange Line",2015
+111,112,"commuter_rail","WES Commuter Rail",2009
+112,113,"commuter_rail","WES Commuter Rail",2009
+113,114,"commuter_rail","WES Commuter Rail",2009
+114,37,"commuter_rail","WES Commuter Rail",2009
+99,100,"people_mover","Portland Aerial Tram",2007
+116,117,"tram","North South Line",2007
+117,118,"tram","North South Line",2007
+118,119,"tram","North South Line",2007
+119,120,"tram","North South Line",2006
+120,121,"tram","North South Line",2007
+121,124,"tram","North South Line",2006
+124,127,"tram","North South Line",2005
+127,130,"tram","North South Line",2005
+130,133,"tram","North South Line",2005
+133,135,"tram","North South Line",2001
+135,137,"tram","North South Line",2001
+137,139,"tram","North South Line",2001
+139,141,"tram","North South Line",2001
+141,144,"tram","North South Line",2001
+144,143,"tram","North South Line",2001
+143,147,"tram","North South Line",2001
+147,149,"tram","North South Line",2001
+149,151,"tram","North South Line",2001
+151,153,"tram","North South Line",2001
+153,155,"tram","North South Line",2001
+155,157,"tram","North South Line",2001
+157,159,"tram","North South Line",2001
+159,161,"tram","North South Line",2001
+161,163,"tram","North South Line",2001
+163,165,"tram","North South Line",2001
+165,167,"tram","North South Line",2001
+167,169,"tram","North South Line",2001
+121,124,"tram","A Loop",2006
+124,127,"tram","A Loop",2005
+127,130,"tram","A Loop",2005
+130,135,"tram","A Loop",2005
+135,141,"tram","A Loop",2001
+141,143,"tram","A Loop",2001
+143,149,"tram","A Loop",2001
+149,153,"tram","A Loop",2001
+153,155,"tram","A Loop",2001
+155,159,"tram","A Loop",2001
+159,163,"tram","A Loop",2001
+163,167,"tram","A Loop",2001
+121,124,"tram","B Loop",2006
+124,127,"tram","B Loop",2005
+127,130,"tram","B Loop",2005
+130,133,"tram","B Loop",2005
+133,137,"tram","B Loop",2001
+137,139,"tram","B Loop",2001
+139,144,"tram","B Loop",2001
+144,147,"tram","B Loop",2001
+147,151,"tram","B Loop",2001
+151,157,"tram","B Loop",2001
+157,161,"tram","B Loop",2001
+161,165,"tram","B Loop",2001
+165,169,"tram","B Loop",2001

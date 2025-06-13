@@ -1,0 +1,891 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,2,"heavy_rail","1",1974
+2,3,"heavy_rail","1",1974
+3,4,"heavy_rail","1",1974
+4,5,"heavy_rail","1",1974
+5,6,"heavy_rail","1",1974
+6,7,"heavy_rail","1",1974
+7,8,"heavy_rail","1",1974
+8,9,"heavy_rail","1",1974
+9,204,"heavy_rail","1",1974
+204,205,"heavy_rail","1",1988
+205,222,"heavy_rail","1",1988
+222,223,"heavy_rail","1",1988
+223,225,"heavy_rail","1",1992
+225,375,"heavy_rail","1",1988
+375,377,"heavy_rail","1",1980
+377,379,"heavy_rail","1",1974
+379,381,"heavy_rail","1",1996
+381,383,"heavy_rail","1",1980
+383,385,"heavy_rail","1",1985
+385,387,"heavy_rail","1",1974
+387,389,"heavy_rail","1",2013
+389,391,"heavy_rail","1",1974
+391,393,"heavy_rail","1",1974
+393,395,"heavy_rail","1",1974
+395,397,"heavy_rail","1",1974
+397,399,"heavy_rail","1",1997
+399,401,"heavy_rail","1",1974
+401,403,"heavy_rail","1",1984
+403,405,"heavy_rail","1",1974
+405,407,"heavy_rail","1",1995
+407,410,"heavy_rail","1",1974
+410,412,"heavy_rail","1",1974
+412,414,"heavy_rail","1",1988
+414,416,"heavy_rail","1",1974
+416,418,"heavy_rail","1",1997
+418,420,"heavy_rail","1",1974
+420,422,"heavy_rail","1",1987
+422,424,"heavy_rail","1",1974
+424,426,"heavy_rail","1",1996
+426,428,"heavy_rail","1",1974
+428,430,"heavy_rail","1",1984
+430,432,"heavy_rail","1",1974
+432,434,"heavy_rail","1",1994
+434,436,"heavy_rail","1",1974
+436,438,"heavy_rail","1",2001
+438,440,"heavy_rail","1",1974
+440,442,"heavy_rail","1",1994
+442,444,"heavy_rail","1",1974
+444,446,"heavy_rail","1",1974
+446,448,"heavy_rail","1",1974
+448,451,"heavy_rail","1",2005
+451,453,"heavy_rail","1",1998
+453,455,"heavy_rail","1",1974
+455,457,"heavy_rail","1",1982
+457,459,"heavy_rail","1",1974
+459,461,"heavy_rail","1",1974
+461,463,"heavy_rail","1",1974
+463,465,"heavy_rail","1",1974
+465,467,"heavy_rail","1",2010
+467,469,"heavy_rail","1",1974
+469,471,"heavy_rail","1",2004
+471,473,"heavy_rail","1",1979
+473,475,"heavy_rail","1",1984
+475,477,"heavy_rail","1",1994
+477,479,"heavy_rail","1",1974
+479,481,"heavy_rail","1",1974
+481,483,"heavy_rail","1",1979
+483,486,"heavy_rail","1",1979
+486,488,"heavy_rail","1",1985
+488,490,"heavy_rail","1",1985
+490,492,"heavy_rail","1",1985
+492,494,"heavy_rail","1",1986
+494,496,"heavy_rail","1",1986
+496,498,"heavy_rail","1",1986
+498,500,"heavy_rail","1",1988
+500,502,"heavy_rail","1",1986
+502,504,"heavy_rail","1",1986
+504,506,"heavy_rail","1",1986
+506,508,"heavy_rail","1",1987
+508,510,"heavy_rail","1",2006
+510,511,"heavy_rail","1",2005
+511,513,"heavy_rail","1",2003
+513,515,"heavy_rail","1",2003
+515,517,"heavy_rail","1",2005
+517,518,"heavy_rail","1",2005
+518,520,"heavy_rail","1",2005
+520,522,"heavy_rail","1",2006
+522,524,"heavy_rail","1",2005
+524,526,"heavy_rail","1",2005
+526,528,"heavy_rail","1",2006
+528,531,"heavy_rail","1",2005
+531,532,"heavy_rail","1",2005
+532,534,"heavy_rail","1",2005
+534,536,"heavy_rail","1",2005
+536,538,"heavy_rail","1",2005
+538,540,"heavy_rail","1",2006
+540,542,"heavy_rail","1",2006
+542,544,"heavy_rail","1",2007
+544,546,"heavy_rail","1",2007
+546,548,"heavy_rail","1",2006
+548,550,"heavy_rail","1",2006
+550,552,"heavy_rail","1",2006
+552,554,"heavy_rail","1",2006
+554,556,"heavy_rail","1",2006
+556,559,"heavy_rail","1",2006
+559,561,"heavy_rail","1",2010
+561,563,"heavy_rail","1",2008
+563,565,"heavy_rail","1",2008
+565,567,"heavy_rail","1",2008
+567,569,"heavy_rail","1",2022
+569,571,"heavy_rail","1",2008
+571,573,"heavy_rail","1",2008
+573,575,"heavy_rail","1",2008
+575,577,"heavy_rail","1",2023
+577,579,"heavy_rail","1",NA
+579,485,"heavy_rail","1",2023
+485,582,"heavy_rail","1",1979
+NA,596,"heavy_rail","1",NA
+NA,156,"heavy_rail","1",NA
+10,11,"heavy_rail","2",1980
+11,12,"heavy_rail","2",2005
+12,13,"heavy_rail","2",1980
+13,14,"heavy_rail","2",1980
+14,15,"heavy_rail","2",1980
+15,16,"heavy_rail","2",1980
+16,17,"heavy_rail","2",1980
+17,18,"heavy_rail","2",1980
+18,19,"heavy_rail","2",1980
+19,20,"heavy_rail","2",1980
+20,21,"heavy_rail","2",1980
+21,22,"heavy_rail","2",2016
+22,23,"heavy_rail","2",1980
+23,24,"heavy_rail","2",1982
+24,25,"heavy_rail","2",1982
+25,26,"heavy_rail","2",1982
+26,27,"heavy_rail","2",1982
+27,28,"heavy_rail","2",1982
+28,29,"heavy_rail","2",1983
+29,30,"heavy_rail","2",1983
+30,31,"heavy_rail","2",1983
+31,32,"heavy_rail","2",1983
+32,33,"heavy_rail","2",1983
+33,34,"heavy_rail","2",1983
+34,35,"heavy_rail","2",1983
+35,36,"heavy_rail","2",1983
+36,37,"heavy_rail","2",1983
+37,38,"heavy_rail","2",1983
+38,39,"heavy_rail","2",1983
+39,40,"heavy_rail","2",1983
+40,41,"heavy_rail","2",1983
+41,42,"heavy_rail","2",1984
+42,43,"heavy_rail","2",1984
+43,44,"heavy_rail","2",1984
+44,45,"heavy_rail","2",1984
+45,46,"heavy_rail","2",1984
+46,47,"heavy_rail","2",1984
+47,48,"heavy_rail","2",1984
+48,49,"heavy_rail","2",1984
+49,50,"heavy_rail","2",1984
+50,51,"heavy_rail","2",1984
+51,52,"heavy_rail","2",1984
+52,53,"heavy_rail","2",1984
+53,54,"heavy_rail","2",1984
+54,55,"heavy_rail","2",1984
+55,56,"heavy_rail","2",1984
+56,80,"heavy_rail","2",1984
+80,81,"heavy_rail","2",1992
+81,82,"heavy_rail","2",1992
+82,83,"heavy_rail","2",1983
+83,84,"heavy_rail","2",1996
+57,58,"heavy_rail","3",1985
+58,59,"heavy_rail","3",1985
+59,60,"heavy_rail","3",1985
+60,61,"heavy_rail","3",1985
+61,62,"heavy_rail","3",1985
+62,63,"heavy_rail","3",1985
+63,64,"heavy_rail","3",1985
+64,65,"heavy_rail","3",1985
+65,66,"heavy_rail","3",1985
+66,67,"heavy_rail","3",1985
+67,68,"heavy_rail","3",1985
+68,69,"heavy_rail","3",1985
+69,70,"heavy_rail","3",1985
+70,71,"heavy_rail","3",1985
+71,72,"heavy_rail","3",1985
+72,73,"heavy_rail","3",1985
+73,74,"heavy_rail","3",1985
+74,75,"heavy_rail","3",1985
+75,76,"heavy_rail","3",1985
+76,77,"heavy_rail","3",1985
+77,78,"heavy_rail","3",1985
+78,79,"heavy_rail","3",1985
+79,86,"heavy_rail","3",1985
+86,87,"heavy_rail","3",1993
+87,88,"heavy_rail","3",1993
+88,89,"heavy_rail","3",1993
+89,90,"heavy_rail","3",1993
+90,91,"heavy_rail","3",1993
+91,92,"heavy_rail","3",1993
+92,93,"heavy_rail","3",1993
+93,94,"heavy_rail","3",1990
+94,95,"heavy_rail","3",1996
+95,96,"heavy_rail","3",2014
+96,97,"heavy_rail","3",1996
+97,98,"heavy_rail","3",1996
+98,99,"heavy_rail","3",1996
+99,100,"heavy_rail","3",1996
+100,101,"heavy_rail","3",1996
+101,102,"heavy_rail","3",1996
+102,103,"heavy_rail","3",1996
+103,104,"heavy_rail","3",1996
+104,105,"heavy_rail","3",2010
+105,106,"heavy_rail","3",2010
+107,108,"heavy_rail","4",1985
+108,109,"heavy_rail","4",1985
+109,110,"heavy_rail","4",1985
+110,111,"heavy_rail","4",1985
+111,112,"heavy_rail","4",1985
+112,113,"heavy_rail","4",1985
+113,114,"heavy_rail","4",1985
+114,115,"heavy_rail","4",2013
+115,116,"heavy_rail","4",1985
+116,117,"heavy_rail","4",1985
+117,118,"heavy_rail","4",1985
+118,119,"heavy_rail","4",1985
+119,120,"heavy_rail","4",1985
+120,121,"heavy_rail","4",1985
+121,122,"heavy_rail","4",1985
+122,123,"heavy_rail","4",1985
+123,124,"heavy_rail","4",1985
+124,125,"heavy_rail","4",1985
+125,126,"heavy_rail","4",1985
+126,127,"heavy_rail","4",1985
+127,128,"heavy_rail","4",1985
+128,129,"heavy_rail","4",1985
+129,130,"heavy_rail","4",1985
+130,131,"heavy_rail","4",1985
+131,132,"heavy_rail","4",1985
+132,139,"heavy_rail","4",1993
+139,140,"heavy_rail","4",1994
+140,141,"heavy_rail","4",1994
+141,142,"heavy_rail","4",1994
+142,143,"heavy_rail","4",1994
+143,144,"heavy_rail","4",1994
+144,145,"heavy_rail","4",1994
+145,146,"heavy_rail","4",2003
+146,147,"heavy_rail","4",1994
+147,148,"heavy_rail","4",2000
+148,149,"heavy_rail","4",2000
+149,224,"heavy_rail","4",2000
+NA,222,"heavy_rail","4",NA
+222,225,"heavy_rail","4",1988
+225,223,"heavy_rail","4",1988
+NA,156,"heavy_rail","4",NA
+156,204,"heavy_rail","4",1992
+204,205,"heavy_rail","4",1988
+84,160,"heavy_rail","5",1996
+160,161,"heavy_rail","5",1995
+161,162,"heavy_rail","5",1995
+162,163,"heavy_rail","5",1995
+163,164,"heavy_rail","5",1995
+164,165,"heavy_rail","5",1995
+165,166,"heavy_rail","5",1995
+166,167,"heavy_rail","5",1995
+167,168,"heavy_rail","5",1995
+168,169,"heavy_rail","5",1995
+169,170,"heavy_rail","5",1995
+170,171,"heavy_rail","5",1995
+171,172,"heavy_rail","5",1995
+172,173,"heavy_rail","5",1995
+173,174,"heavy_rail","5",1995
+174,175,"heavy_rail","5",1996
+175,176,"heavy_rail","5",1996
+176,177,"heavy_rail","5",1996
+177,178,"heavy_rail","5",1996
+178,179,"heavy_rail","5",1996
+179,180,"heavy_rail","5",1996
+180,181,"heavy_rail","5",1996
+181,182,"heavy_rail","5",1996
+182,183,"heavy_rail","5",1996
+183,184,"heavy_rail","5",1996
+184,185,"heavy_rail","5",1996
+185,186,"heavy_rail","5",1996
+186,187,"heavy_rail","5",1996
+187,188,"heavy_rail","5",1996
+188,189,"heavy_rail","5",1996
+189,190,"heavy_rail","5",1996
+190,191,"heavy_rail","5",1996
+191,192,"heavy_rail","5",1996
+192,193,"heavy_rail","5",1996
+193,194,"heavy_rail","5",1996
+194,195,"heavy_rail","5",1996
+195,196,"heavy_rail","5",1996
+196,197,"heavy_rail","5",1996
+197,198,"heavy_rail","5",1996
+198,199,"heavy_rail","5",2008
+199,200,"heavy_rail","5",1996
+200,201,"heavy_rail","5",1996
+201,202,"heavy_rail","5",1996
+202,203,"heavy_rail","5",1996
+203,206,"heavy_rail","5",1996
+206,207,"heavy_rail","5",1996
+207,208,"heavy_rail","5",1996
+208,209,"heavy_rail","5",1996
+209,210,"heavy_rail","5",1996
+210,211,"heavy_rail","5",1996
+212,213,"heavy_rail","6",2000
+213,214,"heavy_rail","6",2000
+214,215,"heavy_rail","6",2000
+215,216,"heavy_rail","6",2000
+216,217,"heavy_rail","6",2000
+217,218,"heavy_rail","6",2000
+218,219,"heavy_rail","6",2000
+219,220,"heavy_rail","6",2000
+220,221,"heavy_rail","6",2000
+221,226,"heavy_rail","6",2000
+226,227,"heavy_rail","6",2000
+227,228,"heavy_rail","6",2000
+228,229,"heavy_rail","6",2000
+229,230,"heavy_rail","6",2000
+230,231,"heavy_rail","6",2001
+231,232,"heavy_rail","6",2001
+232,233,"heavy_rail","6",2001
+233,234,"heavy_rail","6",2001
+234,235,"heavy_rail","6",2000
+235,236,"heavy_rail","6",2000
+236,237,"heavy_rail","6",2000
+237,238,"heavy_rail","6",2000
+238,239,"heavy_rail","6",2000
+239,240,"heavy_rail","6",2000
+240,241,"heavy_rail","6",2000
+241,242,"heavy_rail","6",2000
+242,243,"heavy_rail","6",2000
+243,244,"heavy_rail","6",2000
+244,245,"heavy_rail","6",2000
+245,246,"heavy_rail","6",2000
+246,247,"heavy_rail","6",2000
+247,248,"heavy_rail","6",2000
+248,249,"heavy_rail","6",2000
+249,250,"heavy_rail","6",2000
+250,251,"heavy_rail","6",2000
+251,252,"heavy_rail","6",2000
+252,253,"heavy_rail","6",2000
+253,254,"heavy_rail","6",2000
+255,256,"heavy_rail","7",1996
+256,257,"heavy_rail","7",1996
+257,258,"heavy_rail","7",1996
+258,259,"heavy_rail","7",1996
+259,260,"heavy_rail","7",1996
+260,261,"heavy_rail","7",1996
+261,262,"heavy_rail","7",1996
+262,263,"heavy_rail","7",1996
+263,264,"heavy_rail","7",1996
+264,265,"heavy_rail","7",1996
+265,266,"heavy_rail","7",1996
+266,267,"heavy_rail","7",1996
+267,268,"heavy_rail","7",1996
+268,269,"heavy_rail","7",1996
+269,270,"heavy_rail","7",1996
+270,271,"heavy_rail","7",1996
+271,272,"heavy_rail","7",1996
+272,273,"heavy_rail","7",1996
+273,274,"heavy_rail","7",1996
+274,275,"heavy_rail","7",2000
+275,276,"heavy_rail","7",2000
+276,277,"heavy_rail","7",2000
+277,278,"heavy_rail","7",2000
+278,279,"heavy_rail","7",2000
+279,280,"heavy_rail","7",2000
+280,281,"heavy_rail","7",2000
+281,282,"heavy_rail","7",2000
+282,283,"heavy_rail","7",2000
+283,284,"heavy_rail","7",2000
+284,285,"heavy_rail","7",2000
+285,286,"heavy_rail","7",2000
+286,287,"heavy_rail","7",2000
+287,288,"heavy_rail","7",2000
+288,289,"heavy_rail","7",2000
+289,290,"heavy_rail","7",2000
+290,291,"heavy_rail","7",2000
+291,292,"heavy_rail","7",2000
+292,293,"heavy_rail","7",2000
+293,294,"heavy_rail","7",2000
+294,295,"heavy_rail","7",2000
+295,296,"heavy_rail","7",2000
+296,297,"heavy_rail","7",2000
+297,298,"heavy_rail","7",2012
+298,299,"heavy_rail","7",2012
+299,300,"heavy_rail","7",2012
+300,301,"heavy_rail","7",2012
+301,302,"heavy_rail","7",2012
+302,303,"heavy_rail","7",2012
+303,304,"heavy_rail","7",2012
+304,305,"heavy_rail","7",2012
+305,450,"heavy_rail","7",2012
+450,704,"heavy_rail","7",2005
+704,705,"heavy_rail","7",2021
+306,307,"heavy_rail","8",1996
+307,308,"heavy_rail","8",1996
+308,309,"heavy_rail","8",1996
+309,310,"heavy_rail","8",1996
+310,311,"heavy_rail","8",1996
+311,312,"heavy_rail","8",1996
+312,313,"heavy_rail","8",1996
+313,314,"heavy_rail","8",1996
+314,315,"heavy_rail","8",1996
+315,316,"heavy_rail","8",1996
+316,317,"heavy_rail","8",1996
+317,318,"heavy_rail","8",1996
+318,319,"heavy_rail","8",1996
+319,320,"heavy_rail","8",1999
+320,321,"heavy_rail","8",1999
+321,322,"heavy_rail","8",1999
+323,324,"heavy_rail","9",2009
+324,325,"heavy_rail","9",2009
+325,326,"heavy_rail","9",2009
+326,327,"heavy_rail","9",2009
+327,328,"heavy_rail","9",2014
+328,329,"heavy_rail","9",2009
+329,330,"heavy_rail","9",2009
+330,331,"heavy_rail","9",2009
+331,332,"heavy_rail","9",2009
+332,333,"heavy_rail","9",2009
+333,334,"heavy_rail","9",2009
+334,335,"heavy_rail","9",2009
+335,336,"heavy_rail","9",2009
+336,337,"heavy_rail","9",2009
+337,338,"heavy_rail","9",2009
+338,339,"heavy_rail","9",2009
+339,340,"heavy_rail","9",2009
+340,341,"heavy_rail","9",2009
+341,342,"heavy_rail","9",2009
+342,343,"heavy_rail","9",2009
+343,344,"heavy_rail","9",2009
+344,345,"heavy_rail","9",2009
+345,346,"heavy_rail","9",2009
+346,347,"heavy_rail","9",2009
+347,348,"heavy_rail","9",2009
+348,349,"heavy_rail","9",2015
+349,350,"heavy_rail","9",2015
+350,351,"heavy_rail","9",2015
+351,352,"heavy_rail","9",2015
+352,353,"heavy_rail","9",2015
+353,354,"heavy_rail","9",2018
+354,355,"heavy_rail","9",2018
+355,356,"heavy_rail","9",2018
+356,357,"heavy_rail","9",2018
+357,358,"heavy_rail","9",2018
+358,359,"heavy_rail","9",2018
+359,360,"heavy_rail","9",2018
+361,362,"commuter_rail","AREX",2007
+362,363,"commuter_rail","AREX",2007
+363,364,"commuter_rail","AREX",2007
+364,365,"commuter_rail","AREX",2016
+365,366,"commuter_rail","AREX",2014
+366,367,"commuter_rail","AREX",2007
+367,368,"commuter_rail","AREX",2007
+368,369,"commuter_rail","AREX",2007
+369,370,"commuter_rail","AREX",2018
+370,371,"commuter_rail","AREX",2010
+371,372,"commuter_rail","AREX",2010
+372,373,"commuter_rail","AREX",2011
+373,374,"commuter_rail","AREX",2010
+584,585,"heavy_rail","Line 1",1999
+585,586,"heavy_rail","Line 1",1999
+586,587,"heavy_rail","Line 1",1999
+587,588,"heavy_rail","Line 1",1999
+588,589,"heavy_rail","Line 1",1999
+589,590,"heavy_rail","Line 1",1999
+590,591,"heavy_rail","Line 1",1999
+591,592,"heavy_rail","Line 1",1999
+592,593,"heavy_rail","Line 1",1999
+593,594,"heavy_rail","Line 1",1999
+594,595,"heavy_rail","Line 1",1999
+595,597,"heavy_rail","Line 1",1999
+597,598,"heavy_rail","Line 1",1999
+598,599,"heavy_rail","Line 1",1999
+599,600,"heavy_rail","Line 1",1999
+600,601,"heavy_rail","Line 1",1999
+601,602,"heavy_rail","Line 1",1999
+602,603,"heavy_rail","Line 1",1999
+603,604,"heavy_rail","Line 1",1999
+604,605,"heavy_rail","Line 1",1999
+605,606,"heavy_rail","Line 1",1999
+606,607,"heavy_rail","Line 1",1999
+607,608,"heavy_rail","Line 1",2007
+608,609,"heavy_rail","Line 1",2009
+609,610,"heavy_rail","Line 1",2009
+610,611,"heavy_rail","Line 1",2009
+611,612,"heavy_rail","Line 1",2009
+612,613,"heavy_rail","Line 1",2009
+613,614,"heavy_rail","Line 1",2009
+615,616,"light_rail","Line 2",2016
+616,617,"light_rail","Line 2",2016
+617,618,"light_rail","Line 2",2016
+618,619,"light_rail","Line 2",2016
+619,620,"light_rail","Line 2",2016
+620,621,"light_rail","Line 2",2016
+621,622,"light_rail","Line 2",2016
+622,623,"light_rail","Line 2",2016
+623,624,"light_rail","Line 2",2016
+624,625,"light_rail","Line 2",2016
+625,626,"light_rail","Line 2",2016
+626,627,"light_rail","Line 2",2016
+627,628,"light_rail","Line 2",2016
+628,629,"light_rail","Line 2",2016
+629,630,"light_rail","Line 2",2016
+630,631,"light_rail","Line 2",2016
+631,632,"light_rail","Line 2",2016
+632,633,"light_rail","Line 2",2016
+633,634,"light_rail","Line 2",2016
+634,635,"light_rail","Line 2",2016
+635,636,"light_rail","Line 2",2016
+636,637,"light_rail","Line 2",2016
+637,638,"light_rail","Line 2",2016
+638,639,"light_rail","Line 2",2016
+639,640,"light_rail","Line 2",2016
+640,641,"light_rail","Line 2",2016
+669,668,"commuter_rail","Gyeongui-Jungang Line",NA
+668,672,"commuter_rail","Gyeongui-Jungang Line",2006
+672,681,"commuter_rail","Gyeongui-Jungang Line",2011
+681,680,"commuter_rail","Gyeongui-Jungang Line",2009
+680,679,"commuter_rail","Gyeongui-Jungang Line",2009
+679,693,"commuter_rail","Gyeongui-Jungang Line",2009
+693,698,"commuter_rail","Gyeongui-Jungang Line",2017
+698,706,"commuter_rail","Gyeongui-Jungang Line",NA
+706,708,"commuter_rail","Gyeongui-Jungang Line",2009
+708,710,"commuter_rail","Gyeongui-Jungang Line",2009
+710,712,"commuter_rail","Gyeongui-Jungang Line",2009
+712,714,"commuter_rail","Gyeongui-Jungang Line",2014
+714,716,"commuter_rail","Gyeongui-Jungang Line",2009
+716,718,"commuter_rail","Gyeongui-Jungang Line",2009
+718,667,"commuter_rail","Gyeongui-Jungang Line",2009
+667,703,"commuter_rail","Gyeongui-Jungang Line",2006
+703,723,"commuter_rail","Gyeongui-Jungang Line",2006
+723,725,"commuter_rail","Gyeongui-Jungang Line",2009
+725,727,"commuter_rail","Gyeongui-Jungang Line",2009
+727,729,"commuter_rail","Gyeongui-Jungang Line",2009
+729,731,"commuter_rail","Gyeongui-Jungang Line",2009
+731,733,"commuter_rail","Gyeongui-Jungang Line",2009
+733,735,"commuter_rail","Gyeongui-Jungang Line",2009
+735,737,"commuter_rail","Gyeongui-Jungang Line",2009
+737,739,"commuter_rail","Gyeongui-Jungang Line",2009
+739,741,"commuter_rail","Gyeongui-Jungang Line",2009
+741,743,"commuter_rail","Gyeongui-Jungang Line",2009
+743,745,"commuter_rail","Gyeongui-Jungang Line",2009
+745,747,"commuter_rail","Gyeongui-Jungang Line",2009
+747,749,"commuter_rail","Gyeongui-Jungang Line",2012
+749,751,"commuter_rail","Gyeongui-Jungang Line",2013
+751,753,"commuter_rail","Gyeongui-Jungang Line",2012
+753,755,"commuter_rail","Gyeongui-Jungang Line",2012
+755,758,"commuter_rail","Gyeongui-Jungang Line",2016
+758,760,"commuter_rail","Gyeongui-Jungang Line",2009
+760,662,"commuter_rail","Gyeongui-Jungang Line",2009
+662,663,"commuter_rail","Gyeongui-Jungang Line",NA
+663,664,"commuter_rail","Gyeongui-Jungang Line",NA
+664,665,"commuter_rail","Gyeongui-Jungang Line",NA
+665,666,"commuter_rail","Gyeongui-Jungang Line",NA
+666,836,"commuter_rail","Gyeongui-Jungang Line",NA
+NA,481,"commuter_rail","Gyeongui-Jungang Line",NA
+NA,485,"commuter_rail","Gyeongui-Jungang Line",NA
+485,692,"commuter_rail","Gyeongui-Jungang Line",1979
+692,691,"commuter_rail","Gyeongui-Jungang Line",2010
+691,690,"commuter_rail","Gyeongui-Jungang Line",2010
+690,689,"commuter_rail","Gyeongui-Jungang Line",2010
+689,688,"commuter_rail","Gyeongui-Jungang Line",2011
+688,687,"commuter_rail","Gyeongui-Jungang Line",2010
+687,678,"commuter_rail","Gyeongui-Jungang Line",2009
+678,677,"commuter_rail","Gyeongui-Jungang Line",2008
+677,676,"commuter_rail","Gyeongui-Jungang Line",2008
+676,675,"commuter_rail","Gyeongui-Jungang Line",2006
+675,674,"commuter_rail","Gyeongui-Jungang Line",2006
+674,673,"commuter_rail","Gyeongui-Jungang Line",2006
+673,695,"commuter_rail","Gyeongui-Jungang Line",2006
+642,643,"commuter_rail","Gyeongchun Line",2011
+643,644,"commuter_rail","Gyeongchun Line",2014
+644,645,"commuter_rail","Gyeongchun Line",2011
+645,646,"commuter_rail","Gyeongchun Line",2013
+646,647,"commuter_rail","Gyeongchun Line",2011
+647,648,"commuter_rail","Gyeongchun Line",2011
+648,649,"commuter_rail","Gyeongchun Line",2011
+649,650,"commuter_rail","Gyeongchun Line",2011
+650,651,"commuter_rail","Gyeongchun Line",2014
+651,652,"commuter_rail","Gyeongchun Line",2011
+652,653,"commuter_rail","Gyeongchun Line",2011
+653,654,"commuter_rail","Gyeongchun Line",2011
+654,655,"commuter_rail","Gyeongchun Line",2011
+655,656,"commuter_rail","Gyeongchun Line",2011
+656,657,"commuter_rail","Gyeongchun Line",2011
+657,658,"commuter_rail","Gyeongchun Line",2011
+658,659,"commuter_rail","Gyeongchun Line",2011
+659,660,"commuter_rail","Gyeongchun Line",2011
+660,661,"commuter_rail","Gyeongchun Line",2011
+661,669,"commuter_rail","Gyeongchun Line",2011
+669,696,"commuter_rail","Gyeongchun Line",NA
+696,697,"commuter_rail","Gyeongchun Line",2016
+697,698,"commuter_rail","Gyeongchun Line",2016
+698,701,"commuter_rail","Gyeongchun Line",NA
+701,836,"commuter_rail","Gyeongchun Line",2011
+836,668,"commuter_rail","Gyeongchun Line",NA
+668,667,"commuter_rail","Gyeongchun Line",2006
+796,797,"commuter_rail","Bundang Line",1994
+797,798,"commuter_rail","Bundang Line",1996
+798,799,"commuter_rail","Bundang Line",1994
+799,800,"commuter_rail","Bundang Line",1994
+800,801,"commuter_rail","Bundang Line",1994
+801,802,"commuter_rail","Bundang Line",1994
+802,803,"commuter_rail","Bundang Line",2004
+803,804,"commuter_rail","Bundang Line",1994
+804,805,"commuter_rail","Bundang Line",1994
+805,806,"commuter_rail","Bundang Line",1994
+806,808,"commuter_rail","Bundang Line",2002
+808,810,"commuter_rail","Bundang Line",1994
+810,811,"commuter_rail","Bundang Line",1994
+811,812,"commuter_rail","Bundang Line",2003
+812,813,"commuter_rail","Bundang Line",2003
+813,814,"commuter_rail","Bundang Line",2004
+814,815,"commuter_rail","Bundang Line",2003
+815,816,"commuter_rail","Bundang Line",2003
+816,817,"commuter_rail","Bundang Line",2003
+817,818,"commuter_rail","Bundang Line",2012
+818,819,"commuter_rail","Bundang Line",2012
+819,820,"commuter_rail","Bundang Line",2012
+820,821,"commuter_rail","Bundang Line",2012
+821,822,"commuter_rail","Bundang Line",2012
+822,823,"commuter_rail","Bundang Line",2004
+823,824,"commuter_rail","Bundang Line",2007
+824,825,"commuter_rail","Bundang Line",2011
+825,826,"commuter_rail","Bundang Line",2011
+826,827,"commuter_rail","Bundang Line",2011
+827,828,"commuter_rail","Bundang Line",2011
+828,829,"commuter_rail","Bundang Line",2012
+829,830,"commuter_rail","Bundang Line",2012
+830,831,"commuter_rail","Bundang Line",2012
+831,832,"commuter_rail","Bundang Line",2012
+832,833,"commuter_rail","Bundang Line",2013
+833,834,"commuter_rail","Bundang Line",2013
+834,835,"commuter_rail","Bundang Line",2013
+835,836,"commuter_rail","Bundang Line",2013
+767,768,"commuter_rail","Suin Line",2015
+768,769,"commuter_rail","Suin Line",2012
+769,770,"commuter_rail","Suin Line",2012
+770,771,"commuter_rail","Suin Line",2012
+771,772,"commuter_rail","Suin Line",2012
+772,773,"commuter_rail","Suin Line",2012
+773,774,"commuter_rail","Suin Line",2012
+774,775,"commuter_rail","Suin Line",2012
+775,776,"commuter_rail","Suin Line",2012
+776,777,"commuter_rail","Suin Line",2021
+777,778,"commuter_rail","Suin Line",2016
+778,779,"commuter_rail","Suin Line",2016
+779,780,"commuter_rail","Suin Line",2016
+NA,224,"commuter_rail","Suin Line",NA
+224,147,"commuter_rail","Suin Line",2012
+147,222,"commuter_rail","Suin Line",2000
+222,223,"commuter_rail","Suin Line",1988
+223,225,"commuter_rail","Suin Line",1992
+225,148,"commuter_rail","Suin Line",1988
+148,149,"commuter_rail","Suin Line",2000
+389,391,"commuter_rail","Gyeongbu Line",1974
+391,393,"commuter_rail","Gyeongbu Line",1974
+393,395,"commuter_rail","Gyeongbu Line",1974
+395,397,"commuter_rail","Gyeongbu Line",1974
+397,399,"commuter_rail","Gyeongbu Line",1997
+399,401,"commuter_rail","Gyeongbu Line",1974
+401,403,"commuter_rail","Gyeongbu Line",1984
+403,446,"commuter_rail","Gyeongbu Line",1974
+446,448,"commuter_rail","Gyeongbu Line",1974
+448,451,"commuter_rail","Gyeongbu Line",2005
+451,453,"commuter_rail","Gyeongbu Line",1998
+453,455,"commuter_rail","Gyeongbu Line",1974
+455,457,"commuter_rail","Gyeongbu Line",1982
+457,459,"commuter_rail","Gyeongbu Line",1974
+459,461,"commuter_rail","Gyeongbu Line",1974
+461,463,"commuter_rail","Gyeongbu Line",1974
+463,465,"commuter_rail","Gyeongbu Line",1974
+465,467,"commuter_rail","Gyeongbu Line",2010
+467,469,"commuter_rail","Gyeongbu Line",1974
+469,471,"commuter_rail","Gyeongbu Line",2004
+471,473,"commuter_rail","Gyeongbu Line",1979
+473,475,"commuter_rail","Gyeongbu Line",1984
+475,477,"commuter_rail","Gyeongbu Line",1994
+477,479,"commuter_rail","Gyeongbu Line",1974
+479,511,"commuter_rail","Gyeongbu Line",1974
+511,513,"commuter_rail","Gyeongbu Line",2003
+513,515,"commuter_rail","Gyeongbu Line",2003
+515,518,"commuter_rail","Gyeongbu Line",2005
+518,520,"commuter_rail","Gyeongbu Line",2005
+520,522,"commuter_rail","Gyeongbu Line",2006
+522,524,"commuter_rail","Gyeongbu Line",2005
+524,526,"commuter_rail","Gyeongbu Line",2005
+526,528,"commuter_rail","Gyeongbu Line",2006
+528,517,"commuter_rail","Gyeongbu Line",2005
+517,532,"commuter_rail","Gyeongbu Line",2005
+532,534,"commuter_rail","Gyeongbu Line",2005
+534,536,"commuter_rail","Gyeongbu Line",2005
+536,531,"commuter_rail","Gyeongbu Line",2005
+531,559,"commuter_rail","Gyeongbu Line",2005
+807,809,"commuter_rail","Shinbundang Line",2011
+855,856,"light_rail","Ui LRT",2017
+856,857,"light_rail","Ui LRT",2017
+857,858,"light_rail","Ui LRT",2017
+858,859,"light_rail","Ui LRT",2017
+859,860,"light_rail","Ui LRT",2017
+860,861,"light_rail","Ui LRT",2017
+861,862,"light_rail","Ui LRT",2017
+862,863,"light_rail","Ui LRT",2017
+863,864,"light_rail","Ui LRT",2017
+864,865,"light_rail","Ui LRT",2017
+865,866,"light_rail","Ui LRT",2017
+866,867,"light_rail","Ui LRT",2017
+840,841,"people_mover","EverLine",2013
+841,842,"people_mover","EverLine",2013
+842,843,"people_mover","EverLine",2013
+843,844,"people_mover","EverLine",2013
+844,845,"people_mover","EverLine",2013
+845,846,"people_mover","EverLine",2013
+846,847,"people_mover","EverLine",2013
+847,848,"people_mover","EverLine",2013
+848,849,"people_mover","EverLine",2013
+849,850,"people_mover","EverLine",2013
+850,851,"people_mover","EverLine",2013
+851,852,"people_mover","EverLine",2013
+852,853,"people_mover","EverLine",2013
+853,854,"people_mover","EverLine",2013
+781,782,"light_rail","U Line",2012
+782,783,"light_rail","U Line",2012
+783,784,"light_rail","U Line",2012
+784,785,"light_rail","U Line",2012
+785,786,"light_rail","U Line",2012
+786,787,"light_rail","U Line",2012
+787,788,"light_rail","U Line",2012
+788,789,"light_rail","U Line",2012
+789,790,"light_rail","U Line",2012
+790,791,"light_rail","U Line",2012
+791,792,"light_rail","U Line",2012
+792,793,"light_rail","U Line",2012
+793,794,"light_rail","U Line",2012
+794,795,"light_rail","U Line",2012
+868,869,"light_rail","Gimpo Goldline",2019
+869,870,"light_rail","Gimpo Goldline",2019
+870,871,"light_rail","Gimpo Goldline",2019
+871,872,"light_rail","Gimpo Goldline",2019
+872,873,"light_rail","Gimpo Goldline",2019
+873,874,"light_rail","Gimpo Goldline",2019
+874,875,"light_rail","Gimpo Goldline",2019
+875,876,"light_rail","Gimpo Goldline",2019
+94,95,"commuter_rail","Ilsan Line",1996
+95,96,"commuter_rail","Ilsan Line",2014
+96,97,"commuter_rail","Ilsan Line",1996
+97,98,"commuter_rail","Ilsan Line",1996
+98,99,"commuter_rail","Ilsan Line",1996
+99,100,"commuter_rail","Ilsan Line",1996
+100,101,"commuter_rail","Ilsan Line",1996
+101,102,"commuter_rail","Ilsan Line",1996
+102,103,"commuter_rail","Ilsan Line",1996
+146,145,"commuter_rail","Ansan Line",1994
+145,156,"commuter_rail","Ansan Line",2003
+156,149,"commuter_rail","Ansan Line",1992
+149,148,"commuter_rail","Ansan Line",2000
+148,147,"commuter_rail","Ansan Line",2000
+NA,205,"commuter_rail","Ansan Line",NA
+205,204,"commuter_rail","Ansan Line",1988
+NA,222,"commuter_rail","Ansan Line",NA
+222,225,"commuter_rail","Ansan Line",1988
+225,223,"commuter_rail","Ansan Line",1988
+223,224,"commuter_rail","Ansan Line",1992
+144,143,"commuter_rail","Gwacheon Line",1994
+143,142,"commuter_rail","Gwacheon Line",1994
+142,140,"commuter_rail","Gwacheon Line",1994
+140,139,"commuter_rail","Gwacheon Line",1994
+NA,141,"commuter_rail","Gwacheon Line",NA
+375,377,"commuter_rail","Gyeongwon Line",1980
+377,379,"commuter_rail","Gyeongwon Line",1974
+379,381,"commuter_rail","Gyeongwon Line",1996
+381,383,"commuter_rail","Gyeongwon Line",1980
+383,385,"commuter_rail","Gyeongwon Line",1985
+385,387,"commuter_rail","Gyeongwon Line",1974
+387,481,"commuter_rail","Gyeongwon Line",2013
+481,483,"commuter_rail","Gyeongwon Line",1979
+483,485,"commuter_rail","Gyeongwon Line",1979
+485,486,"commuter_rail","Gyeongwon Line",1979
+486,488,"commuter_rail","Gyeongwon Line",1985
+488,490,"commuter_rail","Gyeongwon Line",1985
+490,492,"commuter_rail","Gyeongwon Line",1985
+492,494,"commuter_rail","Gyeongwon Line",1986
+494,496,"commuter_rail","Gyeongwon Line",1986
+496,498,"commuter_rail","Gyeongwon Line",1986
+498,500,"commuter_rail","Gyeongwon Line",1988
+500,502,"commuter_rail","Gyeongwon Line",1986
+502,504,"commuter_rail","Gyeongwon Line",1986
+504,506,"commuter_rail","Gyeongwon Line",1986
+506,508,"commuter_rail","Gyeongwon Line",1987
+508,538,"commuter_rail","Gyeongwon Line",2006
+538,540,"commuter_rail","Gyeongwon Line",2006
+540,542,"commuter_rail","Gyeongwon Line",2006
+542,544,"commuter_rail","Gyeongwon Line",2007
+544,546,"commuter_rail","Gyeongwon Line",2007
+546,548,"commuter_rail","Gyeongwon Line",2006
+548,550,"commuter_rail","Gyeongwon Line",2006
+550,552,"commuter_rail","Gyeongwon Line",2006
+552,554,"commuter_rail","Gyeongwon Line",2006
+554,556,"commuter_rail","Gyeongwon Line",2006
+556,575,"commuter_rail","Gyeongwon Line",2006
+575,577,"commuter_rail","Gyeongwon Line",2023
+577,579,"commuter_rail","Gyeongwon Line",NA
+579,582,"commuter_rail","Gyeongwon Line",2023
+405,407,"commuter_rail","Gyeongin Line",1995
+407,403,"commuter_rail","Gyeongin Line",1974
+403,410,"commuter_rail","Gyeongin Line",1974
+410,412,"commuter_rail","Gyeongin Line",1974
+412,414,"commuter_rail","Gyeongin Line",1988
+414,416,"commuter_rail","Gyeongin Line",1974
+416,418,"commuter_rail","Gyeongin Line",1997
+418,420,"commuter_rail","Gyeongin Line",1974
+420,422,"commuter_rail","Gyeongin Line",1987
+422,424,"commuter_rail","Gyeongin Line",1974
+424,426,"commuter_rail","Gyeongin Line",1996
+426,428,"commuter_rail","Gyeongin Line",1974
+428,430,"commuter_rail","Gyeongin Line",1984
+430,432,"commuter_rail","Gyeongin Line",1974
+432,434,"commuter_rail","Gyeongin Line",1994
+434,436,"commuter_rail","Gyeongin Line",1974
+436,438,"commuter_rail","Gyeongin Line",2001
+438,440,"commuter_rail","Gyeongin Line",1974
+440,442,"commuter_rail","Gyeongin Line",1994
+442,444,"commuter_rail","Gyeongin Line",1974
+561,563,"commuter_rail","Janghang Line",2008
+563,565,"commuter_rail","Janghang Line",2008
+565,567,"commuter_rail","Janghang Line",2008
+567,569,"commuter_rail","Janghang Line",2022
+569,571,"commuter_rail","Janghang Line",2008
+571,573,"commuter_rail","Janghang Line",2008
+706,708,"commuter_rail","Gyeongui Line",2009
+708,710,"commuter_rail","Gyeongui Line",2009
+710,712,"commuter_rail","Gyeongui Line",2009
+712,714,"commuter_rail","Gyeongui Line",2014
+714,716,"commuter_rail","Gyeongui Line",2009
+716,718,"commuter_rail","Gyeongui Line",2009
+718,723,"commuter_rail","Gyeongui Line",2009
+723,725,"commuter_rail","Gyeongui Line",2009
+725,727,"commuter_rail","Gyeongui Line",2009
+727,729,"commuter_rail","Gyeongui Line",2009
+729,731,"commuter_rail","Gyeongui Line",2009
+731,733,"commuter_rail","Gyeongui Line",2009
+733,735,"commuter_rail","Gyeongui Line",2009
+735,737,"commuter_rail","Gyeongui Line",2009
+737,739,"commuter_rail","Gyeongui Line",2009
+739,741,"commuter_rail","Gyeongui Line",2009
+741,743,"commuter_rail","Gyeongui Line",2009
+743,745,"commuter_rail","Gyeongui Line",2009
+745,747,"commuter_rail","Gyeongui Line",2009
+747,749,"commuter_rail","Gyeongui Line",2012
+749,751,"commuter_rail","Gyeongui Line",2013
+751,753,"commuter_rail","Gyeongui Line",2012
+753,755,"commuter_rail","Gyeongui Line",2012
+755,757,"commuter_rail","Gyeongui Line",2016
+757,758,"commuter_rail","Gyeongui Line",NA
+758,760,"commuter_rail","Gyeongui Line",2009
+662,663,"commuter_rail","Jungang Line",NA
+663,664,"commuter_rail","Jungang Line",NA
+664,665,"commuter_rail","Jungang Line",NA
+665,666,"commuter_rail","Jungang Line",NA
+666,667,"commuter_rail","Jungang Line",NA
+667,668,"commuter_rail","Jungang Line",2006
+668,669,"commuter_rail","Jungang Line",2006
+669,672,"commuter_rail","Jungang Line",NA
+672,673,"commuter_rail","Jungang Line",2011
+673,674,"commuter_rail","Jungang Line",2006
+674,675,"commuter_rail","Jungang Line",2006
+675,676,"commuter_rail","Jungang Line",2006
+676,677,"commuter_rail","Jungang Line",2006
+677,678,"commuter_rail","Jungang Line",2008
+678,679,"commuter_rail","Jungang Line",2008
+679,680,"commuter_rail","Jungang Line",2009
+680,681,"commuter_rail","Jungang Line",2009
+681,687,"commuter_rail","Jungang Line",2009
+687,688,"commuter_rail","Jungang Line",2009
+688,689,"commuter_rail","Jungang Line",2010
+689,690,"commuter_rail","Jungang Line",2011
+690,691,"commuter_rail","Jungang Line",2010
+691,692,"commuter_rail","Jungang Line",2010
+692,693,"commuter_rail","Jungang Line",2010
+693,695,"commuter_rail","Jungang Line",2017
+695,698,"commuter_rail","Jungang Line",2006
+698,703,"commuter_rail","Jungang Line",NA
+703,836,"commuter_rail","Jungang Line",2006
+NA,481,"commuter_rail","Jungang Line",NA
+NA,485,"commuter_rail","Jungang Line",NA
+696,701,"commuter_rail","Mangu Line",2016

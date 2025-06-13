@@ -1,0 +1,764 @@
+"nodeID_from","nodeID_to","mode","line","year"
+9,10,"heavy_rail","Higashiyama Line",1982
+10,11,"heavy_rail","Higashiyama Line",1982
+11,12,"heavy_rail","Higashiyama Line",1982
+12,13,"heavy_rail","Higashiyama Line",1969
+13,14,"heavy_rail","Higashiyama Line",1969
+14,15,"heavy_rail","Higashiyama Line",1969
+15,16,"heavy_rail","Higashiyama Line",1969
+16,17,"heavy_rail","Higashiyama Line",1957
+17,18,"heavy_rail","Higashiyama Line",1957
+18,19,"heavy_rail","Higashiyama Line",1957
+19,20,"heavy_rail","Higashiyama Line",1960
+20,21,"heavy_rail","Higashiyama Line",1960
+21,22,"heavy_rail","Higashiyama Line",1960
+22,23,"heavy_rail","Higashiyama Line",1960
+23,24,"heavy_rail","Higashiyama Line",1963
+24,25,"heavy_rail","Higashiyama Line",1963
+25,26,"heavy_rail","Higashiyama Line",1963
+26,27,"heavy_rail","Higashiyama Line",1967
+27,28,"heavy_rail","Higashiyama Line",1969
+28,29,"heavy_rail","Higashiyama Line",1970
+29,30,"heavy_rail","Higashiyama Line",1969
+31,32,"heavy_rail","Meijō Line",1965
+32,33,"heavy_rail","Meijō Line",1989
+33,34,"heavy_rail","Meijō Line",1965
+34,35,"heavy_rail","Meijō Line",1971
+35,36,"heavy_rail","Meijō Line",1971
+36,37,"heavy_rail","Meijō Line",1971
+37,38,"heavy_rail","Meijō Line",1971
+38,39,"heavy_rail","Meijō Line",1971
+39,40,"heavy_rail","Meijō Line",2000
+40,41,"heavy_rail","Meijō Line",2003
+41,42,"heavy_rail","Meijō Line",2003
+42,43,"heavy_rail","Meijō Line",2003
+43,44,"heavy_rail","Meijō Line",2003
+44,45,"heavy_rail","Meijō Line",2004
+45,46,"heavy_rail","Meijō Line",2004
+46,47,"heavy_rail","Meijō Line",2004
+47,48,"heavy_rail","Meijō Line",2004
+48,49,"heavy_rail","Meijō Line",1974
+49,50,"heavy_rail","Meijō Line",1974
+50,51,"heavy_rail","Meijō Line",1974
+51,52,"heavy_rail","Meijō Line",1974
+52,53,"heavy_rail","Meijō Line",1974
+53,54,"heavy_rail","Meijō Line",1974
+54,55,"heavy_rail","Meijō Line",1967
+55,56,"heavy_rail","Meijō Line",1967
+56,57,"heavy_rail","Meijō Line",1967
+57,102,"heavy_rail","Meijō Line",1967
+102,104,"heavy_rail","Meijō Line",1971
+104,106,"heavy_rail","Meijō Line",1971
+106,108,"heavy_rail","Meijō Line",1971
+108,110,"heavy_rail","Meijō Line",1971
+110,101,"heavy_rail","Meijō Line",1971
+101,113,"heavy_rail","Meijō Line",1971
+58,101,"heavy_rail","Meikō Line",2004
+101,102,"heavy_rail","Meikō Line",1971
+102,104,"heavy_rail","Meikō Line",1971
+104,106,"heavy_rail","Meikō Line",1971
+106,108,"heavy_rail","Meikō Line",1971
+108,110,"heavy_rail","Meikō Line",1971
+59,60,"heavy_rail","Kamiiida Line",2003
+61,62,"heavy_rail","Tsurumai Line",1993
+62,63,"heavy_rail","Tsurumai Line",1984
+63,64,"heavy_rail","Tsurumai Line",1984
+64,65,"heavy_rail","Tsurumai Line",1981
+65,66,"heavy_rail","Tsurumai Line",1981
+66,67,"heavy_rail","Tsurumai Line",1981
+67,68,"heavy_rail","Tsurumai Line",1977
+68,69,"heavy_rail","Tsurumai Line",1977
+69,70,"heavy_rail","Tsurumai Line",1977
+70,71,"heavy_rail","Tsurumai Line",1977
+71,72,"heavy_rail","Tsurumai Line",1977
+72,73,"heavy_rail","Tsurumai Line",1977
+73,74,"heavy_rail","Tsurumai Line",1977
+74,75,"heavy_rail","Tsurumai Line",1978
+75,76,"heavy_rail","Tsurumai Line",1978
+76,77,"heavy_rail","Tsurumai Line",1978
+77,78,"heavy_rail","Tsurumai Line",1978
+78,79,"heavy_rail","Tsurumai Line",1977
+79,114,"heavy_rail","Tsurumai Line",1978
+80,81,"heavy_rail","Sakura-dōri Line",1989
+81,82,"heavy_rail","Sakura-dōri Line",1989
+82,83,"heavy_rail","Sakura-dōri Line",1989
+83,84,"heavy_rail","Sakura-dōri Line",1989
+84,85,"heavy_rail","Sakura-dōri Line",1989
+85,86,"heavy_rail","Sakura-dōri Line",1989
+86,87,"heavy_rail","Sakura-dōri Line",1989
+87,88,"heavy_rail","Sakura-dōri Line",1989
+88,89,"heavy_rail","Sakura-dōri Line",1994
+89,90,"heavy_rail","Sakura-dōri Line",1994
+90,91,"heavy_rail","Sakura-dōri Line",1994
+91,92,"heavy_rail","Sakura-dōri Line",1994
+92,93,"heavy_rail","Sakura-dōri Line",1994
+93,94,"heavy_rail","Sakura-dōri Line",1994
+94,95,"heavy_rail","Sakura-dōri Line",1994
+95,96,"heavy_rail","Sakura-dōri Line",1994
+96,97,"heavy_rail","Sakura-dōri Line",1994
+97,98,"heavy_rail","Sakura-dōri Line",2011
+98,99,"heavy_rail","Sakura-dōri Line",2011
+99,100,"heavy_rail","Sakura-dōri Line",2011
+115,116,"brt","Yutorito Line",2001
+116,117,"brt","Yutorito Line",2001
+117,118,"brt","Yutorito Line",2001
+118,119,"brt","Yutorito Line",2001
+119,120,"brt","Yutorito Line",2001
+120,121,"brt","Yutorito Line",2001
+121,122,"brt","Yutorito Line",2001
+122,123,"brt","Yutorito Line",2001
+555,557,"commuter_rail","Nagoya Main Line",1943
+557,562,"commuter_rail","Nagoya Main Line",1953
+562,565,"commuter_rail","Nagoya Main Line",1923
+565,561,"commuter_rail","Nagoya Main Line",1943
+561,560,"commuter_rail","Nagoya Main Line",1917
+560,568,"commuter_rail","Nagoya Main Line",1917
+568,569,"commuter_rail","Nagoya Main Line",1930
+569,558,"commuter_rail","Nagoya Main Line",1930
+558,571,"commuter_rail","Nagoya Main Line",1917
+571,572,"commuter_rail","Nagoya Main Line",1956
+572,573,"commuter_rail","Nagoya Main Line",1952
+573,574,"commuter_rail","Nagoya Main Line",1959
+574,576,"commuter_rail","Nagoya Main Line",1970
+576,577,"commuter_rail","Nagoya Main Line",1976
+577,584,"commuter_rail","Nagoya Main Line",1959
+584,587,"commuter_rail","Nagoya Main Line",1923
+587,588,"commuter_rail","Nagoya Main Line",1936
+588,582,"commuter_rail","Nagoya Main Line",1941
+582,580,"commuter_rail","Nagoya Main Line",1923
+580,578,"commuter_rail","Nagoya Main Line",1923
+578,603,"commuter_rail","Nagoya Main Line",1923
+603,610,"commuter_rail","Nagoya Main Line",1949
+610,625,"commuter_rail","Nagoya Main Line",1927
+625,606,"commuter_rail","Nagoya Main Line",1943
+606,605,"commuter_rail","Nagoya Main Line",1927
+605,604,"commuter_rail","Nagoya Main Line",1934
+604,602,"commuter_rail","Nagoya Main Line",1926
+602,630,"commuter_rail","Nagoya Main Line",1926
+630,631,"commuter_rail","Nagoya Main Line",1938
+631,599,"commuter_rail","Nagoya Main Line",1938
+599,633,"commuter_rail","Nagoya Main Line",1926
+633,597,"commuter_rail","Nagoya Main Line",1938
+597,596,"commuter_rail","Nagoya Main Line",1926
+596,595,"commuter_rail","Nagoya Main Line",1926
+595,637,"commuter_rail","Nagoya Main Line",1926
+637,687,"commuter_rail","Nagoya Main Line",1924
+687,653,"commuter_rail","Nagoya Main Line",1912
+653,651,"commuter_rail","Nagoya Main Line",1923
+651,649,"commuter_rail","Nagoya Main Line",1923
+649,647,"commuter_rail","Nagoya Main Line",1923
+647,688,"commuter_rail","Nagoya Main Line",1923
+688,640,"commuter_rail","Nagoya Main Line",1917
+640,624,"commuter_rail","Nagoya Main Line",1917
+7,687,"commuter_rail","Inuyama Line",1926
+687,707,"commuter_rail","Inuyama Line",1912
+707,712,"commuter_rail","Inuyama Line",1912
+712,717,"commuter_rail","Inuyama Line",1912
+717,722,"commuter_rail","Inuyama Line",1912
+722,723,"commuter_rail","Inuyama Line",1991
+723,728,"commuter_rail","Inuyama Line",1913
+728,733,"commuter_rail","Inuyama Line",1912
+733,738,"commuter_rail","Inuyama Line",1912
+738,743,"commuter_rail","Inuyama Line",1915
+743,752,"commuter_rail","Inuyama Line",1912
+1,4,"commuter_rail","Kakamigahara Line",1927
+4,6,"commuter_rail","Kakamigahara Line",1931
+270,272,"commuter_rail","Komaki Line",1989
+272,274,"commuter_rail","Komaki Line",1931
+274,276,"commuter_rail","Komaki Line",1931
+276,278,"commuter_rail","Komaki Line",1931
+278,281,"commuter_rail","Komaki Line",1931
+281,285,"commuter_rail","Komaki Line",1931
+285,287,"commuter_rail","Komaki Line",1931
+287,289,"commuter_rail","Komaki Line",1931
+289,291,"commuter_rail","Komaki Line",1931
+291,293,"commuter_rail","Komaki Line",1931
+293,295,"commuter_rail","Komaki Line",1931
+295,297,"commuter_rail","Komaki Line",1931
+297,299,"commuter_rail","Komaki Line",1931
+299,60,"commuter_rail","Komaki Line",1931
+60,304,"commuter_rail","Komaki Line",2003
+438,441,"commuter_rail","Tokoname Line",1913
+441,443,"commuter_rail","Tokoname Line",1912
+443,444,"commuter_rail","Tokoname Line",1957
+444,446,"commuter_rail","Tokoname Line",1912
+446,450,"commuter_rail","Tokoname Line",1924
+450,452,"commuter_rail","Tokoname Line",1940
+452,454,"commuter_rail","Tokoname Line",1917
+454,456,"commuter_rail","Tokoname Line",1912
+456,457,"commuter_rail","Tokoname Line",1947
+457,459,"commuter_rail","Tokoname Line",1917
+459,462,"commuter_rail","Tokoname Line",1912
+462,464,"commuter_rail","Tokoname Line",1922
+464,466,"commuter_rail","Tokoname Line",1912
+466,468,"commuter_rail","Tokoname Line",1912
+468,470,"commuter_rail","Tokoname Line",1923
+470,472,"commuter_rail","Tokoname Line",1912
+472,474,"commuter_rail","Tokoname Line",1930
+474,476,"commuter_rail","Tokoname Line",1912
+476,478,"commuter_rail","Tokoname Line",1912
+478,480,"commuter_rail","Tokoname Line",1912
+480,481,"commuter_rail","Tokoname Line",2004
+481,483,"commuter_rail","Tokoname Line",1913
+483,485,"commuter_rail","Tokoname Line",1913
+485,486,"commuter_rail","Tokoname Line",1944
+486,488,"commuter_rail","Tokoname Line",1913
+488,490,"commuter_rail","Tokoname Line",1913
+490,491,"commuter_rail","Tokoname Line",2005
+491,490,"commuter_rail","Airport Line",2005
+550,552,"commuter_rail","Chikkō Line",1924
+493,495,"commuter_rail","Kōwa Line",1931
+495,497,"commuter_rail","Kōwa Line",1931
+497,499,"commuter_rail","Kōwa Line",1931
+499,501,"commuter_rail","Kōwa Line",1931
+501,503,"commuter_rail","Kōwa Line",1931
+503,504,"commuter_rail","Kōwa Line",1955
+504,506,"commuter_rail","Kōwa Line",1931
+506,508,"commuter_rail","Kōwa Line",1931
+508,509,"commuter_rail","Kōwa Line",1983
+509,511,"commuter_rail","Kōwa Line",1931
+511,513,"commuter_rail","Kōwa Line",1931
+513,515,"commuter_rail","Kōwa Line",1931
+515,517,"commuter_rail","Kōwa Line",1933
+517,518,"commuter_rail","Kōwa Line",1949
+518,520,"commuter_rail","Kōwa Line",1931
+520,522,"commuter_rail","Kōwa Line",1931
+522,524,"commuter_rail","Kōwa Line",1933
+524,526,"commuter_rail","Kōwa Line",1932
+526,528,"commuter_rail","Kōwa Line",1932
+528,530,"commuter_rail","Kōwa Line",1932
+530,532,"commuter_rail","Kōwa Line",1933
+532,534,"commuter_rail","Kōwa Line",1932
+534,536,"commuter_rail","Kōwa Line",1932
+536,537,"commuter_rail","Kōwa Line",1972
+537,539,"commuter_rail","Kōwa Line",1932
+539,541,"commuter_rail","Kōwa Line",1935
+543,544,"commuter_rail","Chita New Line",1974
+544,545,"commuter_rail","Chita New Line",1974
+545,546,"commuter_rail","Chita New Line",1987
+546,547,"commuter_rail","Chita New Line",1975
+547,548,"commuter_rail","Chita New Line",1976
+548,549,"commuter_rail","Chita New Line",NA
+657,658,"commuter_rail","Toyokawa Line",1945
+658,659,"commuter_rail","Toyokawa Line",1948
+659,660,"commuter_rail","Toyokawa Line",1949
+660,661,"commuter_rail","Toyokawa Line",1972
+661,662,"commuter_rail","Toyokawa Line",1945
+662,663,"commuter_rail","Toyokawa Line",1946
+663,664,"commuter_rail","Toyokawa Line",1948
+664,665,"commuter_rail","Toyokawa Line",1954
+665,666,"commuter_rail","Toyokawa Line",1955
+666,667,"commuter_rail","Toyokawa Line",1945
+667,668,"commuter_rail","Toyokawa Line",1955
+668,669,"commuter_rail","Toyokawa Line",1954
+669,670,"commuter_rail","Toyokawa Line",1954
+670,671,"commuter_rail","Toyokawa Line",1955
+318,320,"commuter_rail","Nishio Line",1929
+320,323,"commuter_rail","Nishio Line",1929
+323,326,"commuter_rail","Nishio Line",1911
+326,332,"commuter_rail","Nishio Line",1914
+332,348,"commuter_rail","Nishio Line",1929
+348,350,"commuter_rail","Nishio Line",1926
+350,351,"commuter_rail","Nishio Line",1970
+351,353,"commuter_rail","Nishio Line",1926
+353,356,"commuter_rail","Nishio Line",1926
+356,358,"commuter_rail","Nishio Line",1926
+358,360,"commuter_rail","Nishio Line",1926
+360,361,"commuter_rail","Nishio Line",2008
+361,363,"commuter_rail","Nishio Line",1926
+363,364,"commuter_rail","Nishio Line",2008
+364,365,"commuter_rail","Nishio Line",2008
+365,367,"commuter_rail","Nishio Line",1926
+367,369,"commuter_rail","Nishio Line",1928
+369,370,"commuter_rail","Nishio Line",1949
+370,374,"commuter_rail","Nishio Line",1928
+374,375,"commuter_rail","Nishio Line",1949
+375,377,"commuter_rail","Nishio Line",1928
+377,380,"commuter_rail","Nishio Line",1915
+380,383,"commuter_rail","Nishio Line",1915
+383,386,"commuter_rail","Nishio Line",1915
+386,389,"commuter_rail","Nishio Line",1915
+389,373,"commuter_rail","Nishio Line",1943
+373,396,"commuter_rail","Nishio Line",1915
+396,395,"commuter_rail","Nishio Line",1928
+405,408,"commuter_rail","Gamagōri Line",1929
+408,411,"commuter_rail","Gamagōri Line",1936
+411,414,"commuter_rail","Gamagōri Line",1936
+414,417,"commuter_rail","Gamagōri Line",1936
+417,420,"commuter_rail","Gamagōri Line",1936
+420,423,"commuter_rail","Gamagōri Line",1936
+423,426,"commuter_rail","Gamagōri Line",1936
+426,429,"commuter_rail","Gamagōri Line",1936
+429,432,"commuter_rail","Gamagōri Line",1968
+432,435,"commuter_rail","Gamagōri Line",1953
+209,211,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1915
+211,214,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1959
+214,216,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1920
+216,218,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1920
+218,220,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1920
+220,222,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1920
+222,224,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1920
+224,226,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1920
+226,228,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1923
+228,230,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1922
+230,232,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1924
+232,234,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1924
+234,236,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1927
+236,238,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1927
+238,240,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1927
+240,208,"commuter_rail","Mikawa Line (Sanage - Chiryū)",1928
+178,179,"commuter_rail","Toyota Line",1979
+179,180,"commuter_rail","Toyota Line",1979
+180,181,"commuter_rail","Toyota Line",1979
+181,182,"commuter_rail","Toyota Line",1979
+182,183,"commuter_rail","Toyota Line",1979
+183,184,"commuter_rail","Toyota Line",1979
+184,185,"commuter_rail","Toyota Line",1979
+132,133,"commuter_rail","Seto Line",2002
+133,135,"commuter_rail","Seto Line",1905
+135,137,"commuter_rail","Seto Line",1927
+137,139,"commuter_rail","Seto Line",1905
+139,141,"commuter_rail","Seto Line",1905
+141,143,"commuter_rail","Seto Line",1905
+143,144,"commuter_rail","Seto Line",1942
+144,145,"commuter_rail","Seto Line",1995
+145,147,"commuter_rail","Seto Line",1905
+147,149,"commuter_rail","Seto Line",1927
+149,151,"commuter_rail","Seto Line",1905
+151,153,"commuter_rail","Seto Line",1905
+153,155,"commuter_rail","Seto Line",1936
+155,157,"commuter_rail","Seto Line",1905
+157,159,"commuter_rail","Seto Line",1905
+159,160,"commuter_rail","Seto Line",1956
+160,161,"commuter_rail","Seto Line",1978
+161,162,"commuter_rail","Seto Line",1978
+162,163,"commuter_rail","Seto Line",1978
+163,164,"commuter_rail","Seto Line",1978
+164,166,"commuter_rail","Seto Line",1915
+166,168,"commuter_rail","Seto Line",1911
+168,170,"commuter_rail","Seto Line",1926
+170,172,"commuter_rail","Seto Line",1911
+172,173,"commuter_rail","Seto Line",1906
+173,177,"commuter_rail","Seto Line",1911
+186,187,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1954
+187,189,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1914
+189,190,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1981
+190,192,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1914
+192,194,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1914
+194,196,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1914
+196,198,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1918
+198,200,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1914
+200,202,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1914
+202,204,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1914
+204,206,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1914
+206,208,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1923
+208,212,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1959
+212,243,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1915
+243,245,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1926
+245,247,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1926
+247,249,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1926
+249,251,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1926
+251,253,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1926
+253,255,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1926
+255,257,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1927
+257,259,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1926
+259,261,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1926
+261,263,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1926
+263,265,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1926
+265,267,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1928
+267,403,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1943
+403,405,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1929
+405,408,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1929
+408,411,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1936
+411,414,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1936
+414,417,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1936
+417,420,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1936
+420,423,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1936
+423,426,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1936
+426,430,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1936
+430,433,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1937
+433,435,"commuter_rail","Mikawa Line (Chiryū - Hekinan)",1937
+124,125,"people_mover","Linimo (Tōbu Kyūryō Line)",2005
+125,126,"people_mover","Linimo (Tōbu Kyūryō Line)",2005
+126,127,"people_mover","Linimo (Tōbu Kyūryō Line)",2005
+127,128,"people_mover","Linimo (Tōbu Kyūryō Line)",2005
+128,129,"people_mover","Linimo (Tōbu Kyūryō Line)",2005
+129,130,"people_mover","Linimo (Tōbu Kyūryō Line)",2005
+130,131,"people_mover","Linimo (Tōbu Kyūryō Line)",2005
+133,135,"commuter_rail","Seto Line",1905
+135,137,"commuter_rail","Seto Line",1927
+137,139,"commuter_rail","Seto Line",1905
+139,141,"commuter_rail","Seto Line",1905
+141,145,"commuter_rail","Seto Line",1905
+145,147,"commuter_rail","Seto Line",1905
+147,149,"commuter_rail","Seto Line",1927
+149,151,"commuter_rail","Seto Line",1905
+151,153,"commuter_rail","Seto Line",1905
+153,155,"commuter_rail","Seto Line",1936
+155,157,"commuter_rail","Seto Line",1905
+157,164,"commuter_rail","Seto Line",1905
+164,166,"commuter_rail","Seto Line",1915
+166,168,"commuter_rail","Seto Line",1911
+168,170,"commuter_rail","Seto Line",1926
+170,173,"commuter_rail","Seto Line",1911
+173,174,"commuter_rail","Seto Line",1911
+174,172,"commuter_rail","Seto Line",1911
+187,190,"commuter_rail","Mikawa Main Line",1914
+190,192,"commuter_rail","Mikawa Main Line",1914
+192,194,"commuter_rail","Mikawa Main Line",1914
+194,196,"commuter_rail","Mikawa Main Line",1914
+196,198,"commuter_rail","Mikawa Main Line",1918
+198,200,"commuter_rail","Mikawa Main Line",1914
+200,202,"commuter_rail","Mikawa Main Line",1914
+202,204,"commuter_rail","Mikawa Main Line",1914
+204,206,"commuter_rail","Mikawa Main Line",1914
+206,209,"commuter_rail","Mikawa Main Line",1923
+209,212,"commuter_rail","Mikawa Main Line",1915
+212,214,"commuter_rail","Mikawa Main Line",1915
+214,216,"commuter_rail","Mikawa Main Line",1920
+216,218,"commuter_rail","Mikawa Main Line",1920
+218,220,"commuter_rail","Mikawa Main Line",1920
+220,222,"commuter_rail","Mikawa Main Line",1920
+222,224,"commuter_rail","Mikawa Main Line",1920
+224,226,"commuter_rail","Mikawa Main Line",1920
+226,228,"commuter_rail","Mikawa Main Line",1923
+228,230,"commuter_rail","Mikawa Main Line",1922
+230,232,"commuter_rail","Mikawa Main Line",1924
+232,234,"commuter_rail","Mikawa Main Line",1924
+234,236,"commuter_rail","Mikawa Main Line",1927
+236,238,"commuter_rail","Mikawa Main Line",1927
+238,240,"commuter_rail","Mikawa Main Line",1927
+240,243,"commuter_rail","Mikawa Main Line",1928
+243,245,"commuter_rail","Mikawa Main Line",1926
+245,247,"commuter_rail","Mikawa Main Line",1926
+247,249,"commuter_rail","Mikawa Main Line",1926
+249,251,"commuter_rail","Mikawa Main Line",1926
+251,253,"commuter_rail","Mikawa Main Line",1926
+253,255,"commuter_rail","Mikawa Main Line",1926
+255,257,"commuter_rail","Mikawa Main Line",1927
+257,259,"commuter_rail","Mikawa Main Line",1926
+259,261,"commuter_rail","Mikawa Main Line",1926
+261,263,"commuter_rail","Mikawa Main Line",1926
+263,265,"commuter_rail","Mikawa Main Line",1926
+265,403,"commuter_rail","Mikawa Main Line",1928
+403,405,"commuter_rail","Mikawa Main Line",1929
+405,408,"commuter_rail","Mikawa Main Line",1929
+408,411,"commuter_rail","Mikawa Main Line",1936
+411,414,"commuter_rail","Mikawa Main Line",1936
+414,417,"commuter_rail","Mikawa Main Line",1936
+417,420,"commuter_rail","Mikawa Main Line",1936
+420,423,"commuter_rail","Mikawa Main Line",1936
+423,426,"commuter_rail","Mikawa Main Line",1936
+426,430,"commuter_rail","Mikawa Main Line",1936
+430,433,"commuter_rail","Mikawa Main Line",1937
+433,435,"commuter_rail","Mikawa Main Line",1937
+268,269,"commuter_rail","Ozone Line",1931
+269,271,"commuter_rail","Ozone Line",1931
+271,272,"commuter_rail","Ozone Line",1931
+272,274,"commuter_rail","Ozone Line",1931
+274,276,"commuter_rail","Ozone Line",1931
+276,278,"commuter_rail","Ozone Line",1931
+278,280,"commuter_rail","Ozone Line",1931
+280,281,"commuter_rail","Ozone Line",1931
+281,283,"commuter_rail","Ozone Line",1931
+283,284,"commuter_rail","Ozone Line",1931
+284,285,"commuter_rail","Ozone Line",1931
+285,287,"commuter_rail","Ozone Line",1931
+287,289,"commuter_rail","Ozone Line",1931
+289,291,"commuter_rail","Ozone Line",1931
+291,293,"commuter_rail","Ozone Line",1931
+293,295,"commuter_rail","Ozone Line",1931
+295,297,"commuter_rail","Ozone Line",1931
+297,299,"commuter_rail","Ozone Line",1931
+299,304,"commuter_rail","Ozone Line",1931
+302,303,"commuter_rail","Katsukawa Line",1931
+303,306,"commuter_rail","Katsukawa Line",1931
+307,308,"people_mover","Tokadai Line (Peachliner)",1991
+308,309,"people_mover","Tokadai Line (Peachliner)",1991
+309,310,"people_mover","Tokadai Line (Peachliner)",1991
+310,311,"people_mover","Tokadai Line (Peachliner)",1991
+311,312,"people_mover","Tokadai Line (Peachliner)",1991
+312,313,"people_mover","Tokadai Line (Peachliner)",1991
+348,351,"commuter_rail","Nishio Line",1926
+351,353,"commuter_rail","Nishio Line",1926
+353,356,"commuter_rail","Nishio Line",1926
+356,358,"commuter_rail","Nishio Line",1926
+358,361,"commuter_rail","Nishio Line",1926
+361,365,"commuter_rail","Nishio Line",1926
+365,367,"commuter_rail","Nishio Line",1926
+367,370,"commuter_rail","Nishio Line",1928
+370,398,"commuter_rail","Nishio Line",1928
+314,316,"commuter_rail","Nishio Line",1911
+316,318,"commuter_rail","Nishio Line",1911
+318,320,"commuter_rail","Nishio Line",1929
+320,323,"commuter_rail","Nishio Line",1929
+323,326,"commuter_rail","Nishio Line",1911
+326,330,"commuter_rail","Nishio Line",1914
+330,332,"commuter_rail","Nishio Line",1912
+332,334,"commuter_rail","Nishio Line",1929
+334,336,"commuter_rail","Nishio Line",1911
+336,338,"commuter_rail","Nishio Line",1929
+338,340,"commuter_rail","Nishio Line",1914
+340,342,"commuter_rail","Nishio Line",1928
+342,345,"commuter_rail","Nishio Line",1914
+345,370,"commuter_rail","Nishio Line",1914
+370,373,"commuter_rail","Nishio Line",1928
+373,375,"commuter_rail","Nishio Line",1915
+375,377,"commuter_rail","Nishio Line",1928
+377,380,"commuter_rail","Nishio Line",1915
+380,383,"commuter_rail","Nishio Line",1915
+383,386,"commuter_rail","Nishio Line",1915
+386,390,"commuter_rail","Nishio Line",1915
+390,395,"commuter_rail","Nishio Line",1911
+395,396,"commuter_rail","Nishio Line",1911
+314,316,"commuter_rail","Okazaki Line",1911
+316,322,"commuter_rail","Okazaki Line",1911
+322,323,"commuter_rail","Okazaki Line",1915
+323,326,"commuter_rail","Okazaki Line",1911
+326,329,"commuter_rail","Okazaki Line",1914
+329,330,"commuter_rail","Okazaki Line",1917
+330,334,"commuter_rail","Okazaki Line",1912
+334,390,"commuter_rail","Okazaki Line",1911
+390,395,"commuter_rail","Okazaki Line",1911
+338,342,"commuter_rail","Heisaka Line",1914
+342,345,"commuter_rail","Heisaka Line",1914
+345,390,"commuter_rail","Heisaka Line",1914
+336,340,"commuter_rail","Heisaka Branch Line",1929
+340,342,"commuter_rail","Heisaka Branch Line",1928
+342,345,"commuter_rail","Heisaka Branch Line",1914
+355,402,"commuter_rail","Anjō Branch Line",1951
+377,380,"commuter_rail","Yoshida Line",1915
+380,383,"commuter_rail","Yoshida Line",1915
+383,386,"commuter_rail","Yoshida Line",1915
+386,373,"commuter_rail","Yoshida Line",1915
+373,390,"commuter_rail","Yoshida Line",1915
+438,440,"commuter_rail","Tokoname Line",1913
+440,441,"commuter_rail","Tokoname Line",1912
+441,444,"commuter_rail","Tokoname Line",1912
+444,446,"commuter_rail","Tokoname Line",1912
+446,448,"commuter_rail","Tokoname Line",1924
+448,449,"commuter_rail","Tokoname Line",1917
+449,451,"commuter_rail","Tokoname Line",1919
+451,452,"commuter_rail","Tokoname Line",1912
+452,454,"commuter_rail","Tokoname Line",1917
+454,457,"commuter_rail","Tokoname Line",1912
+457,459,"commuter_rail","Tokoname Line",1917
+459,461,"commuter_rail","Tokoname Line",1912
+461,462,"commuter_rail","Tokoname Line",1912
+462,464,"commuter_rail","Tokoname Line",1922
+464,466,"commuter_rail","Tokoname Line",1912
+466,468,"commuter_rail","Tokoname Line",1912
+468,470,"commuter_rail","Tokoname Line",1923
+470,472,"commuter_rail","Tokoname Line",1912
+472,474,"commuter_rail","Tokoname Line",1930
+474,476,"commuter_rail","Tokoname Line",1912
+476,478,"commuter_rail","Tokoname Line",1912
+478,481,"commuter_rail","Tokoname Line",1912
+481,483,"commuter_rail","Tokoname Line",1913
+483,486,"commuter_rail","Tokoname Line",1913
+486,488,"commuter_rail","Tokoname Line",1913
+488,492,"commuter_rail","Tokoname Line",1913
+493,495,"commuter_rail","Chita Line",1931
+495,497,"commuter_rail","Chita Line",1931
+497,499,"commuter_rail","Chita Line",1931
+499,501,"commuter_rail","Chita Line",1931
+501,504,"commuter_rail","Chita Line",1931
+504,506,"commuter_rail","Chita Line",1931
+506,509,"commuter_rail","Chita Line",1931
+509,511,"commuter_rail","Chita Line",1931
+511,513,"commuter_rail","Chita Line",1931
+513,515,"commuter_rail","Chita Line",1931
+515,518,"commuter_rail","Chita Line",1933
+518,520,"commuter_rail","Chita Line",1931
+520,522,"commuter_rail","Chita Line",1931
+522,524,"commuter_rail","Chita Line",1933
+524,526,"commuter_rail","Chita Line",1932
+526,528,"commuter_rail","Chita Line",1932
+528,530,"commuter_rail","Chita Line",1932
+530,532,"commuter_rail","Chita Line",1933
+532,534,"commuter_rail","Chita Line",1932
+534,537,"commuter_rail","Chita Line",1932
+537,539,"commuter_rail","Chita Line",1932
+539,541,"commuter_rail","Chita Line",1935
+550,552,"commuter_rail","Chikkō Line",1924
+554,558,"commuter_rail","Arimatsu Line",1917
+558,559,"commuter_rail","Arimatsu Line",1917
+559,560,"commuter_rail","Arimatsu Line",1917
+560,561,"commuter_rail","Arimatsu Line",1917
+561,620,"commuter_rail","Arimatsu Line",1917
+620,624,"commuter_rail","Arimatsu Line",1917
+624,640,"commuter_rail","Arimatsu Line",1917
+640,688,"commuter_rail","Arimatsu Line",1917
+556,562,"commuter_rail","Toyohashi Line",1931
+562,578,"commuter_rail","Toyohashi Line",1923
+578,580,"commuter_rail","Toyohashi Line",1923
+580,582,"commuter_rail","Toyohashi Line",1923
+582,584,"commuter_rail","Toyohashi Line",1923
+584,569,"commuter_rail","Toyohashi Line",1923
+569,593,"commuter_rail","Toyohashi Line",1930
+593,568,"commuter_rail","Toyohashi Line",1928
+568,595,"commuter_rail","Toyohashi Line",1930
+595,596,"commuter_rail","Toyohashi Line",1926
+596,597,"commuter_rail","Toyohashi Line",1926
+597,598,"commuter_rail","Toyohashi Line",1926
+598,599,"commuter_rail","Toyohashi Line",1926
+599,600,"commuter_rail","Toyohashi Line",1926
+600,601,"commuter_rail","Toyohashi Line",1926
+601,602,"commuter_rail","Toyohashi Line",1926
+602,604,"commuter_rail","Toyohashi Line",1926
+604,605,"commuter_rail","Toyohashi Line",1926
+605,606,"commuter_rail","Toyohashi Line",1934
+606,607,"commuter_rail","Toyohashi Line",1927
+607,610,"commuter_rail","Toyohashi Line",1926
+610,558,"commuter_rail","Toyohashi Line",1927
+558,559,"commuter_rail","Toyohashi Line",1917
+559,560,"commuter_rail","Toyohashi Line",1917
+560,561,"commuter_rail","Toyohashi Line",1917
+561,620,"commuter_rail","Toyohashi Line",1917
+620,623,"commuter_rail","Toyohashi Line",1917
+623,624,"commuter_rail","Toyohashi Line",1927
+624,640,"commuter_rail","Toyohashi Line",1917
+640,637,"commuter_rail","Toyohashi Line",1917
+637,645,"commuter_rail","Toyohashi Line",1924
+645,647,"commuter_rail","Toyohashi Line",1923
+647,649,"commuter_rail","Toyohashi Line",1923
+649,651,"commuter_rail","Toyohashi Line",1923
+651,653,"commuter_rail","Toyohashi Line",1923
+653,655,"commuter_rail","Toyohashi Line",1923
+655,688,"commuter_rail","Toyohashi Line",1925
+562,575,"commuter_rail","Okazaki Line",1923
+575,578,"commuter_rail","Okazaki Line",1923
+578,580,"commuter_rail","Okazaki Line",1923
+580,582,"commuter_rail","Okazaki Line",1923
+582,584,"commuter_rail","Okazaki Line",1923
+584,558,"commuter_rail","Okazaki Line",1923
+558,559,"commuter_rail","Okazaki Line",1917
+559,560,"commuter_rail","Okazaki Line",1917
+560,561,"commuter_rail","Okazaki Line",1917
+561,620,"commuter_rail","Okazaki Line",1917
+620,624,"commuter_rail","Okazaki Line",1917
+624,640,"commuter_rail","Okazaki Line",1917
+640,637,"commuter_rail","Okazaki Line",1917
+637,645,"commuter_rail","Okazaki Line",1924
+645,647,"commuter_rail","Okazaki Line",1923
+647,649,"commuter_rail","Okazaki Line",1923
+649,651,"commuter_rail","Okazaki Line",1923
+651,653,"commuter_rail","Okazaki Line",1923
+653,655,"commuter_rail","Okazaki Line",1923
+655,688,"commuter_rail","Okazaki Line",1925
+672,677,"inter_city_rail","Ichinomiya Line",1910
+677,682,"inter_city_rail","Ichinomiya Line",1910
+682,687,"inter_city_rail","Ichinomiya Line",1910
+687,707,"inter_city_rail","Ichinomiya Line",1912
+707,712,"inter_city_rail","Ichinomiya Line",1912
+712,717,"inter_city_rail","Ichinomiya Line",1912
+717,723,"inter_city_rail","Ichinomiya Line",1912
+723,728,"inter_city_rail","Ichinomiya Line",1913
+728,733,"inter_city_rail","Ichinomiya Line",1912
+733,738,"inter_city_rail","Ichinomiya Line",1912
+738,743,"inter_city_rail","Ichinomiya Line",1915
+743,748,"inter_city_rail","Ichinomiya Line",1912
+748,756,"inter_city_rail","Ichinomiya Line",1912
+756,760,"inter_city_rail","Ichinomiya Line",1912
+760,764,"inter_city_rail","Ichinomiya Line",1912
+764,768,"inter_city_rail","Ichinomiya Line",1912
+768,775,"inter_city_rail","Ichinomiya Line",1912
+672,677,"commuter_rail","Ichinomiya Line",1910
+677,682,"commuter_rail","Ichinomiya Line",1910
+682,687,"commuter_rail","Ichinomiya Line",1910
+687,707,"commuter_rail","Ichinomiya Line",1912
+707,712,"commuter_rail","Ichinomiya Line",1912
+712,717,"commuter_rail","Ichinomiya Line",1912
+717,723,"commuter_rail","Ichinomiya Line",1912
+723,728,"commuter_rail","Ichinomiya Line",1913
+728,733,"commuter_rail","Ichinomiya Line",1912
+733,738,"commuter_rail","Ichinomiya Line",1912
+738,743,"commuter_rail","Ichinomiya Line",1915
+743,748,"commuter_rail","Ichinomiya Line",1912
+748,756,"commuter_rail","Ichinomiya Line",1912
+756,760,"commuter_rail","Ichinomiya Line",1912
+760,764,"commuter_rail","Ichinomiya Line",1912
+764,768,"commuter_rail","Ichinomiya Line",1912
+768,773,"commuter_rail","Ichinomiya Line",1912
+773,775,"commuter_rail","Ichinomiya Line",1930
+NA,7,"commuter_rail","Inuyama Line",NA
+672,677,"inter_city_rail","Biwajima Line",1910
+677,682,"inter_city_rail","Biwajima Line",1910
+672,677,"commuter_rail","Ichinomiya Line",1910
+677,682,"commuter_rail","Ichinomiya Line",1910
+682,687,"commuter_rail","Ichinomiya Line",1910
+687,707,"commuter_rail","Ichinomiya Line",1912
+707,712,"commuter_rail","Ichinomiya Line",1912
+712,717,"commuter_rail","Ichinomiya Line",1912
+717,723,"commuter_rail","Ichinomiya Line",1912
+723,728,"commuter_rail","Ichinomiya Line",1913
+728,733,"commuter_rail","Ichinomiya Line",1912
+733,738,"commuter_rail","Ichinomiya Line",1912
+738,743,"commuter_rail","Ichinomiya Line",1915
+743,748,"commuter_rail","Ichinomiya Line",1912
+748,756,"commuter_rail","Ichinomiya Line",1912
+756,760,"commuter_rail","Ichinomiya Line",1912
+760,764,"commuter_rail","Ichinomiya Line",1912
+764,768,"commuter_rail","Ichinomiya Line",1912
+768,775,"commuter_rail","Ichinomiya Line",1912
+672,677,"commuter_rail","Ichinomiya Line",1910
+677,682,"commuter_rail","Ichinomiya Line",1910
+682,687,"commuter_rail","Ichinomiya Line",1910
+687,707,"commuter_rail","Ichinomiya Line",1912
+707,712,"commuter_rail","Ichinomiya Line",1912
+712,717,"commuter_rail","Ichinomiya Line",1912
+717,723,"commuter_rail","Ichinomiya Line",1912
+723,728,"commuter_rail","Ichinomiya Line",1913
+728,733,"commuter_rail","Ichinomiya Line",1912
+733,738,"commuter_rail","Ichinomiya Line",1912
+738,743,"commuter_rail","Ichinomiya Line",1915
+743,748,"commuter_rail","Ichinomiya Line",1912
+748,756,"commuter_rail","Ichinomiya Line",1912
+756,760,"commuter_rail","Ichinomiya Line",1912
+760,764,"commuter_rail","Ichinomiya Line",1912
+764,768,"commuter_rail","Ichinomiya Line",1912
+768,772,"commuter_rail","Ichinomiya Line",1912
+772,773,"commuter_rail","Ichinomiya Line",1954
+773,775,"commuter_rail","Ichinomiya Line",1930
+NA,7,"commuter_rail","Inuyama Line",NA
+1,3,"commuter_rail","Kakamigahara Line",1927
+3,4,"commuter_rail","Kakamigahara Line",1927
+625,606,"commuter_rail","Toyohashi Line",1943
+606,605,"commuter_rail","Toyohashi Line",1927
+605,604,"commuter_rail","Toyohashi Line",1934
+604,602,"commuter_rail","Toyohashi Line",1926
+602,601,"commuter_rail","Toyohashi Line",1926
+601,631,"commuter_rail","Toyohashi Line",1926
+631,600,"commuter_rail","Toyohashi Line",1938
+600,599,"commuter_rail","Toyohashi Line",1926
+599,598,"commuter_rail","Toyohashi Line",1926
+598,633,"commuter_rail","Toyohashi Line",1926
+633,597,"commuter_rail","Toyohashi Line",1938
+597,596,"commuter_rail","Toyohashi Line",1926
+596,595,"commuter_rail","Toyohashi Line",1926
+595,584,"commuter_rail","Toyohashi Line",1926
+584,587,"commuter_rail","Toyohashi Line",1923
+587,655,"commuter_rail","Toyohashi Line",1936
+655,653,"commuter_rail","Toyohashi Line",1925
+653,651,"commuter_rail","Toyohashi Line",1923
+651,649,"commuter_rail","Toyohashi Line",1923
+649,647,"commuter_rail","Toyohashi Line",1923
+647,588,"commuter_rail","Toyohashi Line",1923
+588,645,"commuter_rail","Toyohashi Line",1941
+645,582,"commuter_rail","Toyohashi Line",1923
+582,580,"commuter_rail","Toyohashi Line",1923
+580,578,"commuter_rail","Toyohashi Line",1923
+578,562,"commuter_rail","Toyohashi Line",1923
+562,688,"commuter_rail","Toyohashi Line",1923
+688,637,"commuter_rail","Toyohashi Line",1917
+637,640,"commuter_rail","Toyohashi Line",1924
+640,624,"commuter_rail","Toyohashi Line",1917
+624,623,"commuter_rail","Toyohashi Line",1917
+623,620,"commuter_rail","Toyohashi Line",1927
+620,565,"commuter_rail","Toyohashi Line",1917
+565,561,"commuter_rail","Toyohashi Line",1943
+561,560,"commuter_rail","Toyohashi Line",1917
+560,568,"commuter_rail","Toyohashi Line",1917
+568,569,"commuter_rail","Toyohashi Line",1930
+569,558,"commuter_rail","Toyohashi Line",1930
+NA,630,"commuter_rail","Toyohashi Line",NA

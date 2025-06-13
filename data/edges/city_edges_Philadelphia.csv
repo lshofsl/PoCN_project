@@ -1,0 +1,511 @@
+"nodeID_from","nodeID_to","mode","line","year"
+1,2,"heavy_rail","Market-Frankford Line",1907
+2,3,"heavy_rail","Market-Frankford Line",1907
+3,4,"heavy_rail","Market-Frankford Line",1907
+4,5,"heavy_rail","Market-Frankford Line",1907
+5,6,"heavy_rail","Market-Frankford Line",1907
+6,7,"heavy_rail","Market-Frankford Line",1907
+7,8,"heavy_rail","Market-Frankford Line",1907
+8,9,"heavy_rail","Market-Frankford Line",1907
+9,10,"heavy_rail","Market-Frankford Line",1907
+10,11,"heavy_rail","Market-Frankford Line",1907
+11,12,"heavy_rail","Market-Frankford Line",1907
+12,335,"heavy_rail","Market-Frankford Line",1908
+335,405,"heavy_rail","Market-Frankford Line",1908
+405,438,"heavy_rail","Market-Frankford Line",1922
+438,439,"heavy_rail","Market-Frankford Line",1908
+439,440,"heavy_rail","Market-Frankford Line",1908
+440,441,"heavy_rail","Market-Frankford Line",1908
+441,442,"heavy_rail","Market-Frankford Line",1977
+442,443,"heavy_rail","Market-Frankford Line",1922
+443,444,"heavy_rail","Market-Frankford Line",1922
+444,445,"heavy_rail","Market-Frankford Line",1922
+445,446,"heavy_rail","Market-Frankford Line",1922
+446,447,"heavy_rail","Market-Frankford Line",1922
+447,448,"heavy_rail","Market-Frankford Line",1922
+448,449,"heavy_rail","Market-Frankford Line",1922
+449,450,"heavy_rail","Market-Frankford Line",1922
+450,451,"heavy_rail","Market-Frankford Line",1922
+451,452,"heavy_rail","Market-Frankford Line",1922
+406,407,"heavy_rail","Broad Street Line",1928
+407,408,"heavy_rail","Broad Street Line",1928
+408,409,"heavy_rail","Broad Street Line",1928
+409,410,"heavy_rail","Broad Street Line",1928
+410,413,"heavy_rail","Broad Street Line",1928
+413,414,"heavy_rail","Broad Street Line",1928
+414,415,"heavy_rail","Broad Street Line",1928
+415,417,"heavy_rail","Broad Street Line",1928
+417,418,"heavy_rail","Broad Street Line",1928
+418,420,"heavy_rail","Broad Street Line",1928
+420,421,"heavy_rail","Broad Street Line",1928
+421,422,"heavy_rail","Broad Street Line",1928
+422,423,"heavy_rail","Broad Street Line",1928
+423,425,"heavy_rail","Broad Street Line",1928
+425,429,"heavy_rail","Broad Street Line",1956
+429,430,"heavy_rail","Broad Street Line",1930
+430,431,"heavy_rail","Broad Street Line",1932
+431,432,"heavy_rail","Broad Street Line",1938
+432,433,"heavy_rail","Broad Street Line",1938
+433,434,"heavy_rail","Broad Street Line",1938
+434,435,"heavy_rail","Broad Street Line",1973
+335,410,"heavy_rail","Broad Ridge Spur",1908
+410,406,"heavy_rail","Broad Ridge Spur",1928
+406,415,"heavy_rail","Broad Ridge Spur",1928
+415,418,"heavy_rail","Broad Ridge Spur",1928
+418,423,"heavy_rail","Broad Ridge Spur",1928
+423,425,"heavy_rail","Broad Ridge Spur",1928
+425,436,"heavy_rail","Broad Ridge Spur",1956
+436,437,"heavy_rail","Broad Ridge Spur",1932
+22,23,"commuter_rail","Media/Elwyn Line",1911
+23,13,"commuter_rail","Media/Elwyn Line",1984
+13,14,"commuter_rail","Media/Elwyn Line",1930
+14,24,"commuter_rail","Media/Elwyn Line",1933
+24,59,"commuter_rail","Media/Elwyn Line",1983
+59,60,"commuter_rail","Media/Elwyn Line",1886
+60,61,"commuter_rail","Media/Elwyn Line",1928
+61,62,"commuter_rail","Media/Elwyn Line",1928
+62,63,"commuter_rail","Media/Elwyn Line",1880
+63,64,"commuter_rail","Media/Elwyn Line",1928
+64,65,"commuter_rail","Media/Elwyn Line",1880
+65,66,"commuter_rail","Media/Elwyn Line",1928
+66,67,"commuter_rail","Media/Elwyn Line",1880
+67,68,"commuter_rail","Media/Elwyn Line",1867
+68,69,"commuter_rail","Media/Elwyn Line",1880
+69,70,"commuter_rail","Media/Elwyn Line",1890
+70,71,"commuter_rail","Media/Elwyn Line",1870
+71,72,"commuter_rail","Media/Elwyn Line",1928
+72,73,"commuter_rail","Media/Elwyn Line",1928
+73,74,"commuter_rail","Media/Elwyn Line",1928
+13,22,"commuter_rail","Airport Line",1930
+22,23,"commuter_rail","Airport Line",1911
+23,24,"commuter_rail","Airport Line",1984
+24,25,"commuter_rail","Airport Line",1983
+25,26,"commuter_rail","Airport Line",1985
+26,27,"commuter_rail","Airport Line",1985
+27,28,"commuter_rail","Airport Line",1985
+28,29,"commuter_rail","Airport Line",1985
+29,14,"commuter_rail","Airport Line",1985
+13,14,"commuter_rail","Cynwyd Line",1930
+14,15,"commuter_rail","Cynwyd Line",1933
+15,16,"commuter_rail","Cynwyd Line",1930
+16,17,"commuter_rail","Cynwyd Line",1930
+17,18,"commuter_rail","Cynwyd Line",1890
+18,19,"commuter_rail","Cynwyd Line",1930
+19,20,"commuter_rail","Cynwyd Line",1930
+24,22,"commuter_rail","Wilmington/Newark Line",1983
+22,23,"commuter_rail","Wilmington/Newark Line",1911
+23,13,"commuter_rail","Wilmington/Newark Line",1984
+13,14,"commuter_rail","Wilmington/Newark Line",1930
+14,35,"commuter_rail","Wilmington/Newark Line",1933
+35,36,"commuter_rail","Wilmington/Newark Line",1928
+36,37,"commuter_rail","Wilmington/Newark Line",1872
+37,38,"commuter_rail","Wilmington/Newark Line",1940
+38,39,"commuter_rail","Wilmington/Newark Line",1928
+39,40,"commuter_rail","Wilmington/Newark Line",1928
+40,41,"commuter_rail","Wilmington/Newark Line",1875
+41,42,"commuter_rail","Wilmington/Newark Line",1928
+42,43,"commuter_rail","Wilmington/Newark Line",1871
+43,44,"commuter_rail","Wilmington/Newark Line",1928
+44,45,"commuter_rail","Wilmington/Newark Line",1902
+45,46,"commuter_rail","Wilmington/Newark Line",1903
+46,47,"commuter_rail","Wilmington/Newark Line",1928
+47,48,"commuter_rail","Wilmington/Newark Line",1928
+48,49,"commuter_rail","Wilmington/Newark Line",1893
+49,50,"commuter_rail","Wilmington/Newark Line",1928
+50,51,"commuter_rail","Wilmington/Newark Line",1908
+51,52,"commuter_rail","Wilmington/Newark Line",2000
+14,13,"commuter_rail","Paoli/Thorndale Line",1933
+13,23,"commuter_rail","Paoli/Thorndale Line",1930
+23,22,"commuter_rail","Paoli/Thorndale Line",1984
+22,79,"commuter_rail","Paoli/Thorndale Line",1911
+79,80,"commuter_rail","Paoli/Thorndale Line",1860
+80,81,"commuter_rail","Paoli/Thorndale Line",1915
+81,82,"commuter_rail","Paoli/Thorndale Line",1915
+82,83,"commuter_rail","Paoli/Thorndale Line",1870
+83,84,"commuter_rail","Paoli/Thorndale Line",1870
+84,85,"commuter_rail","Paoli/Thorndale Line",1880
+85,86,"commuter_rail","Paoli/Thorndale Line",1869
+86,87,"commuter_rail","Paoli/Thorndale Line",1871
+87,88,"commuter_rail","Paoli/Thorndale Line",1890
+88,89,"commuter_rail","Paoli/Thorndale Line",1872
+89,90,"commuter_rail","Paoli/Thorndale Line",1890
+90,91,"commuter_rail","Paoli/Thorndale Line",1884
+91,92,"commuter_rail","Paoli/Thorndale Line",1883
+92,93,"commuter_rail","Paoli/Thorndale Line",1883
+93,94,"commuter_rail","Paoli/Thorndale Line",1884
+94,95,"commuter_rail","Paoli/Thorndale Line",1915
+95,96,"commuter_rail","Paoli/Thorndale Line",1893
+96,97,"commuter_rail","Paoli/Thorndale Line",1900
+97,98,"commuter_rail","Paoli/Thorndale Line",1981
+98,99,"commuter_rail","Paoli/Thorndale Line",1880
+99,100,"commuter_rail","Paoli/Thorndale Line",1900
+100,101,"commuter_rail","Paoli/Thorndale Line",1868
+101,102,"commuter_rail","Paoli/Thorndale Line",1914
+102,103,"commuter_rail","Paoli/Thorndale Line",1999
+14,13,"commuter_rail","Chestnut Hill West Line",1933
+13,23,"commuter_rail","Chestnut Hill West Line",1930
+23,22,"commuter_rail","Chestnut Hill West Line",1984
+22,108,"commuter_rail","Chestnut Hill West Line",1911
+108,109,"commuter_rail","Chestnut Hill West Line",1884
+109,110,"commuter_rail","Chestnut Hill West Line",1884
+110,111,"commuter_rail","Chestnut Hill West Line",1884
+111,112,"commuter_rail","Chestnut Hill West Line",1884
+112,113,"commuter_rail","Chestnut Hill West Line",1884
+113,114,"commuter_rail","Chestnut Hill West Line",1884
+114,115,"commuter_rail","Chestnut Hill West Line",1884
+115,116,"commuter_rail","Chestnut Hill West Line",1884
+116,117,"commuter_rail","Chestnut Hill West Line",1884
+117,118,"commuter_rail","Chestnut Hill West Line",1884
+118,119,"commuter_rail","Chestnut Hill West Line",1884
+119,120,"commuter_rail","Chestnut Hill West Line",1884
+120,121,"commuter_rail","Chestnut Hill West Line",1884
+121,122,"commuter_rail","Chestnut Hill West Line",1884
+123,124,"commuter_rail","Trenton Line",1930
+124,125,"commuter_rail","Trenton Line",1953
+125,126,"commuter_rail","Trenton Line",1911
+126,127,"commuter_rail","Trenton Line",1930
+127,128,"commuter_rail","Trenton Line",1930
+128,129,"commuter_rail","Trenton Line",1930
+129,130,"commuter_rail","Trenton Line",1930
+130,131,"commuter_rail","Trenton Line",1930
+131,132,"commuter_rail","Trenton Line",1930
+132,133,"commuter_rail","Trenton Line",1930
+133,134,"commuter_rail","Trenton Line",1930
+134,135,"commuter_rail","Trenton Line",1930
+135,14,"commuter_rail","Trenton Line",1930
+14,13,"commuter_rail","Trenton Line",1933
+13,23,"commuter_rail","Trenton Line",1930
+23,22,"commuter_rail","Trenton Line",1984
+154,159,"commuter_rail","Chestnut Hill East Line",1881
+159,160,"commuter_rail","Chestnut Hill East Line",1933
+160,161,"commuter_rail","Chestnut Hill East Line",1932
+161,162,"commuter_rail","Chestnut Hill East Line",1885
+162,163,"commuter_rail","Chestnut Hill East Line",1933
+163,164,"commuter_rail","Chestnut Hill East Line",1933
+164,165,"commuter_rail","Chestnut Hill East Line",1882
+165,166,"commuter_rail","Chestnut Hill East Line",1875
+166,167,"commuter_rail","Chestnut Hill East Line",1863
+167,168,"commuter_rail","Chestnut Hill East Line",1879
+154,169,"commuter_rail","Fox Chase Line",1881
+169,170,"commuter_rail","Fox Chase Line",1878
+170,171,"commuter_rail","Fox Chase Line",1878
+171,172,"commuter_rail","Fox Chase Line",1893
+172,173,"commuter_rail","Fox Chase Line",1887
+140,154,"commuter_rail","Lansdale/Doylestown Line",1929
+154,174,"commuter_rail","Lansdale/Doylestown Line",1881
+174,175,"commuter_rail","Lansdale/Doylestown Line",1956
+175,176,"commuter_rail","Lansdale/Doylestown Line",1931
+176,179,"commuter_rail","Lansdale/Doylestown Line",1999
+179,195,"commuter_rail","Lansdale/Doylestown Line",1872
+195,204,"commuter_rail","Lansdale/Doylestown Line",1931
+204,205,"commuter_rail","Lansdale/Doylestown Line",1931
+205,206,"commuter_rail","Lansdale/Doylestown Line",1890
+206,207,"commuter_rail","Lansdale/Doylestown Line",1903
+207,208,"commuter_rail","Lansdale/Doylestown Line",1855
+208,209,"commuter_rail","Lansdale/Doylestown Line",1855
+209,210,"commuter_rail","Lansdale/Doylestown Line",1930
+210,211,"commuter_rail","Lansdale/Doylestown Line",1888
+211,212,"commuter_rail","Lansdale/Doylestown Line",1873
+212,213,"commuter_rail","Lansdale/Doylestown Line",1931
+213,214,"commuter_rail","Lansdale/Doylestown Line",1902
+214,215,"commuter_rail","Lansdale/Doylestown Line",2015
+215,216,"commuter_rail","Lansdale/Doylestown Line",1931
+216,217,"commuter_rail","Lansdale/Doylestown Line",1856
+217,218,"commuter_rail","Lansdale/Doylestown Line",1952
+218,219,"commuter_rail","Lansdale/Doylestown Line",1909
+219,220,"commuter_rail","Lansdale/Doylestown Line",1931
+220,221,"commuter_rail","Lansdale/Doylestown Line",NA
+140,142,"commuter_rail","Manayunk/Norristown Line",1929
+142,143,"commuter_rail","Manayunk/Norristown Line",1938
+143,144,"commuter_rail","Manayunk/Norristown Line",1856
+144,145,"commuter_rail","Manayunk/Norristown Line",1933
+145,146,"commuter_rail","Manayunk/Norristown Line",1930
+146,147,"commuter_rail","Manayunk/Norristown Line",1910
+147,148,"commuter_rail","Manayunk/Norristown Line",1834
+148,149,"commuter_rail","Manayunk/Norristown Line",1986
+149,150,"commuter_rail","Manayunk/Norristown Line",1933
+150,151,"commuter_rail","Manayunk/Norristown Line",1933
+151,152,"commuter_rail","Manayunk/Norristown Line",1989
+152,153,"commuter_rail","Manayunk/Norristown Line",1976
+154,176,"commuter_rail","Warminster Line",1881
+176,179,"commuter_rail","Warminster Line",1999
+179,195,"commuter_rail","Warminster Line",1872
+195,197,"commuter_rail","Warminster Line",1931
+197,198,"commuter_rail","Warminster Line",1931
+198,199,"commuter_rail","Warminster Line",1931
+199,200,"commuter_rail","Warminster Line",1931
+200,201,"commuter_rail","Warminster Line",1886
+201,202,"commuter_rail","Warminster Line",1931
+202,203,"commuter_rail","Warminster Line",1871
+203,174,"commuter_rail","Warminster Line",1974
+154,176,"commuter_rail","West Trenton Line",1881
+176,179,"commuter_rail","West Trenton Line",1999
+179,182,"commuter_rail","West Trenton Line",1872
+182,183,"commuter_rail","West Trenton Line",1901
+183,184,"commuter_rail","West Trenton Line",1888
+184,185,"commuter_rail","West Trenton Line",1931
+185,186,"commuter_rail","West Trenton Line",1876
+186,187,"commuter_rail","West Trenton Line",1913
+187,188,"commuter_rail","West Trenton Line",1931
+188,189,"commuter_rail","West Trenton Line",1931
+189,190,"commuter_rail","West Trenton Line",1888
+190,191,"commuter_rail","West Trenton Line",1888
+191,192,"commuter_rail","West Trenton Line",1881
+192,193,"commuter_rail","West Trenton Line",1931
+193,194,"commuter_rail","West Trenton Line",1876
+194,174,"commuter_rail","West Trenton Line",1929
+222,223,"heavy_rail","Norristown High Speed Line",1907
+223,224,"heavy_rail","Norristown High Speed Line",1907
+224,225,"heavy_rail","Norristown High Speed Line",1907
+225,226,"heavy_rail","Norristown High Speed Line",1907
+226,227,"heavy_rail","Norristown High Speed Line",1907
+227,228,"heavy_rail","Norristown High Speed Line",1907
+228,229,"heavy_rail","Norristown High Speed Line",1907
+229,230,"heavy_rail","Norristown High Speed Line",1907
+230,231,"heavy_rail","Norristown High Speed Line",1907
+231,232,"heavy_rail","Norristown High Speed Line",1907
+232,233,"heavy_rail","Norristown High Speed Line",1907
+233,234,"heavy_rail","Norristown High Speed Line",1907
+234,235,"heavy_rail","Norristown High Speed Line",1907
+235,236,"heavy_rail","Norristown High Speed Line",1907
+236,237,"heavy_rail","Norristown High Speed Line",1907
+237,238,"heavy_rail","Norristown High Speed Line",1907
+238,239,"heavy_rail","Norristown High Speed Line",1907
+239,240,"heavy_rail","Norristown High Speed Line",1907
+240,241,"heavy_rail","Norristown High Speed Line",1907
+241,242,"heavy_rail","Norristown High Speed Line",1907
+242,10,"heavy_rail","Norristown High Speed Line",1989
+12,11,"tram","Route 10",1908
+11,458,"tram","Route 10",1907
+458,459,"tram","Route 10",1907
+459,460,"tram","Route 10",1955
+460,461,"tram","Route 10",1907
+461,462,"tram","Route 10",1955
+462,463,"tram","Route 10",1955
+463,464,"tram","Route 10",1926
+464,465,"tram","Route 10",1926
+465,466,"tram","Route 10",1926
+466,467,"tram","Route 10",1926
+467,468,"tram","Route 10",1926
+468,469,"tram","Route 10",1926
+469,470,"tram","Route 10",1926
+470,471,"tram","Route 10",1926
+471,472,"tram","Route 10",1926
+472,473,"tram","Route 10",1926
+473,474,"tram","Route 10",1926
+474,475,"tram","Route 10",1926
+475,476,"tram","Route 10",1926
+476,477,"tram","Route 10",1926
+477,478,"tram","Route 10",1926
+478,479,"tram","Route 10",1926
+479,480,"tram","Route 10",1926
+480,379,"tram","Route 10",1926
+379,482,"tram","Route 10",1900
+482,483,"tram","Route 10",1926
+483,484,"tram","Route 10",1926
+484,485,"tram","Route 10",1926
+485,486,"tram","Route 10",1926
+486,487,"tram","Route 10",1926
+487,488,"tram","Route 10",1926
+488,489,"tram","Route 10",1926
+489,490,"tram","Route 10",1926
+490,491,"tram","Route 10",1926
+491,492,"tram","Route 10",1926
+492,493,"tram","Route 10",1926
+493,494,"tram","Route 10",NA
+494,495,"tram","Route 10",1926
+495,496,"tram","Route 10",1926
+496,497,"tram","Route 10",1926
+497,498,"tram","Route 10",1926
+498,499,"tram","Route 10",1926
+499,3,"tram","Route 10",1926
+3,537,"tram","Route 10",1907
+500,504,"tram","Route 11",1955
+504,508,"tram","Route 11",1955
+508,3,"tram","Route 11",1955
+500,504,"tram","Route 13",1955
+504,508,"tram","Route 13",1955
+508,3,"tram","Route 13",1955
+3,538,"tram","Route 13",1907
+538,539,"tram","Route 13",1956
+539,540,"tram","Route 13",1956
+500,504,"tram","Route 34",1955
+504,508,"tram","Route 34",1955
+508,512,"tram","Route 34",1955
+512,513,"tram","Route 34",1892
+513,514,"tram","Route 34",1892
+514,515,"tram","Route 34",1892
+515,516,"tram","Route 34",1892
+516,517,"tram","Route 34",1892
+517,518,"tram","Route 34",1892
+518,519,"tram","Route 34",1892
+519,520,"tram","Route 34",1892
+520,521,"tram","Route 34",1892
+521,522,"tram","Route 34",1892
+522,523,"tram","Route 34",1892
+523,524,"tram","Route 34",1892
+524,525,"tram","Route 34",1892
+525,526,"tram","Route 34",1892
+526,527,"tram","Route 34",1892
+527,528,"tram","Route 34",1892
+528,529,"tram","Route 34",1892
+529,530,"tram","Route 34",1892
+530,531,"tram","Route 34",1892
+531,3,"tram","Route 34",1892
+500,504,"tram","Route 36",1955
+504,508,"tram","Route 36",1955
+508,3,"tram","Route 36",1955
+10,267,"light_rail","Route 101",1907
+267,269,"light_rail","Route 101",1906
+269,271,"light_rail","Route 101",1906
+271,273,"light_rail","Route 101",1906
+273,275,"light_rail","Route 101",1906
+275,277,"light_rail","Route 101",1906
+277,279,"light_rail","Route 101",1906
+279,281,"light_rail","Route 101",1906
+281,283,"light_rail","Route 101",1906
+283,285,"light_rail","Route 101",1906
+285,303,"light_rail","Route 101",1906
+303,304,"light_rail","Route 101",1913
+304,305,"light_rail","Route 101",1913
+305,306,"light_rail","Route 101",1913
+306,307,"light_rail","Route 101",1913
+307,308,"light_rail","Route 101",1913
+308,309,"light_rail","Route 101",1913
+309,310,"light_rail","Route 101",1913
+310,311,"light_rail","Route 101",1913
+311,312,"light_rail","Route 101",1913
+312,313,"light_rail","Route 101",1913
+313,314,"light_rail","Route 101",1913
+314,315,"light_rail","Route 101",1913
+315,316,"light_rail","Route 101",1913
+316,317,"light_rail","Route 101",1913
+317,318,"light_rail","Route 101",1913
+318,319,"light_rail","Route 101",1913
+319,320,"light_rail","Route 101",1913
+320,321,"light_rail","Route 101",1913
+321,322,"light_rail","Route 101",1913
+322,323,"light_rail","Route 101",1913
+323,324,"light_rail","Route 101",1913
+324,325,"light_rail","Route 101",1913
+325,326,"light_rail","Route 101",1913
+10,267,"light_rail","Route 102",1907
+267,269,"light_rail","Route 102",1906
+269,271,"light_rail","Route 102",1906
+271,273,"light_rail","Route 102",1906
+273,275,"light_rail","Route 102",1906
+275,277,"light_rail","Route 102",1906
+277,279,"light_rail","Route 102",1906
+279,281,"light_rail","Route 102",1906
+281,283,"light_rail","Route 102",1906
+283,285,"light_rail","Route 102",1906
+285,287,"light_rail","Route 102",1906
+287,288,"light_rail","Route 102",1906
+288,289,"light_rail","Route 102",1906
+289,290,"light_rail","Route 102",1906
+290,291,"light_rail","Route 102",1906
+291,292,"light_rail","Route 102",1906
+292,293,"light_rail","Route 102",1906
+293,294,"light_rail","Route 102",1906
+294,295,"light_rail","Route 102",1906
+295,296,"light_rail","Route 102",1906
+296,297,"light_rail","Route 102",1906
+297,298,"light_rail","Route 102",1906
+298,299,"light_rail","Route 102",1906
+299,300,"light_rail","Route 102",1906
+300,301,"light_rail","Route 102",1906
+301,302,"light_rail","Route 102",1906
+243,244,"light_rail","River Line",2004
+244,245,"light_rail","River Line",2004
+245,246,"light_rail","River Line",2004
+246,247,"light_rail","River Line",2004
+247,248,"light_rail","River Line",2004
+248,249,"light_rail","River Line",2004
+249,250,"light_rail","River Line",2004
+250,251,"light_rail","River Line",2004
+251,252,"light_rail","River Line",2004
+252,253,"light_rail","River Line",2004
+253,254,"light_rail","River Line",2004
+254,255,"light_rail","River Line",2004
+255,256,"light_rail","River Line",2004
+256,257,"light_rail","River Line",2004
+257,258,"light_rail","River Line",2004
+258,259,"light_rail","River Line",2013
+259,260,"light_rail","River Line",2004
+260,262,"light_rail","River Line",1936
+262,263,"light_rail","River Line",2004
+263,264,"light_rail","River Line",2004
+260,327,"heavy_rail","Speedline",1936
+327,329,"heavy_rail","Speedline",1969
+329,330,"heavy_rail","Speedline",1969
+330,331,"heavy_rail","Speedline",1980
+331,332,"heavy_rail","Speedline",1969
+332,333,"heavy_rail","Speedline",1969
+333,334,"heavy_rail","Speedline",1969
+334,335,"heavy_rail","Speedline",1936
+335,338,"heavy_rail","Speedline",1908
+338,339,"heavy_rail","Speedline",1953
+339,340,"heavy_rail","Speedline",1953
+340,341,"heavy_rail","Speedline",1953
+341,342,"heavy_rail","Speedline",1969
+327,14,"commuter_rail","Atlantic City Line",1969
+14,351,"commuter_rail","Atlantic City Line",1933
+351,352,"commuter_rail","Atlantic City Line",1994
+352,353,"commuter_rail","Atlantic City Line",1989
+353,354,"commuter_rail","Atlantic City Line",1989
+354,355,"commuter_rail","Atlantic City Line",1989
+355,356,"commuter_rail","Atlantic City Line",1854
+340,339,"heavy_rail","Bridge Line",1953
+339,338,"heavy_rail","Bridge Line",1953
+338,335,"heavy_rail","Bridge Line",1953
+335,342,"heavy_rail","Bridge Line",1908
+342,334,"heavy_rail","Bridge Line",1936
+334,260,"heavy_rail","Bridge Line",1936
+357,358,"tram","Route 15",1903
+358,359,"tram","Route 15",1903
+359,360,"tram","Route 15",1903
+360,361,"tram","Route 15",1903
+361,362,"tram","Route 15",1903
+362,363,"tram","Route 15",1903
+363,364,"tram","Route 15",1900
+364,365,"tram","Route 15",1900
+365,366,"tram","Route 15",1900
+366,367,"tram","Route 15",1900
+367,368,"tram","Route 15",1900
+368,369,"tram","Route 15",1900
+369,370,"tram","Route 15",1900
+370,371,"tram","Route 15",1900
+371,372,"tram","Route 15",1859
+372,373,"tram","Route 15",1859
+373,374,"tram","Route 15",1859
+374,375,"tram","Route 15",1859
+375,376,"tram","Route 15",1859
+376,377,"tram","Route 15",1859
+377,378,"tram","Route 15",1859
+378,379,"tram","Route 15",1859
+379,380,"tram","Route 15",1900
+380,381,"tram","Route 15",1859
+381,382,"tram","Route 15",1859
+382,383,"tram","Route 15",1859
+383,384,"tram","Route 15",1859
+384,385,"tram","Route 15",1859
+385,386,"tram","Route 15",1859
+386,387,"tram","Route 15",1859
+387,388,"tram","Route 15",1859
+388,389,"tram","Route 15",1859
+389,390,"tram","Route 15",1859
+390,391,"tram","Route 15",1859
+391,392,"tram","Route 15",1859
+392,393,"tram","Route 15",1859
+393,394,"tram","Route 15",1859
+394,395,"tram","Route 15",1859
+395,396,"tram","Route 15",1859
+396,397,"tram","Route 15",1859
+397,398,"tram","Route 15",1859
+398,399,"tram","Route 15",1859
+399,400,"tram","Route 15",1859
+400,401,"tram","Route 15",1859
+401,402,"tram","Route 15",1859
+402,403,"tram","Route 15",1859
+403,404,"tram","Route 15",1859
+453,454,"heavy_rail","Delaware Avenue Elevated",1908

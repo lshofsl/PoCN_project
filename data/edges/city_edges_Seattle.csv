@@ -1,0 +1,53 @@
+"nodeID_from","nodeID_to","mode","line","year"
+2,3,"tram","T Line",2011
+3,4,"tram","T Line",2003
+4,5,"tram","T Line",2003
+5,6,"tram","T Line",2003
+6,8,"tram","T Line",2011
+8,9,"tram","T Line",2003
+9,10,"tram","T Line",2003
+30,31,"commuter_rail","S Line",2001
+31,33,"commuter_rail","S Line",2000
+33,34,"commuter_rail","S Line",2001
+34,35,"commuter_rail","S Line",2000
+35,36,"commuter_rail","S Line",2000
+36,37,"commuter_rail","S Line",2001
+37,38,"commuter_rail","S Line",2000
+38,39,"commuter_rail","S Line",2012
+31,40,"commuter_rail","N Line",2000
+40,41,"commuter_rail","N Line",2003
+41,42,"commuter_rail","N Line",2008
+1,7,"people_mover","Monorail",1962
+11,12,"light_rail","1 Line",2009
+12,13,"light_rail","1 Line",2009
+13,14,"light_rail","1 Line",2009
+14,15,"light_rail","1 Line",2009
+15,16,"light_rail","1 Line",2009
+16,17,"light_rail","1 Line",2009
+17,18,"light_rail","1 Line",2009
+18,19,"light_rail","1 Line",2009
+19,20,"light_rail","1 Line",2009
+20,21,"light_rail","1 Line",2009
+21,22,"light_rail","1 Line",2009
+22,23,"light_rail","1 Line",2016
+23,24,"light_rail","1 Line",2021
+24,25,"light_rail","1 Line",2021
+25,26,"light_rail","1 Line",2021
+26,27,"light_rail","1 Line",2016
+27,28,"light_rail","1 Line",2009
+28,29,"light_rail","1 Line",2009
+50,51,"tram","First Hill Streetcar",2016
+51,52,"tram","First Hill Streetcar",2016
+52,53,"tram","First Hill Streetcar",2016
+53,54,"tram","First Hill Streetcar",2016
+54,55,"tram","First Hill Streetcar",2016
+55,56,"tram","First Hill Streetcar",2016
+56,57,"tram","First Hill Streetcar",2016
+57,58,"tram","First Hill Streetcar",2016
+58,59,"tram","First Hill Streetcar",2016
+43,44,"tram","South Lake Union Streetcar",NA
+44,45,"tram","South Lake Union Streetcar",2007
+45,46,"tram","South Lake Union Streetcar",NA
+46,47,"tram","South Lake Union Streetcar",2007
+47,48,"tram","South Lake Union Streetcar",NA
+48,49,"tram","South Lake Union Streetcar",2007

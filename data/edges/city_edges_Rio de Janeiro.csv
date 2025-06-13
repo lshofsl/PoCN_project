@@ -1,0 +1,115 @@
+"nodeID_from","nodeID_to","mode","line","year"
+27,31,"heavy_rail","Linha 1",2014
+31,32,"heavy_rail","Linha 1",1979
+32,33,"heavy_rail","Linha 1",1981
+33,34,"heavy_rail","Linha 1",1981
+34,35,"heavy_rail","Linha 1",1982
+35,36,"heavy_rail","Linha 1",1982
+36,37,"heavy_rail","Linha 1",1979
+37,38,"heavy_rail","Linha 1",1979
+38,39,"heavy_rail","Linha 1",1981
+39,40,"heavy_rail","Linha 1",1981
+40,41,"heavy_rail","Linha 1",1981
+41,42,"heavy_rail","Linha 1",1979
+42,43,"heavy_rail","Linha 1",1982
+43,44,"heavy_rail","Linha 1",1979
+44,47,"heavy_rail","Linha 1",1980
+47,70,"heavy_rail","Linha 1",0
+70,71,"heavy_rail","Linha 1",1998
+71,72,"heavy_rail","Linha 1",2009
+72,73,"heavy_rail","Linha 1",2007
+28,29,"heavy_rail","Linha 2",2010
+29,30,"heavy_rail","Linha 2",1981
+30,45,"heavy_rail","Linha 2",1981
+45,48,"heavy_rail","Linha 2",1998
+48,49,"heavy_rail","Linha 2",1988
+49,50,"heavy_rail","Linha 2",1983
+50,36,"heavy_rail","Linha 2",1983
+36,43,"heavy_rail","Linha 2",1979
+43,44,"heavy_rail","Linha 2",1979
+44,38,"heavy_rail","Linha 2",1980
+38,41,"heavy_rail","Linha 2",1981
+41,31,"heavy_rail","Linha 2",1979
+31,32,"heavy_rail","Linha 2",1979
+32,40,"heavy_rail","Linha 2",1981
+40,39,"heavy_rail","Linha 2",1981
+39,33,"heavy_rail","Linha 2",1981
+33,61,"heavy_rail","Linha 2",1981
+61,62,"heavy_rail","Linha 2",1983
+62,63,"heavy_rail","Linha 2",1996
+63,64,"heavy_rail","Linha 2",1996
+64,65,"heavy_rail","Linha 2",1991
+65,66,"heavy_rail","Linha 2",1998
+66,67,"heavy_rail","Linha 2",1998
+67,68,"heavy_rail","Linha 2",1998
+68,69,"heavy_rail","Linha 2",1998
+71,75,"heavy_rail","Linha 4",2009
+75,85,"heavy_rail","Linha 4",2016
+85,86,"heavy_rail","Linha 4",2016
+86,87,"heavy_rail","Linha 4",2016
+87,88,"heavy_rail","Linha 4",2016
+116,120,"ferry","Praça XV–Araribóia",0
+4,5,"light_rail","Linha 1",2016
+5,6,"light_rail","Linha 1",2016
+6,7,"light_rail","Linha 1",2016
+7,8,"light_rail","Linha 1",2016
+8,9,"light_rail","Linha 1",2016
+9,10,"light_rail","Linha 1",2016
+10,11,"light_rail","Linha 1",2016
+11,12,"light_rail","Linha 1",2016
+12,13,"light_rail","Linha 1",2016
+13,98,"light_rail","Linha 1",2016
+98,100,"light_rail","Linha 1",2017
+100,102,"light_rail","Linha 1",2016
+102,104,"light_rail","Linha 1",2016
+104,107,"light_rail","Linha 1",2016
+107,109,"light_rail","Linha 1",2016
+109,111,"light_rail","Linha 1",2016
+111,112,"light_rail","Linha 1",2016
+112,114,"light_rail","Linha 1",2016
+114,115,"light_rail","Linha 1",2017
+1,20,"light_rail","Linha 2",2017
+20,21,"light_rail","Linha 2",2017
+21,22,"light_rail","Linha 2",2017
+22,46,"light_rail","Linha 2",2017
+46,96,"light_rail","Linha 2",2017
+96,98,"light_rail","Linha 2",2019
+98,100,"light_rail","Linha 2",2017
+100,102,"light_rail","Linha 2",2016
+102,104,"light_rail","Linha 2",2016
+104,106,"light_rail","Linha 2",2016
+106,107,"light_rail","Linha 2",2017
+107,109,"light_rail","Linha 2",2016
+109,112,"light_rail","Linha 2",2016
+1,3,"light_rail","Linha 3",2017
+3,9,"light_rail","Linha 3",2019
+9,8,"light_rail","Linha 3",2016
+8,7,"light_rail","Linha 3",2016
+7,5,"light_rail","Linha 3",2016
+5,6,"light_rail","Linha 3",2016
+6,4,"light_rail","Linha 3",2016
+4,95,"light_rail","Linha 3",2016
+95,96,"light_rail","Linha 3",2019
+23,24,"default","Bondinho do Pão de Açúcar",1912
+24,25,"default","Bondinho do Pão de Açúcar",1912
+25,26,"default","Bondinho do Pão de Açúcar",1913
+76,77,"heavy_rail","Ramal Santa Cruz",0
+77,78,"heavy_rail","Ramal Santa Cruz",0
+78,79,"heavy_rail","Ramal Santa Cruz",0
+79,80,"heavy_rail","Ramal Santa Cruz",0
+80,81,"heavy_rail","Ramal Santa Cruz",0
+81,82,"heavy_rail","Ramal Santa Cruz",0
+82,83,"heavy_rail","Ramal Santa Cruz",0
+83,84,"heavy_rail","Ramal Santa Cruz",0
+84,89,"heavy_rail","Ramal Santa Cruz",0
+89,90,"heavy_rail","Ramal Santa Cruz",0
+90,91,"heavy_rail","Ramal Santa Cruz",0
+91,92,"heavy_rail","Ramal Santa Cruz",0
+92,93,"heavy_rail","Ramal Santa Cruz",0
+93,94,"heavy_rail","Ramal Santa Cruz",0
+94,29,"heavy_rail","Ramal Santa Cruz",0
+NA,30,"heavy_rail","Ramal Santa Cruz",NA
+NA,30,"heavy_rail","Ramal Deodoro",NA
+NA,30,"heavy_rail","Ramal Japeri",NA
+NA,30,"heavy_rail","Ramal Belford Roxo",NA
+NA,30,"heavy_rail","Ramal Saracuna",NA

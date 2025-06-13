@@ -1,0 +1,772 @@
+"nodeID_from","nodeID_to","mode","line","year"
+228,230,"heavy_rail","7",1931
+230,236,"heavy_rail","7",1911
+236,241,"heavy_rail","7",1931
+241,257,"heavy_rail","7",1916
+257,276,"heavy_rail","7",1910
+276,303,"heavy_rail","7",1946
+303,321,"heavy_rail","7",1931
+321,326,"heavy_rail","7",1931
+326,329,"heavy_rail","7",1911
+329,339,"heavy_rail","7",1931
+339,350,"heavy_rail","7",1914
+350,351,"heavy_rail","7",1985
+351,380,"heavy_rail","7",1985
+380,389,"heavy_rail","7",1987
+389,422,"heavy_rail","7",1985
+422,426,"heavy_rail","7",1982
+426,437,"heavy_rail","7",1911
+437,445,"heavy_rail","7",1946
+445,449,"heavy_rail","7",1931
+449,503,"heavy_rail","7",1911
+503,555,"heavy_rail","7",1931
+555,581,"heavy_rail","7",1989
+581,614,"heavy_rail","7",1979
+614,615,"heavy_rail","7",1910
+615,621,"heavy_rail","7",1912
+621,622,"heavy_rail","7",1910
+622,624,"heavy_rail","7",1911
+624,628,"heavy_rail","7",1911
+628,629,"heavy_rail","7",1931
+629,630,"heavy_rail","7",1910
+630,637,"heavy_rail","7",1934
+637,664,"heavy_rail","7",1910
+664,687,"heavy_rail","7",1979
+687,699,"heavy_rail","7",1910
+699,700,"heavy_rail","7",1931
+700,713,"heavy_rail","7",1910
+713,715,"heavy_rail","7",1910
+715,729,"heavy_rail","7",1911
+729,742,"heavy_rail","7",2007
+742,743,"heavy_rail","7",1911
+743,744,"heavy_rail","7",1926
+744,747,"heavy_rail","7",1931
+747,538,"heavy_rail","7",1926
+538,212,"heavy_rail","7",1904
+212,692,"heavy_rail","7",1907
+165,176,"heavy_rail","1",0
+176,186,"heavy_rail","1",0
+186,223,"heavy_rail","1",0
+223,229,"heavy_rail","1",1920
+229,238,"heavy_rail","1",1900
+238,250,"heavy_rail","1",1937
+250,266,"heavy_rail","1",1900
+266,271,"heavy_rail","1",1937
+271,296,"heavy_rail","1",1900
+296,298,"heavy_rail","1",1934
+298,312,"heavy_rail","1",2002
+312,383,"heavy_rail","1",1900
+383,411,"heavy_rail","1",1900
+411,423,"heavy_rail","1",1934
+423,429,"heavy_rail","1",1989
+429,539,"heavy_rail","1",1937
+539,569,"heavy_rail","1",1989
+569,572,"heavy_rail","1",1900
+572,585,"heavy_rail","1",1948
+585,590,"heavy_rail","1",1900
+590,597,"heavy_rail","1",1900
+597,608,"heavy_rail","1",1934
+608,611,"heavy_rail","1",1931
+611,636,"heavy_rail","1",1900
+636,652,"heavy_rail","1",1934
+652,707,"heavy_rail","1",1900
+707,709,"heavy_rail","1",1900
+709,714,"heavy_rail","1",1942
+714,618,"heavy_rail","1",1946
+618,760,"heavy_rail","1",1942
+760,535,"heavy_rail","1",1998
+207,208,"heavy_rail","2",1902
+208,209,"heavy_rail","2",1903
+209,210,"heavy_rail","2",1902
+210,258,"heavy_rail","2",1903
+258,300,"heavy_rail","2",1902
+300,325,"heavy_rail","2",1946
+325,331,"heavy_rail","2",1914
+331,333,"heavy_rail","2",1903
+333,347,"heavy_rail","2",1902
+347,388,"heavy_rail","2",1900
+388,391,"heavy_rail","2",1931
+391,392,"heavy_rail","2",1903
+392,522,"heavy_rail","2",1904
+522,528,"heavy_rail","2",1903
+528,567,"heavy_rail","2",1902
+567,573,"heavy_rail","2",1903
+573,574,"heavy_rail","2",1903
+574,577,"heavy_rail","2",1970
+577,584,"heavy_rail","2",1903
+584,626,"heavy_rail","2",1907
+626,647,"heavy_rail","2",1902
+647,695,"heavy_rail","2",1903
+695,739,"heavy_rail","2",1900
+739,618,"heavy_rail","2",1902
+618,535,"heavy_rail","2",1942
+535,770,"heavy_rail","2",1900
+770,774,"heavy_rail","2",1911
+246,248,"heavy_rail","3",1926
+248,263,"heavy_rail","3",1904
+263,274,"heavy_rail","3",1998
+274,282,"heavy_rail","3",1904
+282,286,"heavy_rail","3",1904
+286,287,"heavy_rail","3",1904
+287,332,"heavy_rail","3",1907
+332,353,"heavy_rail","3",1904
+353,356,"heavy_rail","3",1910
+356,357,"heavy_rail","3",1971
+357,358,"heavy_rail","3",1971
+358,438,"heavy_rail","3",1969
+438,511,"heavy_rail","3",1937
+511,538,"heavy_rail","3",1910
+538,540,"heavy_rail","3",1904
+540,566,"heavy_rail","3",1904
+566,568,"heavy_rail","3",1921
+568,550,"heavy_rail","3",1910
+550,588,"heavy_rail","3",1904
+588,604,"heavy_rail","3",1937
+604,660,"heavy_rail","3",1904
+660,686,"heavy_rail","3",1911
+686,698,"heavy_rail","3",1904
+698,708,"heavy_rail","3",NA
+708,731,"heavy_rail","3",1921
+731,392,"heavy_rail","3",1937
+392,567,"heavy_rail","3",1904
+567,777,"heavy_rail","3",1903
+354,355,"heavy_rail","3bis",1971
+355,358,"heavy_rail","3bis",1971
+358,607,"heavy_rail","3bis",1969
+211,214,"heavy_rail","4",1908
+214,237,"heavy_rail","4",0
+237,249,"heavy_rail","4",1909
+249,264,"heavy_rail","4",1913
+264,273,"heavy_rail","4",1910
+273,281,"heavy_rail","4",1910
+281,285,"heavy_rail","4",1910
+285,299,"heavy_rail","4",1909
+299,302,"heavy_rail","4",1910
+302,304,"heavy_rail","4",1908
+304,386,"heavy_rail","4",1931
+386,428,"heavy_rail","4",1910
+428,441,"heavy_rail","4",1977
+441,442,"heavy_rail","4",2013
+442,446,"heavy_rail","4",2020
+446,454,"heavy_rail","4",1908
+454,515,"heavy_rail","4",2020
+515,529,"heavy_rail","4",1931
+529,531,"heavy_rail","4",1942
+531,548,"heavy_rail","4",1909
+548,576,"heavy_rail","4",1910
+576,616,"heavy_rail","4",1909
+616,634,"heavy_rail","4",1908
+634,639,"heavy_rail","4",1908
+639,646,"heavy_rail","4",1908
+646,685,"heavy_rail","4",1910
+685,379,"heavy_rail","4",1908
+379,750,"heavy_rail","4",1909
+750,584,"heavy_rail","4",1908
+584,287,"heavy_rail","4",1907
+212,215,"heavy_rail","5",1907
+215,216,"heavy_rail","5",1906
+216,217,"heavy_rail","5",1942
+217,220,"heavy_rail","5",1907
+220,253,"heavy_rail","5",1907
+253,254,"heavy_rail","5",1906
+254,267,"heavy_rail","5",1916
+267,270,"heavy_rail","5",1907
+270,290,"heavy_rail","5",1906
+290,307,"heavy_rail","5",1906
+307,330,"heavy_rail","5",1942
+330,337,"heavy_rail","5",1907
+337,338,"heavy_rail","5",1946
+338,348,"heavy_rail","5",1942
+348,425,"heavy_rail","5",1907
+425,527,"heavy_rail","5",1942
+527,532,"heavy_rail","5",1907
+532,549,"heavy_rail","5",1907
+549,586,"heavy_rail","5",1942
+586,599,"heavy_rail","5",1906
+599,609,"heavy_rail","5",1985
+609,612,"heavy_rail","5",1906
+612,627,"heavy_rail","5",1985
+627,658,"heavy_rail","5",1906
+658,248,"heavy_rail","5",1907
+248,680,"heavy_rail","5",1904
+680,684,"heavy_rail","5",1907
+684,691,"heavy_rail","5",1942
+691,692,"heavy_rail","5",1930
+692,704,"heavy_rail","5",1906
+704,716,"heavy_rail","5",1942
+716,720,"heavy_rail","5",1906
+720,738,"heavy_rail","5",1907
+738,740,"heavy_rail","5",1906
+740,300,"heavy_rail","5",1985
+226,231,"heavy_rail","6",1942
+231,275,"heavy_rail","6",1909
+275,278,"heavy_rail","6",1942
+278,345,"heavy_rail","6",1942
+345,379,"heavy_rail","6",1942
+379,382,"heavy_rail","6",1909
+382,419,"heavy_rail","6",1942
+419,534,"heavy_rail","6",1942
+534,536,"heavy_rail","6",1942
+536,285,"heavy_rail","6",1909
+285,565,"heavy_rail","6",1909
+565,583,"heavy_rail","6",1942
+583,593,"heavy_rail","6",1963
+593,596,"heavy_rail","6",1906
+596,598,"heavy_rail","6",1949
+598,606,"heavy_rail","6",1942
+606,618,"heavy_rail","6",1942
+618,623,"heavy_rail","6",1942
+623,644,"heavy_rail","6",1909
+644,654,"heavy_rail","6",1909
+654,659,"heavy_rail","6",1946
+659,665,"heavy_rail","6",1942
+665,668,"heavy_rail","6",1909
+668,675,"heavy_rail","6",1939
+675,718,"heavy_rail","6",1942
+718,727,"heavy_rail","6",1937
+727,535,"heavy_rail","6",1942
+535,692,"heavy_rail","6",1900
+197,198,"heavy_rail","7bis",1967
+198,199,"heavy_rail","7bis",1967
+199,200,"heavy_rail","7bis",1967
+200,201,"heavy_rail","7bis",1967
+201,204,"heavy_rail","7bis",1967
+204,205,"heavy_rail","7bis",1967
+205,206,"heavy_rail","7bis",1967
+206,435,"heavy_rail","7bis",1967
+189,227,"heavy_rail","8",1942
+227,234,"heavy_rail","8",1931
+234,252,"heavy_rail","8",1998
+252,269,"heavy_rail","8",1931
+269,292,"heavy_rail","8",1931
+292,335,"heavy_rail","8",1932
+335,340,"heavy_rail","8",1913
+340,424,"heavy_rail","8",1913
+424,436,"heavy_rail","8",1913
+436,439,"heavy_rail","8",1937
+439,443,"heavy_rail","8",1937
+443,451,"heavy_rail","8",1931
+451,505,"heavy_rail","8",1913
+505,507,"heavy_rail","8",1972
+507,517,"heavy_rail","8",1970
+517,523,"heavy_rail","8",1913
+523,526,"heavy_rail","8",1931
+526,530,"heavy_rail","8",1913
+530,570,"heavy_rail","8",1931
+570,578,"heavy_rail","8",1931
+578,591,"heavy_rail","8",1913
+591,610,"heavy_rail","8",1937
+610,617,"heavy_rail","8",1913
+617,620,"heavy_rail","8",1931
+620,632,"heavy_rail","8",1942
+632,643,"heavy_rail","8",1913
+643,648,"heavy_rail","8",1931
+648,653,"heavy_rail","8",1937
+653,661,"heavy_rail","8",1914
+661,662,"heavy_rail","8",1973
+662,666,"heavy_rail","8",1974
+666,248,"heavy_rail","8",1937
+248,678,"heavy_rail","8",1904
+678,679,"heavy_rail","8",1970
+679,681,"heavy_rail","8",1913
+681,683,"heavy_rail","8",1913
+683,688,"heavy_rail","8",1931
+688,693,"heavy_rail","8",1931
+693,697,"heavy_rail","8",1931
+697,711,"heavy_rail","8",1913
+711,724,"heavy_rail","8",1974
+724,728,"heavy_rail","8",1913
+728,730,"heavy_rail","8",1921
+730,733,"heavy_rail","8",1931
+733,745,"heavy_rail","8",1931
+745,250,"heavy_rail","8",2011
+250,538,"heavy_rail","8",1900
+538,304,"heavy_rail","8",1904
+304,419,"heavy_rail","8",1931
+419,665,"heavy_rail","8",1942
+222,235,"heavy_rail","9",1933
+235,256,"heavy_rail","9",1998
+256,261,"heavy_rail","9",1922
+261,265,"heavy_rail","9",1933
+265,272,"heavy_rail","9",1923
+272,277,"heavy_rail","9",1923
+277,279,"heavy_rail","9",1933
+279,280,"heavy_rail","9",1937
+280,283,"heavy_rail","9",1922
+283,289,"heavy_rail","9",1998
+289,324,"heavy_rail","9",1933
+324,334,"heavy_rail","9",1922
+334,359,"heavy_rail","9",1923
+359,360,"heavy_rail","9",1922
+360,361,"heavy_rail","9",1922
+361,393,"heavy_rail","9",1923
+393,420,"heavy_rail","9",1933
+420,453,"heavy_rail","9",1922
+453,510,"heavy_rail","9",1937
+510,512,"heavy_rail","9",1922
+512,518,"heavy_rail","9",1933
+518,525,"heavy_rail","9",1934
+525,587,"heavy_rail","9",1922
+587,600,"heavy_rail","9",1923
+600,619,"heavy_rail","9",1933
+619,633,"heavy_rail","9",1933
+633,638,"heavy_rail","9",1933
+638,663,"heavy_rail","9",1934
+663,669,"heavy_rail","9",1937
+669,670,"heavy_rail","9",1923
+670,248,"heavy_rail","9",1942
+248,703,"heavy_rail","9",1904
+703,712,"heavy_rail","9",1933
+712,722,"heavy_rail","9",1922
+722,737,"heavy_rail","9",1933
+737,751,"heavy_rail","9",1934
+751,535,"heavy_rail","9",1923
+535,714,"heavy_rail","9",1900
+714,246,"heavy_rail","9",1946
+246,304,"heavy_rail","9",1926
+304,527,"heavy_rail","9",1931
+527,382,"heavy_rail","9",1907
+382,629,"heavy_rail","9",1942
+255,297,"heavy_rail","10",1923
+297,301,"heavy_rail","10",1937
+301,327,"heavy_rail","10",1923
+327,336,"heavy_rail","10",1937
+336,341,"heavy_rail","10",1923
+341,384,"heavy_rail","10",1923
+384,434,"heavy_rail","10",1923
+434,450,"heavy_rail","10",1980
+450,502,"heavy_rail","10",1925
+502,514,"heavy_rail","10",1937
+514,520,"heavy_rail","10",1937
+520,521,"heavy_rail","10",1937
+521,546,"heavy_rail","10",1930
+546,548,"heavy_rail","10",999999
+548,582,"heavy_rail","10",1910
+582,589,"heavy_rail","10",1937
+589,594,"heavy_rail","10",1981
+594,595,"heavy_rail","10",1937
+595,625,"heavy_rail","10",1931
+625,631,"heavy_rail","10",1937
+631,649,"heavy_rail","10",1945
+649,650,"heavy_rail","10",1930
+650,677,"heavy_rail","10",1939
+677,682,"heavy_rail","10",1923
+682,696,"heavy_rail","10",1937
+696,719,"heavy_rail","10",1930
+719,741,"heavy_rail","10",1923
+741,748,"heavy_rail","10",1985
+748,419,"heavy_rail","10",1937
+419,329,"heavy_rail","10",1942
+218,251,"heavy_rail","11",1935
+251,284,"heavy_rail","11",1935
+284,305,"heavy_rail","11",1935
+305,306,"heavy_rail","11",2025
+306,308,"heavy_rail","11",2023
+308,309,"heavy_rail","11",2023
+309,310,"heavy_rail","11",2023
+310,311,"heavy_rail","11",2025
+311,314,"heavy_rail","11",2025
+314,315,"heavy_rail","11",1937
+315,316,"heavy_rail","11",2023
+316,317,"heavy_rail","11",2025
+317,318,"heavy_rail","11",2023
+318,319,"heavy_rail","11",2023
+319,328,"heavy_rail","11",1935
+328,355,"heavy_rail","11",1935
+355,550,"heavy_rail","11",1971
+550,635,"heavy_rail","11",1904
+635,248,"heavy_rail","11",1935
+248,694,"heavy_rail","11",1904
+694,312,"heavy_rail","11",1935
+312,208,"heavy_rail","11",1900
+259,262,"heavy_rail","12",1910
+262,268,"heavy_rail","12",1910
+268,288,"heavy_rail","12",1910
+288,291,"heavy_rail","12",1968
+291,294,"heavy_rail","12",1910
+294,313,"heavy_rail","12",1911
+313,320,"heavy_rail","12",1923
+320,343,"heavy_rail","12",1912
+343,349,"heavy_rail","12",1912
+349,352,"heavy_rail","12",1910
+352,421,"heavy_rail","12",1910
+421,433,"heavy_rail","12",1912
+433,452,"heavy_rail","12",1931
+452,516,"heavy_rail","12",1934
+516,519,"heavy_rail","12",1931
+519,537,"heavy_rail","12",1946
+537,547,"heavy_rail","12",1910
+547,529,"heavy_rail","12",1910
+529,571,"heavy_rail","12",1942
+571,579,"heavy_rail","12",1913
+579,580,"heavy_rail","12",1912
+580,645,"heavy_rail","12",1989
+645,651,"heavy_rail","12",1910
+651,655,"heavy_rail","12",1910
+655,656,"heavy_rail","12",1934
+656,690,"heavy_rail","12",1945
+690,706,"heavy_rail","12",1916
+706,726,"heavy_rail","12",1910
+726,732,"heavy_rail","12",2012
+732,753,"heavy_rail","12",1910
+753,770,"heavy_rail","12",1930
+770,777,"heavy_rail","12",1911
+777,565,"heavy_rail","12",1930
+221,225,"heavy_rail","13",1952
+225,233,"heavy_rail","13",1911
+233,244,"heavy_rail","13",1912
+244,260,"heavy_rail","13",1946
+260,362,"heavy_rail","13",1976
+362,363,"heavy_rail","13",1998
+363,364,"heavy_rail","13",1998
+364,365,"heavy_rail","13",1976
+365,366,"heavy_rail","13",1976
+366,367,"heavy_rail","13",1976
+367,368,"heavy_rail","13",1976
+368,369,"heavy_rail","13",1952
+369,370,"heavy_rail","13",1952
+370,371,"heavy_rail","13",1952
+371,372,"heavy_rail","13",1952
+372,373,"heavy_rail","13",1911
+373,374,"heavy_rail","13",1976
+374,375,"heavy_rail","13",1973
+375,376,"heavy_rail","13",1976
+376,385,"heavy_rail","13",1976
+385,418,"heavy_rail","13",1976
+418,427,"heavy_rail","13",1911
+427,432,"heavy_rail","13",2008
+432,440,"heavy_rail","13",1931
+440,444,"heavy_rail","13",1980
+444,448,"heavy_rail","13",2008
+448,508,"heavy_rail","13",1968
+508,509,"heavy_rail","13",1976
+509,524,"heavy_rail","13",1976
+524,601,"heavy_rail","13",1973
+601,602,"heavy_rail","13",1937
+602,603,"heavy_rail","13",1912
+603,667,"heavy_rail","13",1912
+667,689,"heavy_rail","13",1937
+689,702,"heavy_rail","13",1980
+702,735,"heavy_rail","13",1911
+735,736,"heavy_rail","13",2008
+736,752,"heavy_rail","13",1937
+752,608,"heavy_rail","13",1937
+608,777,"heavy_rail","13",1931
+777,534,"heavy_rail","13",1930
+190,191,"heavy_rail","14",2007
+191,192,"heavy_rail","14",1998
+192,193,"heavy_rail","14",1998
+193,195,"heavy_rail","14",1998
+195,196,"heavy_rail","14",1998
+196,293,"heavy_rail","14",1998
+293,322,"heavy_rail","14",1937
+322,346,"heavy_rail","14",1937
+346,387,"heavy_rail","14",1937
+387,394,"heavy_rail","14",2024
+394,396,"heavy_rail","14",2023
+396,397,"heavy_rail","14",2024
+397,402,"heavy_rail","14",2024
+402,403,"heavy_rail","14",2024
+403,404,"heavy_rail","14",2024
+404,504,"heavy_rail","14",2024
+504,592,"heavy_rail","14",2024
+592,605,"heavy_rail","14",2019
+605,613,"heavy_rail","14",2019
+613,701,"heavy_rail","14",2019
+701,723,"heavy_rail","14",2019
+723,777,"heavy_rail","14",1937
+777,623,"heavy_rail","14",1930
+623,798,"heavy_rail","14",1909
+798,241,"heavy_rail","14",2019
+1,3,"light_rail","T 1",2012
+3,4,"light_rail","T 1",2012
+4,5,"light_rail","T 1",2012
+5,6,"light_rail","T 1",1992
+6,7,"light_rail","T 1",2012
+7,9,"light_rail","T 1",2012
+9,10,"light_rail","T 1",1992
+10,13,"light_rail","T 1",1992
+13,14,"light_rail","T 1",1992
+14,15,"light_rail","T 1",1992
+15,16,"light_rail","T 1",1992
+16,17,"light_rail","T 1",1992
+17,18,"light_rail","T 1",1992
+18,22,"light_rail","T 1",1992
+22,24,"light_rail","T 1",2012
+24,25,"light_rail","T 1",2012
+25,28,"light_rail","T 1",2012
+28,29,"light_rail","T 1",2012
+29,30,"light_rail","T 1",2012
+30,31,"light_rail","T 1",2012
+31,33,"light_rail","T 1",1992
+33,35,"light_rail","T 1",1992
+35,36,"light_rail","T 1",1992
+36,37,"light_rail","T 1",1992
+37,39,"light_rail","T 1",1992
+39,40,"light_rail","T 1",1992
+40,401,"light_rail","T 1",1992
+401,405,"light_rail","T 1",1992
+405,407,"light_rail","T 1",2012
+407,412,"light_rail","T 1",1992
+412,413,"light_rail","T 1",1992
+413,414,"light_rail","T 1",1992
+414,415,"light_rail","T 1",1992
+415,416,"light_rail","T 1",1992
+416,417,"light_rail","T 1",1992
+417,456,"light_rail","T 1",2003
+456,457,"light_rail","T 1",2003
+457,458,"light_rail","T 1",2003
+458,459,"light_rail","T 1",2023
+459,460,"light_rail","T 1",2003
+460,461,"light_rail","T 1",2019
+461,462,"light_rail","T 1",2019
+462,463,"light_rail","T 1",2023
+463,464,"light_rail","T 1",1992
+464,465,"light_rail","T 1",2019
+465,466,"light_rail","T 1",1992
+466,467,"light_rail","T 1",1992
+467,468,"light_rail","T 1",1992
+468,469,"light_rail","T 1",2019
+469,470,"light_rail","T 1",2019
+470,471,"light_rail","T 1",2023
+471,472,"light_rail","T 1",2019
+472,473,"light_rail","T 1",2019
+473,475,"light_rail","T 1",2019
+475,478,"light_rail","T 1",2023
+478,479,"light_rail","T 1",2019
+479,480,"light_rail","T 1",2003
+480,482,"light_rail","T 1",2003
+482,483,"light_rail","T 1",2019
+483,484,"light_rail","T 1",2019
+484,485,"light_rail","T 1",2019
+485,486,"light_rail","T 1",2019
+486,488,"light_rail","T 1",2023
+488,489,"light_rail","T 1",2019
+489,490,"light_rail","T 1",2019
+490,492,"light_rail","T 1",2018
+492,493,"light_rail","T 1",2023
+493,494,"light_rail","T 1",2023
+494,496,"light_rail","T 1",2023
+496,560,"light_rail","T 1",2023
+19,20,"light_rail","T 2",1997
+20,21,"light_rail","T 2",1997
+21,26,"light_rail","T 2",2012
+26,38,"light_rail","T 2",1997
+38,41,"light_rail","T 2",1997
+41,42,"light_rail","T 2",1997
+42,43,"light_rail","T 2",1997
+43,44,"light_rail","T 2",1997
+44,46,"light_rail","T 2",2012
+46,47,"light_rail","T 2",1997
+47,48,"light_rail","T 2",1997
+48,49,"light_rail","T 2",1997
+49,50,"light_rail","T 2",1997
+50,51,"light_rail","T 2",1997
+51,52,"light_rail","T 2",1997
+52,53,"light_rail","T 2",1997
+53,54,"light_rail","T 2",1997
+54,55,"light_rail","T 2",1997
+55,56,"light_rail","T 2",1997
+56,57,"light_rail","T 2",1997
+57,58,"light_rail","T 2",1997
+58,59,"light_rail","T 2",1997
+59,60,"light_rail","T 2",1997
+60,61,"light_rail","T 2",1997
+61,62,"light_rail","T 2",1997
+62,63,"light_rail","T 2",1997
+63,64,"light_rail","T 2",2009
+64,65,"light_rail","T 2",2009
+65,66,"light_rail","T 2",2009
+66,67,"light_rail","T 2",2009
+67,68,"light_rail","T 2",2012
+68,78,"light_rail","T 2",2012
+78,80,"light_rail","T 2",2009
+80,81,"light_rail","T 2",2012
+81,82,"light_rail","T 2",2012
+82,83,"light_rail","T 2",2009
+83,84,"light_rail","T 2",2009
+84,381,"light_rail","T 2",2009
+381,476,"light_rail","T 2",1997
+476,477,"light_rail","T 2",2012
+477,501,"light_rail","T 2",2012
+69,70,"light_rail","T 3a",2006
+70,72,"light_rail","T 3a",2006
+72,73,"light_rail","T 3a",2006
+73,232,"light_rail","T 3a",2006
+232,242,"light_rail","T 3a",2012
+242,243,"light_rail","T 3a",2006
+243,705,"light_rail","T 3a",2006
+705,746,"light_rail","T 3a",2006
+71,74,"light_rail","T 3b",2012
+74,75,"light_rail","T 3b",2012
+75,76,"light_rail","T 3b",2012
+76,77,"light_rail","T 3b",2012
+77,79,"light_rail","T 3b",2012
+79,85,"light_rail","T 3b",2012
+85,86,"light_rail","T 3b",2012
+86,87,"light_rail","T 3b",2012
+87,88,"light_rail","T 3b",2012
+88,89,"light_rail","T 3b",2012
+89,90,"light_rail","T 3b",2012
+90,91,"light_rail","T 3b",2012
+91,92,"light_rail","T 3b",2012
+92,93,"light_rail","T 3b",2012
+93,94,"light_rail","T 3b",2012
+94,95,"light_rail","T 3b",2012
+95,96,"light_rail","T 3b",2012
+96,97,"light_rail","T 3b",2012
+97,98,"light_rail","T 3b",2012
+98,99,"light_rail","T 3b",2012
+99,100,"light_rail","T 3b",2012
+100,101,"light_rail","T 3b",2012
+101,102,"light_rail","T 3b",2012
+102,103,"light_rail","T 3b",2012
+103,104,"light_rail","T 3b",2012
+104,105,"light_rail","T 3b",2012
+105,106,"light_rail","T 3b",2012
+106,107,"light_rail","T 3b",2012
+107,108,"light_rail","T 3b",2012
+108,109,"light_rail","T 3b",2012
+109,110,"light_rail","T 3b",2012
+110,111,"light_rail","T 3b",2012
+111,112,"light_rail","T 3b",2012
+112,113,"light_rail","T 3b",2012
+113,114,"light_rail","T 3b",2012
+114,802,"light_rail","T 3b",2012
+802,803,"light_rail","T 3b",2012
+803,804,"light_rail","T 3b",2012
+804,805,"light_rail","T 3b",2012
+805,806,"light_rail","T 3b",2012
+806,807,"light_rail","T 3b",2012
+807,808,"light_rail","T 3b",2012
+808,809,"light_rail","T 3b",2012
+809,810,"light_rail","T 3b",2012
+810,811,"light_rail","T 3b",2012
+811,812,"light_rail","T 3b",2012
+812,813,"light_rail","T 3b",2012
+813,814,"light_rail","T 3b",2012
+814,815,"light_rail","T 3b",2012
+815,816,"light_rail","T 3b",2012
+116,118,"light_rail","T 5",2013
+117,119,"light_rail","T 6",2014
+119,120,"light_rail","T 6",2014
+120,121,"light_rail","T 6",2014
+121,122,"light_rail","T 6",2014
+122,123,"light_rail","T 6",2014
+123,124,"light_rail","T 6",2014
+124,125,"light_rail","T 6",2014
+125,126,"light_rail","T 6",2014
+126,127,"light_rail","T 6",2014
+127,128,"light_rail","T 6",2014
+128,130,"light_rail","T 6",2014
+130,131,"light_rail","T 6",2014
+131,132,"light_rail","T 6",2014
+132,136,"light_rail","T 6",2014
+136,137,"light_rail","T 6",2014
+137,143,"light_rail","T 6",2014
+143,145,"light_rail","T 6",2014
+2,8,"light_rail","T 8",2014
+8,11,"light_rail","T 8",2014
+11,12,"light_rail","T 8",2014
+12,23,"light_rail","T 8",2014
+23,27,"light_rail","T 8",2014
+27,32,"light_rail","T 8",2014
+32,34,"light_rail","T 8",2014
+34,45,"light_rail","T 8",2014
+45,151,"light_rail","T 8",2014
+151,153,"light_rail","T 8",2014
+153,156,"light_rail","T 8",2014
+156,157,"light_rail","T 8",2014
+157,158,"light_rail","T 8",2014
+158,159,"light_rail","T 8",2014
+159,161,"light_rail","T 8",2014
+161,162,"light_rail","T 8",2014
+162,166,"light_rail","T 8",2014
+166,167,"light_rail","T 8",2014
+167,168,"light_rail","T 8",2014
+168,169,"light_rail","T 8",2014
+169,170,"light_rail","T 8",2014
+170,171,"light_rail","T 8",2014
+171,172,"light_rail","T 8",2014
+172,173,"light_rail","T 8",2014
+173,174,"light_rail","T 8",2014
+174,178,"light_rail","T 8",2014
+178,179,"light_rail","T 8",2014
+179,180,"light_rail","T 8",2014
+180,181,"light_rail","T 8",2014
+181,184,"light_rail","T 8",2014
+184,185,"light_rail","T 8",2014
+133,134,"light_rail","T 7",2013
+134,135,"light_rail","T 7",2013
+135,138,"light_rail","T 7",2013
+138,139,"light_rail","T 7",2013
+139,140,"light_rail","T 7",2013
+140,141,"light_rail","T 7",2013
+141,142,"light_rail","T 7",2013
+142,144,"light_rail","T 7",2013
+144,146,"light_rail","T 7",2013
+146,147,"light_rail","T 7",2013
+147,148,"light_rail","T 7",2013
+148,149,"light_rail","T 7",2013
+149,150,"light_rail","T 7",2013
+150,152,"light_rail","T 7",2013
+152,154,"light_rail","T 7",2013
+154,155,"light_rail","T 7",2013
+155,160,"light_rail","T 7",2013
+245,390,"commuter_rail","RER A",1971
+390,395,"commuter_rail","RER A",1994
+395,398,"commuter_rail","RER A",1985
+398,474,"commuter_rail","RER A",1988
+474,535,"commuter_rail","RER A",1977
+535,640,"commuter_rail","RER A",1900
+640,618,"commuter_rail","RER A",1977
+239,323,"commuter_rail","RER C",1988
+323,342,"commuter_rail","RER C",1988
+342,399,"commuter_rail","RER C",1979
+399,749,"commuter_rail","RER C",NA
+410,642,"commuter_rail","RER D",NA
+213,247,"commuter_rail","RER E",1999
+247,481,"commuter_rail","RER E",1999
+481,487,"commuter_rail","RER E",1999
+406,408,"inter_city_rail","L",2004
+408,409,"inter_city_rail","L",2004
+541,542,"people_mover","Orlyval",1991
+542,556,"people_mover","Orlyval",1991
+710,734,"heavy_rail","M 15",2022
+224,295,"heavy_rail","Ancien M 2sud",1906
+295,344,"heavy_rail","Ancien M 2sud",1906
+344,533,"heavy_rail","Ancien M 2sud",1900
+533,657,"heavy_rail","Ancien M 2sud",1906
+657,725,"heavy_rail","Ancien M 2sud",1906
+194,202,"heavy_rail","Ancien M 2nord",0
+202,203,"heavy_rail","Ancien M 2nord",NA
+203,219,"heavy_rail","Ancien M 2nord",0
+219,506,"heavy_rail","Ancien M 2nord",1900
+676,721,"default","Funiculaire de Monmartre",1900
+431,447,"heavy_rail","Ancienne ligne B Nord-Sud",1911
+430,513,"heavy_rail","Ancienne ligne A Nord-Sud",1910
+513,754,"heavy_rail","Ancienne ligne A Nord-Sud",1916
+543,544,"people_mover","CDGVal 1",2007
+544,545,"people_mover","CDGVal 1",2007
+545,557,"people_mover","CDGVal 1",2007
+557,558,"people_mover","CDGVal 1",2007
+559,563,"people_mover","CDGVal 2",2012
+563,564,"people_mover","CDGVal 2",2012
+240,755,"heavy_rail","Navette",1921
+755,756,"heavy_rail","Navette",1921
+129,163,"light_rail","T 11 express",2017
+163,164,"light_rail","T 11 express",2017
+164,175,"light_rail","T 11 express",2017
+175,177,"light_rail","T 11 express",2017
+177,182,"light_rail","T 11 express",2017
+182,183,"light_rail","T 11 express",2017
+183,491,"light_rail","T 11 express",2017
+491,495,"light_rail","T 11 express",2027
+495,497,"light_rail","T 11 express",2027
+497,498,"light_rail","T 11 express",2027
+498,499,"light_rail","T 11 express",2017
+499,500,"light_rail","T 11 express",2017
+500,554,"light_rail","T 11 express",2024
+554,561,"light_rail","T 11 express",2024
+561,562,"light_rail","T 11 express",2027
+187,188,"heavy_rail","Ligne Horizon",1993
